@@ -1,4 +1,4 @@
-# Theo Armour / Genealogy
+# [Theo Armour / Genealogy]( https://github.com/theo-armour/genealogy/tree/main )
 
 This is the Theo Armour Genealogy repository, which contains information about the Armour family lineage and related genealogical data.
 
@@ -25,7 +25,7 @@ View of the GEADCOM files exported from Ancestry 2025-08-18
 ### MyHeritage
 
 * <https://www.myheritage.com/family-sites/armour/OYYV6PBSECQU5WE7JKWV7Q44V3NYJUI>
-* https://pewu.github.io/topola-viewer/#/view?url=>
+* https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-myheritage-armour>
 
 ## Topola Viewer GEDCOM Reader
 
