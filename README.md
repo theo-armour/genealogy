@@ -13,7 +13,8 @@ This is the Theo Armour Genealogy repository, which contains information about t
 
 Must be a member to access
 
-* https://www.ancestry.com/invite-ui/accept?token=0ndb3_G88znH5CBIK9DxttUTB8_paEYiv_-z7-xfbkA=
+* <https://www.ancestry.com/invite-ui/accept?token=0ndb3_G88znH5CBIK9DxttUTB8_paEYiv_-z7-xfbkA=>
+* <https://pewu.github.io/topola-viewer/#/view?url=>
 
 ### MyHeritage
 
