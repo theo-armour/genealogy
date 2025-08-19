@@ -33,4 +33,4 @@ Must be a member to access
 
 ## Peeps in My Family
 
-* https://theo-armour.github.io/genealogy/Peeps in My Family.md
+* https://theo-armour.github.io/genealogy/Peeps-in-My-Family.md
