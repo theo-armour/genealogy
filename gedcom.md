@@ -1,5 +1,11 @@
 # GEDCOM
 
+* https://gedcom.io/
+* https://gedcom.io/specs/
+* https://www.familysearch.org/innovate/gedcom-x
+* https://github.com/familysearch/GEDCOM
+
+
 ## Geni exports GEDCOM files in the following formats:
 
 * Family Tree Builder 8.0
