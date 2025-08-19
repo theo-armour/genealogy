@@ -42,11 +42,3 @@
 * (1868 – 1959) Kierkegaardian theologian and translator
 * <https://en.wikipedia.org/wiki/Walter_Lowrie_(author)>
 
-
-
-There’s more. See Princess Kudasheva on next page
-<https://www.thevintagenews.com/2019/07/16/romanov-costume-ball-1903/>
-
-To be continued.
-
-![Princess Kudasheva](media/54eb51c30a501782e9cfcff61362931a.jpeg)

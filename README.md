@@ -2,6 +2,8 @@
 
 This is the Theo Armour Genealogy repository, which contains information about the Armour family lineage and related genealogical data.
 
+<https://theo-armour.github.io/genealogy/>
+
 ## Links of Interest
 
 ### Geni
@@ -29,8 +31,7 @@ View of the GEADCOM files exported from Ancestry 2025-08-18
 
 ## Topola Viewer GEDCOM Reader
 
-### https://pewu.github.io/topola-viewer/
-
+* <https://pewu.github.io/topola-viewer/>
 * Amazing!
 
 ## Kudachev Website
@@ -39,4 +40,9 @@ View of the GEADCOM files exported from Ancestry 2025-08-18
 
 ## Peeps in My Family
 
-* https://theo-armour.github.io/genealogy/Peeps-in-My-Family.md
+* <https://github.com/theo-armour/genealogy/blob/main/Peeps-in-My-Family.md>
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=a-dingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+
