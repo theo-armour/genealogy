@@ -7,13 +7,13 @@
 * <https://en.wikipedia.org/wiki/Albert_Burrage>
 
 
-## Alexander Trepov ~ Maternal great-great grandfather
+## Alexander Trepov ~ Paternal great-great grandfather
 
 * (1862-1928) Prime Minister of the Russian Empire
 * <https://en.wikipedia.org/wiki/Alexander_Trepov>
 
 
-## Allison Vincent Armour ~ Great-great-uncle
+## Allison Vincent Armour ~ Paternal Great-great-uncle
 
 * Conducted fifteen scientific expeditions for United States Department of Agriculture * Olympic Committee board member 1908-1914
 * Page 23: <http://mssa.library.yale.edu/obituary_record/1925_1952/1940-41.pdf>
@@ -25,13 +25,13 @@
 * <https://www.herbsociety.org/about/history.html>
 
 
-## George Armour ~ paternal great-great grandfather
+## George Armour ~ Paternal great-great grandfather
 
 * (1812 – 1881) Scottish American businessman and philanthropist
 * <https://en.wikipedia.org/wiki/George_Armour>
 
 
-## Norman Armour ~ paternal grandfather
+## Norman Armour ~ Paternal grandfather
 
 * (1887– 1982) Career United States diplomat
 * <https://en.wikipedia.org/wiki/Norman_Armour>

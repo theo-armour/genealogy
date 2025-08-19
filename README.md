@@ -27,12 +27,8 @@ View of the GEADCOM files exported from Ancestry 2025-08-18
 ### MyHeritage
 
 * <https://www.myheritage.com/family-sites/armour/OYYV6PBSECQU5WE7JKWV7Q44V3NYJUI>
-* https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-myheritage-armour>
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-myheritage-armour>
 
-## Topola Viewer GEDCOM Reader
-
-* <https://pewu.github.io/topola-viewer/>
-* Amazing!
 
 ## Kudachev Website
 
