@@ -1,0 +1,3955 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+3 VERS 5.5.1
+1 CHAR UTF-8
+1 SOUR FTM
+2 NAME Family Tree Maker for Windows
+2 VERS 24.2.2.1560
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
+1 DATE 17 AUG 2025
+1 FILE MSF-Armour Family Tree_2025-08-17.ged
+1 SUBM @SUBM@
+0 @SUBM@ SUBM
+1 NAME Not Given
+0 @I39@ INDI
+1 NAME Norman /Armour/
+1 SEX M
+1 BIRT
+2 DATE 28 JAN 1947
+2 PLAC Boston, Suffolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3583
+4 LONG W71.0603
+1 FAMC @F16@
+0 @I1@ INDI
+1 NAME Georgie /Watkins/
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX F
+1 BIRT
+2 DATE ABT 1863
+2 PLAC Arkansas
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 FAMC @F32@
+0 @I2@ INDI
+1 NAME Archibald /Armour/ Sr
+2 SOUR @S33@
+3 _LINK https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LT
+3 NOTE https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LT
+1 SEX M
+1 BIRT
+2 DATE 9 FEB 1782
+2 PLAC Campbeltown, Argyll and Bute, Scotland
+1 DEAT
+2 DATE 23 DEC 1828
+2 PLAC Campbeltown, Argyll and Bute, Scotland
+1 _PHOTO @M14@
+1 OBJE @M14@
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Ann /Greenlees/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/260457862/ann-armour
+3 NOTE https://www.findagrave.com/memorial/260457862/ann-armour
+2 SOUR @S33@
+3 _LINK https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LY
+3 NOTE https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LY
+1 SEX F
+1 BIRT
+2 DATE 8 SEP 1785
+2 PLAC Southend, Argyll, Scotland
+3 MAP
+4 LATI N55.3154
+4 LONG W5.641
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/260457862/ann-armour
+3 NOTE https://www.findagrave.com/memorial/260457862/ann-armour
+1 BURI
+2 PLAC Ottawa, LaSalle County, Illinois, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/260457862/ann-armour
+3 NOTE https://www.findagrave.com/memorial/260457862/ann-armour
+1 DEAT
+2 DATE 28 SEP 1859
+2 PLAC Ottawa, LaSalle County, Illinois, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/260457862/ann-armour
+3 NOTE https://www.findagrave.com/memorial/260457862/ann-armour
+1 _PHOTO @M16@
+1 OBJE @M16@
+1 FAMS @F1@
+0 @I4@ INDI
+1 NAME William /Allison/
+1 SEX M
+1 BIRT
+2 DATE 29 SEP 1786
+2 PLAC Milton, East Kilbride, Lanarkshire, Scotland
+1 _PHOTO @M11@
+1 OBJE @M11@
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Barbara /Wark/
+1 SEX F
+1 BIRT
+2 DATE 24 FEB 1796
+2 PLAC Oldhall, Dunlop, Ayrshire, Scotland
+1 _PHOTO @M19@
+1 OBJE @M19@
+1 FAMS @F2@
+0 @I6@ INDI
+1 NAME Erastus /Foote/ I
+1 SEX M
+1 BIRT
+2 DATE 19 SEP 1777
+2 PLAC Waterbury, New Haven County, Connecticut, United States of America
+1 DEAT
+2 DATE 14 JUL 1856
+2 PLAC Wiscasset, ME
+1 FAMS @F3@
+0 @I7@ INDI
+1 NAME Eliza /Carleton/
+1 SEX F
+1 BIRT
+2 DATE 1 JUL 1798
+2 PLAC Wiscasset, Lincoln County, Maine, United States of America
+1 DEAT
+2 DATE 27 JUN 1880
+2 PLAC Wiscasset, Lincoln County, Maine, United States of America
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Wilmot /Wood/
+1 SEX M
+1 BIRT
+2 DATE 2 FEB 1796
+1 DEAT
+2 DATE 2 MAY 1865
+1 _PHOTO @M10@
+1 OBJE @M10@
+1 FAMS @F4@
+0 @I9@ INDI
+1 NAME Emeline /Page/
+1 SEX F
+1 BIRT
+2 DATE 1803
+1 DEAT
+2 DATE 11 MAR 1868
+2 PLAC Wiscasset, Lincoln, Maine, USA
+3 MAP
+4 LATI N44.0029
+4 LONG W69.6656
+1 FAMS @F4@
+0 @I10@ INDI
+1 NAME Prince Serge Danilovitch /Koudachev/
+1 SEX M
+1 BIRT
+2 DATE 29 MAY 1795
+2 PLAC Beletskovka Khersonskaya guberniya
+1 DEAT
+2 DATE 1862
+2 PLAC Kiev, Ukraine
+1 FAMS @F5@
+0 @I11@ INDI
+1 NAME Mathilde Eva-Josephine-Rosalia /de Choiseul-Gouffier/
+1 SEX F
+1 BIRT
+2 DATE 19 MAR 1806
+2 PLAC Vilnius
+1 DEAT
+2 DATE 6 OCT 1867
+1 FAMS @F5@
+0 @I12@ INDI
+1 NAME Николай Антонович /Хорват/
+1 SEX M
+1 BIRT
+2 DATE 1797
+1 FAMS @F6@
+0 @I13@ INDI
+1 NAME Lubov Alexandrovna Александровна /Pischevich/
+1 SEX F
+1 BIRT
+2 DATE 1800
+1 DEAT
+2 DATE 13 NOV 1849
+1 FAMS @F6@
+0 @I14@ INDI
+1 NAME Gustaf Reinhold Johan /Count Nieroth/
+1 SEX M
+1 BIRT
+2 DATE 13 JUL 1799
+2 PLAC Wechmuth
+1 DEAT
+2 DATE 3 JAN 1871
+1 FAMS @F7@
+0 @I15@ INDI
+1 NAME Pauline Dorothea Elisabeth /von Stenger/
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1817
+2 PLAC Reval, Estland
+1 DEAT
+2 DATE 29 SEP 1880
+2 PLAC Gatchina , Sankt-Peterburg
+1 FAMS @F7@
+0 @I16@ INDI
+1 NAME Friedrich Wilhelm (Fritz) Fedor Fedorovich /von Trephof (Trepov)/
+1 SEX M
+1 BIRT
+2 DATE 25 JUL 1811
+1 DEAT
+2 DATE 23 NOV 1889
+1 FAMS @F8@
+0 @I17@ INDI
+1 NAME Vera Vasilyevna /Lukashevich/
+1 SEX F
+1 BIRT
+2 DATE 1821
+1 DEAT
+2 DATE 1866
+1 FAMS @F8@
+0 @I18@ INDI
+1 NAME William /Burrage/
+1 SEX M
+1 BIRT
+2 DATE 2 SEP 1768
+2 PLAC of Leominster
+1 DEAT
+2 DATE ABT 1844
+2 PLAC Massachusetts, USA
+3 MAP
+4 LATI N42.1562
+4 LONG W71.5662
+1 FAMS @F9@
+0 @I19@ INDI
+1 NAME Roxanna /Sanderson (Burrage)/
+1 SEX F
+1 BIRT
+2 DATE BEF 5 MAY 1797
+2 PLAC Lancaster, Worcester, Massachusetts, USA
+3 MAP
+4 LATI N42.4556
+4 LONG W71.6731
+1 DEAT
+2 DATE 17 OCT 1858
+2 PLAC Leominster, Worcester County, Massachusetts, United States of America
+1 FAMS @F9@
+0 @I20@ INDI
+1 NAME William /Chamberlain/
+1 SEX M
+1 BIRT
+2 DATE APR 1796
+2 PLAC Newbury, Orange, Vermont, USA
+3 MAP
+4 LATI N44.0792
+4 LONG W72.0584
+1 DEAT
+2 DATE 3 APR 1857
+1 _PHOTO @M4@
+1 OBJE @M4@
+1 FAMS @F10@
+0 @I21@ INDI
+1 NAME Betsy /Cameron/
+1 SEX F
+1 BIRT
+2 DATE 5 JUL 1806
+2 PLAC Thurman, Warren Co., NY
+1 DEAT
+2 DATE 4 AUG 1850
+2 PLAC Clinton, Massachusetts, USA
+1 _PHOTO @M8@
+1 OBJE @M8@
+1 FAMS @F10@
+0 @I22@ INDI
+1 NAME Elisha /Haskell/
+1 SEX M
+1 BIRT
+2 DATE 1798
+2 PLAC Middleborough, Plymouth, Massachusetts, USA
+3 MAP
+4 LATI N41.8945
+4 LONG W70.9069
+1 DEAT
+2 DATE 8 OCT 1880
+2 PLAC New Bedford, Bristol, Massachusetts, USA
+3 MAP
+4 LATI N41.6362
+4 LONG W70.9342
+1 FAMS @F11@
+0 @I23@ INDI
+1 NAME Alice Russell /Hathaway/
+1 SEX F
+1 BIRT
+2 DATE JUL 1806
+2 PLAC Acushnet, Bristol, Massachusetts, USA
+3 MAP
+4 LATI N41.6807
+4 LONG W70.9078
+1 DEAT
+2 DATE 17 APR 1880
+2 PLAC New Bedford, Bristol, Massachusetts, USA
+3 MAP
+4 LATI N41.6362
+4 LONG W70.9342
+1 _PHOTO @M13@
+1 OBJE @M13@
+1 FAMS @F11@
+0 @I24@ INDI
+1 NAME Alice Russell /Hathaway/
+1 SEX F
+1 BIRT
+2 DATE JUL 1806
+2 PLAC Acushnet, Bristol, Massachusetts, USA
+3 MAP
+4 LATI N41.6807
+4 LONG W70.9078
+1 DEAT
+2 DATE 17 APR 1880
+2 PLAC New Bedford, Bristol, Massachusetts, USA
+3 MAP
+4 LATI N41.6362
+4 LONG W70.9342
+1 _PHOTO @M18@
+1 OBJE @M18@
+1 FAMS @F33@
+0 @I25@ INDI
+1 NAME David /Shirk/
+1 SEX M
+1 BIRT
+2 DATE 1803
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 21 NOV 1873
+1 FAMS @F12@
+0 @I26@ INDI
+1 NAME Mary A /Whitehill/
+1 SEX F
+1 BIRT
+2 DATE 18 MAR 1802
+2 PLAC , , Lancaster, Pennsylvania
+1 FAMS @F12@
+0 @I27@ INDI
+1 NAME Isaac /Watkins/
+1 SEX M
+1 BIRT
+2 DATE 10 APR 1777
+2 PLAC Virginia, United States of America
+1 DEAT
+2 DATE 13 DEC 1827
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+1 FAMS @F13@
+0 @I28@ INDI
+1 NAME Maria /Toncray/
+1 SEX F
+1 BIRT
+2 DATE 13 MAY 1793
+2 PLAC Williamsport, MD
+1 DEAT
+2 DATE 21 MAR 1874
+2 PLAC Little Rock, Pulaski County, Arkansas, USA
+3 MAP
+4 LATI N34.7465
+4 LONG W92.2896
+1 _PHOTO @M5@
+1 OBJE @M5@
+1 FAMS @F13@
+0 @I29@ INDI
+1 NAME William Savin /Fulton/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/22363/william-savin-fulton
+3 NOTE https://www.findagrave.com/memorial/22363/william-savin-fulton
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1795
+2 PLAC Cecil County, Maryland, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/22363/william-savin-fulton
+3 NOTE https://www.findagrave.com/memorial/22363/william-savin-fulton
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/22363/william-savin-fulton
+3 NOTE https://www.findagrave.com/memorial/22363/william-savin-fulton
+1 DEAT
+2 DATE 15 AUG 1844
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/22363/william-savin-fulton
+3 NOTE https://www.findagrave.com/memorial/22363/william-savin-fulton
+1 FAMS @F14@
+0 @I30@ INDI
+1 NAME Matilda Frances /Fulton/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+3 NOTE https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 1803
+2 PLAC Maryland, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+3 NOTE https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+3 NOTE https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+1 DEAT
+2 DATE 15 JAN 1879
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+3 NOTE https://www.findagrave.com/memorial/7550814/matilda-frances-fulton
+1 FAMS @F14@
+0 @I31@ INDI
+1 NAME Lizzie Wright /Watkins/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+3 NOTE https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1860
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+3 NOTE https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+3 NOTE https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+1 DEAT
+2 DATE 13 MAY 1863
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+3 NOTE https://www.findagrave.com/memorial/91580927/lizzie-wright-watkins
+1 FAMC @F31@
+0 @I32@ INDI
+1 NAME Alice Jimora /Conway/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+3 NOTE https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 1855
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+3 NOTE https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+3 NOTE https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+1 DEAT
+2 DATE 17 MAR 1928
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+3 NOTE https://www.findagrave.com/memorial/7550943/alice-jimora-conway
+1 FAMC @F15@
+0 @I33@ INDI
+1 NAME Mary C /Watkins/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+3 NOTE https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+2 SOUR @S4@
+3 PAGE Ancestry Family Tree
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX F
+1 BIRT
+2 DATE 29 AUG 1850
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+3 NOTE https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI Occupation: At Home
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+3 NOTE https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+1 DEAT
+2 DATE 18 MAY 1918
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+3 NOTE https://www.findagrave.com/memorial/7636409/may-fulton-johnson
+1 FAMC @F31@
+1 FAMC @F15@
+0 @I34@ INDI
+1 NAME James Moore /Curran/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840484/james-moore-curran
+3 NOTE https://www.findagrave.com/memorial/7840484/james-moore-curran
+1 SEX M
+1 BIRT
+2 DATE 10 DEC 1821
+2 PLAC Batesville, Independence County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840484/james-moore-curran
+3 NOTE https://www.findagrave.com/memorial/7840484/james-moore-curran
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840484/james-moore-curran
+3 NOTE https://www.findagrave.com/memorial/7840484/james-moore-curran
+1 DEAT
+2 DATE 6 OCT 1854
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840484/james-moore-curran
+3 NOTE https://www.findagrave.com/memorial/7840484/james-moore-curran
+1 FAMS @F15@
+0 @I35@ INDI
+1 NAME Louisa /Wright/
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX F
+1 BIRT
+2 DATE 22 DEC 1851
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI Occupation: At Home
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 DEAT
+2 DATE 28 MAR 1932
+1 FAMC @F31@
+0 @I36@ INDI
+1 NAME Jane /Watkins/
+1 SEX F
+1 BIRT
+2 DATE 10 APR 1846
+1 DEAT
+2 DATE 12 AUG 1848
+1 FAMC @F31@
+0 @I37@ INDI
+1 NAME Claibourne /Watkins/
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX M
+1 BIRT
+2 DATE ABT 1844
+2 PLAC Arkansas
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI Occupation: Physician
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 FAMC @F32@
+0 @I38@ INDI
+1 NAME Walter /Watkins/
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX M
+1 BIRT
+2 DATE ABT 1846
+2 PLAC Arkansas
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI Occupation: Lawyer
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 FAMC @F32@
+0 @I40@ INDI
+1 NAME Norman /Armour/ Jr.
+2 SOUR @S1@
+2 SOUR @S34@
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Wwii Draft Registration Cards For New Jersey, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 17
+3 OBJE @M21@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M23@
+2 SOUR @S15@
+3 PAGE Richmond Times-Dispatch; Publication Date: 30 Sep 1982; Publication Place: Richmond, Virginia, USA; URL: https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 _LINK https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 NOTE https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S20@
+2 SOUR @S12@
+3 PAGE The Ottawa Citizen; Publication Date: 15/ May/ 1941; Publication Place: Ottawa, Ontario, Canada; URL: https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 _LINK https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 NOTE https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/244306370/norman-armour
+3 NOTE https://www.findagrave.com/memorial/244306370/norman-armour
+1 SEX M
+1 BIRT
+2 DATE 10 FEB 1920
+2 PLAC Brussels, Brussels (Bruxelles), Belgium
+3 MAP
+4 LATI N50.8333
+4 LONG E4.3333
+2 SOUR @S1@
+2 SOUR @S34@
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Wwii Draft Registration Cards For New Jersey, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 17
+3 OBJE @M21@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M23@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S20@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/244306370/norman-armour
+3 NOTE https://www.findagrave.com/memorial/244306370/norman-armour
+1 BURI
+2 PLAC Locust Valley, Nassau County, New York, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/244306370/norman-armour
+3 NOTE https://www.findagrave.com/memorial/244306370/norman-armour
+1 RESI
+2 DATE BEF 1951
+2 PLAC New York
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 EVEN
+2 TYPE Departure
+2 PLAC Port Au Prince, Haiti
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M23@
+1 EVEN
+2 TYPE Arrival
+2 DATE 9 JAN 1933
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M23@
+1 DEAT
+2 DATE 26 APR 1978
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S1@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S20@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/244306370/norman-armour
+3 NOTE https://www.findagrave.com/memorial/244306370/norman-armour
+1 RESI Marital Status: Single; Relation to Head of House: Son
+2 DATE 1930
+2 PLAC Paris, Paris, France, Consular Service, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+1 RESI Occupation: Infante in Arms; Marital Status: Single; Relation to Head of House: Son
+2 DATE 1920
+2 PLAC England, Consular Service, Military and Naval Forces, USA
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+1 RESI
+2 PLAC Princeton, New Jersey
+2 SOUR @S34@
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Wwii Draft Registration Cards For New Jersey, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 17
+3 OBJE @M21@
+1 _PHOTO @M2@
+1 OBJE @M2@
+1 FAMS @F16@
+1 FAMC @F17@
+0 @I41@ INDI
+1 NAME Cynthia Sewall /Burrage/
+2 SOUR @S12@
+3 PAGE The Ottawa Citizen; Publication Date: 15/ May/ 1941; Publication Place: Ottawa, Ontario, Canada; URL: https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 _LINK https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 NOTE https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+2 SOUR @S35@
+2 SOUR @S13@
+3 OBJE @M27@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M25@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+1 SEX F
+1 BIRT
+2 DATE 20 NOV 1921
+2 PLAC Boston, Suffolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3583
+4 LONG W71.0603
+2 SOUR @S35@
+2 SOUR @S13@
+3 OBJE @M27@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M25@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+1 RESI Marital Status: Single; Relation to Head of House: Daughter
+2 DATE 1930
+2 PLAC Boston (Districts 1-250), Boston, Suffolk, Massachusetts, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+1 EVEN
+2 TYPE Departure
+2 PLAC Le Havre, France
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M25@
+1 EVEN
+2 TYPE Arrival
+2 DATE 27 APR 1939
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M25@
+1 DEAT
+2 DATE 12 SEP 1983
+2 PLAC New Haven County, Connecticut, USA
+3 MAP
+4 LATI N41.349
+4 LONG W72.9003
+2 SOUR @S35@
+1 RESI Marital Status: Married
+2 PLAC New York
+2 SOUR @S35@
+1 FAMS @F19@
+1 FAMS @F16@
+1 FAMC @F18@
+0 @I42@ INDI
+1 NAME Norman Theodore /Armour/ Sr.
+2 SOUR @S1@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+2 SOUR @S15@
+3 PAGE Richmond Times-Dispatch; Publication Date: 30 Sep 1982; Publication Place: Richmond, Virginia, USA; URL: https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 _LINK https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 NOTE https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+2 SOUR @S36@
+3 PAGE Book Title: Foote Family : Comprising the Genealogy and History of Nathaniel Foote of Wethersfield, Connecticut
+3 OBJE @M28@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/6443765/norman-armour
+3 NOTE https://www.findagrave.com/memorial/6443765/norman-armour
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+2 SOUR @S6@
+3 PAGE The New York Sun; Publication Date: 10/ Nov/ 1918; Publication Place: New York, New York, USA; URL: https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 _LINK https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 NOTE https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+2 SOUR @S37@
+3 PAGE New Jersey State Archive; Trenton, NJ, USA; State Census of New Jersey, 1905; Reference Number: L-06; Film Number: 27
+3 OBJE @M30@
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Special Diplomatic Passport Applications, 1916-1925; Volume #: Volume 05
+3 OBJE @M33@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M31@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 72; Enumeration District: 18-1
+3 OBJE @M34@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 SEX M
+1 BIRT
+2 DATE 14 OCT 1887
+2 PLAC Brighton, England
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+2 SOUR @S15@
+3 PAGE Richmond Times-Dispatch; Publication Date: 30 Sep 1982; Publication Place: Richmond, Virginia, USA; URL: https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 _LINK https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 NOTE https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+2 SOUR @S36@
+3 PAGE Book Title: Foote Family : Comprising the Genealogy and History of Nathaniel Foote of Wethersfield, Connecticut
+3 OBJE @M28@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/6443765/norman-armour
+3 NOTE https://www.findagrave.com/memorial/6443765/norman-armour
+2 SOUR @S37@
+3 PAGE New Jersey State Archive; Trenton, NJ, USA; State Census of New Jersey, 1905; Reference Number: L-06; Film Number: 27
+3 OBJE @M30@
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Special Diplomatic Passport Applications, 1916-1925; Volume #: Volume 05
+3 OBJE @M33@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M31@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 72; Enumeration District: 18-1
+3 OBJE @M34@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 RESI Occupation: Deplomat; Marital Status: Married; Relation to Head of House: Head
+2 DATE 1920
+2 PLAC England, Consular Service, Military and Naval Forces, USA
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 EVEN
+2 TYPE Departure
+2 PLAC Le Havre, France
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M31@
+1 EVEN
+2 TYPE Arrival
+2 DATE 30 APR 1930
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M31@
+1 BURI
+2 PLAC Princeton, Mercer County, New Jersey, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/6443765/norman-armour
+3 NOTE https://www.findagrave.com/memorial/6443765/norman-armour
+1 DEAT
+2 DATE 27 SEP 1982
+2 PLAC New York City, New York, New York
+2 SOUR @S15@
+3 PAGE Richmond Times-Dispatch; Publication Date: 30 Sep 1982; Publication Place: Richmond, Virginia, USA; URL: https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 _LINK https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 NOTE https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/6443765/norman-armour
+3 NOTE https://www.findagrave.com/memorial/6443765/norman-armour
+1 RESI Occupation: Retired; Relation to Head of House: Head; Marital Status: Married
+2 DATE 1950
+2 PLAC Bedminster, Somerset, New Jersey, USA
+3 MAP
+4 LATI N40.6806
+4 LONG W74.6458
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 72; Enumeration District: 18-1
+3 OBJE @M34@
+1 RESI
+2 PLAC Princeton New Jersey
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Special Diplomatic Passport Applications, 1916-1925; Volume #: Volume 05
+3 OBJE @M33@
+1 RESI
+2 DATE 1905
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S37@
+3 PAGE New Jersey State Archive; Trenton, NJ, USA; State Census of New Jersey, 1905; Reference Number: L-06; Film Number: 27
+3 OBJE @M30@
+1 RESI Occupation: Student; Relation to Head of House: Son
+2 DATE 1900
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 RESI
+2 PLAC New York
+2 SOUR @S15@
+3 PAGE Richmond Times-Dispatch; Publication Date: 30 Sep 1982; Publication Place: Richmond, Virginia, USA; URL: https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 _LINK https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+3 NOTE https://www.newspapers.com/image/830677075/?article=8012bf53-e1d6-4948-8e54-514e216539c3&focus=0.75368524,0.22625385,0.9984227,0.37829572&xid=3355
+1 RESI Marital Status: Married; Relation to Head of House: Head; Occupation: Foreign service officer
+2 DATE 1930
+2 PLAC Paris, Paris, France, Consular Service, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+1 _PHOTO @M17@
+1 OBJE @M17@
+1 FAMS @F17@
+1 FAMC @F20@
+0 @I43@ INDI
+1 NAME Myra Sergueievna /Kudashev/
+2 SOUR @S1@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027121/myra-armour
+3 NOTE https://www.findagrave.com/memorial/108027121/myra-armour
+2 SOUR @S6@
+3 PAGE The New York Sun; Publication Date: 10/ Nov/ 1918; Publication Place: New York, New York, USA; URL: https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 _LINK https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 NOTE https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 72; Enumeration District: 18-1
+3 OBJE @M34@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S9@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger and Crew Lists of Vessels and Airplanes Departing from New York, New York, 07/01/1948-12/31/1956; NAI Number: 3335533; Record Group Title: Records of the Immigration and N
+3 OBJE @M37@
+2 SOUR @S10@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.; NAI Number: 2848504; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Record Group Number: 85; Series Number: A3998; NARA Roll Number: 418
+3 OBJE @M35@
+2 SOUR @S11@
+3 PAGE The National Archives At Washington, D.c.; Washington, D.c.; Series Title: Passenger and Crew Manifests of Airplanes Arriving At Miami, Florida.; NAI Number: 2788541; Record Group Title: Records of the Immigration and Naturalization Service, 1787 - 2004; R
+3 OBJE @M36@
+1 SEX F
+1 BIRT
+2 DATE 7 APR 1896
+2 PLAC Petrograd, Russia
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027121/myra-armour
+3 NOTE https://www.findagrave.com/memorial/108027121/myra-armour
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 72; Enumeration District: 18-1
+3 OBJE @M34@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S9@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger and Crew Lists of Vessels and Airplanes Departing from New York, New York, 07/01/1948-12/31/1956; NAI Number: 3335533; Record Group Title: Records of the Immigration and N
+3 OBJE @M37@
+2 SOUR @S10@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.; NAI Number: 2848504; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Record Group Number: 85; Series Number: A3998; NARA Roll Number: 418
+3 OBJE @M35@
+2 SOUR @S11@
+3 PAGE The National Archives At Washington, D.c.; Washington, D.c.; Series Title: Passenger and Crew Manifests of Airplanes Arriving At Miami, Florida.; NAI Number: 2788541; Record Group Title: Records of the Immigration and Naturalization Service, 1787 - 2004; R
+3 OBJE @M36@
+1 EVEN
+2 TYPE Arrival
+2 DATE 5 FEB 1958
+2 PLAC Miami, Florida, USA
+2 SOUR @S11@
+3 PAGE The National Archives At Washington, D.c.; Washington, D.c.; Series Title: Passenger and Crew Manifests of Airplanes Arriving At Miami, Florida.; NAI Number: 2788541; Record Group Title: Records of the Immigration and Naturalization Service, 1787 - 2004; R
+3 OBJE @M36@
+1 EVEN
+2 TYPE Departure
+2 DATE 3 NOV 1950
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S9@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger and Crew Lists of Vessels and Airplanes Departing from New York, New York, 07/01/1948-12/31/1956; NAI Number: 3335533; Record Group Title: Records of the Immigration and N
+3 OBJE @M37@
+1 RESI
+2 DATE BET 1963 AND 1964
+2 PLAC New York
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 BURI
+2 PLAC Princeton, Mercer County, New Jersey, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027121/myra-armour
+3 NOTE https://www.findagrave.com/memorial/108027121/myra-armour
+1 NATU
+2 DATE 1919
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+1 DEAT
+2 DATE 15 SEP 1990
+2 PLAC New York City, New York, New York
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027121/myra-armour
+3 NOTE https://www.findagrave.com/memorial/108027121/myra-armour
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 EVEN
+2 TYPE Arrival
+2 DATE 30 OCT 1960
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S10@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.; NAI Number: 2848504; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Record Group Number: 85; Series Number: A3998; NARA Roll Number: 418
+3 OBJE @M35@
+1 RESI Relation to Head of House: Wife; Marital Status: Married
+2 DATE 1950
+2 PLAC Bedminster, Somerset, New Jersey, USA
+3 MAP
+4 LATI N40.6806
+4 LONG W74.6458
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 72; Enumeration District: 18-1
+3 OBJE @M34@
+1 RESI Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1930
+2 PLAC Paris, Paris, France, Consular Service, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+3 OBJE @M24@
+1 RESI Occupation: None; Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1920
+2 PLAC England, Consular Service, Military and Naval Forces, USA
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+3 OBJE @M22@
+1 _PHOTO @M9@
+1 OBJE @M9@
+1 OBJE @M12@
+1 FAMS @F17@
+1 FAMC @F27@
+0 @I44@ INDI
+1 NAME Albert C /Burrage/ Jr.
+2 SOUR @S12@
+3 PAGE The Ottawa Citizen; Publication Date: 15/ May/ 1941; Publication Place: Ottawa, Ontario, Canada; URL: https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 _LINK https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 NOTE https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+2 SOUR @S13@
+3 OBJE @M27@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+2 SOUR @S15@
+3 PAGE The Boston Globe; Publication Date: 10 Feb 1978; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 _LINK https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 NOTE https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+2 SOUR @S6@
+3 PAGE Boston Evening Transcript; Publication Date: 7/ Apr/ 1915; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=33
+3 _LINK https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=3398
+3 NOTE https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=3398
+2 SOUR @S16@
+3 OBJE @M39@
+2 SOUR @S17@
+3 PAGE The National Archives At St. Louis; St. Louis, Missouri; World War Ii Draft Cards (Fourth Registration) For the State of Massachusetts; Record Group Title: Records of the Selective Service System; Record Group Number: 147; Series Number: M2090
+3 OBJE @M41@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+2 SOUR @S18@
+3 PAGE Registration State: Massachusetts; Registration County: Plymouth
+3 OBJE @M40@
+2 SOUR @S1@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S19@
+3 _LINK https://familysearch.org/ark:/61903/1:2:QR1W-WW74
+3 NOTE https://familysearch.org/ark:/61903/1:2:QR1W-WW74
+2 SOUR @S20@
+2 SOUR @S21@
+3 OBJE @M43@
+2 SOUR @S22@
+3 PAGE American Antiquarian Society; Worcester, Massachusetts; College Student Lists
+3 OBJE @M45@
+2 SOUR @S23@
+3 OBJE @M46@
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2403; Volume #: Roll 2403 - Certificates: 358850-359349, 15 Dec 1923-18 Dec 1923
+3 OBJE @M47@
+2 SOUR @S25@
+3 OBJE @M44@
+2 SOUR @S26@
+3 PAGE The Boston Globe; Publication Date: 6 Jun 1927; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/430580022/?article=114a93aa-74a9-4786-9734-7a464b4e4342&xid=4635 &terms=Albert_Cameron_Burrage
+3 _LINK https://www.newspapers.com/image/430580022/?article=114a93aa-74a9-4786-9734-7a464b4e4342&xid=4635 &terms=Albert_Cameron_Burrage
+3 NOTE https://www.newspapers.com/image/430580022/?article=114a93aa-74a9-4786-9734-7a464b4e4342&xid=4635 &terms=Albert_Cameron_Burrage
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+1 SEX M
+1 BIRT
+2 DATE 30 AUG 1886
+2 PLAC Massachusetts
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+2 SOUR @S15@
+3 PAGE The Boston Globe; Publication Date: 10 Feb 1978; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 _LINK https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 NOTE https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+2 SOUR @S16@
+3 OBJE @M39@
+2 SOUR @S17@
+3 PAGE The National Archives At St. Louis; St. Louis, Missouri; World War Ii Draft Cards (Fourth Registration) For the State of Massachusetts; Record Group Title: Records of the Selective Service System; Record Group Number: 147; Series Number: M2090
+3 OBJE @M41@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+2 SOUR @S18@
+3 PAGE Registration State: Massachusetts; Registration County: Plymouth
+3 OBJE @M40@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S19@
+3 _LINK https://familysearch.org/ark:/61903/1:2:QR1W-WW74
+3 NOTE https://familysearch.org/ark:/61903/1:2:QR1W-WW74
+2 SOUR @S20@
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2403; Volume #: Roll 2403 - Certificates: 358850-359349, 15 Dec 1923-18 Dec 1923
+3 OBJE @M47@
+1 RESI
+2 DATE ABT 1915
+2 PLAC Boston
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+1 DEAT
+2 DATE 8 FEB 1978
+2 PLAC Ipswich, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6793
+4 LONG W70.8411
+2 SOUR @S15@
+3 PAGE The Boston Globe; Publication Date: 10 Feb 1978; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 _LINK https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 NOTE https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S20@
+1 RESI
+2 DATE 6 JUN 1927
+2 PLAC Boston, Massachusetts, USA
+2 SOUR @S26@
+3 PAGE The Boston Globe; Publication Date: 6 Jun 1927; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/430580022/?article=114a93aa-74a9-4786-9734-7a464b4e4342&xid=4635 &terms=Albert_Cameron_Burrage
+3 _LINK https://www.newspapers.com/image/430580022/?article=114a93aa-74a9-4786-9734-7a464b4e4342&xid=4635 &terms=Albert_Cameron_Burrage
+3 NOTE https://www.newspapers.com/image/430580022/?article=114a93aa-74a9-4786-9734-7a464b4e4342&xid=4635 &terms=Albert_Cameron_Burrage
+1 RESI
+2 PLAC Boston, Massachusetts
+2 SOUR @S19@
+3 _LINK https://familysearch.org/ark:/61903/1:2:QR1W-WW74
+3 NOTE https://familysearch.org/ark:/61903/1:2:QR1W-WW74
+2 SOUR @S25@
+3 OBJE @M44@
+1 RESI
+2 DATE 1887
+2 PLAC Massachusetts
+2 SOUR @S25@
+3 OBJE @M44@
+1 RESI Occupation: Engineer
+2 DATE 1921
+2 PLAC Hamilton, Massachusetts, USA
+2 SOUR @S23@
+3 OBJE @M46@
+1 RESI
+2 DATE 1891
+2 PLAC Boston, Massachusetts
+2 SOUR @S22@
+3 PAGE American Antiquarian Society; Worcester, Massachusetts; College Student Lists
+3 OBJE @M45@
+1 RESI Occupation: nursing Engineer; Marital Status: Married; Relation to Head of House: Head
+2 DATE 1920
+2 PLAC Hamilton, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6361
+4 LONG W70.8436
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+2 SOUR @S21@
+3 OBJE @M43@
+1 RESI
+2 DATE BEF 1951
+2 PLAC Massachusetts
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 RESI Marital Status: Married
+2 DATE BET 1917 AND 1918
+2 PLAC East Bridgewater, Plymouth, Massachusetts, USA
+3 MAP
+4 LATI N42.0334
+4 LONG W70.9592
+2 SOUR @S18@
+3 PAGE Registration State: Massachusetts; Registration County: Plymouth
+3 OBJE @M40@
+1 RESI Occupation: Haiting Partor; Relation to Head of House: Head; Marital Status: Married
+2 DATE 1950
+2 PLAC Ipswich, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6793
+4 LONG W70.8411
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+1 RESI Relation to Head of House: Head
+2 PLAC Suffolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3571
+4 LONG W70.9782
+2 SOUR @S17@
+3 PAGE The National Archives At St. Louis; St. Louis, Missouri; World War Ii Draft Cards (Fourth Registration) For the State of Massachusetts; Record Group Title: Records of the Selective Service System; Record Group Number: 147; Series Number: M2090
+3 OBJE @M41@
+1 RESI
+2 PLAC Boston
+2 SOUR @S6@
+3 PAGE Boston Evening Transcript; Publication Date: 7/ Apr/ 1915; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=33
+3 _LINK https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=3398
+3 NOTE https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=3398
+1 RESI
+2 PLAC Ipswich, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6793
+4 LONG W70.8411
+2 SOUR @S15@
+3 PAGE The Boston Globe; Publication Date: 10 Feb 1978; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 _LINK https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 NOTE https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+1 RESI Occupation: Student; Marital Status: Single; Relation to Head of House: Son
+2 DATE 1900
+2 PLAC Cohasset, Norfolk, Massachusetts, USA
+3 MAP
+4 LATI N42.2418
+4 LONG W70.8037
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 RESI Marital Status: Married; Relation to Head of House: Head; Occupation: Manufacturer
+2 DATE 1930
+2 PLAC Boston (Districts 1-250), Boston, Suffolk, Massachusetts, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+1 RESI
+2 DATE ABT 1941
+2 PLAC Ipswich . Mass.
+2 SOUR @S12@
+3 PAGE The Ottawa Citizen; Publication Date: 15/ May/ 1941; Publication Place: Ottawa, Ontario, Canada; URL: https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 _LINK https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 NOTE https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+1 FAMS @F18@
+1 FAMC @F21@
+0 @I45@ INDI
+1 NAME Anne Bell /Shirk/
+2 SOUR @S12@
+3 PAGE The Ottawa Citizen; Publication Date: 15/ May/ 1941; Publication Place: Ottawa, Ontario, Canada; URL: https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 _LINK https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 NOTE https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+2 SOUR @S13@
+3 OBJE @M27@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S15@
+3 PAGE The Boston Globe; Publication Date: 10 Feb 1978; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 _LINK https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 NOTE https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+2 SOUR @S1@
+2 SOUR @S23@
+3 OBJE @M46@
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M48@
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2403; Volume #: Roll 2403 - Certificates: 358850-359349, 15 Dec 1923-18 Dec 1923
+3 OBJE @M47@
+2 SOUR @S28@
+3 PAGE The National Archives in Washington, DC; Washington, DC; Series Title: Passenger Lists of Vessels Arriving At Boston, Massachusetts, 1891-1943; NAI Number: 4319742; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Recor
+3 OBJE @M49@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M50@
+2 SOUR @S30@
+3 PAGE Year: 1910; Census Place: Philadelphia Ward 7, Philadelphia, Pennsylvania; Roll: T624_1389; Page: 13b; Enumeration District: 0096; FHL microfilm: 1375402
+3 OBJE @M54@
+2 SOUR @S31@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S1@
+1 SEX F
+1 BIRT
+2 DATE 6 OCT 1893
+2 PLAC Philadelphia,PA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M48@
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2403; Volume #: Roll 2403 - Certificates: 358850-359349, 15 Dec 1923-18 Dec 1923
+3 OBJE @M47@
+2 SOUR @S28@
+3 PAGE The National Archives in Washington, DC; Washington, DC; Series Title: Passenger Lists of Vessels Arriving At Boston, Massachusetts, 1891-1943; NAI Number: 4319742; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Recor
+3 OBJE @M49@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M50@
+2 SOUR @S30@
+3 PAGE Year: 1910; Census Place: Philadelphia Ward 7, Philadelphia, Pennsylvania; Roll: T624_1389; Page: 13b; Enumeration District: 0096; FHL microfilm: 1375402
+3 OBJE @M54@
+2 SOUR @S31@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S1@
+1 RESI Relation to Head of House: Wife; Marital Status: Married
+2 DATE 1950
+2 PLAC Ipswich, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6793
+4 LONG W70.8411
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+1 EVEN
+2 TYPE Departure
+2 PLAC Trinidad
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M50@
+1 EVEN
+2 TYPE Arrival
+2 DATE 24 MAR 1924
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M50@
+1 BAPM
+2 DATE 24 JUN 1894
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, USA
+3 MAP
+4 LATI N39.9522
+4 LONG W75.1642
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M48@
+1 DEAT
+2 DATE AUG 1983
+2 PLAC Ipswich,Essex County,Massachusetts
+2 SOUR @S31@
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 RESI
+2 DATE 1963
+2 PLAC Massachusetts
+2 SOUR @S8@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 RESI Marital Status: Single; Relation to Head of House: Daughter
+2 DATE 1910
+2 PLAC Philadelphia Ward 7, Philadelphia, Pennsylvania, USA
+2 SOUR @S30@
+3 PAGE Year: 1910; Census Place: Philadelphia Ward 7, Philadelphia, Pennsylvania; Roll: T624_1389; Page: 13b; Enumeration District: 0096; FHL microfilm: 1375402
+3 OBJE @M54@
+1 EVEN
+2 TYPE Departure
+2 PLAC Liverpool, England
+2 SOUR @S28@
+3 PAGE The National Archives in Washington, DC; Washington, DC; Series Title: Passenger Lists of Vessels Arriving At Boston, Massachusetts, 1891-1943; NAI Number: 4319742; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Recor
+3 OBJE @M49@
+1 EVEN
+2 TYPE Arrival
+2 DATE 18 OCT 1937
+2 PLAC Boston, Massachusetts, USA
+2 SOUR @S28@
+3 PAGE The National Archives in Washington, DC; Washington, DC; Series Title: Passenger Lists of Vessels Arriving At Boston, Massachusetts, 1891-1943; NAI Number: 4319742; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Recor
+3 OBJE @M49@
+1 RESI
+2 PLAC Hamilton, Massachusetts
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2403; Volume #: Roll 2403 - Certificates: 358850-359349, 15 Dec 1923-18 Dec 1923
+3 OBJE @M47@
+1 RESI
+2 DATE ABT 1915
+2 PLAC Philo - . Delphia
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+1 RESI
+2 DATE 1921
+2 PLAC Hamilton, Massachusetts, USA
+2 SOUR @S23@
+3 OBJE @M46@
+1 RESI Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1920
+2 PLAC Hamilton, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6361
+4 LONG W70.8436
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+1 RESI Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1930
+2 PLAC Boston (Districts 1-250), Boston, Suffolk, Massachusetts, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+1 FAMS @F18@
+1 FAMC @F22@
+0 @I46@ INDI
+1 NAME Chandler Buss /Hovey/ Jr.
+1 SEX M
+1 BIRT
+2 DATE 26 MAR 1915
+2 PLAC Brookline, Norfolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3318
+4 LONG W71.1211
+1 DEAT Passed away at his home Ocean Reef Florida.  Cause of his death, multiple sclerosis.
+2 DATE 9 APR 1998
+2 PLAC Ocean Reef, Florida, USA
+1 FAMS @F19@
+1 FAMS @F34@
+0 @I47@ INDI
+1 NAME George Allison /Armour/
+2 SOUR @S36@
+3 PAGE Book Title: Foote Family : Comprising the Genealogy and History of Nathaniel Foote of Wethersfield, Connecticut
+3 OBJE @M28@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027119/george-allison-armour
+3 NOTE https://www.findagrave.com/memorial/108027119/george-allison-armour
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+2 SOUR @S6@
+3 PAGE The New York Sun; Publication Date: 10/ Nov/ 1918; Publication Place: New York, New York, USA; URL: https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 _LINK https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 NOTE https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Special Diplomatic Passport Applications, 1916-1925; Volume #: Volume 05
+3 OBJE @M33@
+2 SOUR @S39@
+3 PAGE New Hampshire Archives and Records Management; Concord, New Hampshire; New Hampshire Death Records, 1650-1969
+3 OBJE @M51@
+2 SOUR @S40@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S15@
+3 PAGE Brooklyn Times Union; Publication Date: 8 Jun 1936; Publication Place: Brooklyn, New York, USA; URL: https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 _LINK https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 NOTE https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M55@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Princeton, Mercer, New Jersey; Page: 7A; Enumeration District: 0100; FHL microfilm: 2341097
+3 OBJE @M58@
+2 SOUR @S42@
+1 SEX M
+1 BIRT
+2 DATE 27 MAR 1856
+2 PLAC Chicago, Cook, Illinois
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027119/george-allison-armour
+3 NOTE https://www.findagrave.com/memorial/108027119/george-allison-armour
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Special Diplomatic Passport Applications, 1916-1925; Volume #: Volume 05
+3 OBJE @M33@
+2 SOUR @S39@
+3 PAGE New Hampshire Archives and Records Management; Concord, New Hampshire; New Hampshire Death Records, 1650-1969
+3 OBJE @M51@
+2 SOUR @S40@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S15@
+3 PAGE Brooklyn Times Union; Publication Date: 8 Jun 1936; Publication Place: Brooklyn, New York, USA; URL: https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 _LINK https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 NOTE https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M55@
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Princeton, Mercer, New Jersey; Page: 7A; Enumeration District: 0100; FHL microfilm: 2341097
+3 OBJE @M58@
+1 BURI
+2 PLAC Princeton, Mercer County, New Jersey, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027119/george-allison-armour
+3 NOTE https://www.findagrave.com/memorial/108027119/george-allison-armour
+1 RESI Marital Status: Widowed; Relation to Head of House: Head
+2 DATE 1930
+2 PLAC Princeton, Princeton, Mercer, New Jersey, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Princeton, Mercer, New Jersey; Page: 7A; Enumeration District: 0100; FHL microfilm: 2341097
+3 OBJE @M58@
+1 EVEN
+2 TYPE Departure
+2 PLAC Liverpool, England
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M55@
+1 EVEN
+2 TYPE Arrival
+2 DATE 29 AUG 1914
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M55@
+1 DEAT
+2 DATE 8 JUN 1936
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S4@
+3 PAGE Ancestry Family Tree
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027119/george-allison-armour
+3 NOTE https://www.findagrave.com/memorial/108027119/george-allison-armour
+2 SOUR @S15@
+3 PAGE Brooklyn Times Union; Publication Date: 8 Jun 1936; Publication Place: Brooklyn, New York, USA; URL: https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 _LINK https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 NOTE https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+1 RESI
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S15@
+3 PAGE Brooklyn Times Union; Publication Date: 8 Jun 1936; Publication Place: Brooklyn, New York, USA; URL: https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 _LINK https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+3 NOTE https://www.newspapers.com/image/577632358/?article=55637087-e0fb-4a24-a472-d4f59cdc1160&focus=0.514137,0.45532098,0.631846,0.6100632&xid=3355
+1 RESI Occupation: At Home
+2 DATE 1870
+2 PLAC Chicago Ward 1, Chicago, Cook, Illinois, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+1 RESI Occupation: Lawyer; Marital Status: Single; Relation to Head of House: Son
+2 DATE 1880
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+1 RESI Occupation: None; Marital Status: Married; Relation to Head of House: Head
+2 DATE 1920
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 RESI
+2 PLAC Princeton New Jersey
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Special Diplomatic Passport Applications, 1916-1925; Volume #: Volume 05
+3 OBJE @M33@
+1 RESI
+2 DATE 1860
+2 PLAC Waukegan, Waukegan, Lake, Illinois, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+1 RESI
+2 DATE ABT 1918
+2 PLAC Princeton , N. J .
+2 SOUR @S6@
+3 PAGE The New York Sun; Publication Date: 10/ Nov/ 1918; Publication Place: New York, New York, USA; URL: https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 _LINK https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 NOTE https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+1 RESI Marital Status: Married; Relation to Head of House: Head
+2 DATE 1900
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 _PHOTO @M6@
+1 OBJE @M6@
+1 FAMS @F20@
+1 FAMC @F23@
+0 @I48@ INDI
+1 NAME Harriette Cobb /Foote/
+2 SOUR @S4@
+3 PAGE Ancestry Family Tree
+2 SOUR @S36@
+3 PAGE Book Title: Foote Family : Comprising the Genealogy and History of Nathaniel Foote of Wethersfield, Connecticut
+3 OBJE @M28@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+3 NOTE https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+2 SOUR @S6@
+3 PAGE The New York Sun; Publication Date: 10/ Nov/ 1918; Publication Place: New York, New York, USA; URL: https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 _LINK https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 NOTE https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 397b; Enumeration District: 015
+3 OBJE @M56@
+2 SOUR @S40@
+2 SOUR @S1@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M60@
+2 SOUR @S43@
+3 PAGE New Jersey State Archives; Trenton, New Jersey; New Jersey Death Indexes, 1916-1926
+3 OBJE @M63@
+3 _LINK https://vitalrecords.egov.com/CDC.VitalRecordsMVC.Web/Wizard/NJ/Municipality/SelectMunicipality
+3 NOTE https://vitalrecords.egov.com/CDC.VitalRecordsMVC.Web/Wizard/NJ/Municipality/SelectMunicipality
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Wiscasset, Lincoln, Maine; Roll: M653_442; Page: 856; Family History Library Film
+3 OBJE @M59@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Roll: M593_200; Page: 73B
+3 OBJE @M61@
+2 SOUR @S39@
+3 PAGE New Hampshire Archives and Records Management; Concord, New Hampshire; New Hampshire Death Records, 1650-1969
+3 OBJE @M51@
+2 SOUR @S42@
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1859
+2 PLAC Wiscasset, Lincoln County, Maine, United States of America
+2 SOUR @S36@
+3 PAGE Book Title: Foote Family : Comprising the Genealogy and History of Nathaniel Foote of Wethersfield, Connecticut
+3 OBJE @M28@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+3 NOTE https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 397b; Enumeration District: 015
+3 OBJE @M56@
+2 SOUR @S40@
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M60@
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Wiscasset, Lincoln, Maine; Roll: M653_442; Page: 856; Family History Library Film
+3 OBJE @M59@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Roll: M593_200; Page: 73B
+3 OBJE @M61@
+2 SOUR @S39@
+3 PAGE New Hampshire Archives and Records Management; Concord, New Hampshire; New Hampshire Death Records, 1650-1969
+3 OBJE @M51@
+1 RESI Occupation: At Home
+2 DATE 1870
+2 PLAC Chicago Ward 4, Chicago, Cook, Illinois, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Roll: M593_200; Page: 73B
+3 OBJE @M61@
+1 EVEN
+2 TYPE Departure
+2 PLAC Napoli
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M60@
+1 EVEN
+2 TYPE Arrival
+2 DATE 27 MAY 1920
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S29@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
+3 OBJE @M60@
+1 BURI
+2 PLAC Princeton, Mercer County, New Jersey, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+3 NOTE https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+1 DEAT
+2 DATE 11 OCT 1924
+2 PLAC Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.2819
+4 LONG W74.6992
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+3 NOTE https://www.findagrave.com/memorial/108027120/harriet-cobb-armour
+2 SOUR @S43@
+3 PAGE New Jersey State Archives; Trenton, New Jersey; New Jersey Death Indexes, 1916-1926
+3 OBJE @M63@
+3 _LINK https://vitalrecords.egov.com/CDC.VitalRecordsMVC.Web/Wizard/NJ/Municipality/SelectMunicipality
+3 NOTE https://vitalrecords.egov.com/CDC.VitalRecordsMVC.Web/Wizard/NJ/Municipality/SelectMunicipality
+1 RESI
+2 DATE 1860
+2 PLAC Wiscasset, Wiscasset, Lincoln, Maine, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Wiscasset, Lincoln, Maine; Roll: M653_442; Page: 856; Family History Library Film
+3 OBJE @M59@
+1 RESI Occupation: Homeworker; Marital Status: Single; Relation to Head of House: Daughter
+2 DATE 1880
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 397b; Enumeration District: 015
+3 OBJE @M56@
+1 RESI Occupation: None; Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1920
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 RESI Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1900
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 _PHOTO @M1@
+1 OBJE @M1@
+1 FAMS @F20@
+1 FAMC @F24@
+0 @I49@ INDI
+1 NAME Elizabeth Alice /Burrage/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1895
+2 PLAC Boston, Suffolk County, Massachusetts, United States of America
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 RESI Marital Status: Single; Relation to Head of House: Daughter
+2 DATE 1900
+2 PLAC Cohasset, Norfolk, Massachusetts, USA
+3 MAP
+4 LATI N42.2418
+4 LONG W70.8037
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 DEAT
+2 DATE 25 DEC 1987
+2 PLAC Santa Barbara County, California, United States of America
+1 FAMC @F21@
+0 @I50@ INDI
+1 NAME Russell C /Burrage/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1889
+2 PLAC Boston, Massachusetts
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 RESI Occupation: Student; Marital Status: Single; Relation to Head of House: Son
+2 DATE 1900
+2 PLAC Cohasset, Norfolk, Massachusetts, USA
+3 MAP
+4 LATI N42.2418
+4 LONG W70.8037
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 FAMC @F21@
+0 @I51@ INDI
+1 NAME Francis Hathaway /Burrage/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 SEX M
+1 BIRT
+2 DATE 14 MAR 1888
+2 PLAC Massachusetts, United States of America
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 RESI Occupation: Student; Marital Status: Single; Relation to Head of House: Daughter
+2 DATE 1900
+2 PLAC Cohasset, Norfolk, Massachusetts, USA
+3 MAP
+4 LATI N42.2418
+4 LONG W70.8037
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 DEAT
+2 DATE 13 DEC 1911
+2 PLAC Massachusetts, United States of America
+1 FAMC @F21@
+0 @I52@ INDI
+1 NAME Albert Cameron /Burrage/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 SEX M
+1 BIRT
+2 DATE 21 NOV 1859
+2 PLAC Ashburnham, Worcester County, Massachusetts, United States of America
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 RESI Occupation: Lawyer; Marital Status: Married; Relation to Head of House: Head
+2 DATE 1900
+2 PLAC Cohasset, Norfolk, Massachusetts, USA
+3 MAP
+4 LATI N42.2418
+4 LONG W70.8037
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 DEAT
+2 DATE 28 JUN 1931
+2 PLAC Beverly, Essex County, Massachusetts, United States of America
+1 FAMS @F21@
+1 FAMC @F28@
+0 @I53@ INDI
+1 NAME Alice Lillian Hathaway /Haskell/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 SEX F
+1 BIRT
+2 DATE 6 OCT 1862
+2 PLAC China
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 RESI Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1900
+2 PLAC Cohasset, Norfolk, Massachusetts, USA
+3 MAP
+4 LATI N42.2418
+4 LONG W70.8037
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+1 DEAT
+2 DATE 21 DEC 1947
+2 PLAC Manchester-by-the-Sea, Essex, Massachusetts, United State
+1 FAMS @F21@
+1 FAMC @F29@
+0 @I54@ INDI
+1 NAME Anna Bell /Burrage/
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S15@
+3 PAGE The Boston Globe; Publication Date: 10 Feb 1978; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 _LINK https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+3 NOTE https://www.newspapers.com/image/436665791/?article=f82b85de-1e45-481d-adf1-a1dc78e9db04&focus=0.1969792,0.7235113,0.35901314,0.962768&xid=3355
+2 SOUR @S1@
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1920
+2 PLAC Hamilton, Massachusetts
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S1@
+1 RESI Marital Status: Single; Relation to Head of House: Daughter
+2 DATE 1930
+2 PLAC Boston (Districts 1-250), Boston, Suffolk, Massachusetts, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+1 DEAT
+2 DATE APR 1994
+2 SOUR @S1@
+1 FAMC @F18@
+0 @I55@ INDI
+1 NAME Albert Cameron /Burrage/ 3rd
+2 SOUR @S4@
+3 PAGE Ancestry Family Tree
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+1 SEX M
+1 BIRT
+2 DATE ABT 1920
+2 PLAC Massachusetts
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+1 RESI Marital Status: Single; Relation to Head of House: Son
+2 DATE 1920
+2 PLAC Hamilton, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6361
+4 LONG W70.8436
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+3 OBJE @M42@
+1 DEAT
+2 DATE 9 AUG 1941
+2 PLAC a road in Brittany leading to Paris
+1 RESI Marital Status: Single; Relation to Head of House: Son
+2 DATE 1930
+2 PLAC Boston (Districts 1-250), Boston, Suffolk, Massachusetts, USA
+2 SOUR @S3@
+3 PAGE Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+3 OBJE @M26@
+1 FAMC @F18@
+0 @I56@ INDI
+1 NAME James Carson Marshall /Shirk/
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M48@
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M64@
+2 SOUR @S1@
+2 SOUR @S44@
+1 SEX M
+1 RESI
+2 DATE ABT 1915
+2 PLAC Washington
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+1 BIRT
+2 DATE 23 JUN 1865
+2 PLAC Philadelphia,PA
+1 DEAT
+2 DATE 24 AUG 1918
+2 PLAC Philadelphia,PA
+1 FAMS @F22@
+1 FAMC @F30@
+0 @I57@ INDI
+1 NAME Ida W /Watkins/
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M48@
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M64@
+2 SOUR @S1@
+2 SOUR @S44@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+2 SOUR @S45@
+3 OBJE @M65@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1864
+2 PLAC Little Rock Arkansas
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M64@
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 DEAT
+2 DATE 21 NOV 1951
+2 PLAC Ipswich,Essex County,Massachusetts
+2 SOUR @S45@
+3 OBJE @M65@
+1 RESI Relation to Head of House: Mother-in-law; Marital Status: Widowed
+2 DATE 1950
+2 PLAC Ipswich, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6793
+4 LONG W70.8411
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+3 OBJE @M38@
+1 FAMS @F22@
+1 FAMC @F31@
+0 @I58@ INDI
+1 NAME George /Armour/ Sr
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151470/george-armour
+3 NOTE https://www.findagrave.com/memorial/112151470/george-armour
+2 SOUR @S33@
+3 _LINK https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LR
+3 NOTE https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LR
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2175; Volume #: Roll 2175 - Certificates: 246976-247349, 31 Jan 1923-02 Feb 1923
+3 OBJE @M68@
+2 SOUR @S46@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Ottawa, Lasalle, Illinois; Roll: 115; Page: 184b
+3 OBJE @M66@
+2 SOUR @S47@
+3 PAGE Record of Wills, 1879-1928; Author: Illinois. Probate Court (Cook County)
+3 OBJE @M67@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S48@
+3 PAGE New York City Department of Records & Information Services; New York City, New York; New York City Death Certificates
+2 SOUR @S49@
+3 OBJE @M69@
+1 SEX M
+1 RESI
+2 PLAC Cook, Illinois, United States
+2 SOUR @S49@
+3 OBJE @M69@
+1 BIRT
+2 DATE 24 APR 1812
+2 PLAC Campbeltown, Argyleshire, Scotland
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151470/george-armour
+3 NOTE https://www.findagrave.com/memorial/112151470/george-armour
+2 SOUR @S33@
+3 _LINK https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LR
+3 NOTE https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LR
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2175; Volume #: Roll 2175 - Certificates: 246976-247349, 31 Jan 1923-02 Feb 1923
+3 OBJE @M68@
+2 SOUR @S46@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Ottawa, Lasalle, Illinois; Roll: 115; Page: 184b
+3 OBJE @M66@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S48@
+3 PAGE New York City Department of Records & Information Services; New York City, New York; New York City Death Certificates
+1 PROB
+2 DATE 19 JAN 1880
+2 PLAC Cook, Illinois, USA
+3 MAP
+4 LATI N41.8981
+4 LONG W87.6502
+2 SOUR @S47@
+3 PAGE Record of Wills, 1879-1928; Author: Illinois. Probate Court (Cook County)
+3 OBJE @M67@
+1 BAPM
+2 DATE 28 APR 1812
+2 PLAC Campbeltown,Argyll,Scotland
+2 SOUR @S33@
+3 _LINK https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LR
+3 NOTE https://www.familysearch.org/ark:/61903/1:1:XY8Y-9LR
+1 BURI
+2 PLAC Chicago, Cook County, Illinois, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151470/george-armour
+3 NOTE https://www.findagrave.com/memorial/112151470/george-armour
+1 DEAT
+2 DATE 13 JUN 1881
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151470/george-armour
+3 NOTE https://www.findagrave.com/memorial/112151470/george-armour
+2 SOUR @S47@
+3 PAGE Record of Wills, 1879-1928; Author: Illinois. Probate Court (Cook County)
+3 OBJE @M67@
+1 RESI Occupation: Grain Merchant
+2 DATE 1870
+2 PLAC Chicago Ward 1, Chicago, Cook, Illinois, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+1 RESI Occupation: Grain Elevator; Marital Status: Married; Relation to Head of House: Self
+2 DATE 1880
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S47@
+3 PAGE Record of Wills, 1879-1928; Author: Illinois. Probate Court (Cook County)
+3 OBJE @M67@
+1 RESI Occupation: Contractor
+2 DATE 1850
+2 PLAC Ottawa, Lasalle, Illinois, USA
+2 SOUR @S46@
+3 PAGE The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Ottawa, Lasalle, Illinois; Roll: 115; Page: 184b
+3 OBJE @M66@
+1 RESI
+2 PLAC Deceased
+2 SOUR @S24@
+3 PAGE National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2175; Volume #: Roll 2175 - Certificates: 246976-247349, 31 Jan 1923-02 Feb 1923
+3 OBJE @M68@
+1 RESI Occupation: Grain Merchant
+2 DATE 1860
+2 PLAC Waukegan, Waukegan, Lake, Illinois, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+1 _PHOTO @M3@
+1 OBJE @M3@
+1 OBJE @M7@
+1 FAMS @F23@
+1 FAMC @F1@
+0 @I59@ INDI
+1 NAME Barbara /Allison/
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151576/barbara-armour
+3 NOTE https://www.findagrave.com/memorial/112151576/barbara-armour
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1826
+2 PLAC Milton, East Lothian, Lanarkshire, Scotland
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151576/barbara-armour
+3 NOTE https://www.findagrave.com/memorial/112151576/barbara-armour
+1 BURI
+2 PLAC Chicago, Cook County, Illinois, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151576/barbara-armour
+3 NOTE https://www.findagrave.com/memorial/112151576/barbara-armour
+1 RESI Occupation: Keeping House
+2 DATE 1870
+2 PLAC Chicago Ward 1, Chicago, Cook, Illinois, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+1 DEAT
+2 DATE 1 FEB 1898
+2 PLAC Charleston, South Carolina, USA
+3 MAP
+4 LATI N32.8203
+4 LONG W79.8963
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151576/barbara-armour
+3 NOTE https://www.findagrave.com/memorial/112151576/barbara-armour
+1 RESI Occupation: Housekeeper; Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1880
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+1 RESI
+2 DATE 1860
+2 PLAC Waukegan, Waukegan, Lake, Illinois, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+1 _PHOTO @M15@
+1 OBJE @M15@
+1 FAMS @F23@
+1 FAMC @F2@
+0 @I60@ INDI
+1 NAME John William /Armour/
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151648/john-william-armour
+3 NOTE https://www.findagrave.com/memorial/112151648/john-william-armour
+1 SEX M
+1 BIRT
+2 DATE OCT 1851
+2 PLAC Illinois, USA
+3 MAP
+4 LATI N39.7333
+4 LONG W88.5
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151648/john-william-armour
+3 NOTE https://www.findagrave.com/memorial/112151648/john-william-armour
+1 BURI
+2 PLAC Chicago, Cook County, Illinois, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151648/john-william-armour
+3 NOTE https://www.findagrave.com/memorial/112151648/john-william-armour
+1 RESI
+2 DATE 1860
+2 PLAC Waukegan, Waukegan, Lake, Illinois, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+1 DEAT
+2 DATE 13 MAY 1865
+2 PLAC Cook County, Illinois, USA
+3 MAP
+4 LATI N41.8981
+4 LONG W87.6502
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151648/john-william-armour
+3 NOTE https://www.findagrave.com/memorial/112151648/john-william-armour
+1 FAMC @F23@
+0 @I61@ INDI
+1 NAME Allison Vincent /Armour/
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+3 NOTE https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1863
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+3 NOTE https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+1 BURI
+2 PLAC Chicago, Cook County, Illinois, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+3 NOTE https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+1 RESI Occupation: At Home
+2 DATE 1870
+2 PLAC Chicago Ward 1, Chicago, Cook, Illinois, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+1 DEAT
+2 DATE 6 MAR 1941
+2 PLAC Manhattan, New York, USA
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+3 NOTE https://www.findagrave.com/memorial/93625956/allison-vincent-armour
+1 RESI Relation to Head of House: Son
+2 DATE 1880
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+1 FAMC @F23@
+0 @I62@ INDI
+1 NAME Mary Greenlee /Armour/
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/57230118/mary-whitehouse
+3 NOTE https://www.findagrave.com/memorial/57230118/mary-whitehouse
+2 SOUR @S47@
+3 PAGE Record of Wills, 1879-1928; Author: Illinois. Probate Court (Cook County)
+3 OBJE @M67@
+1 SEX F
+1 PROB
+2 PLAC Cook
+2 SOUR @S47@
+3 PAGE Record of Wills, 1879-1928; Author: Illinois. Probate Court (Cook County)
+3 OBJE @M67@
+1 BIRT
+2 DATE 16 MAR 1868
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/57230118/mary-whitehouse
+3 NOTE https://www.findagrave.com/memorial/57230118/mary-whitehouse
+1 BURI
+2 PLAC Greenwood Heights, Kings County, New York, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/57230118/mary-whitehouse
+3 NOTE https://www.findagrave.com/memorial/57230118/mary-whitehouse
+1 RESI Occupation: At Home
+2 DATE 1870
+2 PLAC Chicago Ward 1, Chicago, Cook, Illinois, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+1 DEAT
+2 DATE 16 MAY 1958
+2 PLAC Winter Park, Orange, Florida, USA
+3 MAP
+4 LATI N28.6
+4 LONG W81.3392
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/57230118/mary-whitehouse
+3 NOTE https://www.findagrave.com/memorial/57230118/mary-whitehouse
+1 RESI Marital Status: Single; Relation to Head of House: Daughter
+2 DATE 1880
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+1 FAMC @F23@
+0 @I63@ INDI
+1 NAME William /Armour/
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151350/william-armour
+3 NOTE https://www.findagrave.com/memorial/112151350/william-armour
+1 SEX M
+1 BIRT
+2 DATE 27 DEC 1858
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151350/william-armour
+3 NOTE https://www.findagrave.com/memorial/112151350/william-armour
+1 BURI
+2 PLAC Chicago, Cook County, Illinois, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151350/william-armour
+3 NOTE https://www.findagrave.com/memorial/112151350/william-armour
+1 RESI Occupation: At Home
+2 DATE 1870
+2 PLAC Chicago Ward 1, Chicago, Cook, Illinois, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+3 OBJE @M53@
+1 DEAT
+2 DATE 21 MAY 1888
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/112151350/william-armour
+3 NOTE https://www.findagrave.com/memorial/112151350/william-armour
+1 RESI Occupation: Grocer; Relation to Head of House: Son
+2 DATE 1880
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S41@
+3 PAGE Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+3 OBJE @M57@
+1 RESI
+2 DATE 1860
+2 PLAC Waukegan, Waukegan, Lake, Illinois, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Library Film:
+3 OBJE @M52@
+1 FAMC @F23@
+0 @I64@ INDI
+1 NAME Erastus /Foote/ Jr.
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 1821
+2 PLAC Wiscasset, ME
+1 DEAT
+2 DATE 20 FEB 1893
+2 PLAC Chicago, Cook County, Illinois, United States of America
+1 FAMS @F24@
+1 FAMC @F3@
+0 @I65@ INDI
+1 NAME Sarah Page /Wood/
+1 SEX F
+1 BIRT
+2 DATE 3 MAR 1826
+2 PLAC Maine, USA
+3 MAP
+4 LATI N45.2667
+4 LONG W67.9667
+1 DEAT
+2 DATE 22 OCT 1898
+2 PLAC Chicago, Illinois, USA
+1 FAMS @F24@
+1 FAMC @F4@
+0 @I66@ INDI
+1 NAME Wladimir Serguéiévitch /Koudachev/
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1833
+1 DEAT
+2 DATE 2 OCT 1871
+1 FAMS @F25@
+1 FAMC @F5@
+0 @I67@ INDI
+1 NAME Ольга Николаевна /Хорват/
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1840
+1 DEAT
+2 DATE 25 OCT 1907
+1 FAMS @F25@
+1 FAMC @F6@
+0 @I68@ INDI
+1 NAME Maximilian Carl Benedikt Евстафьевич /Nieroth/
+1 SEX M
+1 BIRT
+2 DATE 30 DEC 1846
+1 DEAT
+2 DATE 24 MAY 1914
+1 FAMS @F26@
+1 FAMC @F7@
+0 @I69@ INDI
+1 NAME Paul /Armour/
+1 SEX M
+1 BIRT
+2 DATE 4 JUL 1886
+1 DEAT
+2 DATE 23 JAN 1887
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+1 FAMC @F20@
+0 @I70@ INDI
+1 NAME William R /Armour/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 SEX M
+1 RESI Occupation: Student; Relation to Head of House: Son
+2 DATE 1900
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 BIRT
+2 DATE 23 JAN 1892
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+1 DEAT
+2 DATE 23 OCT 1958
+2 PLAC Manhattan, New York City, New York
+1 FAMC @F20@
+0 @I71@ INDI
+1 NAME Barbara /Armour/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1889
+2 PLAC Illinois, USA
+3 MAP
+4 LATI N39.7333
+4 LONG W88.5
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 RESI Occupation: Student; Relation to Head of House: Daughter
+2 DATE 1900
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 DEAT
+2 DATE 14 JUN 1981
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+1 FAMC @F20@
+0 @I72@ INDI
+1 NAME Edmund /Armour/
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 SEX M
+1 RESI Relation to Head of House: Son
+2 DATE 1900
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 BIRT
+2 DATE 26 JUL 1899
+2 PLAC Peinceton, N.J.
+1 DEAT
+2 DATE 4 JUN 1912
+2 PLAC Concord, New Hampshire, USA
+1 FAMC @F20@
+0 @I73@ INDI
+1 NAME George /Armour/
+1 SEX M
+1 BIRT
+2 DATE 16 DEC 1884
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+1 DEAT
+2 DATE 30 MAY 1893
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+1 FAMC @F20@
+0 @I74@ INDI
+1 NAME Allison V. /Armour/ II
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 SEX M
+1 BIRT
+2 DATE 27 AUG 1896
+2 PLAC Manchester, Bennington, Vermont, USA
+3 MAP
+4 LATI N43.1637
+4 LONG W73.0723
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 RESI Occupation: None; Marital Status: Single; Relation to Head of House: Son
+2 DATE 1920
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S2@
+3 PAGE Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+3 OBJE @M32@
+1 DEAT
+2 DATE 9 DEC 1955
+2 PLAC Manhattan, New York City, New York
+1 RESI Relation to Head of House: Son
+2 DATE 1900
+2 PLAC Princeton, Mercer, New Jersey, USA
+3 MAP
+4 LATI N40.3487
+4 LONG W74.659
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+3 OBJE @M29@
+1 FAMC @F20@
+0 @I75@ INDI
+1 NAME Liam /Armour/
+1 SEX M
+1 FAMC @F20@
+0 @I76@ INDI
+1 NAME Sergio Vladimirovich /Koudacheff/
+1 SEX U
+1 BIRT
+2 DATE 14 SEP 1863
+1 DEAT
+2 DATE 27 FEB 1933
+1 FAMS @F27@
+1 FAMC @F25@
+0 @I77@ INDI
+1 NAME Vera Maksimilianovna /Countess von Nieroth/
+1 SEX F
+1 BIRT
+2 DATE 23 JUL 1874
+2 PLAC St. Petersburg
+1 DEAT
+2 DATE 26 JAN 1920
+2 PLAC Paris
+1 FAMS @F27@
+1 FAMC @F26@
+0 @I78@ INDI
+1 NAME Georgia R /Armour/
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 74; Enumeration District: 18-1
+3 OBJE @M71@
+1 SEX F
+1 BIRT
+2 DATE ABT 1946
+2 PLAC Arkansas
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 74; Enumeration District: 18-1
+3 OBJE @M71@
+1 RESI Relation to Head of House: Daughter; Marital Status: Never Married
+2 DATE 1950
+2 PLAC Bedminster, Somerset, New Jersey, USA
+3 MAP
+4 LATI N40.6806
+4 LONG W74.6458
+2 SOUR @S7@
+3 PAGE National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 74; Enumeration District: 18-1
+3 OBJE @M71@
+1 FAMC @F17@
+0 @I79@ INDI
+1 NAME Anastatisya Fyodorovna /Trepova/
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1849
+1 DEAT
+2 DATE 25 SEP 1940
+1 FAMS @F26@
+1 FAMC @F8@
+0 @I80@ INDI
+1 NAME George Sanderson /Burrage/
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1823
+2 PLAC Leominster, Worcester County, Massachusetts, United States of America
+1 DEAT
+2 DATE 16 AUG 1876
+2 PLAC Napa County, California, United States of America
+1 FAMS @F28@
+1 FAMC @F9@
+0 @I81@ INDI
+1 NAME Amelia C /Chamberlain/
+1 SEX F
+1 BIRT
+2 DATE 3 FEB 1830
+2 PLAC Newbury, Orange, Vermont, USA
+3 MAP
+4 LATI N44.0792
+4 LONG W72.0584
+1 DEAT
+2 DATE 2 OCT 1899
+2 PLAC Boston, Massachusetts
+1 _PHOTO @M4@
+1 OBJE @M4@
+1 FAMS @F28@
+1 FAMC @F10@
+0 @I82@ INDI
+1 NAME Francis "Frank" Hathaway /Haskell/
+1 SEX M
+1 BIRT
+2 DATE 1827
+2 PLAC Boston, Suffolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3583
+4 LONG W71.0603
+1 DEAT
+2 DATE 25 JUN 1868
+2 PLAC Lost overboard en route from Hong Kong to New York
+1 FAMS @F29@
+1 FAMC @F11@
+0 @I83@ INDI
+1 NAME Elisabeth Llnnnrll /Russell/
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+3 NOTE https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+1 SEX F
+1 BIRT
+2 DATE 16 DEC 1837
+2 PLAC Kingston, Surrey, England
+3 MAP
+4 LATI N51.4167
+4 LONG W0.2833
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+3 NOTE https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+1 BURI
+2 PLAC Jamaica Plain, Suffolk County, Massachusetts, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+3 NOTE https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+1 DEAT
+2 DATE 19 SEP 1909
+2 PLAC Marblehead, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.5001
+4 LONG W70.8578
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+3 NOTE https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell
+1 FAMS @F29@
+1 FAMC @F33@
+0 @I84@ INDI
+1 NAME James W /Shirk/
+1 SEX M
+1 BIRT
+2 DATE 16 JUL 1831
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 10 FEB 1873
+1 FAMS @F30@
+1 FAMC @F12@
+0 @I85@ INDI
+1 NAME Mary W. /Marshall/
+1 SEX F
+1 BIRT
+2 DATE 19 AUG 1833
+2 PLAC Girard, Pennsylvania
+1 DEAT
+2 DATE 8 AUG 1910
+1 FAMS @F30@
+0 @I86@ INDI
+1 NAME Erastus /Foote/
+1 SEX M
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Maine
+1 FAMC @F24@
+0 @I87@ INDI
+1 NAME George Claiborne /Watkins/
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M64@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+3 NOTE https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Little Rock, Pulaski, Arkansas; Roll: M653_49; Page: 29; Family History Library F
+3 OBJE @M70@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1815
+2 PLAC Shelbyville, Shelby, Kentucky, USA
+3 MAP
+4 LATI N38.212
+4 LONG W85.2236
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+3 NOTE https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Little Rock, Pulaski, Arkansas; Roll: M653_49; Page: 29; Family History Library F
+3 OBJE @M70@
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 RESI Occupation: Lawyer
+2 DATE 1870
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S32@
+3 PAGE Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+3 OBJE @M20@
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+3 NOTE https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+1 DEAT
+2 DATE 7 DEC 1872
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+3 NOTE https://www.findagrave.com/memorial/7636432/george-claibourne-watkins
+1 RESI Occupation: Attorney At Law
+2 DATE 1860
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Little Rock, Pulaski, Arkansas; Roll: M653_49; Page: 29; Family History Library F
+3 OBJE @M70@
+1 FAMS @F31@
+1 FAMS @F32@
+1 FAMC @F13@
+0 @I88@ INDI
+1 NAME Sophie Caroline /Watkins/
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M64@
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+3 NOTE https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Little Rock, Pulaski, Arkansas; Roll: M653_49; Page: 29; Family History Library F
+3 OBJE @M70@
+2 SOUR @S50@
+3 PAGE Arkansas True Democrat; Publication Date: 14 Feb 1861; Publication Place: Little Rock, Arkansas, USA; URL: https://www.newspapers.com/image/900579199/?article=654b6015-35ab-4dee-ac60-4f7a4a7bc311&xid=5595&terms=Sophia_Watkins
+3 _LINK https://www.newspapers.com/image/900579199/?article=654b6015-35ab-4dee-ac60-4f7a4a7bc311&xid=5595&terms=Sophia_Watkins
+3 NOTE https://www.newspapers.com/image/900579199/?article=654b6015-35ab-4dee-ac60-4f7a4a7bc311&xid=5595&terms=Sophia_Watkins
+2 SOUR @S4@
+3 PAGE Ancestry Family Tree
+1 SEX F
+1 RESI
+2 DATE 14 FEB 1861
+2 PLAC Little Rock, Arkansas, USA
+2 SOUR @S50@
+3 PAGE Arkansas True Democrat; Publication Date: 14 Feb 1861; Publication Place: Little Rock, Arkansas, USA; URL: https://www.newspapers.com/image/900579199/?article=654b6015-35ab-4dee-ac60-4f7a4a7bc311&xid=5595&terms=Sophia_Watkins
+3 _LINK https://www.newspapers.com/image/900579199/?article=654b6015-35ab-4dee-ac60-4f7a4a7bc311&xid=5595&terms=Sophia_Watkins
+3 NOTE https://www.newspapers.com/image/900579199/?article=654b6015-35ab-4dee-ac60-4f7a4a7bc311&xid=5595&terms=Sophia_Watkins
+1 BIRT
+2 DATE 4 APR 1830
+2 PLAC District of Columbia, USA
+3 MAP
+4 LATI N38.905
+4 LONG W77.0162
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+3 NOTE https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Little Rock, Pulaski, Arkansas; Roll: M653_49; Page: 29; Family History Library F
+3 OBJE @M70@
+1 BURI
+2 PLAC Little Rock, Pulaski County, Arkansas, United States of America
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+3 NOTE https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+1 DEAT
+2 DATE 23 JUL 1865
+2 PLAC Little Rock, Pulaski, Arkansas, USA
+3 MAP
+4 LATI N34.7465
+4 LONG W92.2896
+2 SOUR @S5@
+3 _LINK https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+3 NOTE https://www.findagrave.com/memorial/7840479/sophie-caroline-watkins
+1 RESI
+2 DATE 1860
+2 PLAC Little Rock, Little Rock, Pulaski, Arkansas, USA
+2 SOUR @S38@
+3 PAGE The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Little Rock, Pulaski, Arkansas; Roll: M653_49; Page: 29; Family History Library F
+3 OBJE @M70@
+1 FAMS @F15@
+1 FAMS @F31@
+1 FAMC @F14@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I58@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I59@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I64@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I65@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I66@
+2 _FREL Natural
+2 _MREL Natural
+0 @F6@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 CHIL @I67@
+2 _FREL Natural
+2 _MREL Natural
+0 @F7@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I68@
+2 _FREL Natural
+2 _MREL Natural
+0 @F8@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I79@
+2 _FREL Natural
+2 _MREL Natural
+0 @F9@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I80@
+2 _FREL Natural
+2 _MREL Natural
+0 @F10@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I81@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I82@
+2 _FREL Natural
+2 _MREL Natural
+0 @F12@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 CHIL @I84@
+2 _FREL Natural
+2 _MREL Natural
+0 @F13@ FAM
+1 HUSB @I27@
+1 WIFE @I28@
+1 CHIL @I87@
+2 _FREL Natural
+2 _MREL Natural
+0 @F14@ FAM
+1 HUSB @I29@
+1 WIFE @I30@
+1 CHIL @I88@
+2 _FREL Natural
+2 _MREL Natural
+0 @F15@ FAM
+1 HUSB @I34@
+1 WIFE @I88@
+1 CHIL @I32@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I33@
+2 _FREL Natural
+2 _MREL Natural
+0 @F16@ FAM
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I39@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE JUL 1941
+2 SOUR @S12@
+3 PAGE The Ottawa Citizen; Publication Date: 15/ May/ 1941; Publication Place: Ottawa, Ontario, Canada; URL: https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 _LINK https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 NOTE https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+2 SOUR @S12@
+3 PAGE The Ottawa Citizen; Publication Date: 15/ May/ 1941; Publication Place: Ottawa, Ontario, Canada; URL: https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 _LINK https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+3 NOTE https://www.newspapers.com/image/455503942/?article=05efbb93-9ccd-42ef-8f3c-3364e0a73079&focus=0.028636407,0.23923998,0.16236833,0.31837612&xid=3398
+0 @F17@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I78@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 2 FEB 1919
+2 PLAC Stockholm
+2 SOUR @S6@
+3 PAGE The New York Sun; Publication Date: 10/ Nov/ 1918; Publication Place: New York, New York, USA; URL: https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 _LINK https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+3 NOTE https://www.newspapers.com/image/466280166/?article=76d8da65-d695-4dd1-a230-3d03d263b330&focus=0.37777844,0.18364146,0.49728236,0.25430456&xid=3398
+0 @F18@ FAM
+1 HUSB @I44@
+1 WIFE @I45@
+1 CHIL @I41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I54@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I55@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 7 APR 1915
+2 PLAC Christ's Church Chapel,Philadelphia
+2 SOUR @S6@
+3 PAGE Boston Evening Transcript; Publication Date: 7/ Apr/ 1915; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=33
+3 _LINK https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=3398
+3 NOTE https://www.newspapers.com/image/735701097/?article=82d0e73a-f6fb-48af-b0a4-0733f108c883&focus=0.014936982,0.49423796,0.15015632,0.6549584&xid=3398
+2 SOUR @S6@
+3 PAGE The Journal and Tribune; Publication Date: 11/ Apr/ 1915; Publication Place: Knoxville, Tennessee, USA; URL: https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 _LINK https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+3 NOTE https://www.newspapers.com/image/585310892/?article=0aa02203-db6e-4892-ae4d-93d884202617&focus=0.32214668,0.28809002,0.45375565,0.397093&xid=3398
+0 @F19@ FAM
+1 HUSB @I46@
+1 WIFE @I41@
+1 MARR
+2 DATE 3 JAN 1961
+2 PLAC Middlebury
+0 @F20@ FAM
+1 HUSB @I47@
+1 WIFE @I48@
+1 CHIL @I42@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I69@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I70@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I71@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I72@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I73@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I74@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I75@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 27 APR 1882
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S40@
+2 SOUR @S42@
+2 SOUR @S36@
+3 PAGE Book Title: Foote Family : Comprising the Genealogy and History of Nathaniel Foote of Wethersfield, Connecticut
+3 OBJE @M28@
+2 SOUR @S42@
+0 @F21@ FAM
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I44@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I49@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I50@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I51@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 10 NOV 1885
+2 PLAC Boston, Massachusetts
+2 SOUR @S14@
+3 PAGE Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+3 OBJE @M62@
+0 @F22@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I45@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 20 APR 1892
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, USA
+3 MAP
+4 LATI N39.9522
+4 LONG W75.1642
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M64@
+2 SOUR @S44@
+2 SOUR @S27@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+3 OBJE @M64@
+0 @F23@ FAM
+1 HUSB @I58@
+1 WIFE @I59@
+1 CHIL @I47@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I60@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I61@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I62@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I63@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 29 AUG 1850
+2 PLAC Cook County, Illinois, USA
+3 MAP
+4 LATI N41.8981
+4 LONG W87.6502
+0 @F24@ FAM
+1 HUSB @I64@
+1 WIFE @I65@
+1 CHIL @I48@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I86@
+2 _FREL Natural
+2 _MREL Natural
+0 @F25@ FAM
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I76@
+2 _FREL Natural
+2 _MREL Natural
+0 @F26@ FAM
+1 HUSB @I68@
+1 WIFE @I79@
+1 CHIL @I77@
+2 _FREL Natural
+2 _MREL Natural
+0 @F27@ FAM
+1 HUSB @I76@
+1 WIFE @I77@
+1 CHIL @I43@
+2 _FREL Natural
+2 _MREL Natural
+0 @F28@ FAM
+1 HUSB @I80@
+1 WIFE @I81@
+1 CHIL @I52@
+2 _FREL Natural
+2 _MREL Natural
+0 @F29@ FAM
+1 HUSB @I82@
+1 WIFE @I83@
+1 CHIL @I53@
+2 _FREL Natural
+2 _MREL Natural
+0 @F30@ FAM
+1 HUSB @I84@
+1 WIFE @I85@
+1 CHIL @I56@
+2 _FREL Natural
+2 _MREL Natural
+0 @F31@ FAM
+1 HUSB @I87@
+1 WIFE @I88@
+1 CHIL @I31@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I33@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I35@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I36@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I57@
+2 _FREL Natural
+2 _MREL Natural
+0 @F32@ FAM
+1 HUSB @I87@
+1 CHIL @I1@
+2 _FREL Natural
+1 CHIL @I37@
+2 _FREL Natural
+1 CHIL @I38@
+2 _FREL Natural
+0 @F33@ FAM
+1 WIFE @I24@
+1 CHIL @I83@
+2 _MREL Natural
+0 @F34@ FAM
+1 HUSB @I46@
+1 MARR
+2 DATE 1939
+2 PLAC Boston, Massachusetts, USA
+0 @S1@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2015;
+1 REPO @R1@
+0 @S2@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1920 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2010;
+1 REPO @R1@
+0 @S3@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1930 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 2002;
+1 REPO @R1@
+0 @S4@ SOUR
+1 TITL Ancestry Family Tree
+1 PUBL Location: Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.;
+1 REPO @R1@
+0 @S5@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Find a Grave® Index, 1600s-Current
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2012;
+1 REPO @R1@
+0 @S6@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Newspapers.com™ Marriage Index, 1800s-current
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2020;
+1 REPO @R1@
+0 @S7@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1950 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2022;
+1 REPO @R1@
+0 @S8@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 2014;
+1 REPO @R1@
+0 @S9@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Departing Passenger and Crew Lists, 1914-1966
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2016;
+1 REPO @R1@
+0 @S10@ SOUR
+1 AUTH Ancestry.com
+1 TITL New York State, Passenger and Crew Lists, 1917-1967
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2008;
+1 REPO @R1@
+0 @S11@ SOUR
+1 AUTH Ancestry.com
+1 TITL Florida, U.S., Arriving and Departing Passenger and Crew Lists, 1898-1963
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2006;
+1 REPO @R1@
+0 @S12@ SOUR
+1 AUTH Ancestry.com
+1 TITL Canada, Newspapers.com™ Marriage Index, 1800s-current
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2021;
+1 REPO @R1@
+0 @S13@ SOUR
+1 AUTH Ancestry.com
+1 TITL Massachusetts, U.S., Town and Vital Records, 1620-1988
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S14@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1900 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2004;
+1 REPO @R1@
+0 @S15@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Newspapers.com™ Obituary Index, 1800s-current
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2019;
+1 REPO @R1@
+0 @S16@ SOUR
+1 AUTH Ancestry.com
+1 TITL Massachusetts, U.S., Birth Records, 1840-1915
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2013;
+1 REPO @R1@
+0 @S17@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., World War II Draft Registration Cards, 1942
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2010;
+1 REPO @R1@
+0 @S18@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., World War I Draft Registration Cards, 1917-1918
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 2005;
+1 REPO @R1@
+0 @S19@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Veterans Administration Master Index, 1917-1940
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT. USA; Date: 2019;
+1 REPO @R1@
+0 @S20@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-2010
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S21@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., High School Student Lists, 1821-1923
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 2012;
+1 REPO @R1@
+0 @S22@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., College Student Lists, 1763-1924
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2012;
+1 REPO @R1@
+0 @S23@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., City Directories, 1822-1995
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S24@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Passport Applications, 1795-1925
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2007;
+1 REPO @R1@
+0 @S25@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., School Catalogs, 1765-1935
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2012;
+1 REPO @R1@
+0 @S26@ SOUR
+1 AUTH Ancestry.com
+1 TITL Massachusetts, U.S., Newspapers.com™ Stories and Events Index, 1800's-current
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2022;
+1 REPO @R1@
+0 @S27@ SOUR
+1 AUTH Ancestry.com
+1 TITL Pennsylvania and New Jersey, U.S., Church and Town Records, 1669-2013
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S28@ SOUR
+1 AUTH Ancestry.com
+1 TITL Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2006;
+1 REPO @R1@
+0 @S29@ SOUR
+1 AUTH Ancestry.com
+1 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2010;
+1 REPO @R1@
+0 @S30@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1910 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2006;
+1 REPO @R1@
+0 @S31@ SOUR
+1 AUTH Ancestry.com
+1 TITL Massachusetts, U.S., Death Index, 1970-2003
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 2005;
+1 REPO @R1@
+0 @S32@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1870 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2009;
+1 REPO @R1@
+0 @S33@ SOUR
+1 AUTH Ancestry.com
+1 TITL Scotland, Select Births and Baptisms, 1564-1950
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2014;
+1 REPO @R1@
+0 @S34@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., World War II Draft Cards Young Men, 1940-1947
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S35@ SOUR
+1 AUTH Connecticut Department of Health
+1 TITL Connecticut Death Index, 1949-2012
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2003;
+1 REPO @R1@
+0 @S36@ SOUR
+1 AUTH Ancestry.com
+1 TITL North America, Family Histories, 1500-2000
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2016;
+1 REPO @R1@
+0 @S37@ SOUR
+1 AUTH Ancestry.com
+1 TITL New Jersey, U.S., State Census, 1905
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2017;
+1 REPO @R1@
+0 @S38@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1860 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2009;
+1 REPO @R1@
+0 @S39@ SOUR
+1 AUTH Ancestry.com
+1 TITL New Hampshire, U.S., Death Records, 1650-1969
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2021;
+1 REPO @R1@
+0 @S40@ SOUR
+1 AUTH Ancestry.com
+1 TITL Cook County, Illinois, U.S., Marriages Index, 1871-1920
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S41@ SOUR
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 TITL 1880 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2010;
+1 REPO @R1@
+0 @S42@ SOUR
+1 AUTH Ancestry.com
+1 TITL Illinois, U.S., Marriage Index, 1860-1920
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2015;
+1 REPO @R1@
+0 @S43@ SOUR
+1 AUTH Ancestry.com
+1 TITL New Jersey, U.S., Death Index, 1848-1878, 1901-2017
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2016;
+1 REPO @R1@
+0 @S44@ SOUR
+1 AUTH Ancestry.com
+1 TITL Philadelphia, Pennsylvania, U.S., Marriage Index, 1885-1951
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S45@ SOUR
+1 AUTH Ancestry.com
+1 TITL Massachusetts, U.S., Death Index, 1901-1980
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2013;
+1 REPO @R1@
+0 @S46@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1850 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2009;
+1 REPO @R1@
+0 @S47@ SOUR
+1 AUTH Ancestry.com
+1 TITL Illinois, U.S., Wills and Probate Records, 1772-1999
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 2015;
+1 REPO @R1@
+0 @S48@ SOUR
+1 AUTH Ancestry.com
+1 TITL New York, New York, U.S., Index to Death Certificates, 1862-1948
+1 PUBL Location: Lehi, UT. USA; Date: 2020;
+1 REPO @R1@
+0 @S49@ SOUR
+1 AUTH Ancestry.com
+1 TITL Cook County, Illinois, U.S., Marriage and Death Indexes, 1833-1889
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2011;
+1 REPO @R1@
+0 @S50@ SOUR
+1 AUTH Ancestry.com
+1 TITL Arkansas, U.S., Newspapers.com™ Stories and Events Index, 1800's-current
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2023;
+1 REPO @R1@
+0 @R1@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @M1@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\ Harriet Cobb Foote Armour.jpg
+2 FORM jpg
+2 TITL  Harriet Cobb Foote Armour
+2 _DATE 11 Oct 1924
+0 @M2@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\ Norman Armour Jr..jpg
+2 FORM jpg
+2 TITL  Norman Armour Jr.
+2 _DATE 26 Apr 1978
+0 @M3@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\70DBF5C5-CC98-4A93-8365-170453E05B58.jpg
+2 FORM jpg
+2 TITL 70DBF5C5-CC98-4A93-8365-170453E05B58
+0 @M4@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Charles Dana Burrage Society of Colonial Wars in Massachusetts Membership Applications Joseph Chambe.jpg
+2 FORM jpg
+2 TITL Charles Dana Burrage Society of Colonial Wars in Massachusetts Membership Applications Joseph Chamberlin descendant pg2
+2 _DATE 9/30/2020 2:11:33 PM
+0 @M5@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Maria Toncray Stevenson.jpg
+2 FORM jpg
+2 TITL Maria Toncray Stevenson
+0 @M6@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\George Armour.jpg
+2 FORM jpg
+2 TITL George Armour
+0 @M7@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Armour_John W 1865 Chicago death.jpg
+2 FORM jpg
+2 TITL Armour_John W 1865 Chicago death
+2 _DATE 15 May 1865
+0 @M8@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Charles Dana Burrage Society of Colonial Wars in Massachusetts Membership Applications Joseph Chambe.jpg
+2 FORM jpg
+2 TITL Charles Dana Burrage Society of Colonial Wars in Massachusetts Membership Applications Joseph Chamberlin descendant
+2 _DATE 9/30/2020 1:47:17 PM
+2 _TEXT This application has dates which do not match but will keep this document none the less.
+0 @M9@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Myra Koudashev.jpg
+2 FORM jpg
+2 TITL Myra Koudashev
+0 @M10@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Wilmot Wood.jpg
+2 FORM jpg
+2 TITL Wilmot Wood
+2 _DATE c1805
+2 _TEXT Anonymous, American School via The Frick Digital Collections
+0 @M11@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Allison Wm b 1786.jpg
+2 FORM jpg
+2 TITL Allison Wm b 1786
+2 _DATE 1786
+2 _TEXT Old Parish Register Births 643/00 0020 0108 Easat Kilbride, 1786. National Records of Scotland
+0 @M12@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Myra Koudashev(1).jpg
+2 FORM jpg
+2 TITL Myra Koudashev
+0 @M13@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Mayflower Descendant.jpg
+2 FORM jpg
+2 TITL Mayflower Descendant
+2 _TEXT See http://www.franciscookesociety.org/janney.html for proven lineage.
+0 @M14@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\ Archibald Armour Sr..jpg
+2 FORM jpg
+2 TITL  Archibald Armour Sr.
+2 _DATE 23 Dec 1828
+0 @M15@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Allison, Barbara birth 1826.jpg
+2 FORM jpg
+2 TITL Allison, Barbara birth 1826
+2 _DATE 1826
+2 _TEXT Old Parish Register Births 643/ East Lothian. National Records of Scotland, Crown copyright
+0 @M16@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Archibald Armour & Ann Greenlees Monument .jpg
+2 FORM jpg
+2 TITL Archibald Armour & Ann Greenlees Monument
+0 @M17@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\ Norman Armour.jpg
+2 FORM jpg
+2 TITL  Norman Armour
+2 _DATE 27 Sep 1982
+0 @M18@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Mayflower Descendant(1).jpg
+2 FORM jpg
+2 TITL Mayflower Descendant
+2 _TEXT See http://www.franciscookesociety.org/janney.html for proven lineage.
+0 @M19@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Allison Wm m Barbara Wark East Kilbride 1814.jpg
+2 FORM jpg
+2 TITL Allison Wm m Barbara Wark East Kilbride 1814
+2 _DATE 1814
+2 _TEXT Old Parish Register Marriages 643 East Kilbride. NationalRecords of Scotland
+0 @M20@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1870 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Little Rock, Pulaski, Arkansas; Roll: M593_62; Page: 211A
+0 @M21@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., World War II Draft Cards Young Men, 1940-1947.jpg
+2 FORM jpg
+2 TITL U.S., World War II Draft Cards Young Men, 1940-1947
+2 _TEXT National Archives at St. Louis; St. Louis, Missouri; Wwii Draft Registration Cards For New Jersey, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 17
+0 @M22@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1920 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: England, Consular Service, Military and Naval Forces; Roll: T625_2041; Page: 83A; Enumeration District: Consular Service
+0 @M23@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1(4).jpg
+2 FORM jpg
+2 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+2 _TEXT The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004
+3 CONC ; RG: 85
+0 @M24@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1930 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Paris, France, Consular Service; Page: 1A; Enumeration District: 0000; FHL microfilm: 2342364
+0 @M25@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1(4).jpg
+2 FORM jpg
+2 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+2 _TEXT The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004
+3 CONC ; RG: 85
+0 @M26@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1930 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Boston, Suffolk, Massachusetts; Page: 7A; Enumeration District: 0163; FHL microfilm: 2340681
+0 @M27@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Massachusetts, U.S., Town and Vital Records, 1620-1988.jpg
+2 FORM jpg
+2 TITL Massachusetts, U.S., Town and Vital Records, 1620-1988
+0 @M28@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\North America, Family Histories, 1500-2000.jpg
+2 FORM jpg
+2 TITL North America, Family Histories, 1500-2000
+2 _TEXT Book Title: Foote Family : Comprising the Genealogy and History of Nathaniel Foote of Wethersfield, Connecticut
+0 @M29@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1900 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Princeton, Mercer, New Jersey; Roll: 982; Page: 5; Enumeration District: 0053
+0 @M30@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New Jersey, U.S., State Census, 1905.jpg
+2 FORM jpg
+2 TITL New Jersey, U.S., State Census, 1905
+2 _TEXT New Jersey State Archive; Trenton, NJ, USA; State Census of New Jersey, 1905; Reference Number: L-06; Film Number: 27
+0 @M31@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1(3).jpg
+2 FORM jpg
+2 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+2 _TEXT The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004
+3 CONC ; RG: 85
+0 @M32@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1920 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Princeton, Mercer, New Jersey; Roll: T625_1053; Page: 10A; Enumeration District: 45
+0 @M33@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., Passport Applications, 1795-1925.jpg
+2 FORM jpg
+2 TITL U.S., Passport Applications, 1795-1925
+2 _TEXT National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Special Diplomatic Passport Applications, 1916-1925; Volume #: Volume 05
+0 @M34@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1950 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+2 _TEXT National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 72; Enumeration District: 18-1
+0 @M35@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New York State, Passenger and Crew Lists, 1917-1967.jpg
+2 FORM jpg
+2 TITL New York State, Passenger and Crew Lists, 1917-1967
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; NAI Number: 2848504; Record Group Title: Records of the Immigration and Naturalization Service, 1787-2004; Record Group Number: 85; Series Number: A3998; NARA Roll Number: 418
+0 @M36@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Florida, U.S., Arriving and Departing Passenger and Crew Lists, 1898-1963.jpg
+2 FORM jpg
+2 TITL Florida, U.S., Arriving and Departing Passenger and Crew Lists, 1898-1963
+2 _TEXT The National Archives At Washington, D.c.; Washington, D.c.; Series Title: Passenger and Crew Manifests of Airplanes Arriving At Miami, Florida.; NAI Number: 2788541; Record Group Title: Records of the Immigration and Naturalization Service, 178
+3 CONC 7 - 2004; R
+0 @M37@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., Departing Passenger and Crew Lists, 1914-1966.jpg
+2 FORM jpg
+2 TITL U.S., Departing Passenger and Crew Lists, 1914-1966
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger and Crew Lists of Vessels and Airplanes Departing from New York, New York, 07/01/1948-12/31/1956; NAI Number: 3335533; Record Group Title: Records of the Immigrat
+3 CONC ion and N
+0 @M38@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1950 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+2 _TEXT National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Ipswich, Essex, Massachusetts; Roll: 2862; Page: 6; Enumeration District: 5-218
+0 @M39@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Massachusetts, U.S., Birth Records, 1840-1915.jpg
+2 FORM jpg
+2 TITL Massachusetts, U.S., Birth Records, 1840-1915
+0 @M40@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., World War I Draft Registration Cards, 1917-1918.jpg
+2 FORM jpg
+2 TITL U.S., World War I Draft Registration Cards, 1917-1918
+2 _TEXT Registration State: Massachusetts; Registration County: Plymouth
+0 @M41@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., World War II Draft Registration Cards, 1942.jpg
+2 FORM jpg
+2 TITL U.S., World War II Draft Registration Cards, 1942
+2 _TEXT The National Archives At St. Louis; St. Louis, Missouri; World War Ii Draft Cards (Fourth Registration) For the State of Massachusetts; Record Group Title: Records of the Selective Service System; Record Group Number: 147; Series Number: M2090
+0 @M42@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1920 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Hamilton, Essex, Massachusetts; Roll: T625_690; Page: 12B; Enumeration District: 53
+0 @M43@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., High School Student Lists, 1821-1923.jpg
+2 FORM jpg
+2 TITL U.S., High School Student Lists, 1821-1923
+0 @M44@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., School Catalogs, 1765-1935.jpg
+2 FORM jpg
+2 TITL U.S., School Catalogs, 1765-1935
+0 @M45@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., College Student Lists, 1763-1924.jpg
+2 FORM jpg
+2 TITL U.S., College Student Lists, 1763-1924
+2 _TEXT American Antiquarian Society; Worcester, Massachusetts; College Student Lists
+0 @M46@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., City Directories, 1822-1995.jpg
+2 FORM jpg
+2 TITL U.S., City Directories, 1822-1995
+0 @M47@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., Passport Applications, 1795-1925(1).jpg
+2 FORM jpg
+2 TITL U.S., Passport Applications, 1795-1925
+2 _TEXT National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2403; Volume #: Roll 2403 - Certificates: 358850-359349, 15 Dec 1923-18 Dec 1923
+0 @M48@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Pennsylvania and New Jersey, U.S., Church and Town Records, 1669-2013.jpg
+2 FORM jpg
+2 TITL Pennsylvania and New Jersey, U.S., Church and Town Records, 1669-2013
+2 _TEXT Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+0 @M49@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963.jpg
+2 FORM jpg
+2 TITL Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963
+2 _TEXT The National Archives in Washington, DC; Washington, DC; Series Title: Passenger Lists of Vessels Arriving At Boston, Massachusetts, 1891-1943; NAI Number: 4319742; Record Group Title: Records of the Immigration and Naturalization Service, 1787-20
+3 CONC 04; Recor
+0 @M50@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1(2).jpg
+2 FORM jpg
+2 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+2 _TEXT The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004
+3 CONC ; RG: 85
+0 @M51@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New Hampshire, U.S., Death Records, 1650-1969.jpg
+2 FORM jpg
+2 TITL New Hampshire, U.S., Death Records, 1650-1969
+2 _TEXT New Hampshire Archives and Records Management; Concord, New Hampshire; New Hampshire Death Records, 1650-1969
+0 @M52@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1860 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Waukegan, Lake, Illinois; Roll: M653_193; Page: 561; Family History Libr
+3 CONC ary Film:
+0 @M53@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1870 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Chicago Ward 1, Cook, Illinois; Roll: M593_198; Page: 1A
+0 @M54@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1910 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Philadelphia Ward 7, Philadelphia, Pennsylvania; Roll: T624_1389; Page: 13b; Enumeration District: 0096; FHL microfilm: 1375402
+0 @M55@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1(1).jpg
+2 FORM jpg
+2 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+2 _TEXT The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004
+3 CONC ; RG: 85
+0 @M56@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1880 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 397b; Enumeration District: 015
+0 @M57@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1880 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Chicago, Cook, Illinois; Roll: 185; Page: 367c; Enumeration District: 014
+0 @M58@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1930 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Princeton, Mercer, New Jersey; Page: 7A; Enumeration District: 0100; FHL microfilm: 2341097
+0 @M59@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1860 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Wiscasset, Lincoln, Maine; Roll: M653_442; Page: 856; Family History Lib
+3 CONC rary Film
+0 @M60@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1.jpg
+2 FORM jpg
+2 TITL New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957
+2 _TEXT The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004
+3 CONC ; RG: 85
+0 @M61@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1870 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Roll: M593_200; Page: 73B
+0 @M62@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1900 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Cohasset, Norfolk, Massachusetts; Roll: 669; Page: 23; Enumeration District: 1029
+0 @M63@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\New Jersey, U.S., Death Index, 1848-1878, 1901-2017.jpg
+2 FORM jpg
+2 TITL New Jersey, U.S., Death Index, 1848-1878, 1901-2017
+2 _TEXT New Jersey State Archives; Trenton, New Jersey; New Jersey Death Indexes, 1916-1926
+0 @M64@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Pennsylvania and New Jersey, U.S., Church and Town Records, 1669-2013(1).jpg
+2 FORM jpg
+2 TITL Pennsylvania and New Jersey, U.S., Church and Town Records, 1669-2013
+2 _TEXT Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Historic Pennsylvania Church and Town Records; Reel: 638
+0 @M65@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Massachusetts, U.S., Death Index, 1901-1980.jpg
+2 FORM jpg
+2 TITL Massachusetts, U.S., Death Index, 1901-1980
+0 @M66@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1850 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: Ottawa, Lasalle, Illinois; Roll: 115; Page: 184b
+0 @M67@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Illinois, U.S., Wills and Probate Records, 1772-1999.jpg
+2 FORM jpg
+2 TITL Illinois, U.S., Wills and Probate Records, 1772-1999
+2 _TEXT Record of Wills, 1879-1928; Author: Illinois. Probate Court (Cook County)
+0 @M68@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\U.S., Passport Applications, 1795-1925(2).jpg
+2 FORM jpg
+2 TITL U.S., Passport Applications, 1795-1925
+2 _TEXT National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 2175; Volume #: Roll 2175 - Certificates: 246976-247349, 31 Jan 1923-02 Feb 1923
+0 @M69@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\Cook County, Illinois, U.S., Marriage and Death Indexes, 1833-1889.jpg
+2 FORM jpg
+2 TITL Cook County, Illinois, U.S., Marriage and Death Indexes, 1833-1889
+0 @M70@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1860 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Little Rock, Pulaski, Arkansas; Roll: M653_49; Page: 29; Family Histor
+3 CONC y Library F
+0 @M71@ OBJE
+1 FILE C:\Users\hp1\Documents\Family Tree Maker\MSF-Armour Family Tree Media\1950 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+2 _TEXT National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Bedminster, Somerset, New Jersey; Roll: 3172; Page: 74; Enumeration District: 18-1
+0 TRLR
