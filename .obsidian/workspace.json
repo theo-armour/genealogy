@@ -11,15 +11,55 @@
             "id": "3fdbb7ccbc06c8c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peeps-in-My-Family.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Peeps-in-My-Family"
-            }
+              "title": "New tab"
+            },
+            "group": "fb4296edea912adc"
+          }
+        ]
+      },
+      {
+        "id": "eefc8d3a05604fd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc22f70f145010c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "fb4296edea912adc"
           }
         ]
       }
@@ -169,16 +209,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "19d4fc6b59dd05bf",
+  "active": "3fdbb7ccbc06c8c2",
   "lastOpenFiles": [
+    "bbbb.md",
+    "ggg.md",
+    "gedcom.md",
+    "README.md",
+    "Peeps-in-My-Family.md",
     "fiverr/matthew/mateolive-attachments/Source Usage Report.pdf",
     "fiverr/matthew/mateolive-attachments/Ancestors of Norman Armour.pdf",
     "fiverr/matthew/mateolive-attachments/Pedigree Chart.pdf",
     "fiverr/matthew/mateolive-attachments",
-    "gedcom.md",
     "2025-08-21.md",
-    "Untitled.canvas",
-    "README.md",
-    "Peeps-in-My-Family.md"
+    "Untitled.canvas"
   ]
 }
