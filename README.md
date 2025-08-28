@@ -3,7 +3,7 @@
 This is the Theo Armour Genealogy repository, which contains information about the Armour family lineage and related genealogical data.
 
 <https://theo-armour.github.io/genealogy/>
-[[Peeps-in-My-Family]]] [[ggg]]
+
 
 ## Links of Interest
 
@@ -24,6 +24,7 @@ Must be a member to access
 View of the GEDCOM files exported from Ancestry 2025-08-18
 
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged>
+
 
 ### MyHeritage
 
