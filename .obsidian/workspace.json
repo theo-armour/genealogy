@@ -11,55 +11,15 @@
             "id": "3fdbb7ccbc06c8c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            },
-            "group": "fb4296edea912adc"
-          }
-        ]
-      },
-      {
-        "id": "eefc8d3a05604fd6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1bc22f70f145010c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "api-geni/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "fb4296edea912adc"
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ]
       }
@@ -134,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peeps-in-My-Family.md",
+                "file": "api-geni/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Peeps-in-My-Family"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -153,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peeps-in-My-Family.md",
+                "file": "api-geni/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Peeps-in-My-Family"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -182,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peeps-in-My-Family.md",
+                "file": "api-geni/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Peeps-in-My-Family"
+              "title": "Outline of README"
             }
           }
         ]
@@ -211,11 +171,16 @@
   },
   "active": "3fdbb7ccbc06c8c2",
   "lastOpenFiles": [
+    "api-geni/README.md",
+    "api-geni/privacy-policy.md",
+    "api-geni/terms-of-service.md",
+    "fiverr/carley/armour-crest.jpg",
+    "fiverr/matthew/2025-08-28/Norman Armour.pdf",
+    "gedcom.md",
+    "Peeps-in-My-Family.md",
+    "README.md",
     "bbbb.md",
     "ggg.md",
-    "gedcom.md",
-    "README.md",
-    "Peeps-in-My-Family.md",
     "fiverr/matthew/mateolive-attachments/Source Usage Report.pdf",
     "fiverr/matthew/mateolive-attachments/Ancestors of Norman Armour.pdf",
     "fiverr/matthew/mateolive-attachments/Pedigree Chart.pdf",
