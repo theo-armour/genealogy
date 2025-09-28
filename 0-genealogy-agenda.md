@@ -12,7 +12,6 @@
 
 * https://www.geni.com/
 * https://www.geni.com/family-tree/share
-
 * https://www.geni.com/family-tree/index/6000000004118029730
 * <https://www.geni.com/people/Theo-Armour/>
 * https://www.geni.com/people/Norman-Theo-Armour/6000000004118029730
