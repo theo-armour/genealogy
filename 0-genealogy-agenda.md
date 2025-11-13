@@ -1,5 +1,16 @@
 # Genealogy Agenda
 
+## Theo
+
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged>
+* https://theo-armour.github.io/genealogy/
+* https://github.com/theo-armour/genealogy
+
+## Fiver
+
+* https://pro.fiverr.com/inbox
+* https://pro.fiverr.com/workspace/orders
+
 
 ## Links of Interest
 
@@ -19,6 +30,7 @@
 ## MyHeritage
 
 * <https://www.myheritage.com/site-family-tree-4195182/armour>
+* https://www.myheritage.com/family-sites/armour/OYYV6PBSECQU5WE7JKWV7Q44V3NYJUI
 * Imports and exports GEDCOM files
 
 ## Ancestry

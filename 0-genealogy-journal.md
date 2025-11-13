@@ -1,5 +1,10 @@
 # Genealogy Journal
 
+
+## Interesting peeps
+
+* https://www.geni.com/people/Hjorvard-Heremodsson-King-of-Tune/6000000022784959542
+
 ## 2025-08-27
 
 * https://www.geni.com/projects/HistoryLink/14021
