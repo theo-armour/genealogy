@@ -58,8 +58,3 @@
 * Click on the one of the boxes
 * You will be taken to My Heritage where you can confirm or reject the match
 * In MyHeritage you can conform the link back to the Geni entry
-
-
-
-
-
