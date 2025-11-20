@@ -1,5 +1,6 @@
 # Genealogy General Reference
 
+## Albert Allison Munger (died 1898)
 
 ## wikipedia References
 
