@@ -26,6 +26,20 @@ Check
 * https://www.geni.com/people/Eliza-Weatherbee/6000000221008007747 ~ has conflicts
 * https://www.geni.com/people/Isaac-Watkins/6000000221008009904 ~ related to **the** Waltons?
 
+
+
+## 2025-11-23
+
+Who was the father of
+
+Anastatisya Fyodorovna Nieroth (Trepova)
+Russian: Анастасия Фёдоровна Нирод (Трепова), Finnish: Anastasia Fjodorovna Nieroth (Trepova)
+Gender: Female
+Birth: May 15, 1849
+Kiev, Ukraine
+Death: September 25, 1940 (91)
+Amblainville, Oise, Nord-Pas-de-Calais-Picardie, France
+
 ## 2025-08-27
 
 * https://www.geni.com/projects/HistoryLink/14021

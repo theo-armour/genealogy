@@ -1,6 +1,6 @@
 # Geni API
 
-tags #geni
+tags #geni #api
 
 
 * https://www.geni.com/platform/developer/help/oauth_intro?version=1
@@ -10,12 +10,16 @@ tags #geni
 * https://github.com/geni
 * https://github.com/geni/geni-js-sdk
 
-## Apps
+## Apps ***
 
 * https://www.geni.com/corp/apps/
 * https://www.geni.com/corp/apps/historylink/
 * https://www.geni.com/projects/HistoryLink/14021
+
+### HistoryLink Tools for Geni
 * https://github.com/eljeffeg/HistoryLinkTools
+
+by Jeff Gentes HistoryLink is a set of free tools for Geni that will search your tree for historical and famous ancestors. The search will compare your direct ancestors (and their siblings) to projects on Geni and list any matches found, the relation and what projects they belong to. It can also search for master…
 
 ## Examples
 
