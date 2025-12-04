@@ -1,12 +1,16 @@
-# James Whitehill Shirk
+# James Whitehill Shirk (1832 - 1973)
 
-James Whitehill Shirk
-Gender: Male
-Birth: July 16, 1831
-Pennsylvania
-Death: February 10, 1873 (41)
+* Maternal great-great grandfather
+* James Whitehill Shirk
+* Union Army officer in the American Civil War
+* Gender: Male
+* Birth: July 16, 1831 ~ Pennsylvania
+* Death: February 10, 1873 (41)
+* <https://en.wikipedia.org/wiki/USS_Shirk>
 
-https://gemini.google.com/share/bb8e27b91c90
+## Narrative
+
+* https://gemini.google.com/share/bb8e27b91c90
 
 ## James Whitehill Shirk (July 16, 1832 – February 10, 1873) was a distinguished United States Navy officer who served with significant gallantry during the American Civil War
 
