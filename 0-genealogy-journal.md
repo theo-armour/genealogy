@@ -27,6 +27,12 @@ Check
 * https://www.geni.com/people/Isaac-Watkins/6000000221008009904 ~ related to **the** Waltons?
 
 
+## 2025-12-18
+
+Issues with James Whitehill Shirk
+Gather some of the obits
+
+birthdate Amelia C Chamberlain
 
 ## 2025-11-23
 
