@@ -1,4 +1,4 @@
-# David Fulton Burrage (1771–1843)
+# David Fulton (1771–1843)
 * https://gemini.google.com/share/bb8e27b91c90
 
 David Fulton (January 2, 1771 – August 7, 1843) was an Irish-American pioneer, civic leader, and the patriarch of one of Arkansas’s most prominent political families.
