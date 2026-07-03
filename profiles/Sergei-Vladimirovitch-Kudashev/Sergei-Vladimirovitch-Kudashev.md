@@ -9,6 +9,21 @@ Likely to be in Venice.
 On the morning of July 14, 1902, Venice’s iconic Campanile di San Marco — the city’s tallest structure at 98.6 meters — suddenly collapsed, sending a cloud of dust over St. Mark’s Square and the lagoon. Granny said she was in Venice when it collapsed.
 
 
+## Prince Sergei Vladimirovitch Kudashev
+
+* https://www.geni.com/people/Prince-Sergei-Kudashev/6000000019323938097?through=364408351200007646
+* https://www.wikidata.org/wiki/Q108332252 ~ Note: "Prince Tatarsky" (Tatar) = Indication that this is member of one of the Princely families created by Peter the Great upon the acquisition of Siberia
+* https://www.christies.com/en/lot/lot-3990190#:~:text=VARIOUS%20PROPERTIES,Serge%20Wladimirowitch%20Koudacheff%20a%20St.
+* https://www.prlib.ru/en/news/1328412
+* https://www.prlib.ru/en/node/335177
+* https://commons.wikimedia.org/wiki/Category:Collection_Serge_Koudacheff
+
+Much more here:
+
+* https://gemini.google.com/share/871af3fcccd2
+* https://claude.ai/share/ee76141d-93b8-4ee3-a217-45d787393210
+
+I know almost nothing about my great-grandfather's life. The only thing that I ever heard about him was that he very involved with the acquisition of significant number of Impressionist paintings for the Hermitage.
 
 
 ## Family

@@ -6,8 +6,6 @@
 
 * https://www.geni.com/people/Hjorvard-Heremodsson-King-of-Tune/6000000022784959542 ~ circa 330 AD ~ oldest known ancestor
 * https://www.geni.com/people/Dauid-David-Armour/6000000222201632926
-
-
 * https://www.geni.com/people/Miko%C5%82aj-D%C5%82ugi-Kochanowski/6000000033720369983
 * https://www.geni.com/people/Prandota-h-Moravsk%C3%BD-zvonek/6000000125163448887
 * https://www.geni.com/people/King-Eochaid-mac-%C3%81eda-Find/6000000212119218825

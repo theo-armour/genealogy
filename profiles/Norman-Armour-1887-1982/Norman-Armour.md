@@ -1,6 +1,6 @@
-# Norman Armour
+# Norman Armour (1887– 1982)
 
-* (1887– 1982) Career United States diplomat
+* Career United States diplomat
 * [**https://en.wikipedia.org/wiki/Norman_Armour**](https://en.wikipedia.org/wiki/Norman_Armour)
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 * https://www.nytimes.com/1982/09/29/obituaries/norman-armour-94-dies-served-as-an-assistant-secretary-of-state.html
