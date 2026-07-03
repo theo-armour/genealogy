@@ -1,8 +1,6 @@
 # Albert Cameron Burrage (1859 – 1931)
 
-## Albert Cameron Burrage ~ Maternal great-grandfather
-
-![Albert Burrage](0-photos/albert-burrage.jpg)
+![Albert Cameron Burrage](images/albert-burrage.jpg)
 
 | `albert-burrage.jpg` | Albert Cameron Burrage (1859–1931) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albert_Cameron_Burrage_(1859%E2%80%931931).jpg) |
 

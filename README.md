@@ -50,6 +50,8 @@ View of the GEDCOM files exported from MyHeritage 2025-08-18
 
 ## Peeps in My Family
 
+Deprecated: This file is no longer maintained. Please refer to the [Peeps-in-My-Family.md](https://github.com/theo-armour/genealogy/blob/documents/Peeps-in-My-Family.md)
+
 * <https://github.com/theo-armour/genealogy/blob/main/Peeps-in-My-Family.md>
 
 ### GEDCOM

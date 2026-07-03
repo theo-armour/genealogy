@@ -1,6 +1,8 @@
 # Nikolay Danilovich Kudashev
 
-![Nikolay Danilovich Kudashev](photos/nikolay-kudashev.jpg)
+![Nikolay Danilovich Kudashev](images/nikolay-kudashev.jpg)
+
+| `nikolay-kudashev.jpg` | Nikolay Danilovich Kudashev (1784–1813) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kudashev_Nikolay_Danilovich.jpg) |
 
 **1784 – 1813** | Russian Major General of the Napoleonic Wars
 

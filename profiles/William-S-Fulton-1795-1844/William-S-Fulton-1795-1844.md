@@ -1,6 +1,8 @@
 # William S. Fulton ~ Maternal great-great-great-grandfather
 
-![William S. Fulton](photos/william-fulton.jpg)
+![William S. Fulton](images/william-fulton.jpg)
+
+| `william-fulton.jpg` | William S. Fulton (1795–1844) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WSFulton.jpg) |
 
 **1795 – 1844** | Governor of Arkansas Territory and U.S. Senator
 

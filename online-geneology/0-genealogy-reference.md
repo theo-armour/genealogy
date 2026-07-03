@@ -19,6 +19,13 @@
 * https://en.wikipedia.org/wiki/MyHeritage
 
 
+## Genealogy apps
+
+* https://www.geni.com/people/Theo-Armour/
+* https://www.myheritage.com/site-family-tree-4195182/armour
+* https://www.ancestry.com/invite-ui/accept?token=0ndb3_G88znH5CBIK9DxttUTB8_paEYiv_-z7-xfbkA= ~ must have an account to view
+* https://www.wikitree.com/wiki/Armour-1598
+
 ## GEDCOM
 
 * https://en.wikipedia.org/wiki/GEDCOM

@@ -1,7 +1,9 @@
 # Erastus Foote 1777 – 1856
 
 
-![Erastus Foote](photos/erastus-foote.jpg)
+![Erastus Foote](images/erastus-foote.jpg)
+
+| `erastus-foote.jpg` | Erastus Foote (1777–1856) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Erastus_Foote.jpg) |
 
 * Paternal great-great-great-grandfather
 * American lawyer and first Attorney General of Maine

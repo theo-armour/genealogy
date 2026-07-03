@@ -1,6 +1,8 @@
 # Anne Bell Burrage ~ Maternal grandmother
 
-![Anne Burrage](photos/anne-burrage.jpg)
+![Anne Burrage](images/anne-burrage.jpg)
+
+| `anne-burrage.jpg` | Anne Bell Burrage (1890–1983) | Family / Herb Society of America collections |
 
 **1890 – 1983** | Founder of The Herb Society of America
 

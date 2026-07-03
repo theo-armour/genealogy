@@ -1,4 +1,6 @@
-# James Whitehill Shirk (1832 - 1973)
+# James Whitehill Shirk (1832 - 1873)
+
+| `james-shirk.png` | James Whitehill Shirk (1832–1873) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:James_W._Shirk_(1832%E2%80%931873).png) |
 
 * Maternal great-great grandfather
 * James Whitehill Shirk

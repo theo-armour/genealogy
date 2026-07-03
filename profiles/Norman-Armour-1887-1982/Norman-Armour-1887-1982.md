@@ -1,5 +1,9 @@
 # Norman Armour (1887– 1982)
 
+![Norman Armour](images/norman-armour.jpg)
+
+| `norman-armour.jpg` | Norman Armour (1887–1982) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norman_Armour.jpg) |
+
 * Career United States diplomat
 * [**https://en.wikipedia.org/wiki/Norman_Armour**](https://en.wikipedia.org/wiki/Norman_Armour)
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University

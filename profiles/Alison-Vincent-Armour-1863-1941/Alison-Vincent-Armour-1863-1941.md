@@ -1,5 +1,9 @@
 # Allison Vincent Armour (1863-1941)
 
+![Allison Vincent Armour](images/allison-armour.jpg)
+
+| `allison-armour.jpg` | Allison Vincent Armour (c. 1851–1940) | [Library of Congress via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Allison,_Armour,_Cornelius_Vanderbilt_LOC_14778876346.jpg) |
+
 * Paternal Great-great-uncle
 * Conducted fifteen scientific expeditions for United States Department of Agriculture
 * Olympic Committee board member 1908-1914

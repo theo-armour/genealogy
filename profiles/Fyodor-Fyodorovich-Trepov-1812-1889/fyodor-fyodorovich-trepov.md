@@ -1,5 +1,9 @@
 # Fyodor Fyodorovich Trepov
 
+![Fyodor Trepov](images/fyodor-trepov.jpg)
+
+| `fyodor-trepov.jpg` | Fyodor Trepov, senior (1809–1889) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trepov_F_F_old.jpg) |
+
 Based on the information available, the father of Anastatisya Fyodorovna Nieroth (née Trepova) was **Fyodor Fyodorovich Trepov (Senior)**.
 
 https://gemini.google.com/app/87354eeb7faf1d0f

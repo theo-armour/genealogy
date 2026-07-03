@@ -1,6 +1,8 @@
 # Theodor von Nieroth ~ Paternal great-great-great-uncle
 
-![Theodor von Nieroth](photos/theodor-nieroth.jpeg)
+![Theodor von Nieroth](images/theodor-nieroth.jpeg)
+
+| `theodor-nieroth.jpeg` | Theodor von Nieroth (1871–1952) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fyodor_M._Nirod.jpeg)
 
 **1871 – 1952** | Major General in the Imperial Russian Army
 

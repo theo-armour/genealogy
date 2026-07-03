@@ -1,6 +1,8 @@
 # Walter Lowrie ~ Paternal great-uncle
 
-![Walter Lowrie](photos/walter-lowrie.jpg)
+![Walter Lowrie](images/walter-lowrie.jpg)
+
+| `walter-lowrie.jpg` | Walter Lowrie (1868–1959) | Princeton University / family collections |
 
 **1868 – 1959** | Kierkegaardian theologian and prolific translator
 

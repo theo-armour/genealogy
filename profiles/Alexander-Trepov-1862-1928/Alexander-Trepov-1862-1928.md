@@ -1,6 +1,7 @@
 # Alexander Trepov 1862-1928
 
-![Alexander Trepov](photos/alexander-trepov.jpg)
+![Alexander Trepov](images/alexander-trepov.jpg)
+| `alexander-trepov.jpg` | Alexander Trepov (1862–1928) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alexander_Trepov.jpg) |
 
 * Prime Minister of the Russian Empire
 * Paternal great-great-uncle

@@ -1,6 +1,6 @@
 # Albert Cameron Burrrage III
 
-![]( 0-photos/ghows_image-WL-96611be9-20be-4494-a06a-7c499e2dab99.webp )
+![]( images/ghows_image-WL-96611be9-20be-4494-a06a-7c499e2dab99.webp )
 
 https://www.metrowestdailynews.com/picture-gallery/entertainment/2020/07/16/photos-today-in-history-july/66197863007/
 
