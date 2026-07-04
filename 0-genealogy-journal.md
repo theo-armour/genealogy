@@ -1,8 +1,24 @@
 # Genealogy Journal
 
+## 2026-07-04
+
+* Adding new profili folfers and files
+* Adding Geni links and basic information to each profile
+
+
+## 2026-07-03
+
+* I am very happy with the progress.The project is beginning to have some kind of structure. After all of these decades ;-)
+* Many updates over the past few days.
+* Folders renamed and moved around. Much cleaning up.
+* The nicest thing is that many significant family members have their own folders with their own markdown files and associated images folder.
+Folders and files beginning to follow a standard with names in Wikipedia format along with their dates of birth and death
+* The main markdown file also is beginning to have a structure.
+
 ## 2025-12-18
 
 Issues with James Whitehill Shirk
+
 Gather some of the obits
 
 birthdate Amelia C Chamberlain
@@ -11,13 +27,14 @@ birthdate Amelia C Chamberlain
 
 Who was the father of
 
-Anastatisya Fyodorovna Nieroth (Trepova)
-Russian: Анастасия Фёдоровна Нирод (Трепова), Finnish: Anastasia Fjodorovna Nieroth (Trepova)
-Gender: Female
-Birth: May 15, 1849
-Kiev, Ukraine
-Death: September 25, 1940 (91)
-Amblainville, Oise, Nord-Pas-de-Calais-Picardie, France
+* Anastatisya Fyodorovna Nieroth (Trepova)
+* Russian: Анастасия Фёдоровна Нирод (Трепова)
+* Finnish: Anastasia Fjodorovna Nieroth (Trepova)
+* Gender: Female
+* Birth: May 15, 1849
+* Kiev, Ukraine
+* Death: September 25, 1940 (91)
+* Amblainville, Oise, Nord-Pas-de-Calais-Picardie, France
 
 ## 2025-08-27
 

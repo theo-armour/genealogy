@@ -1,13 +1,14 @@
 # George Armour (1812 – 1881)
 
 * paternal great-great grandfather
-
 *  Scottish American businessman and philanthropist
-
 
 ![George Armour](images/george-armour.png)
 
 | `george-armour.png` | George Armour (1812–1881) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:George-armour-photo-second-presbyterian-church-of-chicago.png) |
+
+* https://www.geni.com/people/George-Armour/364407867780007569
+
 
 **1812 – 1881** | Scottish American grain pioneer and art patron
 

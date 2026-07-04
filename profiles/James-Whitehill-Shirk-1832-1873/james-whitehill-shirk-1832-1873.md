@@ -2,11 +2,16 @@
 
 | `james-shirk.png` | James Whitehill Shirk (1832–1873) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:James_W._Shirk_(1832%E2%80%931873).png) |
 
-* Maternal great-great grandfather
+* https://www.geni.com/people/James-Shirk/6000000209225000864
 * James Whitehill Shirk
+* Birth:  July 16 1832 - Pennsylvania
+* Death:  Feb 10 1873 - Washington, District of Columbia, United States
+* Parents:  David Shirk and Mary Ann Shirk (born Whitehill)
+* Partner:  Mary W. Marshall
+* Son:  James Cameron Marshall
+* Maternal great-great grandfather
 * Union Army officer in the American Civil War
 * Gender: Male
-* Birth: July 16, 1831 ~ Pennsylvania
 * Death: February 10, 1873 (41)
 * <https://en.wikipedia.org/wiki/USS_Shirk>
 

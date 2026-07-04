@@ -4,6 +4,16 @@
 
 | `albert-burrage.jpg` | Albert Cameron Burrage (1859–1931) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albert_Cameron_Burrage_(1859%E2%80%931931).jpg) |
 
+* https://www.geni.com/people/Albert-Burrage-Sr/364409776800007631
+* Albert Cameron Burrage, Sr
+* Birth:  Nov 21 1859 - Ashburnham, Worcester County, Massachusetts, United States of America
+* Death:  June 28 1931 - Beverly, Essex County, Massachusetts, United States of America
+* Parents:  George Sanderson Burrage and Amelia C Chamberlain
+* Siblings:  Clara A., Ellen M., Mary E., Cora Chamberlain, William Henry, Martha Bayley and Charles Dana
+* Partner:  Alice Hathaway Haskell
+* Children:  Albert Cameron, Francis Hathaway, Russell C and Bessie Alice
+
+
 **1859 – 1931** | Industrialist, attorney, philanthropist, and orchid enthusiast
 
 A pioneering businessman known as the "Copper King," Albert Cameron Burrage organized the Amalgamated Copper Company and founded mining operations that revolutionized low-grade copper ore processing. Beyond mining, he became renowned as a cultivator of rare orchids and served as the founding president of the American Orchid Society (1921–1929). The Royal Horticultural Society awarded him the Lindley Medal in 1925 for exceptional orchid exhibitions. His 28-room mansion on Commonwealth Avenue in Boston was built in 1899 at a cost of $600,000 and remains an architectural landmark.

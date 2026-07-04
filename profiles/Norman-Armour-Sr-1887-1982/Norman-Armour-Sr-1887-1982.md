@@ -1,8 +1,17 @@
-# Norman Armour (1887– 1982)
+# Norman Armour Sr (1887– 1982)
 
 ![Norman Armour](images/norman-armour.jpg)
 
 | `norman-armour.jpg` | Norman Armour (1887–1982) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norman_Armour.jpg) |
+
+* https://www.geni.com/people/The-Honorable-Norman-Armour-Sr/6000000002789971986
+* The Honorable Norman Armour, Sr
+* Birth:  Oct 14 1887 - Brighton, East Sussex, England, United Kingdom
+* Death:  Sep 27 1982 - New York, New York, United States
+* Parents:  George Allison Armour and Harriette Cobb Armour (born Foote)
+* Siblings:  George, Paul, Barbara, William R., Allison Vincent, Edmond and Liam
+* Partner:  Princess Myra Sergéievna Armour (born Koudachev)
+* Son:  Norman
 
 * Career United States diplomat
 * [**https://en.wikipedia.org/wiki/Norman_Armour**](https://en.wikipedia.org/wiki/Norman_Armour)
