@@ -21,7 +21,7 @@
 * https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat
 
 
-* October 14, 1887 Chicago
+* October 14, 1887 Brighton, England
 * September 27, 1982 New York NY
 
 Norman Armour was a career United States diplomat whom The New York Times once called "the perfect diplomat". In his long career spanning both World Wars, he served as Chief of Mission in eight countries, as Assistant Secretary of State for Political Affairs, and married into Russian nobility. He was the United States Ambassador to Canada, Haiti, Chile, Argentina, Spain, Venezuela, and Guatemala.

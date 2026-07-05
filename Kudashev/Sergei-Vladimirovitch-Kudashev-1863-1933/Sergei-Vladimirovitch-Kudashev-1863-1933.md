@@ -1,4 +1,4 @@
-# Sergei Vladimirovitch Kudashev
+# Sergei Vladimirovitch Kudashev (1863–1933)
 
 * Born 1863-12-14 Kiev, Russian Empire
 * Died 1933-02-28 Florence Italy

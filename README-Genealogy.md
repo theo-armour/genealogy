@@ -9,6 +9,8 @@ There are folders for four families. The folders are named after the surnames of
 The folder titled "Online Genealogy" contains information about online genealogy resources, including Geni, Ancestry, MyHeritage, and WikiTree along with the links to the family databases I've created on those sites
 
 The folder called "Documents" is mostly of little interest.
+
+
 ## Links of Interest
 
 ### Geni.com
