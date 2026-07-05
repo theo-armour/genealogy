@@ -2,17 +2,17 @@
 
 ## 2026-07-04
 
-* Adding new profili folfers and files
+* Adding new profile folders and files
 * Adding Geni links and basic information to each profile
 
 
 ## 2026-07-03
 
-* I am very happy with the progress.The project is beginning to have some kind of structure. After all of these decades ;-)
+* I am very happy with the progress. The project is beginning to have some kind of structure. After all of these decades ;-)
 * Many updates over the past few days.
 * Folders renamed and moved around. Much cleaning up.
 * The nicest thing is that many significant family members have their own folders with their own markdown files and associated images folder.
-Folders and files beginning to follow a standard with names in Wikipedia format along with their dates of birth and death
+* Folders and files beginning to follow a standard with names in Wikipedia format along with their dates of birth and death
 * The main markdown file also is beginning to have a structure.
 
 ## 2025-12-18

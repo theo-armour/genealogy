@@ -1,4 +1,4 @@
-# Norman Armour Sr (1887– 1982)
+# Norman Armour Sr (1887–1982)
 
 ![Norman Armour](images/norman-armour.jpg)
 
@@ -38,11 +38,11 @@ Ira Nelson Morris, American minister to Sweden, was best man. Mr. Armour, whose 
 
 https://en.wikipedia.org/wiki/Ira_Nelson_Morris
 
-## My Commments
+## My Comments
 
 Vladimir Lenin’s return to Petrograd was on April 3–16, 1917. Grandfather and a friend of his walked by and heard the turmoil of Lenin giving his speech. They wondered about stopping to listen, but nonetheless decided to continue their destination where they would play a game of whist with friends.
 
-When they were closing the embassy in 1918, the Embassy were told to burn all the papers. While doing so, it was time to close the door on the safe where the papers were kept. They knew the Bolsheviks would be certain to try and open the safe to see what was inside. Having a senses of whimsy, they decide to leave a symbol of capitalism, so they placed a top hat in the safe.
+When they were closing the embassy in 1918, the Embassy were told to burn all the papers. While doing so, it was time to close the door on the safe where the papers were kept. They knew the Bolsheviks would be certain to try and open the safe to see what was inside. Having a sense of whimsy, they decided to leave a symbol of capitalism, so they placed a top hat in the safe.
 
 When finally leaving Petrograd, Grandfather always said that he left on the train sharing a cabin with three sailors and a prostitute while sitting on a trunk full of jewels.
 
@@ -50,7 +50,7 @@ Grandfather always said that he attended the party at Prince Yusupov's Palace th
 
 My grandfather was always amused that at his wedding with Granny, the ceremony being Orthodox  they had to walk around the church three times.
 
-Grandfather Was involved with the North Russia Intervention in 1918-1919.There's a picture somewhere of him in Vladivostok.
+Grandfather was involved with the North Russia Intervention in 1918-1919. There's a picture somewhere of him in Vladivostok.
 
 My father Norman Armour Jr was born in Brussels on February 10 1920
 

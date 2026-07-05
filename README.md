@@ -10,7 +10,7 @@ This is the Theo Armour Genealogy repository, which contains information about t
 
 * <https://www.geni.com/family-tree/index/6000000004118029730>
 
-View of the GEDCOM files exported from Genie 2025-08-18
+View of the GEDCOM files exported from Geni 2025-08-18
 
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged>
 
@@ -43,13 +43,13 @@ View of the GEDCOM files exported from MyHeritage 2025-08-18
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged>
 
 
-## Kudachev Website
+## Kudashev Website
 
 * <https://www.kudashev.com/>
 
 ## Peeps in My Family
 
-Deprecated: This file is no longer maintained. Please refer to the [Peeps-in-My-Family.md](https://github.com/theo-armour/genealogy/blob/documents/Peeps-in-My-Family.md)
+Deprecated: This file is no longer maintained. Please refer to the [Peeps-in-My-Family.md](https://github.com/theo-armour/genealogy/blob/main/documents/Peeps-in-My-Family.md)
 
 * <https://github.com/theo-armour/genealogy/blob/main/Peeps-in-My-Family.md>
 

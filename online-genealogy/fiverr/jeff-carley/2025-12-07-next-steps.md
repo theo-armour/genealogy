@@ -10,9 +10,9 @@ Hi Jeff
 
 ## Current State
 
-With over 15,000 entries in Genie, the first pass contains more than enough data necessary to get to the third pass.
+With over 15,000 entries in Geni, the first pass contains more than enough data necessary to get to the third pass.
 
-* In Genie, click on "Tree," load a tree and click on "Statistics" to view the amazing numbers.
+* In Geni, click on "Tree," load a tree and click on "Statistics" to view the amazing numbers.
 * In comparison Ancestry only has just 450 entries in the Armour-Ferté tree.
 
 My observation is that the first pass is about quantity, the second pass is about quality, and the third pass is about depth. Geni is far superior to Ancestry for the first pass because of its collaborative nature.

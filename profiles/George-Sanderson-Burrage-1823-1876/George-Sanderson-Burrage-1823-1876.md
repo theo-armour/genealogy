@@ -2,7 +2,7 @@
 
 ![George Sanderson Burrage](images/george-sanderson-burrage.jpeg)
 
-## Geneology
+## Genealogy
 
 * https://www.geni.com/people/George-Burrage/6000000002789973055
 * George Sanderson Burrage
