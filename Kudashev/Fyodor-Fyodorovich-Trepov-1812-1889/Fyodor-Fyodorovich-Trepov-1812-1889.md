@@ -1,18 +1,30 @@
-# Fyodor Fyodorovich Trepov
+# Fyodor Fyodorovich Trepov (1812–1889) ~ Фёдор Фёдорович Трепов
 
 ![Fyodor Trepov](images/fyodor-trepov.jpg)
 
 | `fyodor-trepov.jpg` | Fyodor Trepov, senior (1809–1889) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trepov_F_F_old.jpg) |
 
-Based on the information available, the father of Anastatisya Fyodorovna Nieroth (née Trepova) was **Fyodor Fyodorovich Trepov (Senior)**.
+## Genealogy
 
-https://gemini.google.com/app/87354eeb7faf1d0f
+* Name: Fyodor Fyodorovich Trepov (Senior)
+* Dates: 1812–1889 ~ birth year also given as 1809 in some sources
+* Spouse: Vera Vasilyevna Lukasevich (the mother of Anastatisya)
+* Children include: Anastatisya Fyodorovna (Nieroth), Dmitri Trepov and Alexander Trepov
 
-Here are the key details about him:
+## Names and Spellings
 
-* **Name:** Fyodor Fyodorovich Trepov (Russian: Фёдор Фёдорович Трепов)
-* **Dates:** 1812–1889
-* **Role:** He was a prominent Russian General and government official. He served as the **Governor of St. Petersburg** (1873–1878) and is perhaps best known historically for surviving an assassination attempt by the revolutionary Vera Zasulich in 1878.
-* **Spouse:** Vera Vasilyevna Lukasevich (the mother of Anastatisya).
+* Russian: Фёдор Фёдорович Трепов
+* Modern transliteration: Fyodor Fyodorovich Trepov
+* Also seen as: Feodor Trepov; "Trepov senior" ~ to distinguish him from his son Fyodor Fyodorovich Jr.
 
-Anastatisya was one of his several children, who also included **Dmitri Trepov** (Governor-General of St. Petersburg during the 1905 Revolution) and **Alexander Trepov** (Prime Minister of the Russian Empire from 1916 to 1917).
+## Links
+
+* <https://en.wikipedia.org/wiki/Fyodor_Trepov>
+* <https://gemini.google.com/app/87354eeb7faf1d0f> ~ research chat
+
+## Life
+
+A prominent Russian General and government official. He served as the **Governor of St. Petersburg** (1873–1878) and is perhaps best known historically for surviving an assassination attempt by the revolutionary Vera Zasulich in 1878.
+
+Based on the information available, he was the father of Anastatisya Fyodorovna Nieroth (née Trepova). Anastatisya was one of his several children, who also included **Dmitri Trepov** (Governor-General of St. Petersburg during the 1905 Revolution) and **Alexander Trepov** (Prime Minister of the Russian Empire from 1916 to 1917).
+

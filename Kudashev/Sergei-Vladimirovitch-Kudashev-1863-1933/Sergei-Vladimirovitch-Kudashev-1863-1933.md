@@ -1,18 +1,26 @@
-# Sergei Vladimirovitch Kudashev (1863–1933)
+# Sergei Vladimirovitch Kudashev (1863–1933) ~ Сергей Владимирович Кудашев
 
-* Born 1863-12-14 Kiev, Russian Empire
-* Died 1933-02-28 Florence Italy
-
-## My comments
-
-Likely to be in Venice.
-On the morning of July 14, 1902, Venice’s iconic Campanile di San Marco — the city’s tallest structure at 98.6 meters — suddenly collapsed, sending a cloud of dust over St. Mark’s Square and the lagoon. Granny said she was in Venice when it collapsed.
-
-
-## Prince Sergei Vladimirovitch Kudashev
+## Genealogy
 
 * https://www.geni.com/people/Prince-Sergei-Kudashev/6000000019323938097?through=364408351200007646
-* https://www.wikidata.org/wiki/Q108332252 ~ Note: "Prince Tatarsky" (Tatar) = Indication that this is member of one of the Princely families created by Peter the Great upon the acquisition of Siberia
+* Prince Sergei Vladimirovitch Kudashev
+* Birth: Dec 14 1863 - Kiev, Russian Empire
+* Death: Feb 28 1933 - Florence, Italy
+* Parents: Prince Vladimir Sergejewitch Koudacheff (1833–1871) and Princess Olga Nikolaevna Horvath (1840–1907)
+* Wife: Countess Vera Maximilianovna von Nieroth (married 1894)
+* Children: Myra Sergéievna and Serge Serguéiévitch
+
+## Names and Spellings
+
+* Russian: Сергей Владимирович Кудашев ~ verify
+* Modern transliteration: Sergei Vladimirovich Kudashev
+* French transliteration: Serge Koudacheff ~ Wikimedia Commons "Collection Serge Koudacheff"
+* German transliteration: Serge Wladimirowitch Koudacheff ~ Christie's lot record
+* Title: Prince ~ Wikidata notes "Prince Tatarsky" (Tatar) = member of one of the Princely families created by Peter the Great upon the acquisition of Siberia
+
+## Links
+
+* https://www.wikidata.org/wiki/Q108332252
 * https://www.christies.com/en/lot/lot-3990190#:~:text=VARIOUS%20PROPERTIES,Serge%20Wladimirowitch%20Koudacheff%20a%20St.
 * https://www.prlib.ru/en/news/1328412
 * https://www.prlib.ru/en/node/335177
@@ -23,16 +31,15 @@ Much more here:
 * https://gemini.google.com/share/871af3fcccd2
 * https://claude.ai/share/ee76141d-93b8-4ee3-a217-45d787393210
 
-I know almost nothing about my great-grandfather's life. The only thing that I ever heard about him was that he very involved with the acquisition of significant number of Impressionist paintings for the Hermitage.
+## Life
 
-
-## Family
+### Family
 Prince Sergei Vladimirowitch Koudacheff belonged to a prominent noble family of originally
 Tatar descent, who had acquired the right to bear a princely title within the Russian Empire
 since the 17th century. He was the son of Prince Vladimir Sergejewitch Koudacheff (1833-1871)
 and princess Olga Nikolaevna Horvath (1840-1907).
 
-## Professional career
+### Professional career
 
 Prince Sergei Vladimirowitch Koudacheff held two consecutive representative positions at the
 imperial Russian court under the reign of tsar Nicholas II.
@@ -77,7 +84,7 @@ diplomatic service. From 1906 to 1910, he was the envoy to Denmark, from 1910 to
 this position in Belgium and Luxembourg, and until the revolution in 1917, he served as
 ambassador to Spain.
 
-## Private life
+### Private life
 Prince Sergei Vladimirowitch Koudacheff
 married countess Vera Maximilianovna von
 Nieroth (1874–1920) in 1894, with whom he had
@@ -102,7 +109,8 @@ on the occasion of the Romanov costume ball on February
 commemorating the 290th anniversary of the Romanov
 dynasty.
 
-Flight and exile
+### Flight and exile
+
 Due to his position and as a member of the Russian
 nobility, prince Sergei Vladimirowitch Koudacheff was in
 immediate mortal danger right after the outbreak of the
@@ -135,7 +143,7 @@ It was in this setting that their daughter Myra came into contact with the Danis
 archaeologist Frans Blom (1893-1963) in the summer of 1918. He proposed to her, but she
 declined his proposal to marry her.
 
-## Marriage of Myra Koudacheff and Norman Armour
+### Marriage of Myra Koudacheff and Norman Armour
 In his capacity as 2nd secretary of the American embassy in
 St. Petersburg, Norman Armour (1887–1982) had helped the
 Koudacheff family escape from Russia. The future United
@@ -175,3 +183,11 @@ In February 1919, the couple married, and she would
 accompany him all over the world throughout his entire
 diplomatic career.
 Princess Myra Koudacheff
+
+## My Comments
+
+I know almost nothing about my great-grandfather's life. The only thing that I ever heard about him was that he very involved with the acquisition of significant number of Impressionist paintings for the Hermitage.
+
+Likely to be in Venice.
+On the morning of July 14, 1902, Venice’s iconic Campanile di San Marco — the city’s tallest structure at 98.6 meters — suddenly collapsed, sending a cloud of dust over St. Mark’s Square and the lagoon. Granny said she was in Venice when it collapsed.
+

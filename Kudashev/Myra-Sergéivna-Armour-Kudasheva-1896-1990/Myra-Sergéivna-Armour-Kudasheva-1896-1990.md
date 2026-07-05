@@ -1,6 +1,8 @@
-# Princess Myra Sergueievna Armour (Kudasheva) ~ Мария Сергеевна Армур (Кудашева) ~ 1896-1990
+# Princess Myra Sergueievna Armour (Kudasheva) (1896–1990) ~ Мария Сергеевна Армур (Кудашева)
 
 https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg
+
+## Genealogy
 
 * https://www.geni.com/people/Princess-Myra-Armour/364408351200007646
 * Princess Myra Sergéievna Armour (born Koudachev)
@@ -11,6 +13,16 @@ https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/192
 * Partner:  The Honorable Norman Armour, Sr
 * Son:  Norman
 
+## Names and Spellings
+
+* Russian: Мария Сергеевна Кудашева ~ verify
+* Modern transliteration: Maria Sergeyevna Kudasheva
+* French transliteration: Myra Sergéievna Koudacheff ~ as used in émigré documents
+* Also seen as: Koudachev ~ Geni; Koudacheff ~ Sweden-era documents
+* Married name: Myra Armour
+* Known as: Myra; "Granny"
+
+## My Comments
 
 I loved my grandmother and had excellent communication with her. Nonetheless, I know very little about my grandmother's youth. I know she spoke seven languages quite fluently. I remember her reminiscing that she had her debutante "coming out party" with one of the Tsarina's daughters, but I don't know which one.
 
