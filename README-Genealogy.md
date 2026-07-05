@@ -4,9 +4,14 @@ This is the Theo Armour Genealogy repository, which contains information about t
 
 <https://theo-armour.github.io/genealogy/>
 
+There are folders for four families. The folders are named after the surnames of my grandparents: Armour, Kudashev, Burrage and Shirk
+
+The folder titled "Online Genealogy" contains information about online genealogy resources, including Geni, Ancestry, MyHeritage, and WikiTree along with the links to the family databases I've created on those sites
+
+The folder called "Documents" is mostly of little interest.
 ## Links of Interest
 
-### Geni
+### Geni.com
 
 * <https://www.geni.com/family-tree/index/6000000004118029730>
 
@@ -14,7 +19,7 @@ View of the GEDCOM files exported from Geni 2025-08-18
 
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged>
 
-### Ancestry
+### Ancestry.com
 
 Must be a member to access
 
@@ -25,7 +30,7 @@ View of the GEDCOM files exported from Ancestry 2025-08-18
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged>
 
 
-### MyHeritage
+### MyHeritage.com
 
 * <https://www.myheritage.com/family-sites/armour/OYYV6PBSECQU5WE7JKWV7Q44V3NYJUI>
 
