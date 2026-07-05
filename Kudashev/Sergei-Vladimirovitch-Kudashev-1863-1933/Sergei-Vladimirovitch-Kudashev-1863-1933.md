@@ -1,5 +1,9 @@
 # Sergei Vladimirovitch Kudashev (1863–1933) ~ Сергей Владимирович Кудашев
 
+![Sergei Vladimirovitch Kudashev at the 1903 Romanov costume ball](images/1903-ball-sergei-kudashev.jpeg)
+
+| `1903-ball-sergei-kudashev.jpeg` | Prince Sergei Kudashev at the Romanov costume ball, Winter Palace, February 1903 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1903_ball_-_Serg.Vl._Kudashev.jpeg) |
+
 ## Genealogy
 
 * https://www.geni.com/people/Prince-Sergei-Kudashev/6000000019323938097?through=364408351200007646
@@ -183,6 +187,32 @@ In February 1919, the couple married, and she would
 accompany him all over the world throughout his entire
 diplomatic career.
 Princess Myra Koudacheff
+
+### Art collection
+
+Sergei was a noted art collector. His collection was sold in 1902–1905 via two catalogues: *Vingt-cinq tableaux de la collection du Prince Serge Wladimirowitch Koudacheff à St. Pétersbourg* (1902) and *Tableaux anciens formant la collection du Prince Tatarsky* (1905). Wikimedia Commons groups these under [Collection Serge Koudacheff](https://commons.wikimedia.org/wiki/Category:Collection_Serge_Koudacheff).
+
+Paintings formerly in his collection:
+
+![The Peasant Wedding](images/brueghel-younger-peasant-wedding.jpg)
+
+| `brueghel-younger-peasant-wedding.jpg` | Pieter Brueghel the Younger, *The Peasant Wedding* | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Brueghel_the_Younger_-_The_Peasant_Wedding_-_Google_Art_Project.jpg) |
+
+![The Musical Contest between Apollo and Marsyas](images/poelenburgh-apollo-and-marsyas.jpg)
+
+| `poelenburgh-apollo-and-marsyas.jpg` | Cornelis van Poelenburgh, *The Musical Contest between Apollo and Marsyas* | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cornelis_van_Poelenburgh_-_The_Musical_Contest_between_Apollo_and_Marsyas_-_Google_Art_Project.jpg) |
+
+![A Sandy Road with Thatched Cottage](images/van-goyen-sandy-road.jpg)
+
+| `van-goyen-sandy-road.jpg` | Jan van Goyen, *A Sandy Road with Thatched Cottage*, Yale University Art Gallery | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jan_van_Goyen_-_A_Sandy_Road_with_Thatched_Cottage_-_1972.96_-_Yale_University_Art_Gallery.jpg) |
+
+Plates from the 1905 *Prince Tatarsky* sale catalogue:
+
+![Catalogue plate 1](images/tatarsky-catalogue-1905-plate-1.jpg)
+![Catalogue plate 2](images/tatarsky-catalogue-1905-plate-2.jpg)
+![Catalogue plate 3](images/tatarsky-catalogue-1905-plate-3.jpg)
+![Catalogue plate 4](images/tatarsky-catalogue-1905-plate-4.jpg)
+![Catalogue plate 5](images/tatarsky-catalogue-1905-plate-5.jpg)
 
 ## My Comments
 

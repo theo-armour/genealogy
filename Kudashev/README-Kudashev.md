@@ -26,6 +26,19 @@ Here links to quite a few references here.
 * https://www.kudashev.com/2007/10/photos-of-koudachev-house-in-st.html
 * https://www.flickr.com/photos/aceit/975071431/
 
+## Possibly Related Images ~ identification needed
+
+Found on Wikimedia Commons; relation to our line not yet confirmed. Stored in [images/](images/).
+
+| `1903-ball-elizaveta-mikhailovna-nirod.jpg` | Elizaveta **Mikhailovna** Nirod at the 1903 Romanov ball ~ which Nirod branch? | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1903_ball_-_Eliz._Mikh._Nirod.jpg) |
+| `nirod-estate-ukraine.jpg` | "Садиба графа Нірода" ~ Count Nirod's estate, Ukraine ~ Maximilian died in Kiev; same family? | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%B4%D0%B8%D0%B1%D0%B0_%D0%B3%D1%80%D0%B0%D1%84%D0%B0_%D0%9D%D1%96%D1%80%D0%BE%D0%B4%D0%B0.jpg) |
+
+Still to download ~ Commons rate limit, retry later:
+
+* [1903 ball - Vera Mikh. Kudasheva.jpeg](https://commons.wikimedia.org/wiki/File:1903_ball_-_Vera_Mikh._Kudasheva.jpeg) ~ caution: Vera **Mikhailovna**, not our Vera Maximilianovna
+* [Nirod Mikhail Evstafievich.jpg](https://commons.wikimedia.org/wiki/File:Nirod_Mikhail_Evstafievich.jpg) ~ Evstafievich patronymic matches Maximilian's father's generation
+
+
 ## Villa Skärtofta
 
 * Saltsjöbaden

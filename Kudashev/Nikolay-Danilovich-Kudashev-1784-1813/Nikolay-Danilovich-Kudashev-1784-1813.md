@@ -4,6 +4,10 @@
 
 | `nikolay-kudashev.jpg` | Nikolay Danilovich Kudashev (1784–1813) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kudashev_Nikolay_Danilovich.jpg) |
 
+![Nikolay Danilovich Kudashev engraving](images/nikolay-kudashev-rundaltzov-engraving.jpg)
+
+| `nikolay-kudashev-rundaltzov-engraving.jpg` | Engraving by Mikhail Rundaltzov after the Military Gallery portrait, Hermitage | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kudashev_Nikolay_Danilovich_by_Mikhail_Rundaltzov_-_Hermitage.jpg) |
+
 ## Genealogy
 
 * Prince, from a Tatar noble family
