@@ -1,17 +1,16 @@
 # [Theo Armour / Genealogy]( https://github.com/theo-armour/genealogy/tree/main )
 
-This is the Theo Armour Genealogy repository, which contains information about the Armour family lineage and related genealogical data.
+This is my genealogy repository. It holds information about my family lineage and related genealogical data. All this data and the tools are public and open source. I hope you will use these ideas and methods to help you better understand where you come from.
 
-<https://theo-armour.github.io/genealogy/>
-
-There are folders for four families. The folders are named after the surnames of my grandparents: Armour, Kudashev, Burrage and Shirk
+There are folders for four families. The folders are named after the birth surnames of my grandparents: Armour, Kudashev, Burrage and Shirk
 
 The folder titled "Online Genealogy" contains information about online genealogy resources, including Geni, Ancestry, MyHeritage, and WikiTree along with the links to the family databases I've created on those sites
 
-The folder called "Documents" is mostly of little interest.
+The folder called "Documents" is mostly of little interest. It's a hodgepodge of notes, ideas, and other information that I use in the process of getting to this repository. I keep it here because it is part of my history after all.
 
+Much of the data that is here has been collected via online web genealogy services. The links below will take you to the various websites I have used to build this repository.
 
-## Links of Interest
+## Links to Companion Projects
 
 ### Geni.com
 
@@ -54,15 +53,6 @@ View of the GEDCOM files exported from MyHeritage 2025-08-18
 
 * <https://www.kudashev.com/>
 
-## Peeps in My Family
-
-Deprecated: This file is no longer maintained. Please refer to the [Peeps-in-My-Family.md](https://github.com/theo-armour/genealogy/blob/main/documents/Peeps-in-My-Family.md)
-
-* <https://github.com/theo-armour/genealogy/blob/main/Peeps-in-My-Family.md>
-
-### GEDCOM
-
-<https://github.com/theo-armour/genealogy/blob/main/gedcom.md>
 
 ***
 

@@ -13,7 +13,7 @@
 * Birth:  July 23 1874 - St. Petersburg
 * Death:  Jan 26 1920 - Paris
 * Parents:  Count Maximilian Carl Benedikt von Nieroth and Anastatisya Fyodorovna Nieroth (born Trepova)
-* Brother:  Fyodor Maksimilianovich
+* Brother:  Fyodor Maximilianovich
 * Partner:  Prince Sergei Vladimirovitch "Serge Vladimirovitch Koudachev" Kudashev (born Koudacheff)
 * Children:  Myra Sergéievna and Serge Serguéiévitch
 
