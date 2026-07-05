@@ -4,7 +4,6 @@ This is the Theo Armour Genealogy repository, which contains information about t
 
 <https://theo-armour.github.io/genealogy/>
 
-
 ## Links of Interest
 
 ### Geni
@@ -35,11 +34,11 @@ View of the GEDCOM files exported from MyHeritage 2025-08-18
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-18-myheritage-armour.ged>
 
 
-## Jeff Carley
+## Data from Jeff Carley
 
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-23-carley-armour-family-tree.ged>
 
-## Matthew
+## Data from Matthew
 
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged>
 
