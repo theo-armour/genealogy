@@ -1,4 +1,4 @@
-# Albert Cameron Burrrage III
+# Albert Cameron Burrage III (1919–1944)
 
 ![]( images/ghows_image-WL-96611be9-20be-4494-a06a-7c499e2dab99.webp )
 
