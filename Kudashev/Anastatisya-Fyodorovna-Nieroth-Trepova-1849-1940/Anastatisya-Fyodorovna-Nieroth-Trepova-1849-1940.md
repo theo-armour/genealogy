@@ -1,6 +1,6 @@
 # Anastatisya Fyodorovna Nieroth (Trepova) (1849–1940) ~ Анастасия Фёдоровна Нирод (Трепова)
 
-![Anastatisya Fyodorovna Nieroth (Trepova)](images/nieroth_anastasia_large.jpeg)
+![Anastatisya Fyodorovna Nieroth (Trepova)](images/nieroth_anastasia_large.jpg)
 
 ## Genealogy
 
@@ -18,5 +18,5 @@
 * Finnish: Anastasia Fjodorovna Nieroth (Trepova)
 * Modern transliteration: Anastasiya Fyodorovna Nirod (née Trepova)
 * Also seen as: Anastatisya ~ Geni spelling, used for this folder and file
-* Note: Нирод (Nirod) is the Russian form of the Baltic German name Nieroth
+* Note: Нирод (Nirod) is the Russian form of the Baltic German name von Nieroth
 
