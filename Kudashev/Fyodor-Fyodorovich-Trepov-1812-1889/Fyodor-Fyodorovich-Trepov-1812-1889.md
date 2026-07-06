@@ -1,4 +1,4 @@
-# Fyodor Fyodorovich Trepov (1812–1889) ~ Фёдор Фёдорович Трепов
+# Fyodor Fyodorovich Trepov (1809–1889) ~ Фёдор Фёдорович Трепов
 
 ![Fyodor Trepov](images/fyodor-trepov.jpg)
 
@@ -7,8 +7,8 @@
 ## Genealogy
 
 * Name: Fyodor Fyodorovich Trepov (Senior)
-* Dates: 1812–1889 ~ birth year also given as 1809 in some sources
-* Spouse: Vera Vasilyevna Lukasevich (the mother of Anastatisya)
+* Dates: 1809–1889
+* Spouse: Vera Vasilyevna Lukasevich
 * Children include: Anastatisya Fyodorovna (Nieroth), Dmitri Trepov and Alexander Trepov
 
 ## Names and Spellings
