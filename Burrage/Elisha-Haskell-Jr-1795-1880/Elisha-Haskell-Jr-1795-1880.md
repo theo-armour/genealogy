@@ -12,8 +12,6 @@
 
 ## Life
 
-Based on the details provided and historical records from Massachusetts, here is a detailed look at the life of **Elisha Haskell** (1795–1880).
-
 ### Quick Summary
 * **Full Name:** Elisha Haskell (often referred to as Elisha Haskell Jr. in records to distinguish him from his grandfather).
 * **Vital Dates:** Born approx. 1795/1798 — Died October 8, 1880.

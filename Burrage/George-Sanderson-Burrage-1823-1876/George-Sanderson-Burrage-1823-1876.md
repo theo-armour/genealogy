@@ -1,4 +1,4 @@
-# George Sanderson Burrage 1823-1876
+# George Sanderson Burrage (1823–1876)
 
 ![George Sanderson Burrage](images/george-sanderson-burrage.jpeg)
 

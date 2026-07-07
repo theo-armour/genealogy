@@ -12,8 +12,6 @@
 
 ## Life
 
-Based on the genealogical and historical records matching the dates you provided, here is the information available for **Francis Hathaway Haskell**.
-
 ### Vital Statistics
 
 * **Name:** Francis Hathaway Haskell (often referred to as "Frank" in family records).
