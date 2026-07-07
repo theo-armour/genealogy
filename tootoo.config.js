@@ -10,4 +10,6 @@ window.TOOTOO_CONFIG = {
   faviconColor: '#27ae60',
   hiddenFiles: [ 'tootoo.config.js' ],
   hiddenFolders: [],
+  headingFont: '"Rammetto One", sans-serif',     // heading + title face
+  headingFontUrl: 'https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap',
 };
