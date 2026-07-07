@@ -69,3 +69,4 @@ Still to download ~ Commons rate limit, retry later:
 
 * https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%80%D0%BE%D0%B4%D1%8B
 * https://commons.wikimedia.org/w/index.php?search=nirod
+* https://commons.wikimedia.org/w/index.php?search=neiroth
