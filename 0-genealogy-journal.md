@@ -1,5 +1,38 @@
 # Genealogy Journal
 
+## 2026-07-07
+
+Yesterday I organized the files by having people's names go into a family name folder.
+Every family name has its own folder:
+- Armour
+- Burrage
+- Kudashev
+- Shirk
+- whatever
+
+I've been thinking about a lot of ways of nesting the folders, but an issue there is that in operating systems folder names can only be so long. Long nests do not work.
+
+And always a goal is that we're not a prisoner of my system. We can move to any other system as easily. We're not in a database, a proprietary database or anything.
+
+And I thought a lot about this and came up with a lot of issues and whatever.I've come to the system that putting the family names in a family folder is probably not the best direction.It just gets too complicated linking people to each other.Then, of course, the light bulb went on.Follow the elephant in the room. Follow Wikipedia.
+
+All Wikipedia entries are just one long list. Everybody has a unique name. It's a list millions of lines long.When you need to put stuff together, you put them in categories.Or lists, or outlinesBut every entry stands by itself.
+
+I plan to put all the names back into one long folder and use categories or probably families as the title to lump them in individual ways and have logical patterns for finding them.
+
+For handling ancillary information, such as PDF files and images and whatever, Wikipedia uses Wikipedia commons.
+
+Or that should be commons.wikimedia.org. Commons also supports categories, and I can do the same.
+
+Ah! It looks like I can link to Commons Wikimedia from the web page legally.Since so many of my images are coming from Wikipedia and I have images I want to upload, this may be the best way to go in the future.
+
+One issue with that is that some of the file names are just awful.
+Now I'm wondering if I should do the same thing?That would enable me to get rid of the images folder.This, in turn, could help me get rid of everything being in a folder, and I could just have a thousand MD files.
+
+## 2026-07-06
+
+It's been a slog, but it looks like genealogy is ready to begin to share.
+
 ## 2026-07-04
 
 * Adding new profile folders and files
