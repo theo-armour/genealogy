@@ -5,9 +5,9 @@ My "Granny" was Princess Myra Armour (née Kudasheva), daughter of Princess Vera
 ## Prominent Russian noble family
 * https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B
 
-There’s more. See Princess Vera Kudasheva
+Many interesting things here. See Princess Vera Kudasheva!
 
-![Princess Vera Kudasheva](./Kudashev\Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920\images\vera-kudasheva.jpg))
+![Princess Vera Kudasheva](./Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/images/vera-kudasheva.jpg)
 
 ## Names and Spellings
 
@@ -52,12 +52,6 @@ Still to download ~ Commons rate limit, retry later:
 * https://sv.wikipedia.org/wiki/Villa_Sk%C3%A4rtofta
 * https://www.vargard.se/en/article/villa-skartofta-is-being-built/
 
-## Sandricourt
-
-* https://maps.app.goo.gl/H5u86RCxDhKYx5xL9
-* https://americanaristocracy.com/houses/chateau-de-sandricourt
-* https://www.nytimes.com/1908/09/20/archives/r-goelet-buys-a-chateau-pays-300000-for-sandricourt-may-be-for-his.html
-* https://sandricourtshoot.com/en/
 
 ## Trepov Family
 
@@ -69,4 +63,4 @@ Still to download ~ Commons rate limit, retry later:
 
 * https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%80%D0%BE%D0%B4%D1%8B
 * https://commons.wikimedia.org/w/index.php?search=nirod
-* https://commons.wikimedia.org/w/index.php?search=neiroth
+*https://commons.wikimedia.org/w/index.php?search=neiroth

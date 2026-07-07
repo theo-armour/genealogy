@@ -39,6 +39,15 @@ From Claude?
 
 Born July 2, 1871, in Saint Petersburg into the Baltic German von Nieroth family, Theodor was the son of the courtier Maximilian von Nieroth and Anastasia Trepova — a grandson of Fyodor Trepov (senior). After graduating from the elite Page Corps in 1892, he served in a Guards cavalry regiment, was promoted to colonel in 1907, and commanded the 16th Hussar Regiment (1911) and then the Life Guards Dragoon Regiment (1912), leading the latter through the First World War. In January 1915 he was awarded the Sword of St. George for repelling an enemy cavalry brigade near Schirwindt in East Prussia, where he was wounded but stayed in the field; he went on to command the 2nd Guards Cavalry Division. During the Russian Civil War he served in Anton Denikin's White Volunteer Army before emigrating, and died in France on March 26, 1952.
 
+## Sandricourt
+
+This is the chateau where Uncle Theo was living when I met him in 1969. He was the game-keeper. It is located in the Oise department of France, about 50 miles north of Paris.
+
+* https://maps.app.goo.gl/H5u86RCxDhKYx5xL9
+* https://americanaristocracy.com/houses/chateau-de-sandricourt
+* https://www.nytimes.com/1908/09/20/archives/r-goelet-buys-a-chateau-pays-300000-for-sandricourt-may-be-for-his.html
+* https://sandricourtshoot.com/en/
+
 ## Estonia Wikipedia
 
 https://et.wikipedia.org/wiki/Theodor_von_Nieroth_(1871%E2%80%931952)
