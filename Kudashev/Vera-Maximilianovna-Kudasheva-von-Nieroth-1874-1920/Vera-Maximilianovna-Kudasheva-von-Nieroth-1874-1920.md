@@ -2,9 +2,10 @@
 
 ![Princess Vera Maximilianovna Kudasheva](images/vera-kudasheva.jpg)
 
-* https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1900~-unknown-vera-von-neiroth-in-court-dress.jpg
-* https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1900~-unknown-vera-von-neiroth.jpg
-* https://www.kudashev.com/2007/10/portrait-of-moltedo-by-ingres.html
+![Princess Vera Maximilianovna Kudasheva](images/1900~-unknown-vera-von-neiroth-in-court-dress.jpg)
+
+![Princess Vera Maximilianovna Kudasheva](images/1900~-unknown-vera-von-neiroth.jpg)
+
 
 ## Genealogy
 
@@ -23,4 +24,10 @@
 * Modern transliteration: Vera Maksimilianovna Kudasheva (née Countess von Nieroth)
 * Also seen as: von Neiroth ~ misspelling in the evereverland image file names
 * Maiden name: Countess Vera von Nieroth
+
+## Links
+
+* https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1900~-unknown-vera-von-neiroth-in-court-dress.jpg
+* https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1900~-unknown-vera-von-neiroth.jpg
+* https://www.kudashev.com/2007/10/portrait-of-moltedo-by-ingres.html
 

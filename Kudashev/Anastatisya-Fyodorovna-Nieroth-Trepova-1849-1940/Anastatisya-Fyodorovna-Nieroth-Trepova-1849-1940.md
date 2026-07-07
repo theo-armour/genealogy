@@ -1,6 +1,6 @@
-# Anastatisya Fyodorovna Nieroth (Trepova) (1849–1940) ~ Анастасия Фёдоровна Нирод (Трепова)
+# Anastasia Fyodorovna Nieroth (Trepova) (1849–1940) ~ Анастасия Фёдоровна Нирод (Трепова)
 
-![Anastatisya Fyodorovna Nieroth (Trepova)](images/nieroth_anastasia_large.jpg)
+![Anastasia Fyodorovna Nieroth (Trepova)](images/nieroth_anastasia_large.jpg)
 
 ## Genealogy
 

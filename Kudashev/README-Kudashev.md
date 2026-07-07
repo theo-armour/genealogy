@@ -13,6 +13,9 @@ There’s more. See Princess Vera Kudasheva
 
 Also: Koudacheff, Koudashev, Kudashev, Koudachev, kudachew
 
+## Links
+
+* https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2
 
 ## Genealogy
 
@@ -55,3 +58,14 @@ Still to download ~ Commons rate limit, retry later:
 * https://americanaristocracy.com/houses/chateau-de-sandricourt
 * https://www.nytimes.com/1908/09/20/archives/r-goelet-buys-a-chateau-pays-300000-for-sandricourt-may-be-for-his.html
 * https://sandricourtshoot.com/en/
+
+## Trepov Family
+
+* https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%BF%D0%BE%D0%B2%D1%8B
+* https://commons.wikimedia.org/w/index.php?search=trepov
+
+
+## Nirods
+
+* https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%80%D0%BE%D0%B4%D1%8B
+* https://commons.wikimedia.org/w/index.php?search=nirod

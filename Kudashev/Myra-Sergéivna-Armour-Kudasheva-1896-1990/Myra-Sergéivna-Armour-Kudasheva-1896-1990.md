@@ -1,5 +1,6 @@
 # Princess Myra Sergueievna Armour (Kudasheva) (1896–1990) ~ Мария Сергеевна Армур (Кудашева)
 
+![Princess Myra Sergueievna Armour (Kudasheva)](images/1921-olive-snell-myra-koudachev-armour.jpg)
 https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg
 
 ## Genealogy
