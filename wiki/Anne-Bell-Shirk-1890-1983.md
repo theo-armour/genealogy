@@ -1,18 +1,18 @@
-# Anne Bell Burrage (1890–1983)
+# Anne Bell Shirk (1890–1983)
 
-![Anne Burrage](../commons/anne-burrage.jpg)
+![Anne Bell Shirk](../commons/anne-burrage.jpg)
 
-| `anne-burrage.jpg` | Anne Bell Burrage (1890–1983) | Family / Herb Society of America collections |
+| `anne-burrage.jpg` | Anne Bell Shirk (1890–1983) | Family / Herb Society of America collections |
 
 ## Genealogy
 
 * https://www.geni.com/people/Anne-Burrage/6000000002789973022
-* Anne Bell Burrage (born Shirk)
-* Birth: Oct 6 1893 - Philadelphia, Pennsylvania, United States
+* Anne Bell Shirk (married Burrage)
+* Birth: Oct 6 1890 - Philadelphia, Pennsylvania, United States
 * Death: Aug 22 1983 - Ipswich, Massachusetts, United States
-* Parents: James Cameron Marshall Shirk and Ida Watkins Shirk (born Watkins)
-* Partner: Albert Cameron Burrage, Jr.
-* Children: Albert Cameron, Anne Bell and Cynthia Sewall
+* Parents: [James Cameron Marshall Shirk](James-Cameron-Marshall-Shirk-1865-1918.md) and Ida Watkins (married Shirk)
+* Partner: [Albert Cameron Burrage, Jr.](Albert-Cameron-Burrage-Jr-1886-1978.md)
+* Children: [Albert Cameron](Albert-Cameron-Burrage-III-1919-1944.md), Anne Bell and [Cynthia Sewall](Cynthia-Sewall-Burrage-1921-1983.md)
 
 ## Links
 

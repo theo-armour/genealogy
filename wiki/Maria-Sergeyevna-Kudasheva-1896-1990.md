@@ -1,18 +1,18 @@
-# Princess Myra Sergueievna Armour (Kudasheva) (1896–1990) ~ Мария Сергеевна Армур (Кудашева)
+# Maria Sergeyevna Kudasheva (1896–1990) ~ Мария Сергеевна Кудашева
 
-![Princess Myra Sergueievna Armour (Kudasheva)](../commons/1921-olive-snell-myra-koudachev-armour.jpg)
+![Princess Maria Sergeyevna Kudasheva](../commons/1921-olive-snell-myra-koudachev-armour.jpg)
 https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg
 
 ## Genealogy
 
 * https://www.geni.com/people/Princess-Myra-Armour/364408351200007646
-* Princess Myra Sergéievna Armour (born Koudachev)
-* Birth:  Apr 7 1896 - Saint Petersberg, Russia
+* Princess Maria Sergeyevna Kudasheva (married Armour)
+* Birth:  Apr 7 1896 - Saint Petersburg, Russia
 * Death:  Sep 15 1990 - New York, New York, United States
-* Parents:  Prince Sergei Vladimirovitch "Serge Vladimirovitch Koudachev" Kudashev (born Koudacheff) and Princess Vera Maksimilianovna Kudasheva (born von Nieroth)
-* Siblings:  Serge Serguéiévitch and Olga
-* Partner:  The Honorable Norman Armour, Sr
-* Son:  Norman
+* Parents:  Prince [Sergei Vladimirovich Kudashev](Sergei-Vladimirovich-Kudashev-1863-1933.md) and Countess [Vera Maximilianovna von Nieroth](Vera-Maximilianovna-von-Nieroth-1874-1920.md) (married Kudashev)
+* Siblings:  [Sergei Sergeyevich](Sergei-Sergeyevich-Kudashev-1901-1991.md) and Olga
+* Partner:  The Honorable [Norman Armour, Sr](Norman-Armour-Sr-1887-1982.md)
+* Son:  [Norman](Norman-Armour-Jr-1920-1978.md)
 
 ## Names and Spellings
 

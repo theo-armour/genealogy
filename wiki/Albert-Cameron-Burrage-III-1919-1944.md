@@ -8,8 +8,8 @@
 * Albert Cameron Burrage III
 * Birth: Feb 14 1919 - Boston, Suffolk County, MA, United States
 * Death: Aug 8 1944 - Gouesnou, Finistère, Brittany, France
-* Parents: Albert Cameron Burrage, Jr. and Anne Bell Burrage (born Shirk)
-* Sisters: Anne Bell and Cynthia Sewall
+* Parents: [Albert Cameron Burrage, Jr.](Albert-Cameron-Burrage-Jr-1886-1978.md) and [Anne Bell Shirk](Anne-Bell-Shirk-1890-1983.md) (married Burrage)
+* Sisters: Anne Bell and [Cynthia Sewall](Cynthia-Sewall-Burrage-1921-1983.md)
 
 ## Photo
 

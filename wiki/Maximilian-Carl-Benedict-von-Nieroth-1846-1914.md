@@ -1,14 +1,14 @@
-# Maximilian Carl Benedikt von Nieroth (1846–1914) ~ Максимилиан Нирод
+# Maximilian Carl Benedict von Nieroth (1846–1914) ~ Максимилиан Нирод
 
 ## Genealogy
 
 * Birth: Dec 30 1846 - Saint Petersburg, Russia
 * Death: May 24 1914 - Kiev, Ukraine
-* Father: Reinhold Johan Евстафьевич Nieroth
-* Mother: Pauline Dorothea Elisabeth Фёдоровна Nieroth (born von Stenger)
-* Wife: Anastatisya Fyodorovna Nieroth (born Trepova)
-* Children: Fyodor Maksimilianovich von Nieroth, Vera Maksimilianovna Kudasheva (born von Nieroth)
-* Siblings: Gustav Friedrich Nikolai (Nikolai) Евстафьевич von Nieroth, Alexander Wilhelm Julius Wilhelm Julius Евстафьевич von Nieroth, Heloise Augusta Johanna Евстафьевна Crichton (born Nieroth), Moritz Nikolai Pontius Nikolai Pontius Евстафьевич von Nieroth
+* Father: Reinhold Johan Evstafyevich Nieroth
+* Mother: Pauline Dorothea Elisabeth Fyodorovna Nieroth (born von Stenger)
+* Wife: [Anastasia Fyodorovna Trepova](Anastasia-Fyodorovna-Trepova-1849-1940.md) (married Nieroth)
+* Children: [Fyodor Maximilianovich von Nieroth](Fyodor-Maximilianovich-von-Nieroth-1871-1952.md), [Vera Maximilianovna von Nieroth](Vera-Maximilianovna-von-Nieroth-1874-1920.md) (married Kudashev)
+* Siblings: Gustav Friedrich Nikolai (Nikolai) Evstafyevich von Nieroth, Alexander Wilhelm Julius Wilhelm Julius Evstafyevich von Nieroth, Heloise Augusta Johanna Evstafyevna Nieroth (married Crichton), Moritz Nikolai Pontius Nikolai Pontius Evstafyevich von Nieroth
 
 ### Alternate record ~ from another source, spellings differ
 

@@ -1,14 +1,14 @@
-# Serge Serguéiévitch Kudashev (1901–1991) ~ Сергей Сергеевич Кудашев
+# Sergei Sergeyevich Kudashev (1901–1991) ~ Сергей Сергеевич Кудашев
 
 ## Genealogy
 
 * https://www.geni.com/people/Serge-Koudachev/364523971280006970
-* Serge Serguéiévitch Koudachev
+* Sergei Sergeyevich Kudashev
 * Birth:  Oct 2 1901 - Saint Petersbourg, Leningrad, Russie
 * Death:  Apr 14 1991 - Gérone, Espagne
-* Parents:  Prince Sergei Vladimirovitch "Serge Vladimirovitch Koudachev" Kudashev (born Koudacheff) and Princess Vera Maksimilianovna Kudasheva (born von Nieroth)
-* Sisters:  Myra Sergéievna and Olga
-* Partner:  ? Koudachev
+* Parents:  Prince [Sergei Vladimirovich Kudashev](Sergei-Vladimirovich-Kudashev-1863-1933.md) and Countess [Vera Maximilianovna von Nieroth](Vera-Maximilianovna-von-Nieroth-1874-1920.md) (married Kudashev)
+* Sisters:  [Maria Sergeyevna](Maria-Sergeyevna-Kudasheva-1896-1990.md) and Olga
+* Partner:  ? Kudasheva
 
 ## Names and Spellings
 

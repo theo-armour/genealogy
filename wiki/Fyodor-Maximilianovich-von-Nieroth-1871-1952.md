@@ -1,18 +1,18 @@
 # Fyodor Maximilianovich von Nieroth (1871–1952) ~ Фёдор Максимилианович Нирод
 
 ![Fyodor Maximilianovich von Nieroth](../commons/nirod_fedor_maksimilianovic_001_2__large.jpg)
-![Theodor von Nieroth](https://upload.wikimedia.org/wikipedia/commons/b/b3/Fyodor_M._Nirod.jpeg)
+![Fyodor Maximilianovich von Nieroth](https://upload.wikimedia.org/wikipedia/commons/b/b3/Fyodor_M._Nirod.jpeg)
 
-| `theodor-nieroth.jpeg` | Theodor von Nieroth (1871–1952) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fyodor_M._Nirod.jpeg)
+| `theodor-nieroth.jpeg` | Fyodor Maximilianovich von Nieroth (1871–1952) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fyodor_M._Nirod.jpeg)
 
 ## Genealogy
 
 * https://www.geni.com/people/Count-Fyodor-von-Nieroth/6000000019324085685
-* Count Fyodor Maksimilianovich von Nieroth
+* Count Fyodor Maximilianovich von Nieroth
 * Birth:  June 20 1871 - St. Petersburg, Russia
 * Death:  1952 - Amblainville, Picardie, France
-* Parents:  Count Maximilian Carl Benedikt von Nieroth and Anastatisya Fyodorovna Nieroth (born Trepova)
-* Sister:  Vera Maksimilianovna
+* Parents:  Count [Maximilian Carl Benedict von Nieroth](Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) and [Anastasia Fyodorovna Trepova](Anastasia-Fyodorovna-Trepova-1849-1940.md) (married Nieroth)
+* Sister:  [Vera Maximilianovna](Vera-Maximilianovna-von-Nieroth-1874-1920.md)
 * Partner:  Daria Nieroth (born Fstin. Cantacuzin Gfin. Speransky)
 * Children:  Mikhail Fyodorovich and Daria
 
@@ -37,7 +37,7 @@
 
 From Claude?
 
-Born July 2, 1871, in Saint Petersburg into the Baltic German von Nieroth family, Theodor was the son of the courtier Maximilian von Nieroth and Anastasia Trepova — a grandson of Fyodor Trepov (senior). After graduating from the elite Page Corps in 1892, he served in a Guards cavalry regiment, was promoted to colonel in 1907, and commanded the 16th Hussar Regiment (1911) and then the Life Guards Dragoon Regiment (1912), leading the latter through the First World War. In January 1915 he was awarded the Sword of St. George for repelling an enemy cavalry brigade near Schirwindt in East Prussia, where he was wounded but stayed in the field; he went on to command the 2nd Guards Cavalry Division. During the Russian Civil War he served in Anton Denikin's White Volunteer Army before emigrating, and died in France on March 26, 1952.
+Born July 2, 1871, in Saint Petersburg into the Baltic German von Nieroth family, Fyodor was the son of the courtier Maximilian von Nieroth and Anastasia Trepova — a grandson of Fyodor Trepov (senior). After graduating from the elite Page Corps in 1892, he served in a Guards cavalry regiment, was promoted to colonel in 1907, and commanded the 16th Hussar Regiment (1911) and then the Life Guards Dragoon Regiment (1912), leading the latter through the First World War. In January 1915 he was awarded the Sword of St. George for repelling an enemy cavalry brigade near Schirwindt in East Prussia, where he was wounded but stayed in the field; he went on to command the 2nd Guards Cavalry Division. During the Russian Civil War he served in Anton Denikin's White Volunteer Army before emigrating, and died in France on March 26, 1952.
 
 ## Sandricourt
 

@@ -10,12 +10,12 @@ https://commons.wikimedia.org/wiki/File:Trepov.jpg
 
 ## Genealogy
 
-* Aleksandr Fyodorovich Trepov
-* Birth:  Sep 18 1862 - Киев, Российская Империя
+* Alexander Fyodorovich Trepov
+* Birth:  Sep 18 1862 - Kiev, Russian Empire
 * Death:  Nov 10 1928 - Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France
-* Parents:  Fyodor Fyodorovich Sr. Trepov and Vera Vasilyevna Trepova (born Lukashevich)
-* Siblings:  Anastatisya Fyodorovna, Yevgeniya Fyodorovna, Yuliya Fyodorovna, Sofya Fyodorovna, Fyodor Fyodorovich Jr., Dmitriy Fyodorovich, Dimitri Feodorovitch, Yelizaveta Fyodorovna and Vladimir Fyodorovich
-* Partner:  Софья Дмитриевна Трепова (born Казина)
+* Parents:  [Fyodor Fyodorovich Trepov Sr.](Fyodor-Fyodorovich-Trepov-1812-1889.md) and Vera Vasilyevna Lukashevich (married Trepov)
+* Siblings:  [Anastasia Fyodorovna](Anastasia-Fyodorovna-Trepova-1849-1940.md), Yevgeniya Fyodorovna, Yuliya Fyodorovna, Sofya Fyodorovna, Fyodor Fyodorovich Jr., Dmitri Fyodorovich, Yelizaveta Fyodorovna and Vladimir Fyodorovich
+* Partner:  Sofya Dmitrievna Kazina (married Trepov)
 * Daughters:  Yelena Aleksandrovna and Sofya Aleksandrovna
 * Relation: paternal great-great-uncle
 

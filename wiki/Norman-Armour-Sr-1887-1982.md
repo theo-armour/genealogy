@@ -8,10 +8,10 @@
 * The Honorable Norman Armour, Sr
 * Birth:  Oct 14 1887 - Brighton, East Sussex, England, United Kingdom
 * Death:  Sep 27 1982 - New York, New York, United States
-* Parents:  George Allison Armour and Harriette Cobb Armour (born Foote)
-* Siblings:  George, Paul, Barbara, William R., Allison Vincent, Edmond and Liam
-* Partner:  Princess Myra Sergéievna Armour (born Koudachev)
-* Son:  Norman
+* Parents:  [George Allison Armour](George-Allison-Armour-1856-1936.md) and Harriette Cobb Foote (married Armour)
+* Siblings:  George, Paul, [Barbara](Barbara-Armour-1889-1981.md), William R., Allison Vincent, Edmond and Liam
+* Partner:  Princess [Maria Sergeyevna Kudasheva](Maria-Sergeyevna-Kudasheva-1896-1990.md) (married Armour)
+* Son:  [Norman](Norman-Armour-Jr-1920-1978.md)
 
 * Career United States diplomat
 * [**https://en.wikipedia.org/wiki/Norman_Armour**](https://en.wikipedia.org/wiki/Norman_Armour)
@@ -26,7 +26,7 @@
 
 Norman Armour was a career United States diplomat whom The New York Times once called "the perfect diplomat". In his long career spanning both World Wars, he served as Chief of Mission in eight countries, as Assistant Secretary of State for Political Affairs, and married into Russian nobility. He was the United States Ambassador to Canada, Haiti, Chile, Argentina, Spain, Venezuela, and Guatemala.
 
-## Marriage of Myra Koudacheff and Norman Armour
+## Marriage of Maria Kudasheva and Norman Armour
 
 Notice in _Washington Herald_ for Feb 1919 page 7
 

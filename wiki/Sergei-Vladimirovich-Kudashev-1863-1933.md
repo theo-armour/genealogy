@@ -1,18 +1,18 @@
-# Sergei Vladimirovitch Kudashev (1863–1933) ~ Сергей Владимирович Кудашев
+# Sergei Vladimirovich Kudashev (1863–1933) ~ Сергей Владимирович Кудашев
 
-![Sergei Vladimirovitch Kudashev at the 1903 Romanov costume ball](https://upload.wikimedia.org/wikipedia/commons/3/3a/1903_ball_-_Serg.Vl._Kudashev.jpeg)
+![Sergei Vladimirovich Kudashev at the 1903 Romanov costume ball](https://upload.wikimedia.org/wikipedia/commons/3/3a/1903_ball_-_Serg.Vl._Kudashev.jpeg)
 
 | `1903-ball-sergei-kudashev.jpeg` | Prince Sergei Kudashev at the Romanov costume ball, Winter Palace, February 1903 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1903_ball_-_Serg.Vl._Kudashev.jpeg) |
 
 ## Genealogy
 
 * https://www.geni.com/people/Prince-Sergei-Kudashev/6000000019323938097?through=364408351200007646
-* Prince Sergei Vladimirovitch Kudashev
+* Prince Sergei Vladimirovich Kudashev
 * Birth: Dec 14 1863 - Kiev, Russian Empire
 * Death: Feb 28 1933 - Florence, Italy
-* Parents: Prince Vladimir Sergejewitch Koudacheff (1833–1871) and Princess Olga Nikolaevna Horvath (1840–1907)
-* Wife: Countess Vera Maximilianovna von Nieroth (married 1894)
-* Children: Myra Sergéievna and Serge Serguéiévitch
+* Parents: Prince Vladimir Sergeyevich Kudashev (1833–1871) and Princess Olga Nikolaevna Horvath (1840–1907)
+* Wife: Countess [Vera Maximilianovna von Nieroth](Vera-Maximilianovna-von-Nieroth-1874-1920.md) (married 1894)
+* Children: [Maria Sergeyevna](Maria-Sergeyevna-Kudasheva-1896-1990.md) and [Sergei Sergeyevich](Sergei-Sergeyevich-Kudashev-1901-1991.md)
 
 ## Names and Spellings
 
@@ -38,14 +38,14 @@ Much more here:
 ## Life
 
 ### Family
-Prince Sergei Vladimirowitch Koudacheff belonged to a prominent noble family of originally
+Prince Sergei Vladimirovich Kudashev belonged to a prominent noble family of originally
 Tatar descent, who had acquired the right to bear a princely title within the Russian Empire
-since the 17th century. He was the son of Prince Vladimir Sergejewitch Koudacheff (1833-1871)
+since the 17th century. He was the son of Prince Vladimir Sergeyevich Kudashev (1833-1871)
 and princess Olga Nikolaevna Horvath (1840-1907).
 
 ### Professional career
 
-Prince Sergei Vladimirowitch Koudacheff held two consecutive representative positions at the
+Prince Sergei Vladimirovich Kudashev held two consecutive representative positions at the
 imperial Russian court under the reign of tsar Nicholas II.
 During the first years of his court career, he held the ceremonial rank of gentleman of the
 bedchamber (Kamer-Yunker); later, he was promoted to the higher rank of chamberlain
@@ -73,41 +73,40 @@ allowances, stipends, pensions, and dowries of the extended imperial family;
 maintenance, and economic development of various royal residences, industrial
 enterprises (such as wineries and factories), and agricultural activities throughout the
 empire (such as the imperial estate in Livadia in the Crimea).
-In addition to his duties at the imperial court, prince Sergei Vladimirowitch Koudacheff was
+In addition to his duties at the imperial court, prince Sergei Vladimirovich Kudashev was
 reportedly also a member of the board of directors of several companies. For instance, he sat on the board of directors of the Podolsk Railway Company, the Russian Commercial and Industrial Bank, and the Salamandra Fire Insurance Company.
 
-This photograph of prince Koudacheff was taken on the occasion of the Romanov costume ball on
+This photograph of prince Kudashev was taken on the occasion of the Romanov costume ball on
 February 11 and 13, 1903, at the Winter Palace in Saint Petersburg, commemorating the 290th anniversary of the Romanov dynasty.
-Diplomatic careers Koudacheff family members Several members of the Koudacheff family held high diplomatic positions and represented the Imperial Government of Russia during the reign of tsar Nicholas II (1868–1918, tsar of Russia from 1894 to 1917).
+Diplomatic careers Kudashev family members Several members of the Kudashev family held high diplomatic positions and represented the Imperial Government of Russia during the reign of tsar Nicholas II (1868–1918, tsar of Russia from 1894 to 1917).
 
-Prince Nikolai Alexandrowitch Koudacheff (1868 1921) was a cousin of prince Sergei Vladimirowitch Koudacheff and built a career as a diplomat. He served as first secretary at the Russian embassies in Tokyo (1902) and Constantinople (1906).
+Prince Nikolai Alexandrovich Kudashev (1868 1921) was a cousin of prince Sergei Vladimirovich Kudashev and built a career as a diplomat. He served as first secretary at the Russian embassies in Tokyo (1902) and Constantinople (1906).
 In 1905, he was part of the Russian delegation at the Portsmouth peace conference, which ended the Russo-Japanese War (1904-1905).
 Between 1910 and 1913, he worked as Russia's chargé d'affaires in Washington, and in 1916, he was appointed envoy extraordinary and minister plenipotentiary to China until he had to step down in 1920 after China severed ties with the former tsarist regime.
-His older brother, prince Ivan Alexandrowitch Koudacheff (1859–1933), was also active in the
+His older brother, prince Ivan Alexandrovich Kudashev (1859–1933), was also active in the
 diplomatic service. From 1906 to 1910, he was the envoy to Denmark, from 1910 to 1916, he held
 this position in Belgium and Luxembourg, and until the revolution in 1917, he served as
 ambassador to Spain.
 
 ### Private life
-Prince Sergei Vladimirowitch Koudacheff
+Prince Sergei Vladimirovich Kudashev
 married countess Vera Maximilianovna von
 Nieroth (1874–1920) in 1894, with whom he had
 two children. The eldest child was their daughter,
-Myra or Maria Sergueievna Koudacheff (1895
-1990). The youngest child was their son, Serge
-Sergeievich Koudacheff (1901–1991).
+Maria Sergeyevna Kudasheva (1895–1990). The youngest child was their son, Sergei
+Sergeyevich Kudashev (1901–1991).
 Vera Maximilianovna von Nieroth was the
-daughter of count Maximilian Carl Benedikt von
+daughter of count Maximilian Carl Benedict von
 Nieroth (1846–1914), an imperial chamberlain
 and master of the hunt of Baltic-German descent,
-and Anastasia Feodorovna Trepova (1849-1940), a
+and Anastasia Fyodorovna Trepova (1849-1940), a
 former maid of honour in service of tsarina Maria
 Feodorovna (1847-1928), the wife of tsar
 Alexander III (1845-1894).
 Before marrying, countess Vera Maximilianovna von Nieroth served as a maid of honour to
 tsarina Alexandra Feodorovna (1872-1918), the wife of tsar Nicholas II.
 
-The photographs of princess Koudacheff were also taken
+The photographs of princess Kudasheva were also taken
 on the occasion of the Romanov costume ball on February
 11 and 13, 1903, at the Winter Palace in Saint Petersburg,
 commemorating the 290th anniversary of the Romanov
@@ -116,12 +115,12 @@ dynasty.
 ### Flight and exile
 
 Due to his position and as a member of the Russian
-nobility, prince Sergei Vladimirowitch Koudacheff was in
+nobility, prince Sergei Vladimirovich Kudashev was in
 immediate mortal danger right after the outbreak of the
 revolution in February 1917 in St. Petersburg.
 With the help of the then 2nd secretary of the American
-embassy, Norman Armour, prince Koudacheff, along with
-his wife Vera and their children Myra and Serge, managed
+embassy, Norman Armour, prince Kudashev, along with
+his wife Vera and their children Maria and Sergei, managed
 to escape using false papers and fled to the nearby border
 with Finland.
 Presumably, like many other refugees, they crossed the
@@ -129,28 +128,28 @@ frozen Lake Ladoga or the Gulf of Finland on foot during
 the winter to bypass border controls. Finland had declared
 its independence from Russia in 1917, making the country
 a relatively safe destination for refugees from Russia.
-Via Finland, the Koudacheff family eventually arrived in
+Via Finland, the Kudashev family eventually arrived in
 Sweden in the spring of 1917.
 Initially, they stayed at the Grand Hôtel in
 the Swedish capital of Stockholm, but later
 moved to a luxurious villa in the fashionable
 seaside resort of Saltsjöbaden, in the
 immediate vicinity of Stockholm.
-The Koudacheff family took up residence in
+The Kudashev family took up residence in
 Villa Skärtofta and would remain there until
 the middle or end of 1918. This villa also
 became a gathering place for wealthy
-Russian refugees – mostly of noble descent – where prince Koudacheff regularly
+Russian refugees – mostly of noble descent – where prince Kudashev regularly
 organized parties and gatherings.
 Villa Skärtofta in Saltsjöbaden, Sweden
-It was in this setting that their daughter Myra came into contact with the Danish explorer and
+It was in this setting that their daughter Maria came into contact with the Danish explorer and
 archaeologist Frans Blom (1893-1963) in the summer of 1918. He proposed to her, but she
 declined his proposal to marry her.
 
-### Marriage of Myra Koudacheff and Norman Armour
+### Marriage of Maria Kudasheva and Norman Armour
 In his capacity as 2nd secretary of the American embassy in
 St. Petersburg, Norman Armour (1887–1982) had helped the
-Koudacheff family escape from Russia. The future United
+Kudashev family escape from Russia. The future United
 States ambassador to Canada, Haiti, Chile, Argentina, Spain,
 Venezuela, and Guatemala had been stationed in St.
 Petersburg since 1916 and witnessed the Russian Revolution
@@ -177,16 +176,16 @@ arresting foreign diplomats on suspicion of espionage and
 conspiracy with counter-revolutionary groups.
 Norman Armour was arrested by the Bolsheviks in late August,
 taken to Moscow, and detained for a month due to his
-involvement in the escape of the Koudacheff family in 1917.
+involvement in the escape of the Kudashev family in 1917.
 He managed to escape and fled Russia using false papers via
 Finland to Sweden, where he arrived in November 1918.
 Once he arrived in Sweden, he joined the family of prince
-Sergei Vladimirowitch Koudacheff and became engaged to
-their daughter Myra Koudacheff that same month.
+Sergei Vladimirovich Kudashev and became engaged to
+their daughter Maria Kudasheva that same month.
 In February 1919, the couple married, and she would
 accompany him all over the world throughout his entire
 diplomatic career.
-Princess Myra Koudacheff
+Princess Maria Kudasheva
 
 ### Art collection
 

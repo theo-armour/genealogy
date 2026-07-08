@@ -8,10 +8,10 @@
 * Albert Cameron Burrage, Sr
 * Birth: Nov 21 1859 - Ashburnham, Worcester County, Massachusetts, United States of America
 * Death: June 28 1931 - Beverly, Essex County, Massachusetts, United States of America
-* Parents: George Sanderson Burrage and Amelia C Chamberlain
+* Parents: [George Sanderson Burrage](George-Sanderson-Burrage-1823-1876.md) and Amelia C Chamberlain
 * Siblings: Clara A., Ellen M., Mary E., Cora Chamberlain, William Henry, Martha Bayley and Charles Dana
-* Partner: Alice Hathaway Haskell
-* Children: Albert Cameron, Francis Hathaway, Russell C and Bessie Alice
+* Partner: [Alice Hathaway Haskell](Alice-Hathaway-Haskell-1857-1947.md)
+* Children: [Albert Cameron](Albert-Cameron-Burrage-Jr-1886-1978.md), Francis Hathaway, Russell C and Bessie Alice
 
 ## Links
 

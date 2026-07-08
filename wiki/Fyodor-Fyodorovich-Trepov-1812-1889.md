@@ -9,7 +9,7 @@
 * Name: Fyodor Fyodorovich Trepov (Senior)
 * Dates: 1809–1889
 * Spouse: Vera Vasilyevna Lukasevich
-* Children include: Anastasia Fyodorovna (Nieroth), Dmitri Trepov and Alexander Trepov
+* Children include: [Anastasia Fyodorovna](Anastasia-Fyodorovna-Trepova-1849-1940.md) (Nieroth), Dmitri Trepov and [Alexander Trepov](Alexander-Fyodorovich-Trepov-1862-1928.md)
 
 ## Names and Spellings
 
@@ -26,5 +26,5 @@
 
 A prominent Russian General and government official. He served as the **Governor of St. Petersburg** (1873–1878) and is perhaps best known historically for surviving an assassination attempt by the revolutionary Vera Zasulich in 1878.
 
-Based on the information available, he was the father of Anastatisya Fyodorovna Nieroth (née Trepova). Anastatisya was one of his several children, who also included **Dmitri Trepov** (Governor-General of St. Petersburg during the 1905 Revolution) and **Alexander Trepov** (Prime Minister of the Russian Empire from 1916 to 1917).
+Based on the information available, he was the father of Anastasia Fyodorovna Nieroth (née Trepova). Anastasia was one of his several children, who also included **Dmitri Trepov** (Governor-General of St. Petersburg during the 1905 Revolution) and **Alexander Trepov** (Prime Minister of the Russian Empire from 1916 to 1917).
 
