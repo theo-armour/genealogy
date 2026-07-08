@@ -7,7 +7,7 @@ My "Granny" was Princess Myra Armour (née Kudasheva), daughter of Princess Vera
 
 Many interesting things here. See Princess Vera Kudasheva!
 
-![Princess Vera Kudasheva](./Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/images/vera-kudasheva.jpg)
+![Princess Vera Kudasheva](../commons/vera-kudasheva.jpg)
 
 ## Names and Spellings
 
