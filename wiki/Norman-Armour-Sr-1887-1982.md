@@ -5,6 +5,7 @@
 | `norman-armour.jpg` | Norman Armour (1887–1982) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norman_Armour.jpg) |
 
 * https://www.geni.com/people/The-Honorable-Norman-Armour-Sr/6000000002789971986
+* Career United States diplomat
 * The Honorable Norman Armour, Sr
 * Birth:  Oct 14 1887 - Brighton, East Sussex, England, United Kingdom
 * Death:  Sep 27 1982 - New York, New York, United States
@@ -12,17 +13,11 @@
 * Siblings:  George, Paul, [Barbara](Barbara-Armour-1889-1981.md), William R., Allison Vincent, Edmond and Liam
 * Partner:  Princess [Maria Sergeyevna Kudasheva](Maria-Sergeyevna-Kudasheva-1896-1990.md) (married Armour)
 * Son:  [Norman](Norman-Armour-Jr-1920-1978.md)
-
-* Career United States diplomat
 * [**https://en.wikipedia.org/wiki/Norman_Armour**](https://en.wikipedia.org/wiki/Norman_Armour)
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 * https://www.nytimes.com/1982/09/29/obituaries/norman-armour-94-dies-served-as-an-assistant-secretary-of-state.html
-
 * https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat
 
-
-* October 14, 1887 Brighton, England
-* September 27, 1982 New York NY
 
 Norman Armour was a career United States diplomat whom The New York Times once called "the perfect diplomat". In his long career spanning both World Wars, he served as Chief of Mission in eight countries, as Assistant Secretary of State for Political Affairs, and married into Russian nobility. He was the United States Ambassador to Canada, Haiti, Chile, Argentina, Spain, Venezuela, and Guatemala.
 

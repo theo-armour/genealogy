@@ -29,6 +29,8 @@
 * https://www.prlib.ru/en/news/1328412
 * https://www.prlib.ru/en/node/335177
 * https://commons.wikimedia.org/wiki/Category:Collection_Serge_Koudacheff
+* https://www.findagrave.com/memorial/160527167/sergio_vladimirovich-koudacheff
+* https://www.findagrave.com/memorial/160529125/olga_erikovna-koudacheff
 
 Much more here:
 
