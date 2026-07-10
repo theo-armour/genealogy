@@ -46,7 +46,7 @@ He went to live in Barcelona and was married to a Spanish woman, Maria del Pilar
 
 I have been able to find very little about him. Apparently, he went before a French magistrate in 1947 because of some kind of illegal car and car accessory import issues.
 
-Just now I se that in 1048 he was sentenced to eighteen months in prison. Could the reason he moved to Spain be that he went there to escape the jail sentence?
+Just now (see links above) I see that in 1948 he was sentenced to eighteen months in prison. Could the reason he moved to Spain be that he went there to escape the jail sentence?
 
 ***
 
