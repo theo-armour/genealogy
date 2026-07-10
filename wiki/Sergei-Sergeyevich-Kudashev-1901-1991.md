@@ -50,4 +50,4 @@ Just now I se that in 1048 he was sentenced to eighteen months in prison. Could 
 
 ***
 
-Eric Van der Graaff reports that he was part owner of Prince Sergei's Hotel on No. 2, rue Montaigne.
+Eric Van der Graaf reports that Gigi was part owner of his father Prince Sergei's Hotel at 2, rue Montaigne.
