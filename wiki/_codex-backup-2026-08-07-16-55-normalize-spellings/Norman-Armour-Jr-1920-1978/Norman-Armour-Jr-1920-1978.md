@@ -5,6 +5,6 @@
 * Birth:  Feb 10 1920 - Brussels, Belgium
 * Death:  Apr 26 1978 - New York, New York, United States
 * Parents: The Honorable [Norman Armour, Sr](../Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) and Princess Maria Sergeyevna Kudasheva (also recorded as Myra Sergéievna Armour, born Koudachev) (married Armour)
-* Partners: [Cynthia Sewall Hovey (born Burrage)](../Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md) (married Hovey) and Cynthia Brooks "/Cynie/" Armour / Paine (also recorded as Cynthia Brooks "/Cynie/" Howe; born Howe)
+* Partners: [Cynthia Sewall Hovey (born Burrage)](../Cynthia-Sewall-Burrage-1921-1983.md) (married Hovey) and Cynthia Brooks "/Cynie/" Armour / Paine (also recorded as Cynthia Brooks "/Cynie/" Howe; born Howe)
 * Children: [Norman](../Norman-Theo-Armour-III-1947-/Norman-Theo-Armour-III-1947-.md), <Private>, <Private> and <Private>
 

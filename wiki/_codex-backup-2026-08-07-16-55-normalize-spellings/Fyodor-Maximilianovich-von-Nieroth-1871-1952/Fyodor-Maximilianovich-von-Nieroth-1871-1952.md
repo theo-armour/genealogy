@@ -11,8 +11,8 @@
 * Count Fyodor Maximilianovich von Nieroth (also recorded as Fyodor Maksimilianovich von Nieroth)
 * Birth:  June 20 1871 - St. Petersburg, Russia
 * Death:  1952 - Amblainville, Picardie, France
-* Parents:  Count [Maximilian Carl Benedict von Nieroth](../Maximilian-Carl-Benedict-von-Nieroth-1846-1914/Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) and [Anastasia Fyodorovna Trepova](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md) (also recorded as Anastatisya Fyodorovna Nieroth; married Nieroth)
-* Sister:  [Vera Maximilianovna](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
+* Parents:  Count [Maximilian Carl Benedict von Nieroth](../Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) and [Anastasia Fyodorovna Trepova](../Anastasia-Fyodorovna-Trepova-1849-1940.md) (also recorded as Anastatisya Fyodorovna Nieroth; married Nieroth)
+* Sister:  [Vera Maximilianovna](../Vera-Maximilianovna-von-Nieroth-1874-1920.md)
 * Partner:  Daria Nieroth (born Fstin. Cantacuzin Gfin. Speransky)
 * Children:  Mikhail Fyodorovich and Daria
 

@@ -10,7 +10,7 @@
 * Death: Aug 24 1918 - Philadelphia, PA
 * Parents: [James Whitehill Shirk](../James-Whitehill-Shirk-1832-1873/James-Whitehill-Shirk-1832-1873.md) and Mary W. Marshall
 * Partner: Ida Watkins (married Shirk)
-* Daughter: [Anne Bell](../Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md)
+* Daughter: [Anne Bell](../Anne-Bell-Shirk-1890-1983.md)
 
 ## Life
 

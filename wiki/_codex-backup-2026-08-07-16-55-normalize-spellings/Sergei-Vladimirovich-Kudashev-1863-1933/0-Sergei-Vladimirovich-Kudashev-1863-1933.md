@@ -12,7 +12,7 @@
 * Death: Feb 28 1933 - Florence, Italy
 * Parents: Prince Vladimir Sergeyevich Kudashev (1833–1871) and Princess Olga Nikolaevna Horvath (1840–1907)
 * Wife: Countess [Vera Maximilianovna von Nieroth](Vera-Maximilianovna-von-Nieroth-1874-1920.md) (married 1894)
-* Children: [Maria Sergeyevna](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) and [Sergei Sergeyevich](../Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md)
+* Children: [Maria Sergeyevna](Maria-Sergeyevna-Kudasheva-1896-1990.md) and [Sergei Sergeyevich](Sergei-Sergeyevich-Kudashev-1901-1991.md)
 
 ## Names and Spellings
 

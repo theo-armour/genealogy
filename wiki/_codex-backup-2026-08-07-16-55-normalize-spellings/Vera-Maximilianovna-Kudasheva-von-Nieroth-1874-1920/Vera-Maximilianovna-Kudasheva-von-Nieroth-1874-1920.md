@@ -13,10 +13,10 @@
 * Princess Vera Maksimilianovna Kudasheva (born von Nieroth)
 * Birth:  July 23 1874 - St. Petersburg
 * Death:  Jan 26 1920 - Paris
-* Parents:  Count [Maximilian Carl Benedict von Nieroth](../Maximilian-Carl-Benedict-von-Nieroth-1846-1914/Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) and [Anastasia Fyodorovna Trepova](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md)
-* Brother:  [Fyodor Maximilianovich](../Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
-* Partner:  Prince Sergei Vladimirovich "Serge Vladimirovich Koudachev" Kudashev (born Koudacheff)
-* Children:  [Maria Sergeyevna](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) and [Sergei Sergeyevich](../Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md)
+* Parents:  Count Maximilian Carl Benedikt von Nieroth and Anastatisya Fyodorovna Nieroth (born Trepova)
+* Brother:  Fyodor Maximilianovich
+* Partner:  Prince Sergei Vladimirovitch "Serge Vladimirovitch Koudachev" Kudashev (born Koudacheff)
+* Children:  Myra Sergéievna and Serge Serguéiévitch
 
 ## Names and Spellings
 
