@@ -20,3 +20,16 @@
 * **Family Context:** Francis Hathaway Haskell was the son of Elisha Haskell and Alice Russell Hathaway. Alice (the daughter) was named after her paternal grandmother, Alice Russell Hathaway.
 * **Marriage:** Alice Hathaway Haskell married the wealthy industrialist and philanthropist **Albert Cameron Burrage** in 1885.
 * **Widowhood:** After Francis died (sometime before 1899), Elizabeth Russell Haskell returned to the United States, living in Boston (specifically at 7 Gloucester Street) and Marblehead, where she passed away.
+
+## Names and Spellings
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

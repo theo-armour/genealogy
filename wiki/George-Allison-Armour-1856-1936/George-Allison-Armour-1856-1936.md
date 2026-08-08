@@ -9,3 +9,20 @@ George Allison Armour
 * Partner: Harriette Cobb Armour (born Foote; married Armour)
 * Children: George, Paul, [Norman](../Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md), [Barbara](../Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md), William R., Allison Vincent, Edmond and Liam
 
+
+## Genealogy
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

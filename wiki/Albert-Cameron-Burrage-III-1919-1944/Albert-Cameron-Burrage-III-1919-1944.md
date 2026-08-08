@@ -17,3 +17,18 @@ As they arrived aboard the liner Manhattan in New York on July 18, 1940 from the
 
 [MetroWest Daily News](https://www.metrowestdailynews.com/picture-gallery/entertainment/2020/07/16/photos-today-in-history-july/66197863007/)
 
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

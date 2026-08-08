@@ -158,6 +158,10 @@ Returned from abroad—chamberlain Prince S. V. Kudashev **of Morskaya st.**
 Top of Page 8
 **Resided at Morskaya 57.** T. 53038. Dir. Board: Insurance Company "Salamandra" and Trade and Industrial Company "Alfa Nobel"; Board of Russian Trade and Industrial Company 6.
 
+## Works
+
+## Research Notes
+
 ## My Comments
 
 I know almost nothing about my great-grandfather's life. The only thing that I ever heard about him was that he very involved with the acquisition of significant number of Impressionist paintings for the Hermitage.

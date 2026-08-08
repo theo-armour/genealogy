@@ -30,6 +30,14 @@ Industrialist, attorney, philanthropist, and orchid enthusiast.
 
 A pioneering businessman known as the "Copper King," Albert Cameron Burrage organized the Amalgamated Copper Company and founded mining operations that revolutionized low-grade copper ore processing. Beyond mining, he became renowned as a cultivator of rare orchids and served as the founding president of the American Orchid Society (1921–1929). The Royal Horticultural Society awarded him the Lindley Medal in 1925 for exceptional orchid exhibitions. His 28-room mansion on Commonwealth Avenue in Boston was built in 1899 at a cost of $600,000 and remains an architectural landmark.
 
+## Names and Spellings
+
+## Residences
+
+## Works
+
+## Research Notes
+
 ## My Comments
 
 * Maternal great-grandfather

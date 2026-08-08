@@ -33,3 +33,16 @@ Fulton was the head of a powerful political dynasty in early Arkansas history.
 ### Death
 David Fulton died on August 7, 1843, at the age of 72. He is buried in **Mount Holly Cemetery** in Little Rock, a historic site often called the "Westminster Abbey of Arkansas" due to the number of notable figures interred there.
 
+
+## Genealogy
+
+## Names and Spellings
+
+## Residences
+
+## Works
+
+## Research Notes
+
+## My Comments
+

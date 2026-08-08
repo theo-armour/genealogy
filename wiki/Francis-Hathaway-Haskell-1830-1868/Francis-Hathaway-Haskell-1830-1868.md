@@ -46,3 +46,14 @@ Francis Hathaway Haskell was a scion of two powerful Massachusetts families who 
 
 The video above details the life of Francis's niece, Alice Hathaway Lee, providing context on the prominent social circle the Haskell family belonged to in the 19th century.
 
+
+## Names and Spellings
+
+## Residences
+
+## Works
+
+## Research Notes
+
+## My Comments
+

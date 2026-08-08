@@ -20,3 +20,16 @@
 * https://vinecliff1871.com/story
 
 
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Research Notes
+
+## My Comments
+

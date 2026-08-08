@@ -19,3 +19,16 @@
 * Modern transliteration: Anastasiya Fyodorovna Nirod (née Trepova)
 * Also seen as: Anastatisya ~ Geni spelling, used for this folder and file
 * Note: Нирод (Nirod) is the Russian form of the Baltic German name von Nieroth
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

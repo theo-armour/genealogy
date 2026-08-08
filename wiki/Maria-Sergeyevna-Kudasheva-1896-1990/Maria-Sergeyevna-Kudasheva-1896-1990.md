@@ -23,6 +23,16 @@ https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/192
 * Married name: Myra Armour
 * Known as: Myra; "Granny"
 
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
 ## My Comments
 
 I loved my grandmother and had excellent communication with her. Nonetheless, I know very little about my grandmother's youth. I know she spoke seven languages quite fluently. I remember her reminiscing that she had her debutante "coming out party" with one of the Tsarina's daughters, but I don't know which one.

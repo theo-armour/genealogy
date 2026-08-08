@@ -8,3 +8,20 @@
 * Partners: [Cynthia Sewall Hovey (born Burrage)](../Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md) (married Hovey) and Cynthia Brooks "/Cynie/" Armour / Paine (also recorded as Cynthia Brooks "/Cynie/" Howe; born Howe)
 * Children: [Norman](../Norman-Theo-Armour-III-1947-/Norman-Theo-Armour-III-1947-.md), <Private>, <Private> and <Private>
 
+
+## Genealogy
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

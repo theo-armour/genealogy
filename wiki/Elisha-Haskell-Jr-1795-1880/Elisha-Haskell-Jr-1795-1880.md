@@ -52,3 +52,14 @@ Elisha’s most famous legacy comes through his daughter, **Caroline Watts Haske
 ### Death
 Elisha Haskell died on **October 8, 1880**, in New Bedford at the age of 84 or 85. His wife, Alice Russell Hathaway, also passed away earlier that same year (April 1880), marking the end of a generation for the family just as their granddaughter was entering the national spotlight with the Roosevelts.
 
+
+## Names and Spellings
+
+## Residences
+
+## Works
+
+## Research Notes
+
+## My Comments
+

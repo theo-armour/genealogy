@@ -13,3 +13,20 @@
 * Page 23: <http://mssa.library.yale.edu/obituary_record/1925_1952/1940-41.pdf>
 
 
+
+## Genealogy
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

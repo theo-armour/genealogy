@@ -37,3 +37,16 @@ James Carson Marshall Shirk's daughter Anne Bell Shirk later married Albert Came
 * [Herb Society of America — history](https://www.herbsociety.org/about/history.html)
 * [The annals of Christ Church Parish of Little Rock, Arkansas, 1839–1899](https://upload.wikimedia.org/wikipedia/commons/0/07/The_annals_of_Christ_church_parish_of_Little_Rock%2C_Arkansas%2C_from_1839_to_1899_%28IA_annalsofchristch00cant%29.pdf) — mentions Ida's marriage to Marshall Shirk and their daughter Anne Bell Shirk.
 
+
+## Names and Spellings
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

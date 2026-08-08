@@ -33,6 +33,20 @@ Ira Nelson Morris, American minister to Sweden, was best man. Mr. Armour, whose 
 
 https://en.wikipedia.org/wiki/Ira_Nelson_Morris
 
+## Genealogy
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
 ## My Comments
 
 Vladimir Lenin’s return to Petrograd was on April 3–16, 1917. Grandfather and a friend of his walked by and heard the turmoil of Lenin giving his speech. They wondered about stopping to listen, but nonetheless decided to continue their destination where they would play a game of whist with friends.

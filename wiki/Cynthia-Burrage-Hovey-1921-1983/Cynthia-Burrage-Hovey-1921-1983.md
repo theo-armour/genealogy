@@ -10,3 +10,18 @@
 * Siblings: [Albert Cameron](../Albert-Cameron-Burrage-III-1919-1944/Albert-Cameron-Burrage-III-1919-1944.md) and Anne Bell
 * Partners: Chandler Hovey, Jr. and [Norman Armour, Jr.](../Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md)
 * Children: [Norman](../Norman-Theo-Armour-III-1947-/Norman-Theo-Armour-III-1947-.md), `<Private>` and `<Private>`
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

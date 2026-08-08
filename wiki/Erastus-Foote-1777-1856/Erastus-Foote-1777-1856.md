@@ -15,3 +15,20 @@ Born September 19, 1777, in Waterbury, Connecticut, Erastus Foote was admitted t
 * [Maine's First Leaders](https://digitalmaine.com/arc_200_exhibit_first_leaders/1/)
 * [Find a Grave memorial](https://www.findagrave.com/memorial/36411786/erastus-foote)
 
+
+## Genealogy
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

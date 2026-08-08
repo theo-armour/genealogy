@@ -53,3 +53,14 @@ Just now (see links above) I see that in 1948 he was sentenced to eighteen month
 ***
 
 Eric Van der Graaf reports that Gigi was part owner of his father Prince Sergei's Hotel at 2, rue Montaigne.
+
+## Life
+
+## Residences
+
+## Works
+
+## Research Notes
+
+## My Comments
+

@@ -11,3 +11,18 @@
 * Partner: [Anne Bell Burrage (born Shirk)](../Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md) (married Burrage)
 * Children: [Albert Cameron](../Albert-Cameron-Burrage-III-1919-1944/Albert-Cameron-Burrage-III-1919-1944.md), Anne Bell and [Cynthia Sewall](../Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md)
 
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

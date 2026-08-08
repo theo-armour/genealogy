@@ -25,3 +25,20 @@ Born in Campbeltown, Scotland, George Armour emigrated to America and revolution
 * <http://www.encyclopedia.chicagohistory.org/pages/2555.html>
 * <https://www.facebook.com/100066297863094/posts/george-armour-grain-elevator-owner-and-president-of-the-chicago-board-of-trade-b/1022691366617449/>
 
+
+## Genealogy
+
+## Names and Spellings
+
+## Life
+
+## Residences
+
+## Works
+
+## Links
+
+## Research Notes
+
+## My Comments
+

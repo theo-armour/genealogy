@@ -45,6 +45,14 @@ Shirk is best known for his command of Union gunboats on the "Western Waters" (t
 
 James W. Shirk belongs to a small group of "brown-water navy" officers whose close-range support of Army ground forces was instrumental in securing Union control of the Mississippi River Valley. His legacy is particularly tied to the salvation of the Union Army at Pittsburg Landing (Shiloh).
 
+## Names and Spellings
+
+## Residences
+
+## Works
+
+## Research Notes
+
 ## My Comments
 
 * Maternal great-great grandfather

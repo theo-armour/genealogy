@@ -79,6 +79,12 @@ Theodor von Nieroth married in 1897. in St. Petersburg Daria, Princess Cantacuz√
 * Mihhail von Nieroth (born 1899)
 Daria von Nieroth (born 1900)
 
+## Residences
+
+## Works
+
+## Research Notes
+
 ## My Comments
 
 Theo Armour says: "My nickname comes from my uncle Theo."

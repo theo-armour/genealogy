@@ -29,3 +29,12 @@ A prominent Russian General and government official. He served as the **Governor
 Based on the information available, he was the father of Anastasia Fyodorovna Nieroth (also recorded as Anastatisya Fyodorovna; née Trepova). Anastasia was one of his several children, who also included **Dmitri Trepov** (Governor-General of St. Petersburg during the 1905 Revolution) and **Alexander Trepov** (Prime Minister of the Russian Empire from 1916 to 1917).
 
 
+
+## Residences
+
+## Works
+
+## Research Notes
+
+## My Comments
+

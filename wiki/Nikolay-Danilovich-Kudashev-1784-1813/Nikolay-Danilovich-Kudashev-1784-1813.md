@@ -33,3 +33,12 @@ Prince Nikolay Danilovich Kudashev came from a Tatar noble family and entered mi
 
 
 
+
+## Residences
+
+## Works
+
+## Research Notes
+
+## My Comments
+
