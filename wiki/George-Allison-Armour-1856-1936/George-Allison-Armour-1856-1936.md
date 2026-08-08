@@ -7,5 +7,5 @@ George Allison Armour
 * Parents: [George Armour](../George-Armour-1812-1881/George-Armour-1812-1881.md) and Barbara Armour (born Allison)
 * Siblings: John William, William, [Allison Vincent](../Allison-Vincent-Armour-1863-1941/Allison-Vincent-Armour-1863-1941.md), Mary Greenlee and Alice
 * Partner: Harriette Cobb Armour (born Foote; married Armour)
-* Children: George, Paul, [Norman](../Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md), [Barbara](../Barbara-Armour-1889-1981.md), William R., Allison Vincent, Edmond and Liam
+* Children: George, Paul, [Norman](../Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md), [Barbara](../Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md), William R., Allison Vincent, Edmond and Liam
 

@@ -9,10 +9,10 @@
 * The Honorable Norman Armour, Sr
 * Birth:  Oct 14 1887 - Brighton, East Sussex, England, United Kingdom
 * Death:  Sep 27 1982 - New York, New York, United States
-* Parents:  [George Allison Armour](George-Allison-Armour-1856-1936.md) and Harriette Cobb Foote (married Armour)
-* Siblings:  George, Paul, [Barbara](Barbara-Armour-1889-1981.md), William R., Allison Vincent, Edmond and Liam
+* Parents:  [George Allison Armour](../George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md) and Harriette Cobb Foote (married Armour)
+* Siblings:  George, Paul, [Barbara](../Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md), William R., Allison Vincent, Edmond and Liam
 * Partner:  Princess [Maria Sergeyevna Kudasheva](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) (married Armour)
-* Son:  [Norman](Norman-Armour-Jr-1920-1978.md)
+* Son:  [Norman](../Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md)
 * [**https://en.wikipedia.org/wiki/Norman_Armour**](https://en.wikipedia.org/wiki/Norman_Armour)
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 * https://www.nytimes.com/1982/09/29/obituaries/norman-armour-94-dies-served-as-an-assistant-secretary-of-state.html

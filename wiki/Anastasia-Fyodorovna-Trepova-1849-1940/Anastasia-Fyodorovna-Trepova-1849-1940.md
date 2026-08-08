@@ -1,6 +1,6 @@
 # Anastasia Fyodorovna Trepova (1849–1940) ~ Анастасия Фёдоровна Трепова
 
-![Anastasia Fyodorovna Trepova](../commons/nieroth_anastasia_large.jpg)
+![Anastasia Fyodorovna Trepova](images/nieroth_anastasia_large.jpg)
 
 ## Genealogy
 

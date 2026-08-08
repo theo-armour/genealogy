@@ -1,6 +1,6 @@
 # Maria Sergeyevna Kudasheva (1896–1990) ~ Мария Сергеевна Кудашева
 
-![Princess Maria Sergeyevna Kudasheva](../commons/1921-olive-snell-myra-koudachev-armour.jpg)
+![Princess Maria Sergeyevna Kudasheva](images/1921-olive-snell-myra-koudachev-armour.jpg)
 https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg
 
 ## Genealogy

@@ -6,7 +6,7 @@
 * Sergei Sergeyevich Kudashev
 * Birth:  Oct 2 1901 - Saint Petersbourg, Leningrad, Russie
 * Death:  Apr 14 1991 - Gérone, Espagne
-* Parents:  Prince [Sergei Vladimirovich Kudashev](Sergei-Vladimirovich-Kudashev-1863-1933.md) and Countess [Vera Maximilianovna von Nieroth](Vera-Maximilianovna-von-Nieroth-1874-1920.md) (married Kudashev)
+* Parents:  Prince [Sergei Vladimirovich Kudashev](../Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md) and Countess [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (married Kudashev)
 * Sisters:  [Maria Sergeyevna](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) and Olga
 * Partner:  May 26 1962 ~ Maria del Pilar Robert
 

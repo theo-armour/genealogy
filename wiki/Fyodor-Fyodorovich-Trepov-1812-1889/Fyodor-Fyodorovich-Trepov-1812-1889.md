@@ -9,7 +9,7 @@
 * Name: Fyodor Fyodorovich Trepov (Senior)
 * Dates: 1809–1889
 * Spouse: Vera Vasilyevna Lukasevich
-* Children include: [Anastasia Fyodorovna (also recorded as Anastatisya Fyodorovna)](../Anastasia-Fyodorovna-Trepova-1849-1940.md) (Nieroth), Dmitri Trepov and [Alexander Trepov](../Alexander-Fyodorovich-Trepov-1862-1928/Alexander-Fyodorovich-Trepov-1862-1928.md)
+* Children include: [Anastasia Fyodorovna (also recorded as Anastatisya Fyodorovna)](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md) (Nieroth), Dmitri Trepov and [Alexander Trepov](../Alexander-Fyodorovich-Trepov-1862-1928/Alexander-Fyodorovich-Trepov-1862-1928.md)
 
 ## Names and Spellings
 

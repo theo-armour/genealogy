@@ -11,7 +11,7 @@
 * Birth: Dec 14 1863 - Kiev, Russian Empire
 * Death: Feb 28 1933 - Florence, Italy
 * Parents: Prince Vladimir Sergeyevich Kudashev (1833–1871) and Princess Olga Nikolaevna Horvath (1840–1907)
-* Wife: Countess [Vera Maximilianovna von Nieroth](Vera-Maximilianovna-von-Nieroth-1874-1920.md) (married 1894)
+* Wife: Countess [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (married 1894)
 * Children: [Maria Sergeyevna](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) and [Sergei Sergeyevich](../Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md)
 
 ## Names and Spellings
@@ -129,11 +129,11 @@ Paintings formerly in his collection:
 
 Plates from the 1905 *Prince Tatarsky* sale catalogue:
 
-![Catalogue plate 1](../commons/tatarsky-catalogue-1905-plate-1.jpg)
-![Catalogue plate 2](../commons/tatarsky-catalogue-1905-plate-2.jpg)
-![Catalogue plate 3](../commons/tatarsky-catalogue-1905-plate-3.jpg)
-![Catalogue plate 4](../commons/tatarsky-catalogue-1905-plate-4.jpg)
-![Catalogue plate 5](../commons/tatarsky-catalogue-1905-plate-5.jpg)
+![Catalogue plate 1](images/tatarsky-catalogue-1905-plate-1.jpg)
+![Catalogue plate 2](images/tatarsky-catalogue-1905-plate-2.jpg)
+![Catalogue plate 3](images/tatarsky-catalogue-1905-plate-3.jpg)
+![Catalogue plate 4](images/tatarsky-catalogue-1905-plate-4.jpg)
+![Catalogue plate 5](images/tatarsky-catalogue-1905-plate-5.jpg)
 
 ## Residences
 
@@ -147,7 +147,7 @@ On the visit to St. Petersburg with my daughter Cynthia in 2008 after some inves
 
 We went and visited the property. The building manager was very kind and allowed us to take photographs of the building and the interior. We were able to see the original architecture and some of the historical features that have been preserved. We made to understand this was the headquarters for Baker and McKenzie, a large international law firm headquartered in Chicago.
 
-The MS Word document titled ["Sergei Koudacheff - references in primarily Russian newspapers 1878-1917"](../commons/Sergei Koudacheff - references in primarily Russian newspapers 1878-1917.docx) confirms this address in two places
+The MS Word document titled ["Sergei Koudacheff - references in primarily Russian newspapers 1878-1917"](../../commons/Sergei Koudacheff - references in primarily Russian newspapers 1878-1917.docx) confirms this address in two places
 
 ## Den', 1912.10.06, p. 6
 Top of Page 5

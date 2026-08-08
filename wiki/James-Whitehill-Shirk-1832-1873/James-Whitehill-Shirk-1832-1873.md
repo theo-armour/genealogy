@@ -13,7 +13,7 @@
 * Death: Feb 10 1873 - Washington, District of Columbia, United States
 * Parents: David Shirk and Mary Ann Whitehill (married Shirk)
 * Partner: Mary W. Marshall
-* Son: [James Cameron Marshall](James-Cameron-Marshall-Shirk-1865-1918.md)
+* Son: [James Cameron Marshall](../James-Cameron-Marshall-Shirk-1865-1918/James-Cameron-Marshall-Shirk-1865-1918.md)
 
 ## Links
 
