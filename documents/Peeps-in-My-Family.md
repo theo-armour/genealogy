@@ -1,23 +1,52 @@
-# Peeps in the Armour Family
+# Notable People in the Armour Kudashev Burrage and Shirk Families
+
+### Preface
+
+This is and will be a work in progress. I keep discovering new insights and stories and finding new ways of sharing them.
+
+The main thrust of the people here are within three generations of me. Some people within five generations are also coming in.
+
+This effort is much larger effort:
+
+* https://theo-armour.github.io/genealogy
+* https://www.geni.com/family-tree/index/6000000004118029730
+
+All in Wikipedia names are in given name family name are listed in alphabetical order. Another way of thinking about it is whatever name might appear on their tombstone. When names are originally in part in other non-English languages, they are translated into English in the most modern spelling.
+
+
 
 
 ## Albert Cameron Burrage ~ Maternal great-grandfather
 
-![Albert Burrage](photos/albert-burrage.jpg)
+![Albert Burrage](../commons/albert-burrage.jpg)
 
 **1859 – 1931** | Industrialist, attorney, philanthropist, and orchid enthusiast
 
 A pioneering businessman known as the "Copper King," Albert Cameron Burrage organized the Amalgamated Copper Company and founded mining operations that revolutionized low-grade copper ore processing. Beyond mining, he became renowned as a cultivator of rare orchids and served as the founding president of the American Orchid Society (1921–1929). The Royal Horticultural Society awarded him the Lindley Medal in 1925 for exceptional orchid exhibitions. His 28-room mansion on Commonwealth Avenue in Boston was built in 1899 at a cost of $600,000 and remains an architectural landmark.
 
-**Links & References:**
+### Personal Recollections
+
+Given how important he was in the family, I'm so surprised how little I knew about him. I visited both his houses, the houses on Commonwealth Avenue and Redlands, California. I have several objects of copper fabricated from ore from Chuquicamata. While I was in boarding school, I possessed a knife from one of the workers in the copper mine. The knife had been used to murder somebody. Unfortunately, the knife went missing while I was in boarding school.
+
+* To be authoritative
+* To include observations and recollections from family
+* Not just facts and figures, but lessons learned. The meaning of what they did Observations and recollections by others in their efforts
+* Not just their history, but also the history of their history. And the https://en.wikipedia.org/wiki/Historiography
+
+### Links & References
+
 * <https://en.wikipedia.org/wiki/Albert_Burrage>
+* <https://en.wikipedia.org/wiki/Chuquicamata>
 * <https://www.americanorchidsociety.org/> — American Orchid Society (founded by Burrage)
 * [Burrage Mansion, Redlands, CA](http://www.burragemansion.org/)
 
 
+
+
+
 ## Alexander Trepov ~ Paternal great-great-uncle
 
-![Alexander Trepov](photos/alexander-trepov.jpg)
+![Alexander Trepov](../commons/alexander-trepov.jpg)
 
 **1862 – 1928** | Prime Minister of the Russian Empire
 
@@ -30,7 +59,7 @@ The penultimate Prime Minister of Imperial Russia (November 1916 – January 191
 
 ## Allison Vincent Armour ~ Paternal great-great-uncle
 
-![Allison Armour](photos/allison-armour.jpg)
+![Allison Armour](../commons/allison-armour.jpg)
 
 **circa 1851 – 1940** | Scientific explorer and Olympic leader
 
@@ -42,7 +71,7 @@ A pioneering naturalist and explorer, Allison Vincent Armour conducted fifteen m
 
 ## Anne Bell Burrage ~ Maternal grandmother
 
-![Anne Burrage](photos/anne-burrage.jpg)
+![Anne Burrage](../commons/anne-burrage.jpg)
 
 **1890 – 1983** | Founder of The Herb Society of America
 
@@ -63,7 +92,7 @@ Born in 1771, David Fulton was an Irish-American settler remembered as a civic l
 
 ## Erastus Foote ~ Paternal great-great-great-grandfather
 
-![Erastus Foote](photos/erastus-foote.jpg)
+![Erastus Foote](../commons/erastus-foote.jpg)
 
 **1777 – 1856** | American lawyer and first Attorney General of Maine
 
@@ -76,7 +105,7 @@ Born September 19, 1777, in Waterbury, Connecticut, Erastus Foote was admitted t
 
 ## Fyodor Trepov (senior) ~ Paternal great-great-grandfather
 
-![Fyodor Trepov](photos/fyodor-trepov.jpg)
+![Fyodor Trepov](../commons/fyodor-trepov.jpg)
 
 **1809 – 1889** | Russian general and Governor of Saint Petersburg
 
@@ -87,7 +116,7 @@ Fyodor Fyodorovich Trepov began his military career in 1831, helping suppress th
 
 ## George Armour ~ Paternal great-great-grandfather
 
-![George Armour](photos/george-armour.png)
+![George Armour](../commons/george-armour.png)
 
 **1812 – 1881** | Scottish American grain pioneer and art patron
 
@@ -99,22 +128,26 @@ Born in Campbeltown, Scotland, George Armour emigrated to America and revolution
 * <https://www.ymcachicago.org/> — YMCA of Metro Chicago
 
 
+## George Sanderson Burrage
+
 ## James Whitehill Shirk ~ Maternal great-great-grandfather
 
-![James Whitehill Shirk](photos/james-shirk.png)
+![James Whitehill Shirk](../commons/james-shirk.png)
 
 **1832 – 1873** | Union Navy commander in the American Civil War
 
 Born in Pennsylvania on July 16, 1832, James Whitehill Shirk was appointed a midshipman in the U.S. Navy at age 16 in 1849, cruising the coasts of Africa, East India, and North America aboard the gunnery ship USS Plymouth over the following decade. He won distinction during the American Civil War serving in the Mississippi Squadron — notably at the Battle of Fort Henry (February 1862) and at Pittsburgh Landing, where his ship USS Lexington, alongside USS Tyler, prevented Confederate forces from crossing the river and helped save the Union Army from defeat at the Battle of Shiloh. He went on to fight at Chickasaw Bayou, St. Charles, and Arkansas Post, and commanded the Seventh Division of the Mississippi Squadron in 1863–1864. After the war he cruised with the European Squadron before his death in Washington, D.C., on February 10, 1873. The destroyer USS Shirk (DD-318) was later named in his honor.
 
-**Links & References:**
+
+### Links & References
+
 * <https://en.wikipedia.org/wiki/USS_Shirk> — Namesake biography
 * [Dictionary of American Naval Fighting Ships](https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/s/shirk.html)
 
 
 ## Nikolay Danilovich Kudashev
 
-![Nikolay Danilovich Kudashev](photos/nikolay-kudashev.jpg)
+![Nikolay Danilovich Kudashev](../commons/nikolay-kudashev.jpg)
 
 **1784 – 1813** | Russian Major General of the Napoleonic Wars
 
@@ -127,7 +160,7 @@ Prince Nikolay Danilovich Kudashev came from a Tatar noble family and entered mi
 
 ## Norman Armour ~ Paternal grandfather
 
-![Norman Armour](photos/norman-armour.jpg)
+![Norman Armour](../commons/norman-armour.jpg)
 
 **1887 – 1982** | Career diplomat and Assistant Secretary of State
 
@@ -138,23 +171,35 @@ A distinguished career diplomat whom the New York Times called "the perfect dipl
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 
 
-## Theodor von Nieroth ~ Paternal great-great-great-uncle
+## Sergei Vladimirovich Kudashev (1863–1933) ~ Paternal great grandfather
 
-![Theodor von Nieroth](photos/theodor-nieroth.jpeg)
+## Theodor von Nieroth ~ Paternal great-great-uncle
+
+![Theodor von Nieroth](../commons/nirod_fedor_maksimilianovic_001_2__large.jpg)
 
 **1871 – 1952** | Major General in the Imperial Russian Army
 
 Born July 2, 1871, in Saint Petersburg into the Baltic German von Nieroth family, Theodor was the son of the courtier Maximilian von Nieroth and Anastasia Trepova — a grandson of Fyodor Trepov (senior). After graduating from the elite Page Corps in 1892, he served in a Guards cavalry regiment, was promoted to colonel in 1907, and commanded the 16th Hussar Regiment (1911) and then the Life Guards Dragoon Regiment (1912), leading the latter through the First World War. In January 1915 he was awarded the Sword of St. George for repelling an enemy cavalry brigade near Schirwindt in East Prussia, where he was wounded but stayed in the field; he went on to command the 2nd Guards Cavalry Division. During the Russian Civil War he served in Anton Denikin's White Volunteer Army before emigrating, and died in France on March 26, 1952.
 
-Theo Armour says: "My nickname comes from my uncle Theo."
+## Personal Reflections
+
+Theo Armour says: My nickname comes from my uncle Theo. I remember visiting his house in Amblainy France. In particular, I remember the wastebasket that was made out of the foot of a real elephant. I also remember his funeral in Pere La Chaise Cemetery in Paris. He presented me with a sliver cup inscribed with "From Theo Sr. to Theo Jr".
+
+I remember hearing that he was the youngest general in this horse army. And also, he went out on a three-day hunt on one of his properties. On the hunt, he discovered a village that was not on any map, so the first thing he did was send out the tax collector.
 
 **Links & References:**
 * <https://et.wikipedia.org/wiki/Theodor_von_Nieroth_(1871%E2%80%931952)> — Estonian Wikipedia
 * <https://www.ra.ee/apps/georgi/html/mitte-eestlaste_elulood.html>
 
+## Vera Maximilianovna Kudasheva (1874–1920) ~ Paternal great grandmother
+
+![Princess Vera Maximilianovna Kudasheva](../commons/vera-kudasheva.jpg)
+
+![Princess Vera Maximilianovna Kudasheva](../commons/1900~-unknown-vera-von-neiroth-in-court-dress.jpg)
+
 ## Walter Lowrie ~ Paternal great-uncle
 
-![Walter Lowrie](photos/walter-lowrie.jpg)
+![Walter Lowrie](../commons/walter-lowrie.jpg)
 
 **1868 – 1959** | Kierkegaardian theologian and prolific translator
 
@@ -167,7 +212,7 @@ An Episcopal priest and scholar of extraordinary depth, Walter Lowrie devoted hi
 
 ## William S. Fulton ~ Maternal great-great-great-grandfather
 
-![William S. Fulton](photos/william-fulton.jpg)
+![William S. Fulton](../commons/william-fulton.jpg)
 
 **1795 – 1844** | Governor of Arkansas Territory and U.S. Senator
 
