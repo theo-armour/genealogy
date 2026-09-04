@@ -43,7 +43,13 @@ h3 {
   font-size: 130%;
 }
 
+h2 {
+
+  break-before: always;
+}
+
 h2,
+
 h3 {
   color: #880000;
   margin: 0;
@@ -88,11 +94,19 @@ ul {
     max-width: 100%;
   }
 
+  h2 {
+
+    break-before: always;
+  }
+
   h1,
   h2,
   h3 {
     page-break-after: avoid;
   }
+  hr {
+      page-break-after: always;
+    }
 
   /* h1 {
   color: yellow;
