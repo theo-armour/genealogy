@@ -40,8 +40,6 @@ Given how important he was in the family, I'm so surprised how little I knew abo
 * <https://www.americanorchidsociety.org/> — American Orchid Society (founded by Burrage)
 * [Burrage Mansion, Redlands, CA](http://www.burragemansion.org/)
 
-***
-
 
 ## Alexander Trepov ~ Paternal great-great-uncle
 
@@ -62,7 +60,6 @@ My great grandmother, Princess Vera's uncle was the last Prime Minister of Russi
 * <https://en.wikipedia.org/wiki/Kirov_Railway>
 * Son of https://en.wikipedia.org/wiki/Fyodor_Trepov_(junior)
 
-***
 
 ## Allison Vincent Armour ~ Paternal great-great-uncle
 
@@ -81,7 +78,7 @@ Great Uncle Allison was a far more dashing figure than my great-grandfather, Gee
 * [Yale University Obituary Record](http://mssa.library.yale.edu/obituary_record/1925_1952/1940-41.pdf) (Page 23)
 
 
-***
+
 
 ## Anne Bell Burrage ~ Maternal grandmother
 
@@ -90,7 +87,7 @@ Great Uncle Allison was a far more dashing figure than my great-grandfather, Gee
 
 **1890 – 1983** | Founder of The Herb Society of America
 
-Anne Bell Burrage co-founded and shaped The Herb Society of America, formally established on August 23, 1933, at her home in Ipswich, Massachusetts. Born into a prominent Boston family, she gathered six fellow gardeners and horticulturists to form a society dedicated to the study and research of herbs. From this small gathering grew a national institution whose mission has endured for nearly a century, promoting botanical knowledge and horticultural education.
+Anne Bell Burrage co-founded and shaped The Herb Society of America, formally established on August 23, 1933, at her home in Ipswich, Massachusetts. Married into a prominent Boston family, she gathered six fellow gardeners and horticulturists to form a society dedicated to the study and research of herbs. From this small gathering grew a national institution whose mission has endured for nearly a century, promoting botanical knowledge and horticultural education.
 
 
 ### Personal Recollections
@@ -102,26 +99,6 @@ My grandma used creativity, design, joie de vivre, enthusiasm, imagination, gett
 * <https://www.herbsociety.org/about/history.html> — Official Herb Society history
 * <https://www.herbsociety.org/> — The Herb Society of America
 
-***
-
-## David Fulton ~ Maternal great-great-great-grandfather
-
-**1771 – 1843** | Irish-American pioneer, civic leader, and family patriarch
-
-Born in 1771, David Fulton was an Irish-American settler remembered as a civic leader and the patriarch of a family line that would extend into American public life across later generations. Detailed records of his life are still being gathered; this entry is a placeholder pending further genealogical research.
-
-### Personal References
-
-Grandma often talked about a signer of the Declaration of Independence and of being related to settlers in Jamestown in 1607. It was through this line.
-
-I had almost no connection with her southern side. Nonetheless, I did receive a cheque along with a bunch of other descendants from a relative who died in Little Rock in the 80s.
-
-
-### Links & References
-
-* _Research in progress — see family records and genealogy archives._
-
-***
 
 ## Erastus Foote ~ Paternal great-great-great-grandfather
 
@@ -133,14 +110,14 @@ Born September 19, 1777, in Waterbury, Connecticut, Erastus Foote was admitted t
 
 ### Personal References
 
-One summer we visited his house and met some of the family in Wisconsin, Maine. For a number of years, I was in a relationship with one of his descendants living in Walnut Creek, CA.
+One summer we visited his house and met some of the family in Wiscasset, Maine. For a number of years, I was in a relationship with one of his descendants living in Walnut Creek, CA.
 
 ### Links & References
 * <https://en.wikipedia.org/wiki/Erastus_Foote>
 * [Maine's First Leaders](https://digitalmaine.com/arc_200_exhibit_first_leaders/1/)
 * [Find a Grave memorial](https://www.findagrave.com/memorial/36411786/erastus-foote)
 
-***
+
 
 ## Fyodor Trepov (senior) ~ Paternal great-great-grandfather
 
@@ -158,7 +135,7 @@ Granny told me that when the family first moved to Poland, They staked out a pla
 ### Links & References
 * <https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)>
 
-***
+
 
 ## George Armour ~ Paternal great-great-grandfather
 
@@ -170,7 +147,7 @@ Born in Campbeltown, Scotland, George Armour emigrated to America and revolution
 
 ### Personal Recollections
 
-Here is one of the more amazing people in American history: True Rags-to-Riches Story. Even so, my grandparents rarely spoke about him. He was just known as the person who put the first grand elevators in Chicago. And this is understandable. I was able to find very little about him when I was creating his Wikipedia page.
+Here is one of the more amazing people in American history: True rags-to-riches story. Even so, my grandparents rarely spoke about him. He was just known as the person who put the first grand elevators in Chicago. And this is understandable. I was able to find very little about him when I was creating his Wikipedia page.
 
 ### Links & References
 
@@ -179,7 +156,7 @@ Here is one of the more amazing people in American history: True Rags-to-Riches 
 * <https://www.ymcachicago.org/> — YMCA of Metro Chicago
 
 
-***
+
 
 ## James Whitehill Shirk ~ Maternal great-great-grandfather
 
@@ -194,11 +171,9 @@ Born in Pennsylvania on July 16, 1832, James Whitehill Shirk was appointed a mid
 
 When we lived in Princeton, New Jersey, from about 1953 until 1960, Captain Shirk's epaulettes and sword were fixed to the wall of my bed. I believe they are now in my cousin's house in New Hampshire.
 
-My grandmother seemed to think that he was associated with Admiral BT and BT's trip to Tokyo, Japan, that initiated the Meiji Restoration, but as far as I can see, there was no connection.
+My grandmother seemed to think that he was associated with Admiral Beattu and Beatt's voyage to Tokyo, Japan, that initiated the Meiji Restoration, but as far as I can see, there was no connection.
 
-How this upstart officer became involved with a Southern Belle remains a mystery to me.
-
-***
+How this upstart officer became involved with a Southern Belle remains a mystery to me. ;- )
 
 ### Links & References
 
@@ -206,7 +181,7 @@ How this upstart officer became involved with a Southern Belle remains a mystery
 * [Dictionary of American Naval Fighting Ships](https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/s/shirk.html)
 
 
-***
+
 
 ## Nikolay Danilovich Kudashev
 
@@ -226,7 +201,7 @@ I assume that he was one of the reasons why his grandson, Prince Sergei, wrote "
 * <https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87> — Russian Wikipedia
 * [Military Gallery of the Winter Palace portrait](http://www.museum.ru/1812/persons/vgzd/vg_k49.html)
 
-***
+
 
 ## Norman Armour ~ Paternal grandfather
 
@@ -244,11 +219,11 @@ A distinguished career diplomat whom the New York Times called "the perfect dipl
 The two of them were consummate diplomats. Having a meal with them was always engaging. The conversations were beautifully timed so that one could talk while the other one was eating.
 
 ### Links & References
+
 * <https://en.wikipedia.org/wiki/Norman_Armour>
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 
 
-***
 
 ## Sergei Vladimirovich Kudashev (1863–1933) ~ Paternal great grandfather
 
@@ -256,7 +231,7 @@ The two of them were consummate diplomats. Having a meal with them was always en
 
 ### Personal Recollections
 
-Until my new friend Eric Van der Graaf came along, I knew almost nothing about Prince Sergey. Perhaps the only thing was that I'd been to see his house on Bolshoya Moskoya in St. Petersburg with my daughter Cynthia.  And perhaps also that the cadet ships were at the Yussefov palace for a party the night that Rasputin was assassinated.
+Until my new friend Eric Van der Graaf came along, I knew almost nothing about Prince Sergey. Perhaps the only thing was that I'd been to see his house on Bolshoya Moskoya in St. Petersburg with my daughter Cynthia.  And perhaps also that the Kudashevs were at the Yusupov palace for a party the night that Rasputin was assassinated.
 
 ### Links & References
 
@@ -270,7 +245,7 @@ Until my new friend Eric Van der Graaf came along, I knew almost nothing about P
 * https://pjrc.library.utoronto.ca/sites/default/public/PJRCupdate13.pdf
 
 
-***
+
 
 ## Theodor von Nieroth ~ Paternal great-great-uncle
 
@@ -282,7 +257,7 @@ Born July 2, 1871, in Saint Petersburg into the Baltic German von Nieroth family
 
 ### Personal Reflections
 
-Theo Armour says: My nickname comes from my uncle Theo. I remember visiting his house in Amblainy France. In particular, I remember the wastebasket that was made out of the foot of a real elephant. I also remember his funeral in Pere La Chaise Cemetery in Paris. He presented me with a sliver cup inscribed with "From Theo Sr. to Theo Jr".
+Theo Armour says: My nickname comes from my uncle Theo. I remember visiting his house in Amblainville France. In particular, I remember the wastebasket that was made out of the foot of a real elephant. I also remember his funeral in Pere La Chaise Cemetery in Paris. He presented me with a sliver cup inscribed with "From Theo Sr. to Theo Jr".
 
 I remember hearing that he was the youngest general in this horse army. And also, he went out on a three-day hunt on one of his properties. On the hunt, he discovered a village that was not on any map, so the first thing he did was send out the tax collector.
 
@@ -290,7 +265,7 @@ I remember hearing that he was the youngest general in this horse army. And also
 * <https://et.wikipedia.org/wiki/Theodor_von_Nieroth_(1871%E2%80%931952)> — Estonian Wikipedia
 * <https://www.ra.ee/apps/georgi/html/mitte-eestlaste_elulood.html>
 
-***
+
 
 ## Vera Maximilianovna Kudasheva (1874–1920) ~ Paternal great grandmother
 
@@ -311,7 +286,7 @@ Apart from the incredible family she came from, all I know is that she was a sig
 * Wife of Sergei Vladimirovich Kudashev
 * Daughter of <https://en.wikipedia.org/wiki/Fyodor_Trepov_(junior)>
 
-***
+
 
 ## Walter Lowrie ~ Paternal great-uncle
 
@@ -324,9 +299,9 @@ An Episcopal priest and scholar of extraordinary depth, Walter Lowrie devoted hi
 
 ### Personal Recollections
 
-Even though he died when I was seven, I had distinct memories of Uncle Walter sitting in his chair that are now on their way to Amsterdam to my daughter's house. He had a Chinese chest full of little toys for me to play with. Anne de Bee always talked about him, and his young lovers remained her friends all through her life and my life.
+Even though he died when I was seven, I had distinct memories of Uncle Walter sitting in his chair that are now on their way to Amsterdam to my daughter's house. He had a Chinese chest full of little toys for me to play with. Auntie B frequently talked about him, and his young lovers remained her friends all through her life and my life.
 
-And then, of course, he was part of the team that translated Care for God into English.
+And then, of course, he was part of the team that translated Søren Kierkegaard into English.
 
 
 ### Links & References
@@ -334,15 +309,15 @@ And then, of course, he was part of the team that translated Care for God into E
 * <https://www.goodreads.com/author/list/264525.Walter_Lowrie> — Complete bibliography of published works
 * [Walter Lowrie House, Princeton](https://etcweb.princeton.edu/CampusWWW/Companion/lowrie_house.html) — Now part of Princeton University
 
-***
 
-## William S. Fulton ~ Maternal great-great-great-grandfather
+
+## William Savin Fulton ~ Maternal great-great-great-grandfather
 
 ![William S. Fulton](../commons/william-fulton.jpg)
 
-**1795 – 1844** | Governor of Arkansas Territory and U.S. Senator
+**1795 – 1844** | Governor of Arkansas Territory and US Senator
 
-Connected to the family through Ida Watkins (maternal great-grandmother), William Savin Fulton was born June 2, 1795, in Cecil County, Maryland, and graduated from Baltimore College in 1813. With the outbreak of the War of 1812 he enlisted at Fort McHenry and took part in the Battle of Baltimore, and in 1818 served as military secretary to General Andrew Jackson during the Seminole War. Admitted to the bar in Tennessee in 1817, he later settled in Alabama and won election to its legislature. President Jackson appointed him Secretary of the Arkansas Territory in 1829 and then Governor of the Territory in 1835. When Arkansas achieved statehood in 1836, Fulton became one of its first U.S. Senators, serving as a Jacksonian Democrat until his death at his Little Rock home on August 15, 1844. Fulton County, Arkansas, is named in his honor.
+Connected to the family through Ida Watkins (maternal great-grandmother), William Savin Fulton was born June 2, 1795, in Cecil County, Maryland, and graduated from Baltimore College in 1813. With the outbreak of the War of 1812 he enlisted at Fort McHenry and took part in the Battle of Baltimore, and in 1818 served as military secretary to General Andrew Jackson during the Seminole War. Admitted to the bar in Tennessee in 1817, he later settled in Alabama and won election to its legislature. President Jackson appointed him Secretary of the Arkansas Territory in 1829 and then Governor of the Territory in 1835. When Arkansas achieved statehood in 1836, Fulton became one of its first US Senators, serving as a Jacksonian Democrat until his death at his Little Rock home on August 15, 1844. Fulton County, Arkansas, is named in his honor.
 
 ### Personal Recollections
 

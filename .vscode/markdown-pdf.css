@@ -37,6 +37,7 @@ h1 {
 
 h2 {
   font-size: 150%;
+  margin: 0 0 0.75rem 0;
 }
 
 h3 {
@@ -44,7 +45,6 @@ h3 {
 }
 
 h2 {
-
   break-before: always;
 }
 
@@ -95,8 +95,8 @@ ul {
   }
 
   h2 {
-
-    break-before: always;
+    page-break-before: always;
+   margin: 0 0 0.75rem 0;
   }
 
   h1,
@@ -104,11 +104,12 @@ ul {
   h3 {
     page-break-after: avoid;
   }
+  /*
   hr {
       page-break-after: always;
     }
 
-  /* h1 {
+  h1 {
   color: yellow;
   text-decoration: none;
   text-decoration-thickness: 0px;
