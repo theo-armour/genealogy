@@ -10,6 +10,7 @@ An Episcopal priest and scholar of extraordinary depth, Walter Lowrie devoted hi
 
 **Links & References:**
 * <https://en.wikipedia.org/wiki/Walter_Lowrie_(author)>
+* <https://press.princeton.edu/our-authors/lowrie-walter>
 * <https://www.goodreads.com/author/list/264525.Walter_Lowrie> — Complete bibliography of published works
 * [Walter Lowrie House, Princeton](https://etcweb.princeton.edu/CampusWWW/Companion/lowrie_house.html) — Now part of Princeton University
 
