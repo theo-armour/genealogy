@@ -22,6 +22,7 @@
 * <https://en.wikipedia.org/wiki/Fyodor_Trepov>
 * <https://gemini.google.com/app/87354eeb7faf1d0f> ~ research chat
 
+
 ## Life
 
 A prominent Russian General and government official. He served as the **Governor of St. Petersburg** (1873–1878) and is perhaps best known historically for surviving an assassination attempt by the revolutionary Vera Zasulich in 1878.

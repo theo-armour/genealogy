@@ -70,9 +70,9 @@ His older brother, prince Ivan Alexandrovich Kudashev (1859–1933), was also ac
 ambassador to Spain.
 
 ### Private life
-Prince Sergei Vladimirovich Kudashev married countess Vera Maximilianovna von Nieroth (1874–1920) in 1894, with whom he had two children. The eldest child was their daughter, Maria Sergeyevna Kudasheva (1895–1990). The youngest child was their son, Sergei
 
-Sergeyevich Kudashev (1901–1991).
+Prince Sergei Vladimirovich Kudashev married countess Vera Maximilianovna von Nieroth (1874–1920) in 1894, with whom he had two children. The eldest child was their daughter, Maria Sergeyevna Kudasheva (1895–1990). The youngest child was their son, Sergei Sergeyevich Kudashev (1901–1991).
+
 Vera Maximilianovna von Nieroth was the daughter of count Maximilian Carl Benedict von Nieroth (1846–1914), an imperial chamberlain and master of the hunt of Baltic-German descent, and Anastasia Fyodorovna Trepova (1849-1940), a former maid of honour in service of tsarina Maria Feodorovna (1847-1928), the wife of tsar Alexander III (1845-1894). Before marrying, countess Vera Maximilianovna von Nieroth served as a maid of honour to tsarina Alexandra Feodorovna (1872-1918), the wife of tsar Nicholas II.
 
 The photographs of princess Kudasheva were also taken on the occasion of the Romanov costume ball on February 11 and 13, 1903, at the Winter Palace in Saint Petersburg, commemorating the 290th anniversary of the Romanov dynasty.
