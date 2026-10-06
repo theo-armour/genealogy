@@ -11,3 +11,6 @@
 
 * Verify and update the translations of non-English names of family members in the genealogy tree.
 
+## Norman Armour
+
+* Add to https://en.wikipedia.org/w/index.php?title=Category:United_States_assistant_secretaries_of_state&pagefrom=McMurray%2C+Claudia+A.%0AClaudia+A.+McMurray#mw-pages
