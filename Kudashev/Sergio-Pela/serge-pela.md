@@ -1,4 +1,4 @@
-
+# Sergio Pelà
 
 * https://it.wikipedia.org/wiki/8,8_cm_FlaK
 * Eddy Bauer. Histoire controversée de la deuxième guerre mondiale translated by Achille Pelà and Rosanna Pelà as Controversial History of the Second World War. Istituta Geografico De Agostini SpA (1976).
@@ -26,3 +26,9 @@ Are you researching Sergio Pelà's contributions to 1970s Italian counterculture
 [3] [https://www.youtube.com](https://www.youtube.com/watch?v=a0B323ZSHV0)
 [4] [https://www.acoma.it](https://www.acoma.it/sites/default/files/pdf-articoli/14%20Cantilena_0.pdf)
 [5] [https://www.maremagnum.com](https://www.maremagnum.com/it/libri/oask/452514867/)
+
+## 2026-09-?? 
+
+Taught high school in Japan. 
+
+Says Gigi was a black sheep, a fool who went to prison. 

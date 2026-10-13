@@ -44,7 +44,7 @@ I do remember hearing that during WWII he was a Nazi sympathizer. He was exiled 
 
 I also remember hearing that Granny set him a remittance every month.
 
-He went to live in Barcelona and was married to a Spanish woman, Maria del Pilar Robert.
+He went to live in Barcelona and was married to a Spanish woman, Maria del Pilar Robert. She had a nephew Jesus ~ who was left documents by Sergei.
 
 I have been able to find very little about him. Apparently, he went before a French magistrate in 1947 because of some kind of illegal car and car accessory import issues.
 

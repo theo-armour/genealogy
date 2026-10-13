@@ -3,9 +3,11 @@
 My "Granny" was Princess Myra Armour (née Kudasheva), daughter of Princess Vera Maximilianovna Kudasheva, daughter of Prince Maximilian Kudashev. The Kudashev family was a prominent Russian noble family.
 
 ## Prominent Russian noble family
+
 * https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B
 * https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2
-* 
+* https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B
+
 
 Many interesting things here. See Princess Vera Kudasheva!
 
@@ -14,10 +16,6 @@ Many interesting things here. See Princess Vera Kudasheva!
 ## Names and Spellings
 
 Also: Koudacheff, Koudashev, Kudashev, Koudachev, kudachew
-
-## Links
-
-* https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2
 
 ## Genealogy
 
