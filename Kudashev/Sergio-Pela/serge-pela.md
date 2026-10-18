@@ -1,5 +1,15 @@
 # Sergio Pelà
 
+
+## 2026-10-18
+
+Rosa Luxembourg
+
+Narsai
+
+
+## 2026-10-10
+
 * https://it.wikipedia.org/wiki/8,8_cm_FlaK
 * Eddy Bauer. Histoire controversée de la deuxième guerre mondiale translated by Achille Pelà and Rosanna Pelà as Controversial History of the Second World War. Istituta Geografico De Agostini SpA (1976).
 * Achille Pelà 1921-1986
