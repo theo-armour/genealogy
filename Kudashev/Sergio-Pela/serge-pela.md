@@ -1,6 +1,12 @@
 # Sergio Pelà
 
 
+* Achille Pela 1921-11-07
+* Olga Pela ~ 1926
+* Alexandra Pela ~ 1956
+* Sergio Pela ~ 1957-01-14
+* Olga Pela ~ 1964-12-24
+
 ## 2026-10-18
 
 Rosa Luxembourg
