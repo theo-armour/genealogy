@@ -1,5 +1,11 @@
 # Genealogy Agenda
 
+## Website
+
+* Opening README.mds
+* Add note about Wiki
+* Update case
+
 ## Profiles
 
 * 2026-07-03: Add GiGi profiles and send to Erik
