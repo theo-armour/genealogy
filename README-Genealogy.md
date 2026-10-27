@@ -19,6 +19,7 @@ Much of the data that is here has been collected via online web genealogy servic
 View of the GEDCOM files exported from Geni 2025-08-18
 
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged>
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/export-geni-2/export-BloodTree.ged>
 
 ### Ancestry.com
 
