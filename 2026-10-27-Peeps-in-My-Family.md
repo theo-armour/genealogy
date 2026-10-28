@@ -22,7 +22,7 @@ All in Wikipedia names are in given name family name are listed in alphabetical 
 
 ## Albert Cameron Burrage ~ Maternal great-grandfather
 
-<img src="commons/albert-burrage.jpg" alt="Albert Burrage" width="300"><br>
+<img src="https://theo-armour.github.io/genealogy/Commons/albert-burrage.jpg" alt="Albert Burrage" width="300"><br>
 
 **1859 – 1931** | Industrialist, attorney, philanthropist, and orchid enthusiast
 
@@ -43,7 +43,7 @@ Given how important he was in the family, I'm so surprised how little I knew abo
 
 ## Alexander Trepov ~ Paternal great-great-uncle
 
-<img src="commons/alexander-trepov.jpg" alt="Alexander Trepov" width="300"><br>
+<img src="https://theo-armour.github.io/genealogy/Commons/alexander-trepov.jpg" alt="Alexander Trepov" width="300"><br>
 
 **1862 – 1928** | Prime Minister of the Russian Empire
 
@@ -63,7 +63,7 @@ My great grandmother, Princess Vera's uncle was the last Prime Minister of Russi
 
 ## Allison Vincent Armour ~ Paternal great-great-uncle
 
-<img src="commons/allison-armour.jpg" alt="Allison Armour" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/allison-armour.jpg" alt="Allison Armour" width="300">
 
 **circa 1851 – 1940** | Scientific explorer and Olympic leader
 
@@ -82,8 +82,8 @@ Great Uncle Allison was a far more dashing figure than my great-grandfather, Gee
 
 ## Anne Bell Burrage ~ Maternal grandmother
 
-<img src="commons/anne-burrage.jpg" alt="Anne Burrage" width="300">
-<img src="commons/1930~-unknown-anne-bell-burrage-in-diving-suit.jpg" alt="Anne Burrage" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/anne-burrage.jpg" alt="Anne Burrage" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/1930~-unknown-anne-bell-burrage-in-diving-suit.jpg" alt="Anne Burrage" width="300">
 
 **1890 – 1983** | Founder of The Herb Society of America
 
@@ -102,7 +102,7 @@ My grandma used creativity, design, joie de vivre, enthusiasm, imagination, gett
 
 ## Erastus Foote ~ Paternal great-great-great-grandfather
 
-<img src="commons/erastus-foote.jpg" alt="Erastus Foote" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/erastus-foote.jpg" alt="Erastus Foote" width="300">
 
 **1777 – 1856** | American lawyer and first Attorney General of Maine
 
@@ -121,7 +121,7 @@ One summer we visited his house and met some of the family in Wiscasset, Maine. 
 
 ## Fyodor Trepov (senior) ~ Paternal great-great-grandfather
 
-<img src="commons/fyodor-trepov.jpg" alt="Fyodor Trepov" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/fyodor-trepov.jpg" alt="Fyodor Trepov" width="300">
 
 **1809 – 1889** | Russian general and Governor of Saint Petersburg
 
@@ -139,7 +139,7 @@ Granny told me that when the family first moved to Poland, They staked out a pla
 
 ## George Armour ~ Paternal great-great-grandfather
 
-<img src="commons/george-armour.png" alt="George Armour" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/george-armour.png" alt="George Armour" width="300">
 
 **1812 – 1881** | Scottish American grain pioneer and art patron
 
@@ -160,8 +160,8 @@ Here is one of the more amazing people in American history: True rags-to-riches 
 
 ## James Whitehill Shirk ~ Maternal great-great-grandfather
 
-<img src="commons/james-shirk.png" alt="James Whitehill Shirk" width="300">
-<img src="commons/uss-shirk.jpg" alt="James Whitehill Shirk" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/james-shirk.png" alt="James Whitehill Shirk" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/uss-shirk.jpg" alt="James Whitehill Shirk" width="300">
 
 **1832 – 1873** | Union Navy commander in the American Civil War
 
@@ -185,7 +185,7 @@ How this upstart officer became involved with a Southern Belle remains a mystery
 
 ## Nikolay Danilovich Kudashev
 
-<img src="commons/nikolay-kudashev.jpg" alt="Nikolay Danilovich Kudashev" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/nikolay-kudashev.jpg" alt="Nikolay Danilovich Kudashev" width="300">
 
 **1784 – 1813** | Russian Major General of the Napoleonic Wars
 
@@ -205,7 +205,7 @@ I assume that he was one of the reasons why his grandson, Prince Sergei, wrote "
 
 ## Norman Armour ~ Paternal grandfather
 
-<img src="commons/norman-armour.jpg" alt="Norman Armour" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/norman-armour.jpg" alt="Norman Armour" width="300">
 
 **1887 – 1982** | Career diplomat and Assistant Secretary of State
 
@@ -227,7 +227,7 @@ The two of them were consummate diplomats. Having a meal with them was always en
 
 ## Sergei Vladimirovich Kudashev (1863–1933) ~ Paternal great grandfather
 
-<img src="commons/1903-ball-sergei-kudashev.jpeg" alt="Sergei Vladimirovich Kudashev at the 1903 Romanov costume ball" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/1903-ball-sergei-kudashev.jpeg" alt="Sergei Vladimirovich Kudashev at the 1903 Romanov costume ball" width="300">
 
 ### Personal Recollections
 
@@ -249,7 +249,7 @@ Until my new friend Eric Van der Graaf came along, I knew almost nothing about P
 
 ## Theodor von Nieroth ~ Paternal great-great-uncle
 
-<img src="commons/nirod_fedor_maksimilianovic_001_2__large.jpg" alt="Theodor von Nieroth" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/nirod_fedor_maksimilianovic_001_2__large.jpg" alt="Theodor von Nieroth" width="300">
 
 **1871 – 1952** | Major General in the Imperial Russian Army
 
@@ -269,9 +269,9 @@ I remember hearing that he was the youngest general in this horse army. And also
 
 ## Vera Maximilianovna Kudasheva (1874–1920) ~ Paternal great grandmother
 
-<img src="commons/vera-kudasheva.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
-<img src="commons/1900~-unknown-vera-von-neiroth-in-court-dress.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
-<img src="commons/1900~-unknown-vera-von-neiroth.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/vera-kudasheva.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/1900~-unknown-vera-von-neiroth-in-court-dress.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/1900~-unknown-vera-von-neiroth.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
 
 
 ### Personal
@@ -290,7 +290,7 @@ Apart from the incredible family she came from, all I know is that she was a sig
 
 ## Walter Lowrie ~ Paternal great-uncle
 
-<img src="commons/walter-lowrie.jpg" alt="Walter Lowrie" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/walter-lowrie.jpg" alt="Walter Lowrie" width="300">
 
 **1868 – 1959** | Kierkegaardian theologian and prolific translator
 
@@ -313,7 +313,7 @@ And then, of course, he was part of the team that translated Søren Kierkegaard 
 
 ## William Savin Fulton ~ Maternal great-great-great-grandfather
 
-<img src="commons/william-fulton.jpg" alt="William S. Fulton" width="300">
+<img src="https://theo-armour.github.io/genealogy/Commons/william-fulton.jpg" alt="William S. Fulton" width="300">
 
 **1795 – 1844** | Governor of Arkansas Territory and US Senator
 
