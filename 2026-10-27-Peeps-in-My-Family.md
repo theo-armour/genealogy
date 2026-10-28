@@ -1,17 +1,17 @@
 # Notable People in the Armour Kudashev Burrage and Shirk Families
 
-### Preface
+## Preface
 
 This is and will be a work in progress. I keep discovering new insights and stories and finding new ways of sharing them.
 
-The main thrust of the people here are within three generations of me. Some people within five generations are also coming in.
+The main thrust of the people here is that they are within three generations of me. Some people within five generations are also creeping in.
 
 This effort is much larger effort:
 
-* https://theo-armour.github.io/genealogy
+* https://theo-armour.github.io/collection
 * https://www.geni.com/family-tree/index/6000000004118029730
 
-All in Wikipedia names are in given name family name are listed in alphabetical order. Another way of thinking about it is whatever name might appear on their tombstone. When names are originally in part in other non-English languages, they are translated into English in the most modern spelling.
+As in Wikipedia, names are in given name family name are listed in alphabetical order. Another way of thinking about it is whatever name might appear on their tombstone. When names are originally in part in other non-English languages, they are translated into English in the most modern spelling.
 
 * To be authoritative
 * To include observations and recollections from family
