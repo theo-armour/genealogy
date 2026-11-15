@@ -19,7 +19,7 @@
 * Russian: Сергей Владимирович Кудашев ~ verify
 * Modern transliteration: Sergei Vladimirovich Kudashev
 * French transliteration: Serge Koudacheff ~ Wikimedia Commons "Collection Serge Koudacheff"
-* German transliteration: Serge Wladimirowitch Koudacheff ~ Christie's lot record
+* German transliteration: Sergei Wladimirowitch Koudacheff ~ Christie's lot record
 * Title: Prince ~ Wikidata notes "Prince Tatarsky" (Tatar) = member of one of the Princely families created by Peter the Great upon the acquisition of Siberia
 
 ## Links
@@ -79,12 +79,7 @@ The photographs of princess Kudasheva were also taken on the occasion of the Rom
 
 ### Flight and exile
 
-Due to his position and as a member of the Russian nobility, prince Sergei Vladimirovich Kudashev was in immediate mortal danger right after the outbreak of the
-revolution in February 1917 in St. Petersburg. With the help of the then 2nd secretary of the American embassy, Norman Armour, prince Kudashev, along with his wife Vera and their children Maria and Sergei, managed to escape using false papers and fled to the nearby border
-with Finland. Presumably, like many other refugees, they crossed the frozen Lake Ladoga or the Gulf of Finland on foot during the winter to bypass border controls. Finland had declared
-its independence from Russia in 1917, making the country a relatively safe destination for refugees from Russia. Via Finland, the Kudashev family eventually arrived in
-Sweden in the spring of 1917. Initially, they stayed at the Grand Hôtel in
-the Swedish capital of Stockholm, but later moved to a luxurious villa in the fashionable
+Due to his position and as a member of the Russian nobility, prince Sergei Vladimirovich Kudashev was in immediate mortal danger right after the outbreak of the revolution in February 1917 in St. Petersburg. With the help of the then 2nd secretary of the American embassy, Norman Armour, prince Kudashev, along with his wife Vera and their children Maria and Sergei, managed to escape using false papers and fled to the nearby border with Finland. Presumably, like many other refugees, they crossed the frozen Lake Ladoga or the Gulf of Finland on foot during the winter to bypass border controls. Finland had declared its independence from Russia in 1917, making the country a relatively safe destination for refugees from Russia. Via Finland, the Kudashev family eventually arrived in Sweden in the spring of 1917. Initially, they stayed at the Grand Hôtel in the Swedish capital of Stockholm, but later moved to a luxurious villa in the fashionable
 seaside resort of Saltsjöbaden, in the immediate vicinity of Stockholm.
 The Kudashev family took up residence in Villa Skärtofta and would remain there until the middle or end of 1918. This villa also became a gathering place for wealthy Russian refugees – mostly of noble descent – where prince Kudashev regularly organized parties and gatherings.
 Villa Skärtofta in Saltsjöbaden, Sweden
@@ -141,6 +136,8 @@ Plates from the 1905 *Prince Tatarsky* sale catalogue:
 
 ### Bol'shaya Morskaya Ulitsa, 57
 
+* https://www.citywalls.ru/house1486.html
+* https://walkspb.ru/istoriya-peterburga/zd/bol-morskaya57
 * Bol'shaya Morskaya Ulitsa, 57, Saint Petersburg, Russia, 190000
 * https://maps.app.goo.gl/PCZGYCHVgu4hhxEj6
 
