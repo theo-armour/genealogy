@@ -57,7 +57,7 @@ The penultimate Prime Minister of Imperial Russia (November 1916 – January 191
 
 ### Personal References
 
-My great grandmother, Princess Vera's uncle was the last Prime Minister of Russia under Tsar Alexander. That's how I knew about Alexander Tripov. Unfortunately, the only picture I knew of him was quite mousy and timid-looking. Even so, he was one of my claims to fame.
+My great grandmother, Princess Vera's uncle was the last Prime Minister of Russia under Tsar Alexander. That's how I knew about Alexander Trepov. Unfortunately, the only picture I knew of him was quite mousy and timid-looking. Even so, he was one of my claims to fame.
 
 
 ### Links & References
@@ -79,7 +79,7 @@ A pioneering naturalist and explorer, Allison Vincent Armour conducted fifteen m
 
 ### Personal References
 
-Great Uncle Allison was a far more dashing figure than my great-grandfather, Geerge Armour. He raced his yacht against Connie Vanderbilt. Kaiser Willy was on his yacht when the The telegram that announced that Archduke Sarajevo had been shot. The builder of magnificent yachts that carried out scientific expositions, including discovering Carthage. Grandfather, While still a student at Princeton, was on one of his trips around the world, when Grandfather woke up one morning in India with the tattoo of a cobra on his arm.
+Great Uncle Allison was a far more dashing figure than my great-grandfather, George Armour. He raced his yacht against Connie Vanderbilt. Kaiser Willy was on his yacht when the The telegram that announced that Archduke Sarajevo had been shot. The builder of magnificent yachts that carried out scientific expositions, including discovering Carthage. Grandfather, While still a student at Princeton, was on one of his trips around the world, when Grandfather woke up one morning in India with the tattoo of a cobra on his arm.
 
 ### Links & References
 
@@ -154,7 +154,6 @@ Granny told me that when the family first moved to Poland, They staked out a pla
 * <https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)>
 
 
-
 ## George Armour ~ Paternal great-great-grandfather
 
 <img src="https://theo-armour.github.io/genealogy/Commons/george-armour.png" alt="George Armour" width="300">
@@ -177,8 +176,6 @@ Here is one of the more amazing people in American history: True rags-to-riches 
 * <https://www.ymcachicago.org/> — YMCA of Metro Chicago
 
 
-
-
 ## James Whitehill Shirk ~ Maternal great-great-grandfather
 
 <img src="https://theo-armour.github.io/genealogy/Commons/james-shirk.png" alt="James Whitehill Shirk" width="300">
@@ -194,7 +191,7 @@ Born in Pennsylvania on July 16, 1832, James Whitehill Shirk was appointed a mid
 
 When we lived in Princeton, New Jersey, from about 1953 until 1960, Captain Shirk's epaulettes and sword were fixed to the wall of my bed. I believe they are now in my cousin's house in New Hampshire.
 
-My grandmother seemed to think that he was associated with Admiral Beattu and Beatt's voyage to Tokyo, Japan, that initiated the Meiji Restoration, but as far as I can see, there was no connection.
+My grandmother seemed to think that he was associated with Admiral Beatty and Beatty's voyage to Tokyo, Japan, that initiated the Meiji Restoration, but as far as I can see, there was no connection.
 
 How this upstart officer became involved with a Southern Belle remains a mystery to me. ;- )
 
@@ -203,8 +200,6 @@ How this upstart officer became involved with a Southern Belle remains a mystery
 * 📁 [Family wiki: James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/James-Whitehill-Shirk-1832-1873.md)
 * <https://en.wikipedia.org/wiki/USS_Shirk> — Namesake biography
 * [Dictionary of American Naval Fighting Ships](https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/s/shirk.html)
-
-
 
 
 ## Nikolay Danilovich Kudashev
@@ -219,16 +214,15 @@ Prince Nikolay Danilovich Kudashev came from a Tatar noble family and entered mi
 
 ### Personal Recollections
 
-I knew almost nothing about Prince Nikolay except that his portrait hang in our dining room for many years. Many years later, I was surprised to see a near identical  portrait hung in the hall of famous commanders in the Hermitage Museum.
+I knew almost nothing about Prince Nikolay except that his portrait hang in our dining room for many years. Many years later, I was surprised to see a near identical portrait hung in the hall of famous commanders in the Hermitage Museum.
 
 I assume that he was one of the reasons why his grandson, Prince Sergei, wrote "History of the War of 1812".
 
 ### Links & References
+
 * 📁 [Family wiki: Nikolay Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/Nikolay-Danilovich-Kudashev-1784-1813.md)
 * <https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87> — Russian Wikipedia
 * [Military Gallery of the Winter Palace portrait](http://www.museum.ru/1812/persons/vgzd/vg_k49.html)
-
-
 
 ## Norman Armour ~ Paternal grandfather
 
@@ -254,7 +248,6 @@ The two of them were consummate diplomats. Having a meal with them was always en
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 
 
-
 ## Sergei Vladimirovich Kudashev (1863–1933) ~ Paternal great grandfather
 
 <img src="https://theo-armour.github.io/genealogy/Commons/1903-ball-sergei-kudashev.jpeg" alt="Sergei Vladimirovich Kudashev at the 1903 Romanov costume ball" width="300">
@@ -276,8 +269,6 @@ Until my new friend Eric Van der Graaf came along, I knew almost nothing about P
 * https://www.findagrave.com/memorial/160527167/sergio_vladimirovich-koudacheff
 * https://www.findagrave.com/memorial/160529125/olga_erikovna-koudacheff
 * https://pjrc.library.utoronto.ca/sites/default/public/PJRCupdate13.pdf
-
-
 
 
 ## Theodor von Nieroth ~ Paternal great-great-uncle
@@ -325,8 +316,6 @@ Apart from the incredible family she came from, all I know is that she was a sig
 * Wife of Sergei Vladimirovich Kudashev
 * Daughter of <https://en.wikipedia.org/wiki/Fyodor_Trepov_(junior)>
 
-
-
 ## Walter Lowrie ~ Paternal great-uncle
 
 <img src="https://theo-armour.github.io/genealogy/Commons/walter-lowrie.jpg" alt="Walter Lowrie" width="300">
@@ -336,7 +325,6 @@ Apart from the incredible family she came from, all I know is that she was a sig
 **1868 – 1959** | Kierkegaardian theologian and prolific translator
 
 An Episcopal priest and scholar of extraordinary depth, Walter Lowrie devoted his career to translating and interpreting the works of Danish philosopher Søren Kierkegaard for the English-speaking world. After graduating from Princeton University and studying in Europe, he served as rector of St. Paul's American Church in Rome (1907–1930), then began his "itinerant ministry" publishing 39 books and numerous scholarly articles. From 1939–1945, he published twelve volumes of Kierkegaard translations in collaboration with fellow scholar David F. Swenson. His contributions to Kierkegaard scholarship were so significant that Denmark awarded him the Knight Cross of the Order of Dannebrog in 1947 "as an appreciation of his extensive efforts to spread the knowledge of the intellectual production of Søren Kierkegaard in the Anglo-Saxon world."
-
 
 ### Personal Recollections
 
