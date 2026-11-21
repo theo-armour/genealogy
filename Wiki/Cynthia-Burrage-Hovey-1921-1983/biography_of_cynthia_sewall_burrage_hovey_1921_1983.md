@@ -4,7 +4,7 @@
 
 | `The_Boston_Post_29_Jun_1941.jpg` | "Cynthia Burrage and N. Armour, Jr., Wed". *Boston Sunday Post*, 29 June 1941. The photograph at top left shows the couple after the wedding at Ipswich.[2] | Family collection of newspaper clippings |
 
-**Cynthia Sewall Burrage** (20 November 1921 – 12 September 1983), later Mrs Norman Armour Jr and then Mrs Chandler Hovey Jr, was the younger daughter of a Boston and Ipswich, Massachusetts, family. Boston newspapers reported that she was voted the "1940 Belle of the North Shore", and her wedding at Ipswich in June 1941 to the son of the United States Ambassador to Argentina was covered as one of the main society weddings of that summer.[1][2][3] She was the mother of Theo Armour.[1]
+**Cynthia Sewall Burrage** (20 November 1921 – 12 September 1983), later Mrs Norman Armour Jr and then Mrs Chandler Hovey Jr, was a daughter of a Boston and Ipswich, Massachusetts, family. Boston newspapers reported that she was voted the "1940 Belle of the North Shore", and her wedding at Ipswich in June 1941 to the son of the United States Ambassador to Argentina was covered as one of the main society weddings of that summer.[1][2][3] She was the mother of Theo Armour.[1]
 
 | **Cynthia Sewall Burrage Hovey** | |
 | :--- | :--- |
