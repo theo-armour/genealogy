@@ -7,6 +7,9 @@
 * Add note about Wiki
 * Update case
 
+## GEDCOM Viewer
+
+
 ## Opening Prompt README <name>.mds
 
 The current content management system in index.html automatically opens the README file, followed by text, when a folder is opened. This behavior ensures that the most relevant information is immediately visible to the user.

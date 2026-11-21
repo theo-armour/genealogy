@@ -1,0 +1,1049 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="revised" content="2026-11-21 11:50">
+<title>GEDCOM Viewer</title>
+<link rel="icon" href="../../favicon.ico">
+<style>
+:root {
+  --bg: #f6f2ea;
+  --card: #fffdf8;
+  --ink: #26221c;
+  --muted: #6b6457;
+  --line: #b9ae9a;
+  --border: #ddd4c3;
+  --hl: #c8641a;
+  --b0: #8a2f2a;
+  --b1: #2f5d7c;
+  --b2: #4d6b2f;
+  --b3: #8a6a1f;
+  --neutral: #8b8170;
+  --male: #2f5d7c;
+  --female: #8a2f2a;
+  --gap: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b1915;
+    --card: #26231d;
+    --ink: #ece6d9;
+    --muted: #a59c8b;
+    --line: #6a6253;
+    --border: #3b362c;
+    --hl: #f0a35e;
+    --b0: #d9776f;
+    --b1: #7fb2d6;
+    --b2: #a3c47c;
+    --b3: #d6b25e;
+    --neutral: #8f8676;
+    --male: #7fb2d6;
+    --female: #d9776f;
+  }
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0; display: flex; flex-direction: column;
+  background: var(--bg); color: var(--ink);
+  font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+header { padding: 12px 16px 8px; }
+h1 { margin: 0; font: 600 24px/1.2 Georgia, "Times New Roman", serif; }
+.sub { margin: 2px 0 8px; color: var(--muted); }
+.bar { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; }
+.bar label { color: var(--muted); font-size: 13px; }
+select, button, .btn, input[type=search] {
+  font: inherit; color: var(--ink); background: var(--card);
+  border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px;
+}
+button, .btn { cursor: pointer; }
+button:hover, .btn:hover { border-color: var(--muted); }
+.bar .btn { color: var(--ink); font-size: 14px; }
+
+main {
+  flex: 1; min-height: 0; display: grid; gap: var(--gap);
+  grid-template-columns: 240px 1fr 330px; padding: 0 16px;
+}
+aside {
+  background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+  padding: 10px; overflow-y: auto; min-height: 0;
+}
+#stage {
+  position: relative; min-height: 0; overflow: hidden;
+  border: 1px solid var(--border); border-radius: 8px;
+}
+#tree { display: block; width: 100%; height: 100%; touch-action: none; cursor: grab; }
+#tree.dragging { cursor: grabbing; }
+#msg { position: absolute; left: 12px; top: 8px; margin: 0; color: var(--muted); font-size: 13px; }
+.legend {
+  position: absolute; left: 12px; bottom: 8px; margin: 0; padding: 0; list-style: none;
+  display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 12.5px; color: var(--muted);
+}
+.legend li::before {
+  content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px;
+  margin-right: 6px; background: var(--c); vertical-align: -1px;
+}
+
+#inpSearch { width: 100%; }
+#count { margin: 6px 0; color: var(--muted); font-size: 12.5px; }
+#list { margin: 0; padding: 0; list-style: none; }
+#list button, button.link {
+  display: block; width: 100%; text-align: left; border: 0; background: none;
+  padding: 3px 4px; border-radius: 4px;
+}
+#list button:hover, button.link:hover { background: var(--bg); }
+#list small, button.link small { color: var(--muted); }
+
+#details h2 { margin: 0; font: 600 19px/1.25 Georgia, "Times New Roman", serif; }
+#details h3 {
+  margin: 14px 0 4px; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--muted); border-bottom: 1px solid var(--border); padding-bottom: 3px;
+}
+#details .life { margin: 2px 0 8px; color: var(--muted); }
+#details figure { margin: 8px 0; }
+#details figure img { max-width: 100%; max-height: 260px; border-radius: 6px; display: block; }
+#details figcaption { font-size: 12px; color: var(--muted); }
+#details table { border-collapse: collapse; width: 100%; font-size: 13px; }
+#details td { vertical-align: top; padding: 2px 6px 2px 0; }
+#details td:first-child { color: var(--muted); white-space: nowrap; }
+#details .note { white-space: pre-wrap; font-size: 13px; margin: 4px 0; }
+#details summary { cursor: pointer; color: var(--muted); margin-top: 12px; }
+#details pre { font-size: 11.5px; white-space: pre-wrap; overflow-wrap: anywhere; }
+#details ul { margin: 4px 0; padding-left: 18px; font-size: 13px; }
+#details a { color: var(--b1); }
+.rel { color: var(--muted); font-size: 12px; margin: 6px 0 0; }
+
+footer { padding: 6px 16px 10px; color: var(--muted); font-size: 12.5px; }
+
+@media (max-width: 900px) {
+  html, body { height: auto; }
+  main { grid-template-columns: 1fr; }
+  #stage { height: 70vh; }
+  aside { max-height: 50vh; }
+}
+@media print {
+  .bar, aside, footer, .sub { display: none; }
+  main { display: block; padding: 0; }
+  #stage { border: 0; height: 90vh; }
+}
+</style>
+<style id="svgStyle"></style>
+</head>
+<body>
+
+<header>
+  <h1>🌳 GEDCOM Viewer</h1>
+  <p class="sub">Click a person to see their details and their line to the root. Double-click to make them the root. Drag to pan, scroll to zoom.</p>
+  <div class="bar">
+    <label>File <select id="selFile"></select></label>
+    <label class="btn">📂 Open… <input type="file" id="inpFile" accept=".ged,.txt" hidden></label>
+    <label>Layout
+      <select id="selLayout">
+        <option value="horizontal">Horizontal</option>
+        <option value="vertical">Vertical</option>
+        <option value="fan">Fan (ancestors)</option>
+      </select>
+    </label>
+    <label>Colors
+      <select id="selColor">
+        <option value="branch">Family branch</option>
+        <option value="sex">Male / female</option>
+        <option value="none">None</option>
+      </select>
+    </label>
+    <label>Ancestors
+      <select id="selUp">
+        <option>1</option><option>2</option><option>3</option><option>4</option>
+        <option>5</option><option>6</option><option>7</option>
+      </select>
+    </label>
+    <label>Descendants
+      <select id="selDown">
+        <option>0</option><option>1</option><option>2</option><option>3</option>
+        <option>4</option><option>5</option>
+      </select>
+    </label>
+    <button id="btnFit">⤢ Fit</button>
+    <button id="btnSvg">💾 SVG</button>
+    <button id="btnPng">🖼️ PNG</button>
+    <button id="btnPrint">🖨️ Print / PDF</button>
+  </div>
+</header>
+
+<main>
+  <aside id="people">
+    <input type="search" id="inpSearch" placeholder="🔍 Search people">
+    <p id="count"></p>
+    <ul id="list"></ul>
+  </aside>
+
+  <section id="stage">
+    <svg id="tree" class="gv"><g id="viewport"></g></svg>
+    <p id="msg"></p>
+    <ul class="legend" id="legend"></ul>
+  </section>
+
+  <aside id="details"></aside>
+</main>
+
+<footer>
+  GEDCOM files stay exactly as exported — this page only reads them. 📖 marks a person with a page in the <a href="../../index.html#Wiki/README.md">Wiki</a>.
+</footer>
+
+<script>
+// ---------- Settings and state ----------
+
+// GEDCOM files in this folder. Add new exports here.
+const FILES = [
+  '2025-08-18-myheritage-armour.ged',
+  '2025-08-23-carley-armour-family-tree.ged',
+  '2025-08-28-matthew-family-tree.ged'
+];
+
+// Wiki folders: 'folder|page|photo'. Page defaults to folder name + '.md'.
+// Add a line here when a new person gets a Wiki folder.
+const WIKI_PATH = '../../Wiki/';
+const WIKI_LINK = '../../index.html#Wiki/';
+const WIKI = [
+  'Albert-Cameron-Burrage-III-1919-1944',
+  'Albert-Cameron-Burrage-Jr-1886-1978',
+  'Albert-Cameron-Burrage-Sr-1859-1931||images/albert-burrage.jpg',
+  'Alexander-Fyodorovich-Trepov-1862-1928||images/alexander-trepov.jpg',
+  'Alexander-Sergeyevich-Kudashev-1872-1917||images/alexander-kudashev-1895.jpg',
+  'Alice-Hathaway-Haskell-Burrage-1861-1947',
+  'Allison-Armour-1951-',
+  'Allison-Vincent-Armour-1863-1941||images/allison-armour.jpg',
+  'Anastasia-Fyodorovna-Trepova-1849-1940||images/nieroth_anastasia_large.jpg',
+  'Anne-Bell-Burrage-1890-1983||images/anne-burrage.jpg',
+  'Barbara-Armour-Lowrie-1889-1981',
+  'Cynthia-Burrage-Hovey-1921-1983',
+  'David-Fulton-1771-1843',
+  'Dmitri Feodorovich Trepov-1850-1906||images/dmitri-trepov-1905.jpg',
+  'Elisha-Haskell-Jr-1795-1880',
+  'Elizabeth-Russell-1835-1909',
+  'Erastus-Foote-1777-1856||images/erastus-foote.jpg',
+  'Francis-Hathaway-Haskell-1830-1868',
+  'Francis-Meredyth-Whitehouse-1848-1938||images/Francis_M._Whitehouse_architect.jpg',
+  'Fyodor-Fyodorovich-Trepov-1809-1889||images/fyodor-trepov.jpg',
+  'Fyodor-Fyodorovich-Trepov-1854-1938||images/fyodor-trepov-junior-1915.jpg',
+  'Fyodor-Maximilianovich-von-Nieroth-1871-1952||images/Fyodor_M._Nirod.jpeg',
+  'George-Allison-Armour-1856-1936',
+  'George-Armour-1812-1881||images/george-armour.png',
+  'George-Sanderson-Burrage-1823-1876||images/george-sanderson-burrage.jpeg',
+  'James-Cameron-Marshall-Shirk-1865-1918',
+  'James-Whitehill-Shirk-1832-1873||images/james-shirk.png',
+  'Katherine-Weems-1899-1989||images/Katharine-Lane-Weems.jpg',
+  'Maria-Sergeyevna-Kudasheva-1896-1990||images/1921-olive-snell-myra-koudachev-armour.jpg',
+  'Maximilian-Carl-Benedict-von-Nieroth-1846-1914||images/nieroth_maximilian_large.jpg',
+  'Nikolai-Alexandrovich-Kudashev-1868-1925',
+  'Nikolay-Danilovich-Kudashev-1784-1813||images/nikolay-kudashev.jpg',
+  'Norman-Armour-Jr-1920-1978',
+  'Norman-Armour-Sr-1887-1982||norman-armour.jpg',
+  'Norman-Theo-Armour-III-1947-',
+  'Olga-Ericovna-von-Pistohlkors-1888-1963|README-Olga-Ericovna-von-Pistohlkors-1888-1963.md',
+  'Olga-Valerianovna-Paley-1865-1929|README-Olga-Valerianovna-Paley-1865-1929.md|images/1890s-olga-paley-portrait.jpg',
+  'Sergei-Danilovich-Kudashev-1795-1862|README-Sergei-Danilovich-Kudashev-1795-1862.md',
+  'Sergei-Sergeyevich-Kudashev-1901-1991',
+  'Sergei-Vladimirovich-Kudashev-1863-1933|0-Sergei-Vladimirovich-Kudashev-1863-1933.md|images/1903-ball-sergei-kudashev.jpeg',
+  'Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920||images/1900~-unknown-vera-von-neiroth.jpg',
+  'Vladimir Fyodorovich Trepov-1863-1918||images/1903-ball-vladimir-trepov.jpg',
+  'Vladimir-Sergeyevich-Kudashev-1833-1871',
+  'Walter-Lowrie-1868-1959||images/walter-lowrie.jpg',
+  'William-S-Fulton-1795-1844||images/william-fulton.jpg'
+];
+
+const settings = {
+  file: FILES[0],
+  layout: 'horizontal',
+  color: 'branch',
+  up: 4,
+  down: 2,
+  roots: {}          // remembered root person per file
+};
+
+const state = {
+  records: {},       // every level-0 GEDCOM record by id
+  people: {},
+  families: {},
+  order: [],         // person ids in file order
+  wiki: [],          // parsed WIKI table
+  rootId: null,
+  selectedId: null,
+  view: { x: 0, y: 0, k: 1 },
+  bounds: { minX: 0, minY: 0, maxX: 1, maxY: 1 },
+  drag: null
+};
+
+const STORAGE_KEY = 'gedcomViewerSettings';
+
+const loadSettings = () => {
+  try { Object.assign(settings, JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}); }
+  catch (err) { /* keep defaults */ }
+};
+
+const saveSettings = () => {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(settings)); }
+  catch (err) { /* storage unavailable */ }
+};
+
+// ---------- Small helpers ----------
+
+const $ = (id) => document.getElementById(id);
+
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) =>
+  ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+const clip = (s, n) => (s.length > n ? s.slice(0, Math.max(1, n - 1)) + '…' : s);
+
+// lower case, accents removed: "Ferté" -> "ferte"
+const fold = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+// first three letters of each word, used to compare names loosely
+const nameKeys = (s) => fold(s).split(/[^a-z]+/)
+  .filter((t) => t.length >= 3 && t !== 'von')
+  .map((t) => t.slice(0, 3));
+
+// ---------- GEDCOM parsing ----------
+
+const kid = (node, tag) => (node ? node.children.find((c) => c.tag === tag) : undefined);
+const kids = (node, tag) => (node ? node.children.filter((c) => c.tag === tag) : []);
+
+// val(person, 'BIRT', 'DATE') -> '28 JAN 1947'
+const val = (node, ...tags) => {
+  const found = tags.reduce((n, tag) => kid(n, tag), node);
+  return found ? found.value : '';
+};
+
+// Turns GEDCOM text into a table of records. Each record is a tree of
+// { tag, value, id, children }.
+const parseGedcom = (text) => {
+  const records = {};
+  const stack = [];
+  text.replace(/^﻿/, '').split(/\r?\n/).forEach((line) => {
+    const m = line.match(/^\s*(\d+) (?:(@[^@]+@) )?(\S+)(?: (.*))?$/);
+    if (!m) return;
+    const level = Number(m[1]);
+    const node = { tag: m[3], value: m[4] || '', id: m[2] || '', children: [] };
+    const parent = stack[level - 1];
+    if (node.tag === 'CONC' || node.tag === 'CONT') {
+      if (parent) parent.value += (node.tag === 'CONT' ? '\n' : '') + node.value;
+      return;
+    }
+    if (level === 0 && node.id) records[node.id] = node;
+    if (level > 0 && parent) parent.children.push(node);
+    stack[level] = node;
+    stack.length = level + 1;
+  });
+  return records;
+};
+
+const yearOf = (node, tag) => (val(node, tag, 'DATE').match(/\d{4}/) || [''])[0];
+
+const makePerson = (node) => {
+  const rawName = val(node, 'NAME');
+  const surname = (rawName.match(/\/([^/]*)\//) || ['', val(node, 'NAME', 'SURN')])[1].trim();
+  const name = rawName.replace(/\//g, ' ').replace(/\s+/g, ' ').trim() || '(no name)';
+  const birth = yearOf(node, 'BIRT');
+  const death = yearOf(node, 'DEAT');
+  return {
+    id: node.id, node, name, surname, birth, death,
+    sex: val(node, 'SEX').toUpperCase(),
+    life: birth || death ? `${birth || '?'}–${death}` : '',
+    keys: nameKeys(name + ' ' + val(node, 'NAME', '_MARNM')),
+    famc: kids(node, 'FAMC').map((c) => c.value),
+    fams: kids(node, 'FAMS').map((c) => c.value),
+    wiki: null
+  };
+};
+
+const addOnce = (list, item) => { if (!list.includes(item)) list.push(item); };
+
+const buildData = (records) => {
+  const people = {};
+  const families = {};
+  const order = [];
+  Object.values(records).forEach((node) => {
+    if (node.tag === 'INDI') { people[node.id] = makePerson(node); order.push(node.id); }
+    if (node.tag === 'FAM') {
+      families[node.id] = {
+        id: node.id, node,
+        husb: val(node, 'HUSB'), wife: val(node, 'WIFE'),
+        children: kids(node, 'CHIL').map((c) => c.value)
+      };
+    }
+  });
+  // make the links agree in both directions and drop ids that point nowhere
+  Object.values(families).forEach((fam) => {
+    fam.children = fam.children.filter((id) => people[id]);
+    if (!people[fam.husb]) fam.husb = '';
+    if (!people[fam.wife]) fam.wife = '';
+    [fam.husb, fam.wife].filter(Boolean).forEach((id) => addOnce(people[id].fams, fam.id));
+    fam.children.forEach((id) => addOnce(people[id].famc, fam.id));
+  });
+  Object.values(people).forEach((p) => {
+    p.famc = p.famc.filter((id) => families[id]);
+    p.fams = p.fams.filter((id) => families[id]);
+    p.famc.forEach((id) => addOnce(families[id].children, p.id));
+    p.wiki = findWiki(p);
+  });
+  return { people, families, order };
+};
+
+const parentsOf = (p) => {
+  const fam = p.famc.map((id) => state.families[id]).find((f) => f.husb || f.wife);
+  return fam ? { father: fam.husb, mother: fam.wife } : { father: '', mother: '' };
+};
+
+const childrenOf = (p) => p.fams.flatMap((id) => state.families[id].children);
+
+// ---------- Wiki biographies ----------
+
+const parseWiki = () => WIKI.map((row) => {
+  const [folder, page, photo] = row.split('|');
+  const m = folder.match(/^(.*)-(\d{4})-(\d{4})?$/) || ['', folder, '', ''];
+  return {
+    folder, photo: photo || '',
+    page: page || folder + '.md',
+    keys: nameKeys(m[1]), birth: m[2], death: m[3] || ''
+  };
+});
+
+// A person matches a Wiki folder when the birth and death years are the same
+// and the names share a word. Living people need two shared words.
+const findWiki = (p) => {
+  if (!p.birth) return null;
+  return state.wiki.find((w) => {
+    if (w.birth !== p.birth || w.death !== p.death) return false;
+    const shared = w.keys.filter((k) => p.keys.includes(k)).length;
+    return shared >= (w.death ? 1 : 2);
+  }) || null;
+};
+
+// ---------- Tree building ----------
+
+// Ancestors: every node gets an Ahnentafel number (root 1, father 2n, mother 2n+1).
+const buildUp = (id, gen, ahn, up) => {
+  const node = { id, gen, ahn, up, key: 'a' + ahn, kids: [] };
+  if (gen < settings.up) {
+    const { father, mother } = parentsOf(state.people[id]);
+    if (father) node.kids.push(buildUp(father, gen + 1, ahn * 2, node));
+    if (mother) node.kids.push(buildUp(mother, gen + 1, ahn * 2 + 1, node));
+  }
+  return node;
+};
+
+const buildDown = (id, gen, up, key, seen) => {
+  const node = { id, gen, ahn: 0, up, key, kids: [] };
+  if (-gen < settings.down && !seen.has(id)) {
+    seen.add(id);
+    childrenOf(state.people[id]).forEach((childId, i) =>
+      node.kids.push(buildDown(childId, gen - 1, node, key + '-' + i, seen)));
+  }
+  return node;
+};
+
+const flatten = (node) => [node, ...node.kids.flatMap(flatten)];
+
+// Leaves get the next free slot; a parent sits in the middle of its children.
+const placeSlots = (root) => {
+  let next = 0;
+  const place = (n) => {
+    n.kids.forEach(place);
+    n.slot = n.kids.length ? (n.kids[0].slot + n.kids[n.kids.length - 1].slot) / 2 : next++;
+  };
+  place(root);
+};
+
+// which of the four grandparent lines an ancestor belongs to: 0..3, or -1
+const branchOf = (ahn) => {
+  if (ahn < 2) return -1;
+  const gen = Math.floor(Math.log2(ahn));
+  return gen === 1 ? (ahn - 2) * 2 : (ahn >> (gen - 2)) - 4;
+};
+
+const colorClass = (node) => {
+  const p = state.people[node.id];
+  if (settings.color === 'sex') return p.sex === 'M' ? 'c-m' : p.sex === 'F' ? 'c-f' : 'c-n';
+  if (settings.color === 'branch' && branchOf(node.ahn) >= 0) return 'c-b' + branchOf(node.ahn);
+  return 'c-n';
+};
+
+// keys of the nodes on the line from the selected person back to the root
+const highlightKeys = (nodes) => {
+  const keys = new Set();
+  let n = nodes.find((x) => x.id === state.selectedId);
+  while (n) { keys.add(n.key); n = n.up; }
+  return keys;
+};
+
+const nodeClasses = (n, hl) => [
+  'node', colorClass(n),
+  n.id === state.rootId ? 'root' : '',
+  n.id === state.selectedId ? 'sel' : '',
+  hl.has(n.key) ? 'hl' : ''
+].filter(Boolean).join(' ');
+
+// ---------- Drawing: horizontal and vertical trees ----------
+
+const BOX_W = 190;
+const BOX_H = 44;
+
+const drawTree = () => {
+  const vertical = settings.layout === 'vertical';
+  const up = buildUp(state.rootId, 0, 1, null);
+  const down = buildDown(state.rootId, 0, null, 'd', new Set());
+  placeSlots(up);
+  placeSlots(down);
+
+  // slide the descendants so both halves share the root, then hang them off it
+  const shift = up.slot - down.slot;
+  const downNodes = flatten(down).slice(1);
+  downNodes.forEach((n) => { n.slot += shift; });
+  down.kids.forEach((n) => { n.up = up; });
+  const nodes = [...flatten(up), ...downNodes];
+
+  nodes.forEach((n) => {
+    n.x = vertical ? n.slot * (BOX_W + 14) : n.gen * (BOX_W + 44);
+    n.y = vertical ? -n.gen * (BOX_H + 40) : n.slot * (BOX_H + 10);
+  });
+
+  const hl = highlightKeys(nodes);
+
+  const linkSvg = (n) => {
+    const a = n.up;
+    const away = n.gen > a.gen;     // n is an ancestor of a
+    const cls = hl.has(n.key) ? 'link hl' : 'link';
+    if (vertical) {
+      const x1 = a.x + BOX_W / 2, x2 = n.x + BOX_W / 2;
+      const y1 = away ? a.y : a.y + BOX_H, y2 = away ? n.y + BOX_H : n.y;
+      return `<path class="${cls}" d="M${x1},${y1}V${(y1 + y2) / 2}H${x2}V${y2}"/>`;
+    }
+    const y1 = a.y + BOX_H / 2, y2 = n.y + BOX_H / 2;
+    const x1 = away ? a.x + BOX_W : a.x, x2 = away ? n.x : n.x + BOX_W;
+    return `<path class="${cls}" d="M${x1},${y1}H${(x1 + x2) / 2}V${y2}H${x2}"/>`;
+  };
+
+  const nodeSvg = (n) => {
+    const p = state.people[n.id];
+    return `<g class="${nodeClasses(n, hl)}" data-id="${esc(p.id)}" transform="translate(${n.x},${n.y})">
+      <title>${esc(p.name)} ${esc(p.life)}</title>
+      <rect class="box" width="${BOX_W}" height="${BOX_H}" rx="5"/>
+      <rect class="stripe" width="5" height="${BOX_H}" rx="2"/>
+      <text class="nm" x="13" y="18">${esc(clip(p.name, 26))}</text>
+      <text class="yr" x="13" y="34">${esc(p.life)}</text>
+      ${p.wiki ? `<text class="yr" x="${BOX_W - 22}" y="34">📖</text>` : ''}
+    </g>`;
+  };
+
+  // plain links first, highlighted links on top, then the boxes
+  const links = nodes.filter((n) => n.up);
+  const svg = links.filter((n) => !hl.has(n.key)).map(linkSvg).join('') +
+    links.filter((n) => hl.has(n.key)).map(linkSvg).join('') +
+    nodes.map(nodeSvg).join('');
+
+  const xs = nodes.map((n) => n.x), ys = nodes.map((n) => n.y);
+  const bounds = {
+    minX: Math.min(...xs), minY: Math.min(...ys),
+    maxX: Math.max(...xs) + BOX_W, maxY: Math.max(...ys) + BOX_H
+  };
+  return { svg, bounds };
+};
+
+// ---------- Drawing: fan chart ----------
+
+const FAN_R0 = 64;     // radius of the root circle
+const FAN_RW = 120;    // width of each generation ring
+
+const drawFan = () => {
+  const nodes = flatten(buildUp(state.rootId, 0, 1, null));
+  const hl = highlightKeys(nodes);
+  const pt = (r, a) => `${(r * Math.cos(a)).toFixed(1)},${(r * Math.sin(a)).toFixed(1)}`;
+  const deg = (a) => a * 180 / Math.PI;
+
+  const sectorSvg = (n) => {
+    const p = state.people[n.id];
+    const gen = n.gen;
+    const count = 2 ** gen;
+    const a0 = Math.PI + (n.ahn - count) * Math.PI / count;
+    const a1 = a0 + Math.PI / count;
+    const am = (a0 + a1) / 2;
+    const r0 = FAN_R0 + (gen - 1) * FAN_RW, r1 = r0 + FAN_RW, rm = (r0 + r1) / 2;
+    const arc = rm * (a1 - a0);       // room along the ring at mid radius
+    const path = `M${pt(r0, a0)}L${pt(r1, a0)}A${r1},${r1} 0 0 1 ${pt(r1, a1)}` +
+      `L${pt(r0, a1)}A${r0},${r0} 0 0 0 ${pt(r0, a0)}Z`;
+
+    // wide sectors: text runs along the ring. narrow sectors: text runs outward.
+    const along = arc >= 90;
+    const turn = along ? deg(am) + 90 : deg(am) + (am < Math.PI * 1.5 ? 180 : 0);
+    const room = along ? Math.floor(arc / 6.6) : Math.floor((FAN_RW - 12) / 5.8);
+    const oneLine = !along && arc < 26;
+    const label = oneLine
+      ? `<tspan x="0" dy="3.5">${esc(clip(p.name, room - 10))} ${esc(p.life)}</tspan>`
+      : `<tspan class="nm" x="0" dy="-2">${esc(clip(p.name, room))}</tspan>` +
+        `<tspan x="0" dy="13">${esc(p.life)}${p.wiki ? ' 📖' : ''}</tspan>`;
+
+    return `<g class="${nodeClasses(n, hl)}" data-id="${esc(p.id)}">
+      <title>${esc(p.name)} ${esc(p.life)}</title>
+      <path class="sect" d="${path}"/>
+      <text class="yr fan" transform="translate(${pt(rm, am)}) rotate(${turn.toFixed(1)})">${label}</text>
+    </g>`;
+  };
+
+  const root = nodes[0];
+  const p = state.people[root.id];
+  const rootSvg = `<g class="${nodeClasses(root, hl)}" data-id="${esc(p.id)}">
+    <title>${esc(p.name)} ${esc(p.life)}</title>
+    <circle class="box" r="${FAN_R0 - 6}"/>
+    <text class="nm fan" y="-2">${esc(clip(p.name, 17))}</text>
+    <text class="yr fan" y="14">${esc(p.life)}</text>
+  </g>`;
+
+  const r = FAN_R0 + settings.up * FAN_RW;
+  return {
+    svg: nodes.slice(1).map(sectorSvg).join('') + rootSvg,
+    bounds: { minX: -r, minY: -r, maxX: r, maxY: FAN_R0 }
+  };
+};
+
+// ---------- Rendering ----------
+
+// Styles for the drawing live here so the SVG and PNG exports can carry them along.
+const SVG_CSS = `
+.gv { font-family: system-ui, "Segoe UI", Roboto, sans-serif; }
+.gv .bgr { fill: var(--bg); }
+.gv .link { fill: none; stroke: var(--line); stroke-width: 1.5; }
+.gv .link.hl { stroke: var(--hl); stroke-width: 3; }
+.gv .node { cursor: pointer; color: var(--neutral); }
+.gv .c-b0 { color: var(--b0); } .gv .c-b1 { color: var(--b1); }
+.gv .c-b2 { color: var(--b2); } .gv .c-b3 { color: var(--b3); }
+.gv .c-m { color: var(--male); } .gv .c-f { color: var(--female); }
+.gv .box { fill: var(--card); stroke: var(--border); }
+.gv .stripe { fill: currentColor; }
+.gv .sect { fill: currentColor; fill-opacity: 0.22; stroke: var(--bg); stroke-width: 1.5; }
+.gv .nm { fill: var(--ink); font-size: 12.5px; font-weight: 600; }
+.gv .yr { fill: var(--muted); font-size: 11px; }
+.gv .fan { text-anchor: middle; font-size: 10.5px; }
+.gv .root .box { stroke: var(--ink); stroke-width: 2; }
+.gv .hl .box { stroke: var(--hl); stroke-width: 2; }
+.gv .hl .sect { fill-opacity: 0.5; }
+.gv .sel .box { stroke: var(--hl); stroke-width: 3; }
+.gv .sel .sect { fill-opacity: 0.7; stroke: var(--hl); stroke-width: 2.5; }
+`;
+
+const applyView = () => {
+  const { x, y, k } = state.view;
+  $('viewport').setAttribute('transform', `translate(${x},${y}) scale(${k})`);
+};
+
+const fitView = () => {
+  const b = state.bounds;
+  const box = $('tree').getBoundingClientRect();
+  const w = b.maxX - b.minX, h = b.maxY - b.minY;
+  const k = Math.min((box.width - 40) / w, (box.height - 70) / h, 1.4);
+  state.view = {
+    k,
+    x: (box.width - w * k) / 2 - b.minX * k,
+    y: (box.height - h * k) / 2 - b.minY * k
+  };
+  applyView();
+};
+
+const renderLegend = () => {
+  let items = [];
+  if (settings.color === 'sex') {
+    items = [['--male', 'Male'], ['--female', 'Female'], ['--neutral', 'Not recorded']];
+  }
+  if (settings.color === 'branch') {
+    // the four grandparents of the root give the four branches their names
+    const root = state.people[state.rootId];
+    const { father, mother } = parentsOf(root);
+    const grand = [father, mother].flatMap((id) => {
+      const pp = id ? parentsOf(state.people[id]) : { father: '', mother: '' };
+      return [pp.father, pp.mother];
+    });
+    const labels = ["Father's father", "Father's mother", "Mother's father", "Mother's mother"];
+    items = labels.map((label, i) => {
+      const g = state.people[grand[i]];
+      const surname = g ? g.surname.split(',')[0] : '';   // "Armour, Sr." -> "Armour"
+      return ['--b' + i, surname ? `${label} · ${surname}` : label];
+    });
+  }
+  $('legend').innerHTML = items.map(([c, label]) =>
+    `<li style="--c: var(${c})">${esc(label)}</li>`).join('');
+};
+
+const render = (fit) => {
+  if (!state.rootId) return;
+  const drawing = settings.layout === 'fan' ? drawFan() : drawTree();
+  state.bounds = drawing.bounds;
+  $('viewport').innerHTML = drawing.svg;
+  $('msg').textContent = settings.layout === 'fan' ? 'The fan shows ancestors only.' : '';
+  renderLegend();
+  if (fit) fitView(); else applyView();
+};
+
+// ---------- People list ----------
+
+const renderList = () => {
+  const words = fold($('inpSearch').value).split(/\s+/).filter(Boolean);
+  const all = state.order.map((id) => state.people[id]);
+  const found = all
+    .filter((p) => words.every((w) => fold(p.name).includes(w)))
+    .sort((a, b) => fold(a.surname + ' ' + a.name).localeCompare(fold(b.surname + ' ' + b.name)));
+  const shown = found.slice(0, 300);
+  $('count').textContent = found.length === all.length
+    ? `${all.length} people`
+    : `${found.length} of ${all.length} people`;
+  $('list').innerHTML = shown.map(personButton).join('') +
+    (found.length > shown.length ? `<li><small>…${found.length - shown.length} more — keep typing</small></li>` : '');
+};
+
+const personButton = (p) =>
+  `<li><button class="link" data-id="${esc(p.id)}">${p.wiki ? '📖 ' : ''}${esc(p.name)} <small>${esc(p.life)}</small></button></li>`;
+
+// ---------- Details panel ----------
+
+const EVENT_LABELS = {
+  BIRT: 'Birth', CHR: 'Christening', BAPM: 'Baptism', DEAT: 'Death', BURI: 'Burial',
+  CREM: 'Cremation', RESI: 'Residence', OCCU: 'Occupation', EDUC: 'Education',
+  EVEN: 'Event', IMMI: 'Immigration', EMIG: 'Emigration', NATU: 'Naturalization',
+  CENS: 'Census', RELI: 'Religion', TITL: 'Title', NATI: 'Nationality',
+  GRAD: 'Graduation', RETI: 'Retirement', PROB: 'Probate', WILL: 'Will',
+  DSCR: 'Description', MARR: 'Marriage', DIV: 'Divorce', ENGA: 'Engagement'
+};
+
+// tags shown elsewhere in the panel, or that are only bookkeeping
+const SKIP_TAGS = ['NAME', 'SEX', 'FAMC', 'FAMS', 'OBJE', 'SOUR', 'NOTE', 'RIN', 'CHAN', 'REFN', 'HUSB', 'WIFE', 'CHIL'];
+
+const placeOf = (node) => {
+  const addr = kid(node, 'ADDR');
+  const parts = [val(node, 'PLAC'), addr ? addr.value || val(addr, 'ADR1') : ''];
+  return parts.filter(Boolean).join(' · ').replace(/\n/g, ', ');
+};
+
+const eventRows = (record) => record.children
+  .filter((n) => !SKIP_TAGS.includes(n.tag) && !n.tag.startsWith('_'))
+  .map((n) => {
+    const label = val(n, 'TYPE') || EVENT_LABELS[n.tag] || n.tag;
+    const what = [n.value === 'Y' ? '' : n.value, placeOf(n), val(n, 'CAUS')].filter(Boolean).join(' · ');
+    if (!what && !val(n, 'DATE')) return '';
+    return `<tr><td>${esc(label)}</td><td>${esc(val(n, 'DATE'))}</td><td>${esc(what)}</td></tr>`;
+  }).join('');
+
+// every node with this tag anywhere inside a record
+const findAll = (node, tag) => node.children.flatMap((c) =>
+  (c.tag === tag ? [c] : []).concat(findAll(c, tag)));
+
+// a NOTE, SOUR or OBJE line can hold the content itself or point at another record
+const resolve = (node) => state.records[node.value] || node;
+
+const relativesHtml = (title, ids) => {
+  const list = ids.filter((id) => state.people[id]).map((id) => personButton(state.people[id]));
+  return list.length ? `<p class="rel">${title}</p><ul style="list-style:none;padding:0">${list.join('')}</ul>` : '';
+};
+
+const familyHtml = (p) => {
+  const parents = p.famc.flatMap((id) => [state.families[id].husb, state.families[id].wife]);
+  const siblings = p.famc.flatMap((id) => state.families[id].children).filter((id) => id !== p.id);
+  const marriages = p.fams.map((id) => {
+    const fam = state.families[id];
+    const spouse = fam.husb === p.id ? fam.wife : fam.husb;
+    const marr = kid(fam.node, 'MARR');
+    const when = marr ? [val(marr, 'DATE'), placeOf(marr)].filter(Boolean).join(' · ') : '';
+    return relativesHtml('Spouse' + (when ? ` — married ${esc(when)}` : ''), [spouse]) +
+      relativesHtml('Children', fam.children);
+  }).join('');
+  return relativesHtml('Parents', parents) + marriages + relativesHtml('Siblings', siblings);
+};
+
+const mediaHtml = (p) => {
+  const media = findAll(p.node, 'OBJE').map(resolve).map((m) => ({
+    file: val(m, 'FILE'), title: val(m, 'TITL') || val(m, 'FILE', 'TITL')
+  }));
+  const online = media.filter((m) => /^https?:/i.test(m.file));
+  const offline = media.filter((m) => !/^https?:/i.test(m.file) && m.title);
+  return online.map((m) =>
+    `<figure><img src="${esc(m.file)}" alt="" loading="lazy"><figcaption>${esc(m.title)}</figcaption></figure>`).join('') +
+    (offline.length ? `<p class="rel">Listed in the export, file not in this repo</p><ul>${
+      offline.map((m) => `<li>${esc(m.title.trim())}</li>`).join('')}</ul>` : '');
+};
+
+const sourcesHtml = (p) => {
+  const titles = findAll(p.node, 'SOUR').map((s) => {
+    const src = resolve(s);
+    return (val(src, 'TITL') || src.value || '').split('\n')[0];
+  }).filter(Boolean);
+  const unique = [...new Set(titles)];
+  return unique.length
+    ? `<details><summary>Sources (${unique.length})</summary><ul>${unique.map((t) => `<li>${esc(t)}</li>`).join('')}</ul></details>`
+    : '';
+};
+
+const rawLines = (node, level) => [
+  `${level} ${node.id ? node.id + ' ' : ''}${node.tag}${node.value ? ' ' + node.value : ''}`,
+  ...node.children.flatMap((c) => rawLines(c, level + 1))
+];
+
+const renderDetails = () => {
+  const p = state.people[state.selectedId];
+  if (!p) { $('details').innerHTML = '<p class="rel">Select a person.</p>'; return; }
+  const w = p.wiki;
+  const wikiHtml = w
+    ? (w.photo ? `<figure><img src="${esc(encodeURI(WIKI_PATH + w.folder + '/' + w.photo))}" alt=""></figure>` : '') +
+      `<p>📖 <a href="${esc(encodeURI(WIKI_LINK + w.folder + '/' + w.page))}">Biography: ${esc(w.folder)}</a></p>`
+    : '';
+  const notes = kids(p.node, 'NOTE').map((n) => resolve(n).value).filter(Boolean);
+  const events = eventRows(p.node);
+  const media = mediaHtml(p);
+
+  $('details').innerHTML = `
+    <h2>${esc(p.name)}</h2>
+    <p class="life">${esc(p.life)}${p.sex === 'M' ? ' · male' : p.sex === 'F' ? ' · female' : ''}</p>
+    ${p.id === state.rootId ? '' : `<button class="btn" data-id="${esc(p.id)}">🎯 Make root</button>`}
+    ${wikiHtml}
+    ${events ? `<h3>Facts</h3><table>${events}</table>` : ''}
+    <h3>Family</h3>${familyHtml(p) || '<p class="rel">No relatives recorded.</p>'}
+    ${notes.length ? `<h3>Notes</h3>${notes.map((n) => `<p class="note">${esc(n)}</p>`).join('')}` : ''}
+    ${media ? `<h3>Pictures</h3>${media}` : ''}
+    ${sourcesHtml(p)}
+    <details><summary>Raw GEDCOM record</summary><pre>${esc(rawLines(p.node, 0).join('\n'))}</pre></details>`;
+
+  // links copied from old exports often expire: drop pictures that fail to load
+  $('details').querySelectorAll('img').forEach((img) => img.addEventListener('error', removeBrokenImage));
+  $('details').scrollTop = 0;
+};
+
+const removeBrokenImage = (event) => event.target.closest('figure').remove();
+
+// ---------- Choosing people ----------
+
+const selectPerson = (id) => {
+  state.selectedId = id;
+  render(false);
+  renderDetails();
+};
+
+const setRoot = (id) => {
+  state.rootId = id;
+  state.selectedId = id;
+  settings.roots[settings.file] = id;
+  saveSettings();
+  render(true);
+  renderDetails();
+};
+
+// ---------- Loading files ----------
+
+const showText = (text) => {
+  state.records = parseGedcom(text);
+  Object.assign(state, buildData(state.records));
+  if (!state.order.length) {
+    state.rootId = null;
+    $('viewport').innerHTML = '';
+    $('msg').textContent = 'No people found in this file.';
+    return;
+  }
+  const saved = settings.roots[settings.file];
+  renderList();
+  setRoot(state.people[saved] ? saved : state.order[0]);
+};
+
+const loadFile = (name) => {
+  settings.file = name;
+  saveSettings();
+  $('msg').textContent = 'Loading…';
+  fetch(encodeURI(name))
+    .then((response) => {
+      if (!response.ok) throw new Error(response.status);
+      return response.text();
+    })
+    .then(showText)
+    .catch(() => { $('msg').textContent = `Could not load ${name}. Use 📂 Open… to pick a GEDCOM file.`; });
+};
+
+// a file picked or dropped by hand is read once; it is not remembered next time
+const readLocalFile = (file) => {
+  if (!file) return;
+  file.text().then((text) => {
+    const name = '📂 ' + file.name;
+    if (![...$('selFile').options].some((o) => o.value === name)) $('selFile').add(new Option(name, name));
+    $('selFile').value = name;
+    settings.file = name;
+    showText(text);
+    settings.file = FILES[0];
+  });
+};
+
+// ---------- Export ----------
+
+const cssVar = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+
+// a stand-alone SVG of the whole drawing, with today's colors written in
+const exportSvg = () => {
+  const b = state.bounds;
+  const pad = 24;
+  const w = Math.ceil(b.maxX - b.minX + pad * 2), h = Math.ceil(b.maxY - b.minY + pad * 2);
+  const css = SVG_CSS.replace(/var\((--[\w-]+)\)/g, (m, name) => cssVar(name));
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" class="gv" width="${w}" height="${h}" ` +
+    `viewBox="${b.minX - pad} ${b.minY - pad} ${w} ${h}"><style>${css}</style>` +
+    `<rect class="bgr" x="${b.minX - pad}" y="${b.minY - pad}" width="${w}" height="${h}"/>` +
+    `${$('viewport').innerHTML}</svg>`;
+  return { svg, w, h };
+};
+
+const exportName = (ext) => {
+  const p = state.people[state.rootId];
+  return `${fold(p.name).replace(/[^a-z0-9]+/g, '-')}-${settings.layout}.${ext}`;
+};
+
+const download = (blob, name) => {
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = name;
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+};
+
+const saveSvg = () => {
+  if (!state.rootId) return;
+  download(new Blob([exportSvg().svg], { type: 'image/svg+xml' }), exportName('svg'));
+};
+
+const savePng = () => {
+  if (!state.rootId) return;
+  const { svg, w, h } = exportSvg();
+  const scale = Math.min(2, 8000 / Math.max(w, h));   // stay inside canvas size limits
+  const img = new Image();
+  img.addEventListener('load', () => {
+    const canvas = document.createElement('canvas');
+    canvas.width = Math.round(w * scale);
+    canvas.height = Math.round(h * scale);
+    canvas.getContext('2d').drawImage(img, 0, 0, canvas.width, canvas.height);
+    canvas.toBlob((blob) => download(blob, exportName('png')));
+  });
+  img.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg);
+};
+
+const printTree = () => {
+  fitView();
+  window.print();
+};
+
+// ---------- Events ----------
+
+const onSettingChange = () => {
+  settings.layout = $('selLayout').value;
+  settings.color = $('selColor').value;
+  settings.up = Number($('selUp').value);
+  settings.down = Number($('selDown').value);
+  saveSettings();
+  render(true);
+};
+
+const onFileChange = () => {
+  if (FILES.includes($('selFile').value)) loadFile($('selFile').value);
+};
+
+const onOpenFile = (event) => readLocalFile(event.target.files[0]);
+
+const onDrop = (event) => {
+  event.preventDefault();
+  readLocalFile(event.dataTransfer.files[0]);
+};
+
+const onDragOver = (event) => event.preventDefault();
+
+// list and details: clicking a person makes them the root
+const onPersonClick = (event) => {
+  const el = event.target.closest('[data-id]');
+  if (el) setRoot(el.dataset.id);
+};
+
+// tree: click selects, double-click makes root; a drag is not a click
+const onTreeClick = (event) => {
+  const el = event.target.closest('[data-id]');
+  if (el && !(state.drag && state.drag.moved)) selectPerson(el.dataset.id);
+};
+
+const onTreeDblClick = (event) => {
+  const el = event.target.closest('[data-id]');
+  if (el) setRoot(el.dataset.id);
+};
+
+const onPointerDown = (event) => {
+  state.drag = { x: event.clientX, y: event.clientY, vx: state.view.x, vy: state.view.y, down: true, moved: false };
+};
+
+const onPointerMove = (event) => {
+  const d = state.drag;
+  if (!d || !d.down) return;
+  const dx = event.clientX - d.x, dy = event.clientY - d.y;
+  if (Math.abs(dx) + Math.abs(dy) > 4) d.moved = true;
+  if (!d.moved) return;
+  $('tree').classList.add('dragging');
+  state.view.x = d.vx + dx;
+  state.view.y = d.vy + dy;
+  applyView();
+};
+
+const onPointerUp = () => {
+  if (state.drag) state.drag.down = false;
+  $('tree').classList.remove('dragging');
+};
+
+// zoom around the mouse pointer
+const onWheel = (event) => {
+  event.preventDefault();
+  const box = $('tree').getBoundingClientRect();
+  const mx = event.clientX - box.left, my = event.clientY - box.top;
+  const v = state.view;
+  const k = Math.min(4, Math.max(0.05, v.k * (event.deltaY < 0 ? 1.15 : 1 / 1.15)));
+  v.x = mx - (mx - v.x) * (k / v.k);
+  v.y = my - (my - v.y) * (k / v.k);
+  v.k = k;
+  applyView();
+};
+
+// ---------- Start ----------
+
+const init = () => {
+  loadSettings();
+  if (!FILES.includes(settings.file)) settings.file = FILES[0];
+  state.wiki = parseWiki();
+  $('svgStyle').textContent = SVG_CSS;
+
+  FILES.forEach((name) => $('selFile').add(new Option(name, name)));
+  $('selFile').value = settings.file;
+  $('selLayout').value = settings.layout;
+  $('selColor').value = settings.color;
+  $('selUp').value = settings.up;
+  $('selDown').value = settings.down;
+
+  $('selFile').addEventListener('change', onFileChange);
+  $('inpFile').addEventListener('change', onOpenFile);
+  ['selLayout', 'selColor', 'selUp', 'selDown'].forEach((id) => $(id).addEventListener('change', onSettingChange));
+  $('btnFit').addEventListener('click', fitView);
+  $('btnSvg').addEventListener('click', saveSvg);
+  $('btnPng').addEventListener('click', savePng);
+  $('btnPrint').addEventListener('click', printTree);
+  $('inpSearch').addEventListener('input', renderList);
+  $('list').addEventListener('click', onPersonClick);
+  $('details').addEventListener('click', onPersonClick);
+  $('tree').addEventListener('click', onTreeClick);
+  $('tree').addEventListener('dblclick', onTreeDblClick);
+  $('tree').addEventListener('pointerdown', onPointerDown);
+  window.addEventListener('pointermove', onPointerMove);
+  window.addEventListener('pointerup', onPointerUp);
+  $('tree').addEventListener('wheel', onWheel, { passive: false });
+  $('stage').addEventListener('dragover', onDragOver);
+  $('stage').addEventListener('drop', onDrop);
+
+  loadFile(settings.file);
+};
+
+init();
+</script>
+</body>
+</html>

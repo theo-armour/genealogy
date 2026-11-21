@@ -2,9 +2,14 @@
 
 This is my genealogy repository. It holds information about my family lineage and related genealogical data. All this data and the tools are public and open source. I hope you will use these ideas and methods to help you better understand where you come from.
 
-The primary folder is https://theo-armour.github.io/genealogy/wiki. Following the principles of Wikipedia article organization, each person has their own folder.
+The primary folder is [Wiki](Wiki/README.md). Following the principles of Wikipedia article organization, each person has their own folder. Inside it is a profile page named after the folder and, for many people, a fuller biography named `README-` plus the folder name. The conventions are in the [Genealogy Reference Manual](Wiki/0-genealgy-reference-manual.md).
 
-There are also folders for four families. The folders are named after the birth surnames of my grandparents: Armour, Kudashev, Burrage and Shirk
+There are also folders for four families. The folders are named after the birth surnames of my grandparents: [Armour](Armour/README-Armour.md), [Kudashev](Kudashev/README-Kudashev.md), [Burrage](Burrage/README-Burrage.md) and [Shirk](Shirk/README-Shirk.md).
+
+Two good places to start:
+
+* [Peeps in My Family](Peeps-in-My-Family.md) ~ the notable people in the four families, with my recollections
+* [Granny's lineage chart](Kudashev/kudashev-lineage-chart.html) ~ my grandmother's ancestors and relatives, with portraits and dates
 
 The folder titled "Online Genealogy" contains information about online genealogy resources, including Geni, Ancestry, MyHeritage, and WikiTree along with the links to the family databases I've created on those sites
 
