@@ -78,7 +78,7 @@ Prince Vladimir Sergeyevich Kudashev died in Kiev on 2 October 1871, aged 38.[1]
 * **A second "Vladimir Sergeyevich".** RuWiki's Kudashev family table lists a Vladimir Sergeyevich Kudashev with the dates 1830–1877.[11] This may be an error or a different person.
 * **Date of the patent of nobility.** The family blog dates the patent to 1864, but Sergei Danilovich died in 1862.[13] The patent may have been issued after his death, or the date may be wrong. The scan shown here does not include the date.
 * **Olga's father.** Nikolai Antonovich Horvat (born 1797) comes from an unsourced family-tree template on Russian Wikipedia.[16]
-* **Sergei Danilovich's offices and burial.** The Kherson marshalship (1844–1847) and the burial at the Kiev-Pechersk Lavra come from an article that cites no sources.[17] The earlier family biography has him as Vice-Governor of Kiev in 1844, which overlaps.
+* **Sergei Danilovich's offices and burial.** The burial at the Kiev-Pechersk Lavra comes from an article that cites no sources.[17] The Kherson marshalship (1844–1847) is confirmed by the Kherson Governorate yearbooks. It began straight after his term as Vice-Governor of Kiev (1 February 1838 – 6 July 1844), so the two offices do not overlap. See [his biography](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/biography_of_prince_sergei_danilovich_kudashev_1795_1862.md).
 * **A collection inherited by Sergei.** Earlier drafts of the family biographies say that Vladimir collected paintings, rare books and coins, and that eight-year-old Sergei inherited this "cabinet" in 1871. No source for this has been found. The 1902 catalogue of Sergei's collection cited for it has not been checked for any mention of his father.
 
 ## References
