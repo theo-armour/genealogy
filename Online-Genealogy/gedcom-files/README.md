@@ -15,4 +15,4 @@ Family tree exports from the online services, named by export date. These are so
 * [2025-08-28-matthew-family-tree.ged](2025-08-28-matthew-family-tree.ged) ~ from Matthew ~ see [fiverr/](../fiverr/)
 * [2025-08-23-carley-armour-family-tree.ged](2025-08-23-carley-armour-family-tree.ged) ~ from Jeff Carley ~ see [fiverr/](../fiverr/)
 
-The `.zip` files beside these appear to be the same exports as downloaded ~ not checked.
+The three `.zip` files hold the same exports as downloaded. The two Geni files match their unzipped copies exactly. The unzipped Ancestry file was renamed from `Armour - Ferté.ged` and differs from the zipped one only in its line endings.

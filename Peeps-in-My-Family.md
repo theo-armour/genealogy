@@ -57,14 +57,14 @@ The penultimate Prime Minister of Imperial Russia (November 1916 – January 191
 
 ### Personal References
 
-My great grandmother, Princess Vera's uncle was the last Prime Minister of Russia under Tsar Alexander. That's how I knew about Alexander Trepov. Unfortunately, the only picture I knew of him was quite mousy and timid-looking. Even so, he was one of my claims to fame.
+My great-grandmother Princess Vera's uncle was one of the last Prime Ministers of Russia under Tsar Nicholas II. That's how I knew about Alexander Trepov. Unfortunately, the only picture I knew of him was quite mousy and timid-looking. Even so, he was one of my claims to fame.
 
 
 ### Links & References
 * 📁 [Family wiki: Alexander Trepov](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/Alexander-Fyodorovich-Trepov-1862-1928.md)
 * <https://en.wikipedia.org/wiki/Alexander_Trepov>
 * <https://en.wikipedia.org/wiki/Kirov_Railway>
-* Son of https://en.wikipedia.org/wiki/Fyodor_Trepov_(junior)
+* Son of https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)
 
 
 ## Allison Vincent Armour ~ Paternal great-great-uncle
@@ -134,11 +134,11 @@ One summer we visited his house and met some of the family in Wiscasset, Maine. 
 
 
 
-## Fyodor Trepov (senior) ~ Paternal great-great-grandfather
+## Fyodor Trepov (senior) ~ Paternal 3x-great-grandfather
 
 <img src="https://theo-armour.github.io/genealogy/Commons/fyodor-trepov.jpg" alt="Fyodor Trepov" width="300">
 
-📖 [More about Fyodor Trepov (senior) in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1812-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
+📖 [More about Fyodor Trepov (senior) in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
 
 **1809 – 1889** | Russian general and Governor of Saint Petersburg
 
@@ -150,7 +150,7 @@ Granny told me that when the family first moved to Poland, They staked out a pla
 
 
 ### Links & References
-* 📁 [Family wiki: Fyodor Trepov (senior)](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1812-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
+* 📁 [Family wiki: Fyodor Trepov (senior)](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
 * <https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)>
 
 

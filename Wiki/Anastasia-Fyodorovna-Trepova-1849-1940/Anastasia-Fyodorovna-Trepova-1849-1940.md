@@ -6,7 +6,7 @@
 
 * Birth: May 15 1849 - Kiev, Ukraine
 * Death: Sep 25 1940 - Amblainville, Oise, Nord-Pas-de-Calais-Picardie, France
-* Father: [Fyodor Fyodorovich Trepov Sr.](../Fyodor-Fyodorovich-Trepov-1812-1889/Fyodor-Fyodorovich-Trepov-1812-1889.md)
+* Father: [Fyodor Fyodorovich Trepov Sr.](../Fyodor-Fyodorovich-Trepov-1809-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
 * Mother: Vera Vasilyevna Lukashevich (married Trepov)
 * Husband: [Maximilian Carl Benedict von Nieroth](../Maximilian-Carl-Benedict-von-Nieroth-1846-1914/Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) (born Nieroth)
 * Children: [Fyodor Maximilianovich von Nieroth](../Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md), [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (married Kudashev)

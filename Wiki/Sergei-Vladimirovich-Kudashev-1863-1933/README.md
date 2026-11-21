@@ -8,10 +8,8 @@ My great-grandfather. This folder holds more than the usual single page, so here
 
 ## Biographies
 
-Two longer write-ups. Which one supersedes the other is not noted yet.
-
-* [2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md](2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md)
-* [biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md](biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md)
+* [biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md](biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md) ~ the current biography
+* [2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md](2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md) ~ an earlier version
 
 ## The painting collection
 
@@ -38,5 +36,4 @@ Two longer write-ups. Which one supersedes the other is not noted yet.
 
 ## Other
 
-* [MICMIC_AS-FI070720260003490-P.pdf](MICMIC_AS-FI070720260003490-P.pdf) ~ not described yet
 * [images/](images/)
