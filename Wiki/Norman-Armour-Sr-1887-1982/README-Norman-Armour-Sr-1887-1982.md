@@ -1,6 +1,6 @@
 # Norman Armour Sr
 
-![Norman Armour](norman-armour.jpg)
+![Norman Armour](images/norman-armour.jpg)
 
 | `norman-armour.jpg` | Norman Armour (1887–1982). Head-and-shoulders studio photograph in a dark suit and patterned tie. The print is not dated. | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norman_Armour.jpg), as recorded on the profile page[1] |
 
