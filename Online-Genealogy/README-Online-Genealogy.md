@@ -1,5 +1,12 @@
 # Genealogy Agenda
 
+## In this folder
+
+* [Geni/](Geni/), [MyHeritage/](MyHeritage/), [Ancestry/](Ancestry/), [WikiTree/](WikiTree/), [FamilySearch/](FamilySearch/) ~ my notes on each service
+* [gedcom-files/](gedcom-files/) ~ the exported family trees
+* [api-geni/](api-geni/), [api-familysearch/](api-familysearch/) ~ API experiments
+* [fiverr/](fiverr/) ~ commissioned research
+
 ## wikipedia References
 
 * https://en.wikipedia.org/wiki/Genealogy

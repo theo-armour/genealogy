@@ -2,6 +2,14 @@
 
 My "Granny" was Princess Myra Armour (née Kudasheva), daughter of Princess Vera Maximilianovna Kudasheva, daughter of Prince Maximilian Kudashev. The Kudashev family was a prominent Russian noble family.
 
+## In this folder
+
+* [Theo Armour-Lineage.md](<Theo Armour-Lineage.md>) ~ my line back through the Kudashevs
+* [souvenirs-de-russie/](souvenirs-de-russie/) ~ Princess Paley's memoir, French and English
+* [The Kudashev-von Nieroth Family.jpg](<The Kudashev-von Nieroth Family.jpg>) ~ family chart
+* [Neroths.md](Neroths.md) and [Trepov.md](Trepov.md) ~ notes on the related families
+* [background/](background/) ~ Dutch Masters and Russian timelines
+
 ## Prominent Russian noble family
 
 * https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B
