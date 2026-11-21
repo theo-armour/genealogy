@@ -15,7 +15,7 @@
 | **Nationality** | Russian |
 | **Occupations** | Imperial courtier, state official, corporate director, art collector |
 | **Titles & ranks** | Prince (Russian Empire; recognized in Italy, 1926–1927)<br>*Kammerjunker* (1899)<br>*Kammerherr* (1908)<br>Active State Councillor |
-| **Spouses** | Countess Vera Maximilianovna von Nieroth (m. 1894; d. 1920)<br>Olga Erikovna von Pistohlkors (d. 1963) |
+| **Spouses** | Countess Vera Maximilianovna von Nieroth (m. 1894; d. 1920)<br>[Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) (m. 1922; d. 1963) |
 | **Children** | Princess Maria (Myra) Sergeyevna (1896–1990)<br>Prince Sergei Sergeyevich (1901–1991)<br>Olga Sergeyevna (b. 1926) |
 | **Father** | Prince Vladimir Sergeyevich Kudashev (1833–1871) |
 | **Mother** | Princess Olga Nikolaevna Horvath (1840–1907) |
@@ -60,7 +60,7 @@ Following the 1917 Russian Revolution and the October Bolshevik seizure of power
 
 With the assistance of Norman Armour—then Second Secretary at the American Embassy in Petrograd, who procured false identity papers for the family and was briefly imprisoned by Bolshevik authorities for his role in their escape—Prince Sergei, Princess Vera, and their two children, Princess Maria (Myra) (1896–1990) and Prince Sergei (1901–1991), crossed the Finnish border in winter and traveled to neutral Sweden.[1][13] In Sweden, the family resided at Villa Skärtofta in Saltsjöbaden, outside Stockholm, which became a gathering place for displaced Russian aristocrats and diplomats.[13] In February 1919, Princess Maria married Norman Armour in Brussels.[13]
 
-Following Princess Vera's death in Paris in January 1920, Kudashev relocated to Florence, Italy, which hosted an established Russian émigré community centered around the Russian Orthodox Church of the Nativity of Christ and St. Nicholas.[1][14] Supported in part by capital preserved from his 1905 art sale, he resided at Villa Granduchessa.[1] In Florence, he established a second household with Olga Erikovna von Pistohlkors (1888–1963), with whom he had a daughter, Olga Sergeyevna Kudasheva (born 1926; later Olga Pelà).[1]
+Following Princess Vera's death in Paris in January 1920, Kudashev relocated to Florence, Italy, which hosted an established Russian émigré community centered around the Russian Orthodox Church of the Nativity of Christ and St. Nicholas.[1][14] Supported in part by capital preserved from his 1905 art sale, he resided at Villa Granduchessa.[1] In Florence, he established a second household with [Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) (1888–1963), a daughter of [Princess Paley](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/biography_of_princess_olga_valerianovna_paley_1865_1929.md), with whom he had a daughter, Olga Sergeyevna Kudasheva (born 1926; later Olga Pelà).[1]
 
 ### Recognition of princely title in Italy (1926–1927)
 

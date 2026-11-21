@@ -13,7 +13,7 @@ My "Granny" was Princess Maria Sergeyevna Kudasheva (1896–1990), known as Myra
 
 Sergei and Vera married in 1894. Their children were Granny and her brother [Sergei Sergeyevich](../Wiki/Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md) (1901–1991).
 
-Sergei's second wife was [Olga Ericovna von Pistohlkors](../Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/) (1888–1963). Granny also had a half-sister, Olga, Sergei's daughter.
+Sergei's second wife was [Olga Ericovna von Pistohlkors](../Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) (1888–1963). Granny also had a half-sister, Olga, Sergei's daughter.
 
 My full line back is in [Theo Armour-Lineage.md](<Theo Armour-Lineage.md>).
 
@@ -71,7 +71,7 @@ Anastasia's brothers:
 
 * [kudashev-lineage-chart.html](kudashev-lineage-chart.html) ~ chart of Granny's ancestors, with portraits and dates
 * [Theo Armour-Lineage.md](<Theo Armour-Lineage.md>) ~ my line back through the Kudashevs
-* [souvenirs-de-russie/](souvenirs-de-russie/) ~ Princess Paley's memoir, French and English
+* [souvenirs-de-russie/](souvenirs-de-russie/) ~ [Princess Paley](../Wiki/Olga-Valerianovna-Paley-1865-1929/biography_of_princess_olga_valerianovna_paley_1865_1929.md)'s memoir, French and English
 * [The Kudashev-von Nieroth Family.jpg](<The Kudashev-von Nieroth Family.jpg>) ~ family chart
 * [Neroths.md](Neroths.md) and [Trepov.md](Trepov.md) ~ notes on the related families
 * [kudashev-research-notes.md](kudashev-research-notes.md) ~ working links and loose ends

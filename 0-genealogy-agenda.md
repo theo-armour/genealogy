@@ -2,7 +2,8 @@
 
 ## Website
 
-* Opening README.mds
+* Create GEDCOM viewer
+* Opening README <name>.mds
 * Add note about Wiki
 * Update case
 

@@ -12,6 +12,7 @@
 * Death: Feb 28 1933 - Florence, Italy
 * Parents: Prince Vladimir Sergeyevich Kudashev (1833–1871) and Princess Olga Nikolaevna Horvath (1840–1907)
 * Wife: Countess [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (married 1894)
+* Second wife: [Olga Erikovna von Pistohlkors](../Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) (married 1922), daughter of [Princess Olga Valerianovna Paley](../Olga-Valerianovna-Paley-1865-1929/biography_of_princess_olga_valerianovna_paley_1865_1929.md)
 * Children: [Maria Sergeyevna](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) and [Sergei Sergeyevich](../Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md)
 
 ## Names and Spellings
