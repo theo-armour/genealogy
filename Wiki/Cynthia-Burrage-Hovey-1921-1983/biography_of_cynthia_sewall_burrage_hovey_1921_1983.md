@@ -42,7 +42,7 @@ The couple had three children.[1][4] The marriage ended in divorce in August 195
 
 She later married Chandler Hovey Jr, and was known afterwards as Cynthia Hovey.[1][5] One family tree gives the date of this marriage as 3 January 1961 and the place as "Middlebury", without naming a state or a source.[8] No newspaper announcement of the marriage has been found.
 
-She died on 12 September 1983, in New Haven County, Connecticut, according to most of the family trees. One of them cites the Connecticut Death Index.[1][5][6][8] Her mother had died at Ipswich three weeks earlier, on 22 August 1983.[10] No obituary or burial record has been found.
+She died on 12 September 1983, in New Haven County, Connecticut, according to most of the family trees. One of them cites the Connecticut Death Index.[1][5][6][8] Her mother had died at Ipswich three weeks earlier, on 22 August 1983 (other sources give 28 August).[10] No obituary or burial record has been found.
 
 ## Residences
 
@@ -63,6 +63,19 @@ She died on 12 September 1983, in New Haven County, Connecticut, according to mo
 * **Chandler Hovey Jr.** Geni gives his birth as 1912 in Boston.[5] Another tree names him Chandler Buss Hovey Jr and gives 26 March 1915 at Brookline, Massachusetts.[8] Neither is sourced.
 * **Atlantic crossing, 1939.** One tree attaches to her a passenger-list entry for an arrival at New York from Le Havre on 27 April 1939.[8] This would fit her schooling in Paris, but the same record in that tree also carries entries that plainly belong to her mother-in-law, so the attribution is unsafe until the passenger list itself is checked.
 * **Her sister's name.** The profile page gives Anne Bell.[1] MyHeritage's summary of the Geni record gives "Nancy Burrage".[6]
+
+## Questions for Theo
+
+Points that family knowledge or family papers may settle. Each links to a conflict described above.
+
+* **Place and date of birth.** Boston or Hamilton, Massachusetts? 20 November 1921, as most trees say?
+* **Date and place of death.** 12 September 1983 in New Haven County, or 9 September at Hartford?
+* **Her mother's death.** This page says her mother died on 22 August 1983. Other sources give 28 August; see the Anne Bell Burrage biography.
+* **Her mother's birth year.** The infobox gives 1890 for her mother, following the profile page; the family trees give 1893.
+* **Her sister.** Was she known as Anne Bell, Anna Bell or Nancy?
+* **The Hovey marriage.** Was it on 3 January 1961, and in which Middlebury?
+* **Paris.** When was she at Mme. Boissier's School? Was she on the ship that reached New York from Le Havre on 27 April 1939?
+* **What to keep.** This page says that the marriage to Norman Armour Jr ended in divorce in 1952, gives the 1952 article's headline in the references, and names her sister's married name in 1941. Keep, reword or remove?
 
 ## References
 

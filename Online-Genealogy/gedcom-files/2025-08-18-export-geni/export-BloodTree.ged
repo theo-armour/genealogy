@@ -68,12 +68,6 @@
 3 STAE California
 3 POST 94102
 3 CTRY United States
-1 ADDR t.armour@gmail.com
-2 EMAIL t.armour@gmail.com
-1 ADDR t@theo.us
-2 EMAIL t@theo.us
-1 ADDR theo@evereverland.net
-2 EMAIL theo@evereverland.net
 1 ADDR (415) 501 9855
 2 PHON (415) 501 9855
 1 FAMC @F6000000002789973542@
@@ -96,8 +90,6 @@
 2 DATE 11 MAR 1957
 2 PLAC Soissons, France
 2 ADDR
-1 ADDR zazaarmour@yahoo.com
-2 EMAIL zazaarmour@yahoo.com
 1 FAMS @F4034033524000011119@
 1 RFN geni:364397045610013656
 1 OBJE
@@ -141,8 +133,6 @@
 1 NOTE {geni:about_me} I was born in Hong Kong and lived there for 5 years, and from that point Chinese and Hong Kong culture was influenced me in my travels, hobbies and way of life. We moved to the San Francisco Bay Area (Mill Valley) 
 2 CONC and lived there for around 10 years, then moved to Paris for around 4 years, where I finished my french high school studies with the Bacalaureat. In 2004 I wanted to return to sunny and relaxing California for University, which is
 2 CONC  where i'm currently at, studying Industrial design with an environmental friendly point of view. I went to Shanghai in 2006 for one year of chinese studies, that's where I had some of the best times of my life. 
-1 ADDR alixarmour@gmail.com
-2 EMAIL alixarmour@gmail.com
 1 FAMC @F4034033524000011119@
 1 RFN geni:6000000004118085806
 1 OBJE
@@ -160,13 +150,6 @@
 2 DATE 31 DEC 1988
 2 ADDR
 3 CTRY Hong Kong
-1 RESI
-2 ADDR
-3 CITY Oakland
-3 STAE California
-3 CTRY United States
-1 ADDR woshka@hotmail.com
-2 EMAIL woshka@hotmail.com
 1 FAMC @F4034033524000011119@
 1 FAMS @F6000000057483591204@
 1 RFN geni:6000000001099399064
@@ -208,8 +191,6 @@
 1 NOTE {geni:eye_color} Blue
 1 NOTE {geni:height_1} 5 feet
 1 NOTE {geni:height_2} 4 inches
-1 ADDR esiolea@hotmail.com
-2 EMAIL esiolea@hotmail.com
 1 FAMC @F4034033524000011119@
 1 RFN geni:364399153580013678
 1 OBJE
@@ -301,8 +282,6 @@
 3 CITY Atlanta
 3 STAE Georgia
 3 CTRY United States
-1 ADDR tania@taniabecker.com
-2 EMAIL tania@taniabecker.com
 1 FAMC @F6000000002789973542@
 1 FAMS @F6000000002789973515@
 1 FAMS @F6000000002789973179@
@@ -603,8 +582,6 @@
 2 ADDR
 3 CITY London
 3 CTRY United Kingdom
-1 ADDR jon@archetype.cc
-2 EMAIL jon@archetype.cc
 1 FAMC @F6000000002789973183@
 1 RFN geni:364413626730006882
 1 CHAN
@@ -649,8 +626,6 @@
 3 CITY Carpinteria
 3 STAE California
 3 CTRY United States
-1 ADDR jools_armour-wilson@cate.org
-2 EMAIL jools_armour-wilson@cate.org
 1 FAMC @F6000000002789973216@
 1 RFN geni:4424469349200075226
 1 OBJE
@@ -679,8 +654,6 @@
 2 GIVN Chauncy
 2 _MARNM Regan
 1 SEX F
-1 ADDR chaunceyregan@gmail.com
-2 EMAIL chaunceyregan@gmail.com
 1 FAMC @F6000000002789973460@
 1 RFN geni:364421690000004282
 1 CHAN
@@ -1988,8 +1961,6 @@
 2 GIVN Andrea
 2 _MARNM Wessling
 1 SEX F
-1 ADDR acwessling@gmail.com
-2 EMAIL acwessling@gmail.com
 1 FAMC @F4034033592680011191@
 1 RFN geni:364412354960012475
 1 CHAN
@@ -2000,8 +1971,6 @@
 2 GIVN Pamela
 2 _MARNM Wessling
 1 SEX F
-1 ADDR pamela.dorothy@gmail.com
-2 EMAIL pamela.dorothy@gmail.com
 1 FAMC @F4034033592680011191@
 1 RFN geni:364412617210005980
 1 CHAN
@@ -12096,7 +12065,7 @@
 2 FILE https://media.geni.com/p13/8f/ef/d6/d5/53444849a15f2a9f/514_0_original.jpg?hash=0b1f7aee0f8f80f6c907cdf032ea0e328076f943567d5c7d029b9895487156dc.1763539199
 3 FORM jpg
 2 TITL Орден Святого Станислава 
-2 NOTE Для это тоже представляет интерес. alex-ru-spb@mail.ru
+2 NOTE Для это тоже представляет интерес. [email removed]
 2 NOTE У меня есть фото вырезки из старой газеты, в которой упоминается о кончине ГПС. Это интересно Вам?
 2 NOTE Хорошо Борис! Материалов пока не много, но происхождение, фамильный герб... портреты его дедушки и бабушки... достоверны! 
 2 NOTE Здравствуйте, Александр Евгеньевич! Очень приятно так оперативно получить от Вас этот ответ. Вы вселяете мне надежду помимо реликвий этой благородной семьи и "обогатиться" портретом Петра Сергеевича. Мне крайне он необходим в каче
@@ -20428,8 +20397,6 @@
 1 NOTE {geni:eye_color} Blue
 1 NOTE {geni:height_1} 5 feet
 1 NOTE {geni:height_2} 9 inches
-1 ADDR Mftsch@aol.com
-2 EMAIL Mftsch@aol.com
 1 ADDR (0) (917)445-0713
 2 PHON (0) (917)445-0713
 1 ADDR (0)  (212)769-9562
@@ -27563,8 +27530,6 @@
 2 PLAC Montlucon 
 2 ADDR
 1 NOTE {geni:about_me} https://genealogics.org/getperson.php?personID=I00151815&tree=LEO
-1 ADDR abetzkoy@orange.fr
-2 EMAIL abetzkoy@orange.fr
 1 FAMC @F6000000018435064239@
 1 FAMS @F6000000018435092968@
 1 RFN geni:6000000018435163557
@@ -71044,8 +71009,6 @@
 2 GIVN Nina
 2 _MARNM Rohrer
 1 SEX F
-1 ADDR doodledog2008@hotmail.com
-2 EMAIL doodledog2008@hotmail.com
 1 FAMC @F6000000041665895943@
 1 RFN geni:6000000019150409498
 1 CHAN
@@ -71140,8 +71103,6 @@
 2 CONT =
 2 CONT ==
 2 CONT =
-1 ADDR horvathi@shaw.ca
-2 EMAIL horvathi@shaw.ca
 1 FAMC @F6000000127601013882@
 1 RFN geni:6000000140147952888
 1 SUBM @S6000000086573872990@
@@ -71171,8 +71132,6 @@
 3 STAE NB
 3 CTRY Canada
 1 OCCU
-1 ADDR amkalmar@gmail.com
-2 EMAIL amkalmar@gmail.com
 1 FAMC @F6000000127601013882@
 1 RFN geni:6000000140146254339
 1 SUBM @S6000000086573872990@
@@ -71210,8 +71169,6 @@
 2 CONC  immigrants during the 17th century.
 2 CONT
 2 CONT Today, J1c3 is found almost exclusively within Europe, and researchers speculate that the traces of J1c3 in the Middle East are due to eastward migrations of people much later in human history.
-1 ADDR george.horvath@gmail.com
-2 EMAIL george.horvath@gmail.com
 1 FAMC @F6000000127601013882@
 1 RFN geni:6000000111451603877
 1 OBJE
