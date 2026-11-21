@@ -4,7 +4,7 @@
 
 | `nieroth_maximilian_large.jpg` | Count Maximilian von Nieroth (1846–1914). The source of this image was not recorded when it was added to this folder. | Source not recorded |
 
-**Count Maximilian Carl Benedict von Nieroth** (Russian: граф Максимилиан Евстафьевич Нирод; 30 December 1846 or 1848 – 24 May 1914) was a Russian official and courtier of Baltic German family. He spent his career in the Ministry of the Interior, became a *Jägermeister* (master of the hunt) of the imperial court in 1898, and in the last months of his life was a member of the State Council, elected by the zemstvo of Volhynia.[1] He married [Anastasia Fyodorovna Trepova](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/biography_of_countess_anastasia_fyodorovna_von_nieroth_trepova_1849_1940.md), daughter of General Fyodor Trepov. Their daughter Vera, Princess Kudasheva, was Theo Armour's great-grandmother.[1][2]
+**Count Maximilian Carl Benedict von Nieroth** (Russian: граф Максимилиан Евстафьевич Нирод; 30 December 1846 or 1848 – 24 May 1914) was a Russian official and courtier of Baltic German family. He spent his career in the Ministry of the Interior, became a *Jägermeister* (master of the hunt) of the imperial court in 1898, and in the last months of his life was a member of the State Council, elected by the zemstvo of Volhynia.[1] He married [Anastasia Fyodorovna Trepova](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md), daughter of General Fyodor Trepov. Their daughter Vera, Princess Kudasheva, was Theo Armour's great-grandmother.[1][2]
 
 | **Count Maximilian von Nieroth** | |
 | :--- | :--- |
@@ -16,7 +16,7 @@
 | **Offices** | Member of the Council of the Minister of the Interior (1898–1913)<br>Member of the State Council (8 October 1913 – 24 May 1914) |
 | **Court rank** | *Jägermeister* (1898) |
 | **Spouse** | Anastasia Fyodorovna Trepova (1849–1940) |
-| **Children** | [Fyodor](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/biography_of_count_fyodor_maximilianovich_von_nieroth_1871_1952.md) (1871–1952)<br>[Vera](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/biography_of_princess_vera_maximilianovna_kudasheva_1874_1920.md) (1874–1920) |
+| **Children** | [Fyodor](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md) (1871–1952)<br>[Vera](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (1874–1920) |
 | **Father** | Count Evstafy Evstafyevich Nirod (Gustaf Reinhold Johan von Nieroth), general of cavalry |
 | **Mother** | Paulina Fyodorovna Shtenger (Pauline Dorothea Elisabeth von Stenger) |
 | **Religion** | Lutheran |
@@ -53,8 +53,8 @@ Order of St. Stanislaus, 2nd class (1870) and 1st class (1887); Order of St. Ann
 
 He married **Anastasia Fyodorovna Trepova** (1849–1940). They had two children:[1]
 
-* **[Count Fyodor Maximilianovich](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/biography_of_count_fyodor_maximilianovich_von_nieroth_1871_1952.md)** (1871–1952), major general of the Imperial Suite.
-* **[Countess Vera Maximilianovna](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/biography_of_princess_vera_maximilianovna_kudasheva_1874_1920.md)** (1874–1920), who married Prince Sergei Vladimirovich Kudashev and died in Paris.
+* **[Count Fyodor Maximilianovich](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)** (1871–1952), major general of the Imperial Suite.
+* **[Countess Vera Maximilianovna](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)** (1874–1920), who married Prince Sergei Vladimirovich Kudashev and died in Paris.
 
 ## Discrepancies and unverified claims
 

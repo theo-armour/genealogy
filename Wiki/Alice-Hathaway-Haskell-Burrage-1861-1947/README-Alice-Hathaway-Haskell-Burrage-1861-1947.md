@@ -24,7 +24,7 @@ Alice Hathaway Haskell married Albert Cameron Burrage on 10 November 1885. He wr
 
 > November 10, 1885, I was married, by Rev. Percy Browne, at St. James (Episcopal) Church, St. James Street, Roxbury, Mass., to Alice Hathaway Haskell, daughter of Francis Hathaway Haskell and Elizabeth (Russell) Haskell, of Roxbury, Mass.[2]
 
-Burrage, the son of the Napa vineyard owner [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/biography_of_george_sanderson_burrage_1823_1876.md), was a member of the Harvard class of 1883 and had begun practising law in Boston on 1 October 1884.[2][13] They lived at first in Roxbury.[13] He later became counsel to the Brookline Gas Light Company, a member of the Boston Transit Commission, and in 1899 one of the organizers of the Amalgamated Copper Company.[13]
+Burrage, the son of the Napa vineyard owner [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md), was a member of the Harvard class of 1883 and had begun practising law in Boston on 1 October 1884.[2][13] They lived at first in Roxbury.[13] He later became counsel to the Brookline Gas Light Company, a member of the Boston Transit Commission, and in 1899 one of the organizers of the Amalgamated Copper Company.[13]
 
 They had four children:[13]
 

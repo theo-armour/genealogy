@@ -20,8 +20,8 @@
 | **Awards** | St. George Sword (1915); Order of St. Vladimir, 3rd and 2nd class |
 | **Spouse** | Princess Darya Mikhailovna Cantacuzène, Countess Speranskaya (1878–1944) |
 | **Children** | Mikhail (1899–1944), Darya (1900–1979) |
-| **Father** | [Count Maximilian von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/biography_of_count_maximilian_von_nieroth_1846_1914.md) (1846–1914) |
-| **Mother** | [Anastasia Fyodorovna Trepova](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/biography_of_countess_anastasia_fyodorovna_von_nieroth_trepova_1849_1940.md) (1849–1940) |
+| **Father** | [Count Maximilian von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) (1846–1914) |
+| **Mother** | [Anastasia Fyodorovna Trepova](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md) (1849–1940) |
 
 ## Early life
 

@@ -255,7 +255,7 @@ The two of them were consummate diplomats. Having a meal with them was always en
 <img src="https://theo-armour.github.io/genealogy/Wiki/Olga-Valerianovna-Paley-1865-1929/images/1890s-olga-paley-portrait.jpg" alt="Princess Olga Valerianovna Paley" width="300">
 <img src="https://theo-armour.github.io/genealogy/Wiki/Olga-Valerianovna-Paley-1865-1929/images/1904-dagnan-bouveret-olga-paley.jpg" alt="Princess Olga Valerianovna Paley, by Pascal Dagnan-Bouveret" width="300">
 
-📖 [More about Princess Olga Valerianovna Paley in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/biography_of_princess_olga_valerianovna_paley_1865_1929.md)
+📖 [More about Princess Olga Valerianovna Paley in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md)
 
 **1865 – 1929** | Princess Paley, morganatic wife of Grand Duke Paul Alexandrovich of Russia, and memoirist
 
@@ -265,8 +265,8 @@ She comes into the family through her eldest daughter, Olga Erikovna von Pistohl
 
 ### Links & References
 
-* 📁 [Family wiki: Princess Olga Valerianovna Paley](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/biography_of_princess_olga_valerianovna_paley_1865_1929.md)
-* 📁 [Family wiki: Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) — her daughter
+* 📁 [Family wiki: Princess Olga Valerianovna Paley](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md)
+* 📁 [Family wiki: Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) — her daughter
 * [Souvenirs de Russie / Memories of Russia](https://theo-armour.github.io/genealogy/#Kudashev/souvenirs-de-russie/README.md) — her memoir, French and English
 * <https://en.wikipedia.org/wiki/Princess_Olga_Paley>
 

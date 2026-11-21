@@ -6,7 +6,7 @@
 
 **Princess Olga Valerianovna Paley** (Russian: Ольга Валериановна Палей; née **Karnovich**; by her first marriage **von Pistohlkors**; from 1904 **Countess von Hohenfelsen**; 14 December [O.S. 2 December] 1865 – 2 November 1929) was a Russian aristocrat and memoirist, and the second, morganatic wife of Grand Duke Paul Alexandrovich of Russia, a son of Emperor Alexander II.[2][3] Her marriage to the Grand Duke in 1902 cost him twelve years of banishment from Russia. In 1918 and 1919 the Bolsheviks killed her son, the poet Prince Vladimir Paley, and her husband. She escaped across the ice to Finland and wrote an account of those years, *Souvenirs de Russie* (1923).[6]
 
-She belongs in this family history through her eldest daughter, [Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) (1888–1963), who in 1922 became the second wife of [Prince Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md).[7] The French and English texts of her memoir are [on this site](https://theo-armour.github.io/genealogy/#Kudashev/souvenirs-de-russie/README.md).
+She belongs in this family history through her eldest daughter, [Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) (1888–1963), who in 1922 became the second wife of [Prince Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md).[7] The French and English texts of her memoir are [on this site](https://theo-armour.github.io/genealogy/#Kudashev/souvenirs-de-russie/README.md).
 
 | **Princess Olga Valerianovna Paley** | |
 | :--- | :--- |
@@ -32,7 +32,7 @@ On 30 May 1884 she married Erich Gerhard von Pistohlkors (Эрик Август�
 
 * Alexander Erikovich (1885–1944), a Life Guards officer, who married Alexandra Taneyeva
 * Olga Erikovna (1886–1887), who died in infancy
-* [Olga Erikovna](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) (1888–1963), who married Count Alexander von Kreutz in 1906 and Prince Sergei Kudashev in 1922
+* [Olga Erikovna](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) (1888–1963), who married Count Alexander von Kreutz in 1906 and Prince Sergei Kudashev in 1922
 * Marianna Erikovna (1890–1976), who married Peter Durnovo, Christoph von Derfelden and Count Nicholas von Zarnekau
 
 ## Grand Duke Paul
@@ -168,4 +168,4 @@ All from Wikimedia Commons. The dates and names are those given there and have n
 4. "Olga Karnovitch Paley". *French Wikipedia*. <https://fr.wikipedia.org/wiki/Olga_Karnovitch_Paley> (read November 2026). The article carries a notice that it does not cite enough sources. Bibliography: Zeisler, Wilfried (2018), *Vivre la Belle Époque à Paris: Olga Paley et Paul de Russie*, Paris: Mare et Martin.
 5. "Grand Duke Paul Alexandrovich of Russia". *Wikipedia*. <https://en.wikipedia.org/wiki/Grand_Duke_Paul_Alexandrovich_of_Russia> (read November 2026). Cites Zeepvat, Charlotte, *The Camera and the Tsars*; Van der Kiste, John, *The Romanovs 1818–1959*.
 6. Paley, Princess (1923). *Souvenirs de Russie (1916–1919)*. Preface by Paul Bourget. Paris: Librairie Plon. English edition: *Memories of Russia, 1916–1919*. London: Herbert Jenkins, 1924. Both texts are on this site: <https://theo-armour.github.io/genealogy/#Kudashev/souvenirs-de-russie/souvenirs-de-russie.md>; <https://theo-armour.github.io/genealogy/#Kudashev/souvenirs-de-russie/memories-of-russia.md>
-7. "Olga Erikovna von Pistohlkors". Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md>
+7. "Olga Erikovna von Pistohlkors". Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md>

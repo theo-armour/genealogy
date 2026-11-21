@@ -4,7 +4,7 @@
 
 | `fyodor-trepov-junior-1915.jpg` | General Fyodor Fyodorovich Trepov (junior), 1915. Photograph by M. L. Levenson. Public domain.[3] | [Source](https://commons.wikimedia.org/wiki/File:Trepov_Fedor_Fedorovich.jpg) |
 
-**Fyodor Fyodorovich Trepov** (Russian: Фёдор Фёдорович Трепов; 13 [25] May 1854 – 27 March 1938), called "junior", was a Russian general and administrator. He governed the Vyatka, Volhynia and Kiev governorates, sat in the Senate and the State Council, and was Governor-General of Kiev, Podolia and Volhynia from 1908 to 1914. In 1916–1917 he was military governor-general of the Austrian territory occupied by the Russian army. He died in emigration in Nice.[1] He was the eldest son of [General Fyodor Fyodorovich Trepov (senior)](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/biography_of_general_fyodor_fyodorovich_trepov_1812_1889.md) and a brother of Theo Armour's great-great-grandmother Anastasia.[2]
+**Fyodor Fyodorovich Trepov** (Russian: Фёдор Фёдорович Трепов; 13 [25] May 1854 – 27 March 1938), called "junior", was a Russian general and administrator. He governed the Vyatka, Volhynia and Kiev governorates, sat in the Senate and the State Council, and was Governor-General of Kiev, Podolia and Volhynia from 1908 to 1914. In 1916–1917 he was military governor-general of the Austrian territory occupied by the Russian army. He died in emigration in Nice.[1] He was the eldest son of [General Fyodor Fyodorovich Trepov (senior)](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md) and a brother of Theo Armour's great-great-grandmother Anastasia.[2]
 
 | **Fyodor Fyodorovich Trepov** | |
 | :--- | :--- |

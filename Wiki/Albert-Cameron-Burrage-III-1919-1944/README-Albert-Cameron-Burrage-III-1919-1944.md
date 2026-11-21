@@ -4,7 +4,7 @@
 
 | `ghows_image-WL-96611be9-20be-4494-a06a-7c499e2dab99.webp` | Ambulance drivers arriving at New York aboard the liner *Manhattan* from France, 18 July 1940. The caption names them, left to right, as Charles L. Safford, Peter Jackson, King Stone, Albert C. Burrage III and H. Smith, which makes Burrage the fourth from the left. Associated Press photograph.[2] | [MetroWest Daily News](https://www.metrowestdailynews.com/picture-gallery/entertainment/2020/07/16/photos-today-in-history-july/66197863007/) |
 
-**Albert Cameron Burrage III** (14 February 1919 – 8 or 9 August 1944), known as Cameron, was the only son of [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/biography_of_albert_cameron_burrage_jr_1886_1978.md) and Anne Bell Shirk of Boston and Ipswich, Massachusetts. In 1940 he left Harvard to drive an ambulance in France with the American Field Service. He was later a captain in Combat Command A of the US 6th Armored Division, and he was killed in Brittany in August 1944.[1][3][4][7] He was a maternal uncle of Theo Armour.[1]
+**Albert Cameron Burrage III** (14 February 1919 – 8 or 9 August 1944), known as Cameron, was the only son of [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) and Anne Bell Shirk of Boston and Ipswich, Massachusetts. In 1940 he left Harvard to drive an ambulance in France with the American Field Service. He was later a captain in Combat Command A of the US 6th Armored Division, and he was killed in Brittany in August 1944.[1][3][4][7] He was a maternal uncle of Theo Armour.[1]
 
 | **Albert Cameron Burrage III** | |
 | :--- | :--- |
@@ -15,11 +15,11 @@
 | **Service** | American Field Service, 1940<br>United States Army, Combat Command A, 6th Armored Division |
 | **Rank** | Captain (service number O-414488) |
 | **Awards** | Croix de Guerre (1939–1945); Purple Heart |
-| **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/biography_of_albert_cameron_burrage_jr_1886_1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
+| **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
 
 ## Family and early life
 
-Albert Cameron Burrage III was born on 14 February 1919.[1][5][6] He was the son of Albert Cameron Burrage Jr and Anne Bell Shirk, and a grandson of the Boston attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md).[1] He had two sisters, Anne Bell and [Cynthia Sewall](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/biography_of_cynthia_sewall_burrage_hovey_1921_1983.md) (1921–1983).[1]
+Albert Cameron Burrage III was born on 14 February 1919.[1][5][6] He was the son of Albert Cameron Burrage Jr and Anne Bell Shirk, and a grandson of the Boston attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md).[1] He had two sisters, Anne Bell and [Cynthia Sewall](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983).[1]
 
 One family tree cites the 1920 United States census for him as a son in his parents' household at Hamilton, Massachusetts, and the 1930 census for the family in Boston.[6] *(Unsound: the census pages themselves have not been seen.)*
 
@@ -87,7 +87,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 6. Ancestry- and FamilySearch-derived family tree, record for Albert Cameron Burrage 3rd. Cites the 1920 census (Hamilton, Essex, roll T625_690, page 12B, ED 53), the 1930 census (Boston, page 7A, ED 0163), *The Boston Globe*, 26 August 1944, and Find a Grave memorial 56350862. None of these has been seen directly. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
 7. "Burrage Albert Cameron III". American War Memorials Overseas, Inc. <https://www.uswarmemorials.org/html/people_details.php?PeopleID=31617>
 8. "Harvard Men War Heroes in France; Experience Horrors of Blitzkrieg". *The Harvard Crimson*, 1 October 1940. <https://www.thecrimson.com/article/1940/10/1/harvard-men-war-heroes-in-france>
-9. "Cynthia Burrage and N. Armour, Jr., Wed". *Boston Sunday Post*, 29 June 1941, datelined Ipswich, 28 June. Clipping: [The_Boston_Post_29_Jun_1941.jpg](https://theo-armour.github.io/genealogy/Wiki/Cynthia-Burrage-Hovey-1921-1983/images/The_Boston_Post_29_Jun_1941.jpg). See also the [biography of Cynthia Sewall Burrage Hovey](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/biography_of_cynthia_sewall_burrage_hovey_1921_1983.md).
+9. "Cynthia Burrage and N. Armour, Jr., Wed". *Boston Sunday Post*, 29 June 1941, datelined Ipswich, 28 June. Clipping: [The_Boston_Post_29_Jun_1941.jpg](https://theo-armour.github.io/genealogy/Wiki/Cynthia-Burrage-Hovey-1921-1983/images/The_Boston_Post_29_Jun_1941.jpg). See also the [biography of Cynthia Sewall Burrage Hovey](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md).
 10. "Table 1: Summary of all Sixers Interred at ABMC Cemeteries in Europe" (entry "BURRAGE ALBERT C III, CCA, CAPT, O-414488, MA, 8-Aug-44, K 13 19, BR"). Super Sixth, the 6th Armored Division association. <https://www.super6th.org/cemeteries/6AD_ABMC_ALL_BY_UNIT.pdf>
 11. "Brittany American Cemetery, Saint James, France – Burial Records, Surnames A–C". *Interment.net*. <https://www.interment.net/data/france/saint-james/brittany-american-cemetery/records-a-c.htm>
 12. "Combat History of the 6th AD: Brittany". Super Sixth. <https://super6th.org/cmbthist/cmbtbrtny.htm>

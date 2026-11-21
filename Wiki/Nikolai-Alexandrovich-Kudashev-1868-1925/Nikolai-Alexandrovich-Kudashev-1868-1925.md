@@ -4,7 +4,7 @@
 
 | `1905-russian-peace-commission-portsmouth.jpg` | Russian Peace Commission and staff, Portsmouth, N.H. (1905); "Prince Kudashev" is among the staff, not individually identified | [Library of Congress](https://www.loc.gov/item/2005680336/) |
 
-📖 [Biography](https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/biography_of_prince_nikolai_alexandrovich_kudashev_1868_1925.md)
+📖 [Biography](https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/README-Nikolai-Alexandrovich-Kudashev-1868-1925.md)
 
 ## Genealogy
 

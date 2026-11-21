@@ -1,14 +1,14 @@
-# Sergei Vladimirovich Kudashev (1863–1933) ~ Read Me
+# Sergei Vladimirovich Kudashev (1863–1933) ~ Contents
 
 My great-grandfather. This folder holds more than the usual single page, so here is what is where.
 
 ## Start here
 
-* [0-Sergei-Vladimirovich-Kudashev-1863-1933.md](0-Sergei-Vladimirovich-Kudashev-1863-1933.md) ~ the main page, in the standard Wiki layout
+* [README-Sergei-Vladimirovich-Kudashev-1863-1933.md](README-Sergei-Vladimirovich-Kudashev-1863-1933.md) ~ the biography, which opens when the folder is opened
+* [0-Sergei-Vladimirovich-Kudashev-1863-1933.md](0-Sergei-Vladimirovich-Kudashev-1863-1933.md) ~ the profile page, in the standard Wiki layout
 
 ## Biographies
 
-* [biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md](biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md) ~ the current biography
 * [2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md](2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md) ~ an earlier version
 
 ## The painting collection

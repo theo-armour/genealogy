@@ -33,7 +33,7 @@ Vera's parents:
 
 Vladimir's parents:
 
-* [Sergei Danilovich Kudashev](../Wiki/Sergei-Danilovich-Kudashev-1795-1862/biography_of_prince_sergei_danilovich_kudashev_1795_1862.md) (1795–1862)
+* [Sergei Danilovich Kudashev](../Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md) (1795–1862)
 * Mathilde Eva-Josephine-Rosalia Kudasheva (born de Choiseul-Gouffier) (1806–1867)
 
 Olga's parents:

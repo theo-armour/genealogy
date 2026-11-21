@@ -4,7 +4,7 @@
 
 | `alexander-kudashev-1895.jpg` | Alexander Sergeyevich Kudashev, railway engineer's uniform (1895/1896) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%90S_%D0%9Audashev.jpg) |
 
-📖 [Biography](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/biography_of_prince_alexander_sergeyevich_kudashev_1872_1917.md)
+📖 [Biography](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/README-Alexander-Sergeyevich-Kudashev-1872-1917.md)
 
 ## Genealogy
 

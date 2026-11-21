@@ -6,7 +6,8 @@ Conventions for the person pages in this folder. One folder per person, one main
 
 * Folder: `Firstname-Middlenames-Lastname-BIRTH-DEATH` ~ e.g. `George-Allison-Armour-1856-1936`
 * Living people: trailing hyphen after birth year ~ e.g. `Allison-Armour-1951-`
-* Main page: same name as the folder, plus `.md`
+* Biography: `README-` plus the folder name, plus `.md` ~ e.g. `README-George-Allison-Armour-1856-1936.md`. The site opens it automatically when the folder is opened. Spaces in a folder name become hyphens
+* Profile page: same name as the folder, plus `.md` ~ genealogy data, links and research notes
 * Images go in an `images/` subfolder; research documents (PDF, DOCX) may sit at the folder root
 * Files shared across pages live in the repo-root `commons/` folder ~ link as `../../commons/...`
 * Superseded pages and folders move to `archive/`

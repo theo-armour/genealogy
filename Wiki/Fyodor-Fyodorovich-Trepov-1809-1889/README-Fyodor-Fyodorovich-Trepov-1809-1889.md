@@ -4,7 +4,7 @@
 
 | `fyodor-trepov.jpg` | Fyodor Fyodorovich Trepov, 1869. Photograph by Charles Bergamasco. Public domain.[3] | [Source](https://commons.wikimedia.org/wiki/File:Trepov_F_F_old.jpg) |
 
-**Fyodor Fyodorovich Trepov** (Russian: Фёдор Фёдорович Трепов; 4 [16] May 1812 – 23 November [5 December] 1889), called "senior" to distinguish him from his son, was a Russian general and police chief. He was chief of police in Warsaw during the Polish unrest of the early 1860s, chief of police of St. Petersburg from 1866, and the city's first *gradonachalnik* (city governor) from 1873 to 1878. He is best remembered for being shot and wounded in 1878 by the revolutionary [Vera Zasulich](https://en.wikipedia.org/wiki/Vera_Zasulich), whose acquittal by a jury became one of the most famous trials in Russian history.[1] Four of his sons rose to high office, among them a prime minister. His eldest daughter, [Anastasia](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/biography_of_countess_anastasia_fyodorovna_von_nieroth_trepova_1849_1940.md), was the great-great-grandmother of Theo Armour.[1][2]
+**Fyodor Fyodorovich Trepov** (Russian: Фёдор Фёдорович Трепов; 4 [16] May 1812 – 23 November [5 December] 1889), called "senior" to distinguish him from his son, was a Russian general and police chief. He was chief of police in Warsaw during the Polish unrest of the early 1860s, chief of police of St. Petersburg from 1866, and the city's first *gradonachalnik* (city governor) from 1873 to 1878. He is best remembered for being shot and wounded in 1878 by the revolutionary [Vera Zasulich](https://en.wikipedia.org/wiki/Vera_Zasulich), whose acquittal by a jury became one of the most famous trials in Russian history.[1] Four of his sons rose to high office, among them a prime minister. His eldest daughter, [Anastasia](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md), was the great-great-grandmother of Theo Armour.[1][2]
 
 | **Fyodor Fyodorovich Trepov** | |
 | :--- | :--- |
@@ -39,15 +39,15 @@ On 25 July (6 August) 1877 Trepov ordered the flogging of an imprisoned populist
 
 He married **Vera Vasilyevna Lukashevich** (1817 or 1821 – 1866). They had nine children:[1][2]
 
-* **[Anastasia](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/biography_of_countess_anastasia_fyodorovna_von_nieroth_trepova_1849_1940.md)** (1849–1940), who married [Count Maximilian von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/biography_of_count_maximilian_von_nieroth_1846_1914.md).
+* **[Anastasia](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md)** (1849–1940), who married [Count Maximilian von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md).
 * **Yevgenia** (born 1850), married name Albertova.
 * **Yulia** (1851–1923), maid of honour, who married Senator D. P. Sukhodolsky.
 * **Sofia** (1853–1927), maid of honour, who married Count M. E. Nirod, a master of the horse.
-* **[Fyodor](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1854-1938/biography_of_general_fyodor_fyodorovich_trepov_1854_1938.md)** (1854–1938), Governor-General of Kiev.
-* **[Dmitri](https://theo-armour.github.io/genealogy/#Wiki/Dmitri%20Feodorovich%20Trepov-1850-1906/biography_of_general_dmitri_fyodorovich_trepov_1855_1906.md)** (1855–1906), Governor-General of St. Petersburg in 1905.
+* **[Fyodor](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1854-1938/README-Fyodor-Fyodorovich-Trepov-1854-1938.md)** (1854–1938), Governor-General of Kiev.
+* **[Dmitri](https://theo-armour.github.io/genealogy/#Wiki/Dmitri%20Feodorovich%20Trepov-1850-1906/README-Dmitri-Feodorovich-Trepov-1850-1906.md)** (1855–1906), Governor-General of St. Petersburg in 1905.
 * **Yelizaveta** (1858–1920), maid of honour, who married General A. A. Mosolov, head of the chancellery of the Ministry of the Imperial Court.
-* **[Alexander](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/biography_of_alexander_fyodorovich_trepov_1862_1928.md)** (1862–1928), Prime Minister in 1916.
-* **[Vladimir](https://theo-armour.github.io/genealogy/#Wiki/Vladimir%20Fyodorovich%20Trepov-1863-1918/biography_of_vladimir_fyodorovich_trepov_1863_1918.md)** (1863–1918), Governor of Taurida.
+* **[Alexander](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/README-Alexander-Fyodorovich-Trepov-1862-1928.md)** (1862–1928), Prime Minister in 1916.
+* **[Vladimir](https://theo-armour.github.io/genealogy/#Wiki/Vladimir%20Fyodorovich%20Trepov-1863-1918/README-Vladimir-Fyodorovich-Trepov-1863-1918.md)** (1863–1918), Governor of Taurida.
 
 ## Residences
 
