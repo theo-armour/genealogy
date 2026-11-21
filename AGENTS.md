@@ -23,4 +23,5 @@ My family history: lineage, profiles of family members, source documents and exp
 - **Living people.** Ask before adding personal details about anyone living — contact details, addresses, health, family disagreements.
 - **Nothing private.** Never copy material from my private repos (agenda, journals, people notes) into this one.
 - **Names.** Follow the Wikipedia-style convention used here: given names then family name, the name that would appear on the tombstone. Keep existing transliterations of Russian names unless I ask.
-- Voice: plain, direct, first person, with recollections and meaning as well as facts. Propose wording changes rather than applying them.
+- **Voice.** Plain, direct, first person, with recollections and meaning as well as facts. Apply proofreading edits and new additions directly; propose wording changes first only when deleting or replacing existing information.
+- **Autonomy.** Make reasonable assumptions and apply changes directly without asking clarifying questions unless something is destructive or ambiguous.
