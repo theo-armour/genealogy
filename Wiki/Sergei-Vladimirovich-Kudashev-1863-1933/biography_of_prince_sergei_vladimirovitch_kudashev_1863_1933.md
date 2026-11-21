@@ -1,5 +1,9 @@
 # Prince Sergei Vladimirovich Kudashev
 
+![Prince Sergei Vladimirovich Kudashev at the 1903 costume ball in the Winter Palace](images/1903-ball-sergei-kudashev.jpeg)
+
+| `1903-ball-sergei-kudashev.jpeg` | Prince Sergei Vladimirovich Kudashev at the costume ball in the Winter Palace, February 1903. Public domain.[10] | [Source](https://commons.wikimedia.org/wiki/File:1903_ball_-_Serg.Vl._Kudashev.jpeg) |
+
 **Prince Sergei Vladimirovich Kudashev** (Russian: Князь Сергей Владимирович Кудашев; 14 December [O.S. 14 September] 1863 – 27/28 February 1933) was a Russian nobleman, Imperial courtier, corporate financier, and art collector. Serving at the court of Emperor Nicholas II as a *Kammerherr* (Chamberlain) and Active State Councillor, he also sat on the boards of major late-Imperial financial and industrial enterprises and assembled a noted gallery of 17th-century Dutch and Flemish Old Masters prior to fleeing the 1917 Russian Revolution into European exile.[1][2] Settling in Florence, he secured formal Italian recognition of his princely title in 1926–1927 via a Royal Decree signed by King Victor Emmanuel III and Prime Minister Benito Mussolini, resulting in his inscription in the *Libro d'Oro della Nobiltà Italiana*.[15]
 
 | **Prince Sergei Vladimirovich Kudashev** | |
@@ -19,9 +23,11 @@
 
 ## Family background and early life
 
-Sergei Vladimirovich Kudashev was born in Kiev on 14 December (14 September Old Style) 1863 into the Kudashev family, a Russian princely dynasty of Tatar origin whose noble title had been recognized in Russia since the 17th century.[1][3] The southern branch of the family held its ancestral landed seat in Chigirin Uyezd of Kiev Governorate (modern-day Cherkasy Oblast, Ukraine), centered on the estate of Veselyi Kut—purchased in 1804 by his great-grandfather, Prince Daniil Ivanovich Kudashev—and the nearby estate settlement of Kudashevo.[4][5] His great-uncle, Major General Prince Nikolai Danilovich Kudashev (1784–1813), married a daughter of Field Marshal Mikhail Kutuzov and commanded a partisan detachment during the Patriotic War of 1812.[3]
+Sergei Vladimirovich Kudashev was born in Kiev on 14 December (14 September Old Style) 1863 into the Kudashev family, a Russian princely dynasty of Tatar origin whose noble title had been recognized in Russia since the 17th century.[1][3] His great-grandfather, Prince Daniil Ivanovich Kudashev, bought the estate of Veselyi Kut in Chigirin Uyezd of Kiev Governorate (modern-day Cherkasy Oblast, Ukraine) in 1804.[4][5] It passed to the family of Daniil's son-in-law, General Belsky, and was sold in 1855, eight years before Sergei was born.[4] His grandfather, [Prince Sergei Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/biography_of_prince_sergei_danilovich_kudashev_1795_1862.md) (1795–1862), was Vice-Governor of Kiev and marshal of the nobility of Kherson Governorate.[16] His great-uncle, Major General [Prince Nikolai Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/biography_of_prince_nikolay_danilovich_kudashev_1784_1813.md) (1784–1813), married a daughter of Field Marshal Mikhail Kutuzov and commanded a partisan detachment during the Patriotic War of 1812.[3]
 
-His parents were Prince Vladimir Sergeyevich Kudashev (1833–1871) and Princess Olga Nikolaevna Horvath (1840–1907).[1] Following his father's death in 1871, eight-year-old Sergei inherited a foundational cabinet of paintings, rare books, and numismatics.[6] His paternal uncle, Moscow banking administrator and historian Prince Sergei Sergeyevich Kudashev (1834–1915), remained the senior male member of that family line during Sergei Vladimirovich's youth.[3][7]
+His parents were [Prince Vladimir Sergeyevich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/biography_of_prince_vladimir_sergeyevich_kudashev_1833_1871.md) (1833–1871), a lieutenant and zemstvo deputy, and Olga Nikolaevna, born Horvat (1840–1907).[1][16] A Russian genealogy forum lists four siblings: Matilda (born 1857), Maria (born 1869), Vsevolod (born 1870) and Vladimir (died 1957).[17] His father died in Kiev in 1871, when Sergei was seven or eight. Earlier versions of this page said that Sergei then inherited a "cabinet" of paintings, rare books and coins.[6] *(Unsound: no source for a collection belonging to his father has been found, and the 1902 catalogue cited for it has not been checked.)* His paternal uncle, Moscow banking administrator and historian Prince Sergei Sergeyevich Kudashev (1834–1915), remained the senior male member of that family line during Sergei Vladimirovich's youth.[3][7]
+
+Several of his first cousins had notable careers. [Prince Nikolai Alexandrovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/biography_of_prince_nikolai_alexandrovich_kudashev_1868_1925.md) (1868–1925) was the last imperial Russian envoy to China, and his brother Prince Ivan Alexandrovich Kudashev was envoy to Denmark and Belgium and ambassador to Spain. [Prince Alexander Sergeyevich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/biography_of_prince_alexander_sergeyevich_kudashev_1872_1917.md) (1872–1917?) built and flew the first Russian aeroplane in 1910. The philosopher [Nikolai Berdyaev](https://en.wikipedia.org/wiki/Nikolai_Berdyaev) (1874–1948) was the son of his aunt Alexandra.[16][18]
 
 ## Imperial court service and corporate career
 
@@ -36,11 +42,15 @@ By the early 20th century, Kudashev also became active in St. Petersburg finance
 * Trade and Industrial Company "Alfa-Nobel" (*Торгово-промышленное товарищество «Альфа-Нобель»*)
 * Podolia Railway Company (*Общество Подольской железной дороги*)
 
+These four are only part of the picture. A search of Russian newspapers for 1892–1917 by Ksenya Kiebuzinski of the University of Toronto, reported by the provenance researcher Erik Van der Graaf in July 2026, found him involved in more than 15 businesses: banks, insurance companies, railways, manufacturing and mining companies, mainly as a board member.[19] The full list has not yet been published here. The same research found that he owned an estate, possibly a family one, in the Volokolamsk area, about 130 kilometres north-west of Moscow.[19]
+
 ## Art collection
 
 Building upon the collection left by his father, Kudashev assembled a private gallery specializing in 17th-century Dutch and Flemish Old Masters, alongside early printed books and historical medals.[6][12] Works in his collection included paintings attributed to Pieter Brueghel the Younger (*The Peasant Wedding*), Jan van Goyen (*A Sandy Road with Thatched Cottage*), Cornelis van Poelenburgh, Jan van Noordt, and Theodoor van Thulden.[6][12]
 
 Kudashev invited European and Russian art historians—including Dutch scholar Cornelis Hofstede de Groot and Russian critic Alexandre Benois—to study and verify attributions within his gallery.[6] In 1902, he privately published an illustrated folio catalogue in St. Petersburg bound with his gilt princely coat of arms, titled *Vingt-cinq tableaux de la collection du prince Serge Wladimirowich Koudacheff à St. Pétersbourg (Mokhowaja 6)*.[6]
+
+The Berlin museum director and art historian [Wilhelm von Bode](https://en.wikipedia.org/wiki/Wilhelm_von_Bode) helped him prepare the 1902 catalogue. Letters from Kudashev to Bode, written between October 1904 and January 1905 and held in Berlin, give his reasons for selling the collection. He wrote them from Villa Granduchessa in Florence, where he was staying because of his son's poor health.[19] The letters have not yet been transcribed here.
 
 During the political and financial upheaval of the 1905 Russian Revolution and the Russo-Japanese War, Kudashev elected to sell his painting collection abroad.[12] On 27 June 1905, the gallery was auctioned in Amsterdam by Frederik Muller & Cie under the pseudonym "Prince Tatarsky" (*Catalogue des tableaux anciens formant la collection du Prince Tatarsky à St. Pétersbourg*).[12] Several paintings entered major European collections—including acquisitions by Swedish collector Wilhelmina von Hallwyl now preserved in the Hallwyl Museum in Stockholm—while converting Kudashev's holdings into liquid capital twelve years before the 1917 Bolshevik nationalizations.[12]
 
@@ -59,6 +69,26 @@ Living as a stateless émigré in Italy without legal recognition of his Imperia
 On 4 August 1926, the Count of Viñaza informed Kudashev that the legal obstacles had been overcome and that Prime Minister Benito Mussolini had confirmed the necessary legislative amendment.[15] Following the **Royal Decree of 3 September 1926** (accompanied by supporting documentation dated 6 February 1917), Kudashev received an official patent signed by **King Victor Emmanuel III** and **Benito Mussolini** recognizing and confirming his princely title in the Kingdom of Italy, entering him and his family into the Golden Book of the Italian Nobility (*Libro d'Oro della Nobiltà Italiana*), and authorizing the use of the princely Kudashev coat of arms.[15] Under the terms of the patent, the title was transmissible within Italy exclusively to legitimate and natural male-line descendants.[15]
 
 Prince Sergei Vladimirovich Kudashev died in Florence on 27 or 28 February 1933, aged 69, and was buried in Florence's non-Catholic Cimitero Evangelico agli Allori (Plot Q. III.017).[1][14]
+
+## Residences
+
+* **Kiev.** He was born there in 1863, and his father died there in 1871.[1][17] No address is known. His grandfather's house was in Lipki, the aristocratic quarter.[16]
+* **Mokhovaya Street 6, St. Petersburg (1902).** The address is given on the title page of his catalogue.[6]
+* **Bolshaya Morskaya Street 57, St. Petersburg (by 1912 to 1917).** The newspaper *День* of 6 October 1912 reports "chamberlain Prince S. V. Kudashev of Morskaya st." returning from abroad, and the *Весь Петроград* directory lists him at Morskaya 57, telephone 53038.[2][20] The building still stands. Theo Armour visited it with his daughter in 2008.[20]
+* **Villa Granduchessa, Florence.** He was staying there in 1904–1905, and lived in Florence again from 1920 until his death in 1933.[1][19]
+* **Volokolamsk area, Moscow Governorate.** He owned an estate there.[19]
+* **Stockholm and Saltsjöbaden, Sweden (1917–1918).** The family stayed first at the Grand Hôtel in Stockholm and then at Villa Skärtofta in Saltsjöbaden.[13][20]
+
+## Discrepancies and unverified claims
+
+* **Birth date.** This page gives "14 December (O.S. 14 September) 1863". The two dates are three months apart, so one is not a conversion of the other. In 1863 the calendars differed by 12 days. Rodovid gives 14 September 1863; Geni gives 14 December.
+* **A collection inherited from his father.** No source has been found (see "Family background and early life").
+* **Veselyi Kut.** Earlier versions of this page called it the family's "ancestral landed seat". Pokhilevich shows that it was sold in 1855.[4]
+* **Date of the escape from Russia.** This page places it after the October Revolution. The profile page in this folder, drawing on Erik Van der Graaf's research, places it soon after the February Revolution, with the family reaching Sweden in the spring of 1917.[20]
+* **Maria's birth year.** 1896 here; 1895 in some other pages of this wiki.
+* **The Hermitage and the Impressionists.** A family tradition holds that he was involved in acquiring Impressionist paintings for the Hermitage.[20] No evidence for this has been found.
+* **Visits by Hofstede de Groot and Benois.** These are cited only to the 1902 catalogue, which has not been checked.[6]
+* **References 1, 2, 8, 11 and 14.** These come from the earlier version of this page and have not been checked against the publications.
 
 ## Historiographical note
 
@@ -81,3 +111,8 @@ Secondary summaries occasionally attribute the 1912 historical study *Истор
 13. Armour, Norman. Biographical and diplomatic papers; contemporary press reports on the February 1919 Brussels wedding of Norman Armour and Princess Maria Kudasheva.
 14. *Русско-итальянский архив* [Russian-Italian Archive]. Vol. 8 (Florentine Necrology). Salerno. 2010.
 15. Koudacheff Family Archive. Letter from Cipriano Muñoz y Manzano, Count of Viñaza, to Prince Sergei Vladimirovich Kudashev (4 August 1926); Italian Royal Patent confirming the princely title and coat of arms under Royal Decree of 3 September 1926, signed by King Victor Emmanuel III and Benito Mussolini (1926–1927).
+16. "Prince Sergei Danilovich Kudashev" and "Prince Vladimir Sergeyevich Kudashev". Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/biography_of_prince_sergei_danilovich_kudashev_1795_1862.md>; <https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/biography_of_prince_vladimir_sergeyevich_kudashev_1833_1871.md>
+17. "Кудашев Владимир Сергеевич 22.03.1833". *КУДАШЕВ: Персональный список*. Всероссийское генеалогическое древо (VGD) forum. <https://baza.vgd.ru/1/17728>
+18. "Prince Nikolai Alexandrovich Kudashev" and "Prince Alexander Sergeyevich Kudashev". Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/biography_of_prince_nikolai_alexandrovich_kudashev_1868_1925.md>; <https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/biography_of_prince_alexander_sergeyevich_kudashev_1872_1917.md>. Ivan Alexandrovich's postings are from the profile page [20].
+19. Van der Graaf, Erik. Research notes to Theo Armour, 8 and 16 July 2026, reporting newspaper research by Ksenya Kiebuzinski (University of Toronto) and the Kudashev–Bode correspondence in Berlin. Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/2026-07-16-erik-new-findings.md>
+20. "Sergei Vladimirovich Kudashev (1863–1933)" (profile page, with Theo Armour's notes and extracts from Russian newspapers and directories, 1878–1917). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md>
