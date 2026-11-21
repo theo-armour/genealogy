@@ -69,6 +69,7 @@ Anastasia's brothers:
 
 ## In this folder
 
+* [kudashev-lineage-chart.html](kudashev-lineage-chart.html) ~ chart of Granny's ancestors, with portraits and dates
 * [Theo Armour-Lineage.md](<Theo Armour-Lineage.md>) ~ my line back through the Kudashevs
 * [souvenirs-de-russie/](souvenirs-de-russie/) ~ Princess Paley's memoir, French and English
 * [The Kudashev-von Nieroth Family.jpg](<The Kudashev-von Nieroth Family.jpg>) ~ family chart

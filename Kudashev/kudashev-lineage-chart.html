@@ -1,0 +1,492 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Granny's Lineage</title>
+<style>
+:root {
+  --bg: #f6f2ea;
+  --card: #fffdf8;
+  --ink: #26221c;
+  --muted: #6b6457;
+  --line: #b9ae9a;
+  --border: #ddd4c3;
+  --kudashev: #8a2f2a;
+  --nieroth: #2f5d7c;
+  --trepov: #4d6b2f;
+  --other: #8b8170;
+  --shadow: 0 1px 3px rgba(60, 45, 20, 0.12);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b1915;
+    --card: #26231d;
+    --ink: #ece6d9;
+    --muted: #a59c8b;
+    --line: #6a6253;
+    --border: #3b362c;
+    --kudashev: #d9776f;
+    --nieroth: #7fb2d6;
+    --trepov: #a3c47c;
+    --other: #8f8676;
+    --shadow: none;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: 24px 16px 40px;
+  background: var(--bg);
+  color: var(--ink);
+  font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+header { max-width: 1180px; margin: 0 auto 18px; }
+h1 {
+  margin: 0 0 4px;
+  font: 600 28px/1.2 Georgia, "Times New Roman", serif;
+  text-wrap: balance;
+}
+.sub { margin: 0; color: var(--muted); font-size: 15px; max-width: 70ch; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 14px 0 0; padding: 0; list-style: none; font-size: 13px; color: var(--muted); }
+.legend li::before {
+  content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px;
+  margin-right: 6px; background: var(--c); vertical-align: -1px;
+}
+.scroll { max-width: 1180px; margin: 0 auto; overflow-x: auto; padding-bottom: 8px; }
+.heads, .chart {
+  display: grid;
+  grid-template-columns: 250px repeat(3, minmax(215px, 1fr));
+  column-gap: 44px;
+  min-width: 1030px;
+}
+.heads { margin-bottom: 8px; }
+.heads div {
+  font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted);
+  border-bottom: 1px solid var(--border); padding-bottom: 4px;
+}
+.chart { position: relative; grid-template-rows: repeat(8, minmax(104px, auto)); row-gap: 10px; }
+#lines { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; }
+#lines path { fill: none; stroke: var(--line); stroke-width: 1.5; }
+.p {
+  position: relative; z-index: 1; align-self: center;
+  display: flex; gap: 10px; align-items: flex-start;
+  background: var(--card); color: inherit; text-decoration: none;
+  border: 1px solid var(--border); border-left: 4px solid var(--c, var(--other));
+  border-radius: 6px; padding: 9px 10px; box-shadow: var(--shadow);
+}
+a.p:hover, a.p:focus-visible { border-color: var(--c, var(--other)); outline: none; }
+.p img, .p .ph {
+  flex: none; width: 58px; height: 74px; border-radius: 4px;
+  object-fit: cover; object-position: 50% 20%; background: var(--bg);
+}
+.p .ph {
+  display: grid; place-items: center; border: 1px dashed var(--border);
+  color: var(--muted); font: 600 18px Georgia, serif;
+}
+.p img.arms { object-fit: contain; object-position: center; padding: 3px; }
+.p b { display: block; font: 600 15px/1.25 Georgia, "Times New Roman", serif; }
+.p .t { display: block; color: var(--c, var(--muted)); font-size: 12px; margin-top: 1px; }
+.p .d { display: block; font-size: 12.5px; margin-top: 4px; font-variant-numeric: tabular-nums; }
+.p .n { display: block; font-size: 12px; color: var(--muted); margin-top: 3px; }
+.p.root { flex-direction: column; padding: 14px; }
+.p.root img { width: 100%; height: 280px; }
+.p.root b { font-size: 19px; }
+.p.unknown { background: transparent; border-style: dashed; box-shadow: none; color: var(--muted); }
+h2 {
+  margin: 34px 0 4px; min-width: 1030px;
+  font: 600 20px/1.25 Georgia, "Times New Roman", serif;
+}
+.h2sub { margin: 0 0 12px; color: var(--muted); font-size: 13.5px; }
+.cols {
+  display: grid;
+  grid-template-columns: 250px repeat(3, minmax(215px, 1fr));
+  column-gap: 44px;
+  min-width: 1030px;
+  align-items: start;
+}
+.col { display: flex; flex-direction: column; gap: 10px; }
+.col > .ch {
+  font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted);
+  border-bottom: 1px solid var(--border); padding-bottom: 4px; margin-bottom: 0;
+}
+.col .p { align-self: stretch; }
+.p .rl { display: block; font-size: 11.5px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); margin-bottom: 2px; }
+.k { --c: var(--kudashev); } .v { --c: var(--nieroth); } .r { --c: var(--trepov); } .o { --c: var(--other); }
+footer { max-width: 1180px; margin: 18px auto 0; color: var(--muted); font-size: 13px; }
+footer p { margin: 0 0 6px; max-width: 80ch; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Granny's Lineage</h1>
+  <p class="sub">The ancestors of my grandmother, Princess Maria Sergeyevna Kudasheva, known as Myra, back three generations, followed by her own family and by the brothers, uncles and cousins who have pages here. Click a person to open their page.</p>
+  <ul class="legend">
+    <li style="--c: var(--kudashev)">Kudashev</li>
+    <li style="--c: var(--nieroth)">von Nieroth</li>
+    <li style="--c: var(--trepov)">Trepov</li>
+    <li style="--c: var(--other)">Other families</li>
+  </ul>
+</header>
+
+<div class="scroll">
+  <div class="heads">
+    <div>Granny</div>
+    <div>Her parents</div>
+    <div>Her grandparents</div>
+    <div>Her great-grandparents</div>
+  </div>
+
+  <div class="chart" id="chart">
+    <svg id="lines" aria-hidden="true"><path id="linePath" d=""/></svg>
+
+    <!-- Generation 1 -->
+    <a class="p root k" id="myra" data-parents="sergei-v vera" style="grid-column:1; grid-row:1 / span 8" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md">
+      <img src="../Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/images/1921-olive-snell-myra-koudachev-armour.jpg" alt="Myra Kudasheva Armour, 1921 portrait">
+      <span>
+        <b>Maria Sergeyevna Kudasheva</b>
+        <span class="t">Princess · "Myra" · Mrs Norman Armour</span>
+        <span class="d">Born 7 April 1896, Saint Petersburg<br>Died 15 September 1990, New York</span>
+        <span class="n">Her biography gives the birth year as 1895 or 1896.</span>
+        <span class="n">Married Norman Armour Sr (1887–1982).</span>
+      </span>
+    </a>
+
+    <!-- Generation 2 -->
+    <a class="p k" id="sergei-v" data-parents="vladimir olga-h" style="grid-column:2; grid-row:1 / span 4" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md">
+      <img src="../Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/images/1903-ball-sergei-kudashev.jpeg" alt="Sergei Kudashev at the 1903 costume ball" loading="lazy">
+      <span>
+        <b>Sergei Vladimirovich Kudashev</b>
+        <span class="t">Prince</span>
+        <span class="d">Born 14 Dec 1863, Kiev<br>Died 27/28 Feb 1933, Florence</span>
+        <span class="n">Married Vera in 1894.</span>
+      </span>
+    </a>
+
+    <a class="p v" id="vera" data-parents="maximilian anastasia" style="grid-column:2; grid-row:5 / span 4" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md">
+      <img src="../Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/images/vera-kudasheva.jpg" alt="Vera Maximilianovna Kudasheva" loading="lazy">
+      <span>
+        <b>Vera Maximilianovna von Nieroth</b>
+        <span class="t">Countess · Princess Kudasheva by marriage</span>
+        <span class="d">Born 23 July 1874, Saint Petersburg<br>Died 26 Jan 1920, Paris</span>
+      </span>
+    </a>
+
+    <!-- Generation 3 -->
+    <a class="p k" id="vladimir" data-parents="sergei-d mathilde" style="grid-column:3; grid-row:1 / span 2" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/biography_of_prince_vladimir_sergeyevich_kudashev_1833_1871.md">
+      <img class="arms" src="../Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/images/kudashev-coat-of-arms-1904.jpg" alt="Coat of arms of the Princes Kudashev" loading="lazy">
+      <span>
+        <b>Vladimir Sergeyevich Kudashev</b>
+        <span class="t">Prince</span>
+        <span class="d">Born 22 or 23 March 1833, Kiev<br>Died 2 Oct 1871, Kiev</span>
+        <span class="n">No portrait found; the family arms are shown.</span>
+      </span>
+    </a>
+
+    <div class="p o" id="olga-h" data-parents="horvat-f horvat-m" style="grid-column:3; grid-row:3 / span 2">
+      <span class="ph" aria-hidden="true">OH</span>
+      <span>
+        <b>Olga Nikolaevna Horvath</b>
+        <span class="t">Also spelled Horvat</span>
+        <span class="d">Born 1840, Kiev<br>Died 25 Oct 1907, Yalta</span>
+      </span>
+    </div>
+
+    <a class="p v" id="maximilian" data-parents="evstafy pauline" style="grid-column:3; grid-row:5 / span 2" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md">
+      <img src="../Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/images/nieroth_maximilian_large.jpg" alt="Maximilian von Nieroth" loading="lazy">
+      <span>
+        <b>Maximilian Carl Benedict von Nieroth</b>
+        <span class="t">Count</span>
+        <span class="d">Born 30 Dec 1846, Saint Petersburg<br>Died 24 May 1914</span>
+        <span class="n">Other sources give 1848 for his birth. Place of death is Kiev or Tsarskoye Selo.</span>
+      </span>
+    </a>
+
+    <a class="p r" id="anastasia" data-parents="fyodor vera-l" style="grid-column:3; grid-row:7 / span 2" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md">
+      <img src="../Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/images/nieroth_anastasia_large.jpg" alt="Anastasia Fyodorovna Trepova" loading="lazy">
+      <span>
+        <b>Anastasia Fyodorovna Trepova</b>
+        <span class="t">Countess von Nieroth by marriage</span>
+        <span class="d">Born 15 May 1849, Kiev<br>Died 25 Sept 1940, Amblainville, France</span>
+      </span>
+    </a>
+
+    <!-- Generation 4 -->
+    <a class="p k" id="sergei-d" style="grid-column:4; grid-row:1" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/biography_of_prince_sergei_danilovich_kudashev_1795_1862.md">
+      <img class="arms" src="../Wiki/Sergei-Danilovich-Kudashev-1795-1862/images/kudashev-coat-of-arms-1904.jpg" alt="Coat of arms of the Princes Kudashev" loading="lazy">
+      <span>
+        <b>Sergei Danilovich Kudashev</b>
+        <span class="t">Prince</span>
+        <span class="d">Born 29 May 1795<br>Died 18 March 1862, Kiev</span>
+      </span>
+    </a>
+
+    <div class="p o" id="mathilde" style="grid-column:4; grid-row:2">
+      <span class="ph" aria-hidden="true">MC</span>
+      <span>
+        <b>Mathilde de Choiseul-Gouffier</b>
+        <span class="t">Countess</span>
+        <span class="d">1806 – 1867</span>
+      </span>
+    </div>
+
+    <div class="p unknown" id="horvat-f" style="grid-column:4; grid-row:3">
+      <span class="ph" aria-hidden="true">?</span>
+      <span>
+        <b>Nikolai Antonovich Horvat ?</b>
+        <span class="d">Born 1797</span>
+        <span class="n">From an unsourced family tree; not confirmed.</span>
+      </span>
+    </div>
+
+    <div class="p unknown" id="horvat-m" style="grid-column:4; grid-row:4">
+      <span class="ph" aria-hidden="true">?</span>
+      <span>
+        <b>Olga's mother</b>
+        <span class="n">Not yet known.</span>
+      </span>
+    </div>
+
+    <div class="p v" id="evstafy" style="grid-column:4; grid-row:5">
+      <span class="ph" aria-hidden="true">EN</span>
+      <span>
+        <b>Evstafy Evstafyevich Nirod</b>
+        <span class="t">Count · general of cavalry</span>
+        <span class="n">German name: Gustaf Reinhold Johan von Nieroth. Dates not yet recorded.</span>
+      </span>
+    </div>
+
+    <div class="p o" id="pauline" style="grid-column:4; grid-row:6">
+      <span class="ph" aria-hidden="true">PS</span>
+      <span>
+        <b>Pauline Dorothea Elisabeth von Stenger</b>
+        <span class="n">In Russian records: Paulina Fyodorovna Shtenger. Dates not yet recorded.</span>
+      </span>
+    </div>
+
+    <a class="p r" id="fyodor" style="grid-column:4; grid-row:7" target="_top"
+       href="https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md">
+      <img src="../Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/images/fyodor-trepov.jpg" alt="Fyodor Trepov, senior" loading="lazy">
+      <span>
+        <b>Fyodor Fyodorovich Trepov, senior</b>
+        <span class="t">General · Governor of Saint Petersburg</span>
+        <span class="d">Born 1809 or 1812<br>Died 5 Dec 1889, Kiev</span>
+        <span class="n">1809 is from his service record; Russian Wikipedia gives 1812.</span>
+      </span>
+    </a>
+
+    <div class="p o" id="vera-l" style="grid-column:4; grid-row:8">
+      <span class="ph" aria-hidden="true">VL</span>
+      <span>
+        <b>Vera Vasilyevna Lukashevich</b>
+        <span class="d">Born 1817 or 1821<br>Died 1866</span>
+      </span>
+    </div>
+  </div>
+
+  <!-- Husband and descendants -->
+  <h2>Granny's own family</h2>
+  <p class="h2sub">Her husband, their son, and me.</p>
+  <div class="cols">
+    <div class="col">
+      <div class="ch">Her husband</div>
+      <a class="p o" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md">
+        <img src="../Wiki/Norman-Armour-Sr-1887-1982/norman-armour.jpg" alt="Norman Armour Sr" loading="lazy">
+        <span>
+          <b>Norman Armour Sr</b>
+          <span class="t">The Honorable</span>
+          <span class="d">Born 14 Oct 1887, Brighton, England<br>Died 27 Sept 1982, New York</span>
+        </span>
+      </a>
+    </div>
+    <div class="col">
+      <div class="ch">Their son</div>
+      <a class="p o" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md">
+        <span class="ph" aria-hidden="true">NA</span>
+        <span>
+          <b>Norman Armour Jr</b>
+          <span class="t">My father</span>
+          <span class="d">Born 10 Feb 1920, Brussels<br>Died 26 April 1978, New York</span>
+        </span>
+      </a>
+    </div>
+    <div class="col">
+      <div class="ch">Her grandson</div>
+      <a class="p o" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Norman-Theo-Armour-III-1947-/Norman-Theo-Armour-III-1947-.md">
+        <span class="ph" aria-hidden="true">TA</span>
+        <span>
+          <b>Norman Theo Armour III</b>
+          <span class="t">Me</span>
+          <span class="d">Born 1947</span>
+        </span>
+      </a>
+    </div>
+    <div class="col"></div>
+  </div>
+
+  <!-- Collateral relatives, aligned under the generation they belong to -->
+  <h2>Brothers, uncles and cousins</h2>
+  <p class="h2sub">Relatives on Granny's side who have pages here, each placed under the generation they belong to.</p>
+  <div class="cols">
+    <div class="col">
+      <div class="ch">Granny's generation</div>
+      <a class="p k" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md">
+        <span class="ph" aria-hidden="true">SK</span>
+        <span>
+          <span class="rl">Granny's brother</span>
+          <b>Sergei Sergeyevich Kudashev</b>
+          <span class="t">Prince</span>
+          <span class="d">Born October 1901, Saint Petersburg<br>Died 14 April 1991</span>
+          <span class="n">Sources give 2, 15 or 20 October for his birth, and Gérone, Spain, or France for his death.</span>
+        </span>
+      </a>
+    </div>
+
+    <div class="col">
+      <div class="ch">Her parents' generation</div>
+      <a class="p v" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md">
+        <img src="../Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/images/nirod_fedor_maksimilianovic_001_2__large.jpg" alt="Fyodor Maximilianovich von Nieroth" loading="lazy">
+        <span>
+          <span class="rl">Vera's brother</span>
+          <b>Fyodor Maximilianovich von Nieroth</b>
+          <span class="t">Count · major general</span>
+          <span class="d">Born 2 July 1871, Saint Petersburg<br>Died 1952, France</span>
+          <span class="n">Another source gives 1 August for his birth. He died in Paris or Amblainville.</span>
+        </span>
+      </a>
+      <a class="p k" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/Alexander-Sergeyevich-Kudashev-1872-1917.md">
+        <img src="../Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/images/alexander-kudashev-1895.jpg" alt="Alexander Sergeyevich Kudashev, 1895 or 1896" loading="lazy">
+        <span>
+          <span class="rl">Sergei's first cousin</span>
+          <b>Alexander Sergeyevich Kudashev</b>
+          <span class="t">Prince · engineer and aviation pioneer</span>
+          <span class="d">Born 21 Feb 1872, Saint Petersburg<br>Died 1917 ?</span>
+        </span>
+      </a>
+      <a class="p k" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/Nikolai-Alexandrovich-Kudashev-1868-1925.md">
+        <span class="ph" aria-hidden="true">NK</span>
+        <span>
+          <span class="rl">Sergei's first cousin</span>
+          <b>Nikolai Alexandrovich Kudashev</b>
+          <span class="t">Prince · diplomat, last Imperial envoy to China</span>
+          <span class="d">Born 1868<br>Died 1925, Paris</span>
+          <span class="n">Another source gives 1921 for his death.</span>
+        </span>
+      </a>
+    </div>
+
+    <div class="col">
+      <div class="ch">Her grandparents' generation</div>
+      <a class="p r" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1854-1938/biography_of_general_fyodor_fyodorovich_trepov_1854_1938.md">
+        <img src="../Wiki/Fyodor-Fyodorovich-Trepov-1854-1938/images/fyodor-trepov-junior-1915.jpg" alt="Fyodor Fyodorovich Trepov, junior, 1915" loading="lazy">
+        <span>
+          <span class="rl">Anastasia's brother</span>
+          <b>Fyodor Fyodorovich Trepov, junior</b>
+          <span class="t">General</span>
+          <span class="d">Born 25 May 1854<br>Died 27 March 1938, Nice</span>
+        </span>
+      </a>
+      <a class="p r" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Dmitri%20Feodorovich%20Trepov-1850-1906/biography_of_general_dmitri_fyodorovich_trepov_1855_1906.md">
+        <img src="../Wiki/Dmitri%20Feodorovich%20Trepov-1850-1906/images/dmitri-trepov-1905.jpg" alt="Dmitri Fyodorovich Trepov, 1905" loading="lazy">
+        <span>
+          <span class="rl">Anastasia's brother</span>
+          <b>Dmitri Feodorovich Trepov</b>
+          <span class="t">General</span>
+          <span class="d">Born 14 Dec 1855, Saint Petersburg<br>Died 15 Sept 1906, Saint Petersburg</span>
+          <span class="n">His folder here is labelled 1850; his biography gives 1855.</span>
+        </span>
+      </a>
+      <a class="p r" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/Alexander-Fyodorovich-Trepov-1862-1928.md">
+        <img src="../Wiki/Alexander-Fyodorovich-Trepov-1862-1928/images/alexander-trepov.jpg" alt="Alexander Fyodorovich Trepov" loading="lazy">
+        <span>
+          <span class="rl">Anastasia's brother</span>
+          <b>Alexander Fyodorovich Trepov</b>
+          <span class="t">Prime Minister of the Russian Empire</span>
+          <span class="d">Born 30 Sept 1862, Kiev<br>Died 10 Nov 1928, Nice</span>
+        </span>
+      </a>
+      <a class="p r" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Vladimir%20Fyodorovich%20Trepov-1863-1918/biography_of_vladimir_fyodorovich_trepov_1863_1918.md">
+        <img src="../Wiki/Vladimir%20Fyodorovich%20Trepov-1863-1918/images/1903-ball-vladimir-trepov.jpg" alt="Vladimir Fyodorovich Trepov at the 1903 costume ball" loading="lazy">
+        <span>
+          <span class="rl">Anastasia's brother</span>
+          <b>Vladimir Fyodorovich Trepov</b>
+          <span class="d">Born 18 Jan 1863<br>Died August or September 1918, Kronstadt</span>
+        </span>
+      </a>
+    </div>
+
+    <div class="col">
+      <div class="ch">Her great-grandparents' generation</div>
+      <a class="p k" target="_top"
+         href="https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/Nikolay-Danilovich-Kudashev-1784-1813.md">
+        <img src="../Wiki/Nikolay-Danilovich-Kudashev-1784-1813/images/nikolay-kudashev.jpg" alt="Nikolay Danilovich Kudashev" loading="lazy">
+        <span>
+          <span class="rl">Sergei Danilovich's brother</span>
+          <b>Nikolay Danilovich Kudashev</b>
+          <span class="t">Prince · major general</span>
+          <span class="d">Born 1784<br>Died 9 Nov 1813, near Leipzig</span>
+          <span class="n">Son-in-law of Field Marshal Kutuzov.</span>
+        </span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>Dates and places come from the person pages and biographies in this repository. Where those sources disagree, both versions are shown here rather than choosing one.</p>
+  <p>Theo Armour · chart drawn 2026-11-20</p>
+</footer>
+
+<script>
+( () => {
+  const chart = document.getElementById( 'chart' );
+  const svg = document.getElementById( 'lines' );
+  const path = document.getElementById( 'linePath' );
+  const draw = () => {
+    const base = chart.getBoundingClientRect();
+    svg.setAttribute( 'width', chart.scrollWidth );
+    svg.setAttribute( 'height', chart.scrollHeight );
+    let d = '';
+    chart.querySelectorAll( '[data-parents]' ).forEach( ( child ) => {
+      const c = child.getBoundingClientRect();
+      const x1 = c.right - base.left;
+      const y1 = c.top + c.height / 2 - base.top;
+      child.dataset.parents.split( ' ' ).forEach( ( id ) => {
+        const el = document.getElementById( id );
+        if ( !el ) return;
+        const p = el.getBoundingClientRect();
+        const x2 = p.left - base.left;
+        const y2 = p.top + p.height / 2 - base.top;
+        const mid = Math.round( ( x1 + x2 ) / 2 );
+        d += `M${ x1 },${ y1 }H${ mid }V${ y2 }H${ x2 }`;
+      } );
+    } );
+    path.setAttribute( 'd', d );
+  };
+  draw();
+  window.addEventListener( 'load', draw );
+  if ( 'ResizeObserver' in window ) new ResizeObserver( draw ).observe( chart );
+  else window.addEventListener( 'resize', draw );
+} )();
+</script>
+</body>
+</html>
