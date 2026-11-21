@@ -250,7 +250,10 @@ The two of them were consummate diplomats. Having a meal with them was always en
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 
 
-## Olga Valerianovna Paley ~ Mother of my great-grandfather's second wife
+## Olga Valerianovna Paley ~ Step-great-great-grandmother
+
+<img src="https://theo-armour.github.io/genealogy/Wiki/Olga-Valerianovna-Paley-1865-1929/images/1890s-olga-paley-portrait.jpg" alt="Princess Olga Valerianovna Paley" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Olga-Valerianovna-Paley-1865-1929/images/1904-dagnan-bouveret-olga-paley.jpg" alt="Princess Olga Valerianovna Paley, by Pascal Dagnan-Bouveret" width="300">
 
 📖 [More about Princess Olga Valerianovna Paley in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/biography_of_princess_olga_valerianovna_paley_1865_1929.md)
 
@@ -259,8 +262,6 @@ The two of them were consummate diplomats. Having a meal with them was always en
 Born Olga Karnovich in Saint Petersburg, she first married the Guards officer Erich von Pistohlkors and had four children. In the 1890s she began an affair with Grand Duke Paul Alexandrovich, an uncle of Emperor Nicholas II, and in 1902 married him in Livorno without the Emperor's permission. He was banished from Russia for twelve years, which the couple spent at Boulogne-sur-Seine, outside Paris. They returned in 1914 to the palace they had built at Tsarskoe Selo, and in 1915 she was made Princess Paley. In 1918 the Bolsheviks killed her son, the poet Prince Vladimir Paley, at Alapayevsk, and in January 1919 they shot her husband in the Peter and Paul Fortress. She escaped over the ice to Finland and died in exile in Paris. Her memoir, *Souvenirs de Russie* (1923), tells the story of those years.
 
 She comes into the family through her eldest daughter, Olga Erikovna von Pistohlkors (1888–1963), who married my great-grandfather Sergei Vladimirovich Kudashev in Florence in 1922. Olga appears in the memoir as "Countess Kreutz".
-
-### Personal Recollections
 
 ### Links & References
 

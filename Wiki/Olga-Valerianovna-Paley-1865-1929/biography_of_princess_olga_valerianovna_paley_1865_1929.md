@@ -1,5 +1,9 @@
 # Princess Olga Valerianovna Paley
 
+![Princess Olga Valerianovna Paley](images/1890s-olga-paley-portrait.jpg)
+
+| `1890s-olga-paley-portrait.jpg` | Olga Valerianovna, full-length portrait. Wikimedia Commons dates the photograph to the 1890s; photographer unknown. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:Olga_Valerianovna_Palej.jpg) |
+
 **Princess Olga Valerianovna Paley** (Russian: Ольга Валериановна Палей; née **Karnovich**; by her first marriage **von Pistohlkors**; from 1904 **Countess von Hohenfelsen**; 14 December [O.S. 2 December] 1865 – 2 November 1929) was a Russian aristocrat and memoirist, and the second, morganatic wife of Grand Duke Paul Alexandrovich of Russia, a son of Emperor Alexander II.[2][3] Her marriage to the Grand Duke in 1902 cost him twelve years of banishment from Russia. In 1918 and 1919 the Bolsheviks killed her son, the poet Prince Vladimir Paley, and her husband. She escaped across the ice to Finland and wrote an account of those years, *Souvenirs de Russie* (1923).[6]
 
 She belongs in this family history through her eldest daughter, [Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/biography_of_olga_erikovna_von_pistohlkors_1888_1963.md) (1888–1963), who in 1922 became the second wife of [Prince Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md).[7] The French and English texts of her memoir are [on this site](https://theo-armour.github.io/genealogy/#Kudashev/souvenirs-de-russie/README.md).
@@ -96,6 +100,38 @@ Princess Paley died in Paris on 2 November 1929, aged 63, and is buried in the G
 *Souvenirs de Russie (1916–1919)* was published in Paris by Plon in 1923, with a preface by Paul Bourget of the Académie française and five portraits. She says that she wrote it in June 1922. An English translation, *Memories of Russia, 1916–1919*, was published in London by Herbert Jenkins in 1924, and a Russian translation in Moscow in 2005.[3][6]
 
 The book covers only the years 1916 to 1919. It does not give her maiden name, her birth, her first husband's name or the story of her second marriage. It is a witness's account, written within four years of the events by someone who had lost a husband and a son, and it should be read as that.
+
+## Pictures
+
+All from Wikimedia Commons. The dates and names are those given there and have not been checked.
+
+![Olga Valerianovna von Pistohlkors, 1898](images/1898-alexandrovsky-olga-von-pistohlkors.jpg)
+
+| `1898-alexandrovsky-olga-von-pistohlkors.jpg` | Olga Valerianovna von Pistohlkors, portrait by Stepan Alexandrovsky, 1898. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:Olga_Valerianovna_von_Pistohlkors.jpg) |
+
+![Countess von Hohenfelsen, by Dagnan-Bouveret](images/1904-dagnan-bouveret-olga-paley.jpg)
+
+| `1904-dagnan-bouveret-olga-paley.jpg` | Portrait by Pascal Dagnan-Bouveret, painted between 1902 and 1904, the first years of the exile in France. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:Pascal-Adolphe-Jean_Dagnan-Bouveret_La_Princesa_Olga_Paley_1904.jpg) |
+
+![The family of Princess Paley, about 1911](images/1911~-family-of-princess-paley.jpg)
+
+| `1911~-family-of-princess-paley.jpg` | "The family of Princess Olga Paley", about 1911; photographer unknown. Commons does not name the people. Geni uses the same photograph for the profile of her daughter Olga Erikovna, so the grown-up children of her first marriage are probably among them. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:The_family_of_Princess_Oga_Paley.JPG) |
+
+![Grand Duke Paul and his second family, 1916](images/1916-grand-duke-paul-and-family.jpg)
+
+| `1916-grand-duke-paul-and-family.jpg` | Grand Duke Paul and his second family, 1916: Princess Paley, the Grand Duke, and their children Vladimir, Irina and Natalia. Her memoir lists a portrait of "the Grand Duke Paul and his family in 1916" among its illustrations. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:Grand_Duke_Paul_Alexandrovich_and_his_second_family.jpg) |
+
+![The Paley palace at Tsarskoe Selo](images/1911-1914-paley-palace-tsarskoe-selo.jpg)
+
+| `1911-1914-paley-palace-tsarskoe-selo.jpg` | The Paley palace at Tsarskoe Selo, built 1911–1914, architect Karl Schmidt. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:Schmidt_dvorets_paley.jpg) |
+
+![Princess Paley with her daughters Irina and Natalia, 1920s](images/1920s-olga-paley-with-irina-and-natalia.png)
+
+| `1920s-olga-paley-with-irina-and-natalia.png` | Princess Paley in exile with her daughters Irina and Natalia, 1920s; photographer unknown. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:Princess_Olga_Paley_with_her_daughters_Irina_and_Natlia.png) |
+
+![The tomb of Princess Paley at Colombes](images/2024-tomb-olga-paley-colombes.jpg)
+
+| `2024-tomb-olga-paley-colombes.jpg` | Her tomb in the Gabriel-Péri cemetery at Colombes, division 7. Photograph by Antoine Rex, 2024. CC0. | [Source](https://commons.wikimedia.org/wiki/File:Tombe_d%27Olga_Karnovitch_Paley_(1865%E2%80%931929)_1.jpg) |
 
 ## Names and spellings
 

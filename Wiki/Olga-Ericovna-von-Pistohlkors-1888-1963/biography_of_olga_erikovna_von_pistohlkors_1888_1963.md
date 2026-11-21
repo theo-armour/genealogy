@@ -1,5 +1,9 @@
 # Olga Erikovna von Pistohlkors
 
+![The family of Princess Paley, about 1911](images/1911~-family-of-princess-paley.jpg)
+
+| `1911~-family-of-princess-paley.jpg` | "The family of Princess Olga Paley", about 1911; photographer unknown. Geni uses this photograph for Olga's profile, but neither Geni nor Wikimedia Commons says which figure she is. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:The_family_of_Princess_Oga_Paley.JPG) |
+
 **Olga Erikovna von Pistohlkors** (Russian: Ольга Эриковна Пистолькорс; by her first marriage Countess von Kreutz, by her second Princess Kudasheva; 8 October 1888 – 1963) was a Russian noblewoman of Baltic-German descent. She was a daughter of Major General Erich von Pistohlkors and of Olga Valerianovna Karnovich, who later became [Princess Paley](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/biography_of_princess_olga_valerianovna_paley_1865_1929.md), the morganatic wife of Grand Duke Paul Alexandrovich of Russia.[1][2] In 1922, in Florence, she became the second wife of [Prince Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/biography_of_prince_sergei_vladimirovitch_kudashev_1863_1933.md) (1863–1933).[1][2][3]
 
 Very little is recorded about her own life. The fullest glimpses of her are in her mother's memoir, *Souvenirs de Russie* (1923), where she appears as "Countess Kreutz".[10] This page sets out what the sources say and marks what is not yet confirmed.
