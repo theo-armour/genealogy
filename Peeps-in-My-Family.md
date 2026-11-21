@@ -44,7 +44,7 @@ Given how important he was in the family, I'm so surprised how little I knew abo
 * [Burrage Mansion, Redlands, CA](http://www.burragemansion.org/)
 
 
-## Alexander Trepov ~ Paternal great-great-uncle
+## Alexander Trepov ~ Paternal 3x-great-uncle
 
 <img src="https://theo-armour.github.io/genealogy/Commons/alexander-trepov.jpg" alt="Alexander Trepov" width="300"><br>
 
@@ -142,6 +142,8 @@ One summer we visited his house and met some of the family in Wiscasset, Maine. 
 
 **1809 – 1889** | Russian general and Governor of Saint Petersburg
 
+His birth year is 1809 by his service record; Russian Wikipedia gives 1812.
+
 Fyodor Fyodorovich Trepov began his military career in 1831, helping suppress the November Uprising in Poland, and later commanded a regiment of gendarmes in Kiev. After Dmitry Karakozov's 1866 assassination attempt on Tsar Alexander II, Trepov was appointed chief of Saint Petersburg's police force, where he restored order and reformed the force, rising to adjutant general in 1867. He served as Governor (Lord Mayor) of Saint Petersburg from 1873 to 1878. In 1878 the revolutionary Vera Zasulich shot and wounded him after he ordered the flogging of a political prisoner; Trepov survived the much-publicized attack and retired with the rank of cavalry general. He was the father of Alexander Trepov (also in this list) and the patriarch of a prominent family of imperial officials.
 
 ### Personal Recollections
@@ -216,7 +218,7 @@ Prince Nikolay Danilovich Kudashev came from a Tatar noble family and entered mi
 
 I knew almost nothing about Prince Nikolay except that his portrait hang in our dining room for many years. Many years later, I was surprised to see a near identical portrait hung in the hall of famous commanders in the Hermitage Museum.
 
-I assume that he was one of the reasons why his grandson, Prince Sergei, wrote "History of the War of 1812".
+I assume that he was one of the reasons why another Prince Sergei Kudashev in the family wrote "History of the War of 1812".
 
 ### Links & References
 
@@ -307,14 +309,15 @@ I remember hearing that he was the youngest general in this horse army. And also
 
 For many years, the portrait of her as a young woman was one of the first sights I saw when I got out of bed.
 
-Apart from the incredible family she came from, all I know is that she was a significant donor to a cathedral in Kiev, Ukraine. She died of the Spanish flu in Amblainville, France in 1920, Presumably living in the house with her brother, my Uncle Theo.
+Apart from the incredible family she came from, all I know is that she was a significant donor to a cathedral in Kiev, Ukraine. She died of the Spanish flu in 1920. I had always understood that this was in Amblainville, France, presumably living in the house with her brother, my Uncle Theo. Her records say she died in Paris, on 26 January 1920.
 
 
 ### Links & References
 
 * 📁 [Family wiki: Vera Maximilianovna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
 * Wife of Sergei Vladimirovich Kudashev
-* Daughter of <https://en.wikipedia.org/wiki/Fyodor_Trepov_(junior)>
+* Daughter of Maximilian von Nieroth and Anastasia Trepova
+* Granddaughter of <https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)>
 
 ## Walter Lowrie ~ Paternal great-uncle
 
@@ -328,7 +331,7 @@ An Episcopal priest and scholar of extraordinary depth, Walter Lowrie devoted hi
 
 ### Personal Recollections
 
-Even though he died when I was seven, I had distinct memories of Uncle Walter sitting in his chair that are now on their way to Amsterdam to my daughter's house. He had a Chinese chest full of little toys for me to play with. Auntie B frequently talked about him, and his young lovers remained her friends all through her life and my life.
+Even though he died when I was a boy, I had distinct memories of Uncle Walter sitting in his chair that are now on their way to Amsterdam to my daughter's house. He had a Chinese chest full of little toys for me to play with. Auntie B frequently talked about him, and his young lovers remained her friends all through her life and my life.
 
 And then, of course, he was part of the team that translated Søren Kierkegaard into English.
 

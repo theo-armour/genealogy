@@ -17,7 +17,7 @@ https://commons.wikimedia.org/wiki/File:Trepov.jpg
 * Siblings:  [Anastasia Fyodorovna (also recorded as Anastatisya Fyodorovna)](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md), Yevgeniya Fyodorovna, Yuliya Fyodorovna, Sofya Fyodorovna, Fyodor Fyodorovich Jr., Dmitri Fyodorovich (also recorded as Dmitriy Fyodorovich and Dimitri Feodorovitch), Yelizaveta Fyodorovna and Vladimir Fyodorovich
 * Partner:  Sofya Dmitrievna Trepova (born Казина; also recorded as Sofya Dmitrievna Kazina)
 * Daughters:  Yelena Aleksandrovna and Sofya Aleksandrovna
-* Relation: paternal great-great-uncle
+* Relation: paternal 3x-great-uncle
 
 ## Names and Spellings
 
