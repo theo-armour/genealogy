@@ -31,7 +31,7 @@ Hallum says that David "was one of the gallant defenders of Fort McHenry in the 
 
 In 1815 David's eldest daughter, Mary, married William Crockett, a merchant of Gallatin, Tennessee. According to Hallum the marriage "caused the removal of the family to Gallatin"; the family moved to Sumner County in November 1815, and David "was for some years engaged in banking" there. It was in Tennessee that the family became intimate with General Andrew Jackson.[2]
 
-In 1820 David and his brother-in-law Perry Nowland moved to Florence, Alabama.[2] Hallum says that David was editing the *Florence Gazette* "in the interest of democracy" at the time of a letter from Jackson dated April 1823.[2] Letters from his sons William and John, written from Little Rock in May and June 1829, are addressed to "David Fulton, Esq., Florence, Alabama".[2]
+In 1820 David and his brother-in-law Perry Nowland (printed "Rowland" in the digitised text) moved to Florence, Alabama.[2] Hallum says that David was editing the *Florence Gazette* "in the interest of democracy" at the time of a letter from Jackson dated April 1823.[2] Letters from his sons William and John, written from Little Rock in May and June 1829, are addressed to "David Fulton, Esq., Florence, Alabama".[2]
 
 His wife died in Lauderdale County, Alabama, in the 1820s; the sources disagree about the year (see Open questions).[3][8][10]
 
@@ -39,13 +39,13 @@ His wife died in Lauderdale County, Alabama, in the 1820s; the sources disagree 
 
 William S. Fulton went to Little Rock in May 1829 as Secretary of Arkansas Territory.[2] A Little Rock local-history article says that David followed in 1833, that his daughter Jane Juliet Shall and her children came as well, and that the Fultons and Shalls rented the Hinderliter House in 1834.[3] That building is now part of Historic Arkansas Museum, which the same article says was founded by one of his descendants, Louise Loughborough.[3]
 
-The City of Little Rock's list of mayors shows David Fulton as the fourth mayor of the Town of Little Rock, from January to November 1835. His term ended early because a new charter turned the town into a city and a new election was held in November 1835.[5] His son was appointed governor of the Territory on 9 March 1835, so that for some months the father was mayor of the capital while the son was governor.[2][3]
+The City of Little Rock's list of mayors shows David Fulton as the fourth mayor of the Town of Little Rock, from January to November 1835. His term ended early because a new charter turned the town into a city and a new election was held in November 1835.[5][11] His son was appointed governor of the Territory on 9 March 1835, so that for some months the father was mayor of the capital while the son was governor.[2][3]
 
 The same local-history article says that he was proprietor of the Tan Yard, a tanning business in Little Rock; president of the Anti-Gambling Society; a justice of the peace of Pulaski County; and county judge of Pulaski County from 1836 to 1838.[3] No contemporary record of these has been seen for this biography.
 
 ## Surveyor-general
 
-Hallum says that David Fulton "was surveyor-general of Arkansas by appointment from President Van Buren".[2] The local-history article dates the appointment to 1838.[3] In his letter of 4 January 1841, written after the Whig victory of 1840, David told his son that it was generally expected that "all the Federal officers of any note will certainly be removed on the coming in of the new administration", and went on:
+Hallum says that David Fulton "was surveyor-general of Arkansas by appointment from President Van Buren".[2] The local-history article dates the appointment to 1838.[3] In his letter of 4 January 1841, written as a new administration was about to take office, David told his son that it was generally expected that "all the Federal officers of any note will certainly be removed on the coming in of the new administration", and went on:
 
 > And were it not for the sake of those depending on me for support, I would cheerfully at this moment resign the office of surveyor-general and the responsibility it imposes, but on account of those who look to me, I am somewhat desirous to hold the present office, until the term of appointment expires, which will be two years from the eighth of this month. And it is my first term, so that rotation in office cannot operate against me; nor was any one turned out to make room for me.[2]
 
@@ -62,7 +62,7 @@ No single source lists all his children. Those named in the sources read are:
 * **William Savin Fulton** (1795–1844), who married Matilda Nowland.[2][7]
 * **Mary**, "the eldest daughter", who married William Crockett of Gallatin, Tennessee, in 1815.[2]
 * **Eliza**, who married Dr Elmore Douglass at Gallatin.[2] Find a Grave links to David a daughter Elizabeth Savin "Eliza" Fulton Douglass (1797–1835).[8]
-* **Jane Juliet**, who married first a Mr Shall and second Dr Holt, an army surgeon, and lived in Little Rock.[3][7] Find a Grave gives her dates as 1801–1891.[8]
+* **Jane Juliet**, who married first a Mr Shall and second Dr Holt, surgeon to a government expedition under Captain Bonneville, and lived in Little Rock.[3][7] Find a Grave gives her dates as 1801–1891.[8]
 * **Rebecca**, "the third daughter", who married Alfred Douglass, a cousin of Dr Elmore Douglass.[2] Find a Grave gives Rebecca Louise Fulton Douglass (1806–1882).[8]
 * **Dr John T. Fulton**, who was in Little Rock by June 1829, when he wrote to his father that the place offered little to "a medical man".[2] Fay Hempstead's history (1890) lists him in 1830 as one of the town's five doctors and keeper of its one drugstore, and as postmaster until 1832.[9] The parish history says that he married Caroline Scull and "removed from Little Rock at an early date".[7]
 
