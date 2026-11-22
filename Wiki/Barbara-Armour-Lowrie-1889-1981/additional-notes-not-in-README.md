@@ -1,6 +1,6 @@
 # Additional Notes Not in README — Barbara Armour Lowrie
 
-Extracted on 2026-11-21 from [Barbara-Armour-Lowrie-1889-1981.md](Barbara-Armour-Lowrie-1889-1981.md) by comparison against [README-Barbara-Armour-Lowrie-1889-1981.md](README-Barbara-Armour-Lowrie-1889-1981.md).
+Extracted on 2026-11-21 from `Barbara-Armour-Lowrie-1889-1981.md` by comparison against [README-Barbara-Armour-Lowrie-1889-1981.md](README-Barbara-Armour-Lowrie-1889-1981.md).
 
 ## Alternate Names, Spellings & Locations
 

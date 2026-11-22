@@ -4,7 +4,7 @@
 
 | `george-armour.png` | George Armour (1812–1881). Half-length photographic portrait of an elderly bearded man in a dark coat, seen in left profile, reproduced as a halftone. Wikimedia Commons describes it as a reproduction from *The Second Presbyterian Church of Chicago: June 1st, 1842, to June 1st, 1892* (Chicago, 1892), and dates the photograph to about the 1870s; that book lists a portrait of George Armour among its plates.[2][3] | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:George-armour-photo-second-presbyterian-church-of-chicago.png) |
 
-**George Armour** (24 April 1812 – 13 June 1881) was a Scottish-born Chicago businessman. A tradesman from Campbeltown in Argyll, he came to Illinois in the 1830s, worked as a contractor on canals and railroads, and from the 1850s was a partner in the grain-elevator firms Munger & Armour and Armour, Dole & Co. He was president of the Board of Trade of the City of Chicago for 1875, a trustee of the Merchants' Loan and Trust Company, the first president of the Chicago Academy of Fine Arts (from 1882 the Art Institute of Chicago), and an elder of the Second Presbyterian Church, whose tower was completed in his memory in 1884.[2][3][4][5][6][7] He was not related to the meat packer Philip Danforth Armour.[2] He was the father of [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md) and [Allison Vincent Armour](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/Allison-Vincent-Armour-1863-1941.md), and Theo Armour's paternal great-great-grandfather.[1][14]
+**George Armour** (24 April 1812 – 13 June 1881) was a Scottish-born Chicago businessman. A tradesman from Campbeltown in Argyll, he came to Illinois in the 1830s, worked as a contractor on canals and railroads, and from the 1850s was a partner in the grain-elevator firms Munger & Armour and Armour, Dole & Co. He was president of the Board of Trade of the City of Chicago for 1875, a trustee of the Merchants' Loan and Trust Company, the first president of the Chicago Academy of Fine Arts (from 1882 the Art Institute of Chicago), and an elder of the Second Presbyterian Church, whose tower was completed in his memory in 1884.[2][3][4][5][6][7] He was not related to the meat packer Philip Danforth Armour.[2] He was the father of [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) and [Allison Vincent Armour](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md), and Theo Armour's paternal great-great-grandfather.[1][14]
 
 | **George Armour** | |
 | :--- | :--- |
@@ -12,7 +12,7 @@
 | **Died** | 13 June 1881 (aged 69; see Open questions)<br>Brighton, England |
 | **Occupation** | Wheelwright; canal and railroad contractor; grain-elevator proprietor |
 | **Spouse** | Barbara Allison (married 28 or 29 August 1850; see Open questions) |
-| **Children** | John William (1851–1865)<br>[George Allison](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md) (1856–1936)<br>William (1858–1888)<br>[Allison Vincent](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/Allison-Vincent-Armour-1863-1941.md) (1863–1941)<br>Mary Greenlee, Mrs Francis Meredyth Whitehouse (1868–1958) |
+| **Children** | John William (1851–1865)<br>[George Allison](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>William (1858–1888)<br>[Allison Vincent](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md) (1863–1941)<br>Mary Greenlee, Mrs Francis Meredyth Whitehouse (1868–1958) |
 | **Parents** | Archibald Armour (1782–1828) and Ann Greenlees (1785–1859), according to the family trees (see Open questions) |
 
 ## Family and early life
@@ -65,7 +65,7 @@ The same article, citing the 1881 *Tribune* obituary, says that the only politic
 
 He married Barbara Allison in Illinois in August 1850.[11][12] She was born in Scotland in May 1826; the Yale obituary of their son Allison calls her the "daughter of William Allison of Millbank, Scotland, and Chicago".[10][11][12]
 
-Five children are named in the family trees: John William (born October 1851; died 13 May 1865); George Allison (27 March 1856 – 8 June 1936); William (27 December 1858 – 21 May 1888); Allison Vincent (18 March 1863 – 6 March 1941); and Mary Greenlee (16 March 1868 – 16 May 1958), who married the Chicago architect [Francis Meredyth Whitehouse](https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/Francis-Meredyth-Whitehouse-1848-1938.md).[10][11][12] The Wikipedia article says that G. P. A. Healy painted a portrait of John William, and that Lawrence Alma-Tadema painted Barbara in London in 1865.[2]
+Five children are named in the family trees: John William (born October 1851; died 13 May 1865); George Allison (27 March 1856 – 8 June 1936); William (27 December 1858 – 21 May 1888); Allison Vincent (18 March 1863 – 6 March 1941); and Mary Greenlee (16 March 1868 – 16 May 1958), who married the Chicago architect [Francis Meredyth Whitehouse](https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md).[10][11][12] The Wikipedia article says that G. P. A. Healy painted a portrait of John William, and that Lawrence Alma-Tadema painted Barbara in London in 1865.[2]
 
 ## Death and memorial
 
@@ -117,7 +117,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "George Armour (1812 – 1881)". Profile page in this repository. [George-Armour-1812-1881.md](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/George-Armour-1812-1881.md); Geni: <https://www.geni.com/people/George-Armour/364407867780007569>
+1. "George Armour (1812 – 1881)". Profile page in this repository. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/additional-notes-not-in-README.md) (extracted from `George-Armour-1812-1881.md`); Geni: <https://www.geni.com/people/George-Armour/364407867780007569>
 2. "George Armour". *Wikipedia*, read 21 November 2026. <https://en.wikipedia.org/wiki/George_Armour>. Portrait file description: <https://commons.wikimedia.org/wiki/File:George-armour-photo-second-presbyterian-church-of-chicago.png>
 3. *The Second Presbyterian Church of Chicago: June 1st, 1842, to June 1st, 1892*. Chicago, 1892. List of portraits; lists of elders and trustees; "Church Buildings", pp. 46–47 (tower and memorial tablets); narrative of the Session; roll of members. Read in the digitised text. <https://archive.org/details/secondpresbyter00illgoog>
 4. Harvey, Daniel G. *The Argyle Settlement in History and Story*. 1924. pp. 12–16. <https://archive.org/details/argylesettlement00harv>

@@ -34,6 +34,6 @@ Extracted on 2026-11-21 from `Albert-Cameron-Burrage-Sr-1859-1931.md` by compari
 * [American Orchid Society](https://www.americanorchidsociety.org/) — American Orchid Society (founded by Burrage) *(README links only `https://www.aos.org/about-us/the-aos-history`)*.
 * [Burrage Mansion, Redlands, CA](http://www.burragemansion.org/)
 * Relative profile links in Genealogy section:
-  * [George Sanderson Burrage](../George-Sanderson-Burrage-1823-1876/George-Sanderson-Burrage-1823-1876.md)
-  * [Alice Hathaway Haskell](../Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md)
-  * [Albert Cameron](../Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md)
+  * [George Sanderson Burrage](../George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md)
+  * [Alice Hathaway Haskell](../Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md)
+  * [Albert Cameron](../Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md)

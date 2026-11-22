@@ -1,6 +1,6 @@
 # Additional Notes Not in README — Maximilian Carl Benedict von Nieroth
 
-Extracted on 2026-11-21 from [Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md](Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) by comparison against [README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md](README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md).
+Extracted on 2026-11-21 from `Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md` by comparison against [README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md](README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md).
 
 ## Additional Biographical & Family Details
 
@@ -33,9 +33,9 @@ Extracted on 2026-11-21 from [Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md]
 ## Additional Links & Images
 
 * **Relative wiki links to individual profile files (README links instead to `README-*.md` pages on GitHub Pages):**
-  * [Anastasia Fyodorovna Trepova](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md)
-  * [Fyodor Maximilianovich von Nieroth](../Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
-  * [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
+  * [Anastasia Fyodorovna Trepova](../Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md)
+  * [Fyodor Maximilianovich von Nieroth](../Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
+  * [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
 
 ## Research Notes, Drafts & Correspondence
 

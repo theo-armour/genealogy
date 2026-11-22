@@ -4,22 +4,22 @@
 
 | `norman-armour.jpg` | Norman Armour (1887–1982). Head-and-shoulders studio photograph in a dark suit and patterned tie. The print is not dated. | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norman_Armour.jpg), as recorded on the profile page[1] |
 
-**Norman Armour** (14 October 1887 – 27 September 1982) was an American career diplomat. He entered the diplomatic service in 1916, served at the American Embassy in Russia through the revolutions of 1917 and 1918, and was later Minister to Haiti and Canada, Ambassador to Chile, Argentina, Spain, Venezuela and Guatemala, and Assistant Secretary of State for Political Affairs.[2][3][4] In 1919 he married Princess Myra Koudacheff ([Maria Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md)).[4][7] He was Theo Armour's paternal grandfather.[1][13]
+**Norman Armour** (14 October 1887 – 27 September 1982) was an American career diplomat. He entered the diplomatic service in 1916, served at the American Embassy in Russia through the revolutions of 1917 and 1918, and was later Minister to Haiti and Canada, Ambassador to Chile, Argentina, Spain, Venezuela and Guatemala, and Assistant Secretary of State for Political Affairs.[2][3][4] In 1919 he married Princess Myra Koudacheff ([Maria Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md)).[4][7] He was Theo Armour's paternal grandfather.[1][13]
 
 | **Norman Armour Sr** | |
 | :--- | :--- |
 | **Born** | 14 October 1887<br>Brighton, England (see Open questions for the day) |
 | **Died** | 27 September 1982 (aged 94)<br>New York, New York |
 | **Occupation** | Diplomat (United States Foreign Service) |
-| **Spouse** | [Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) (married 2 February 1919) |
-| **Children** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md) (1920–1978) |
-| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md) (1856–1936)<br>Harriette Cobb Foote (1859–1924) |
+| **Spouse** | [Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md) (married 2 February 1919) |
+| **Children** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) (1920–1978) |
+| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>Harriette Cobb Foote (1859–1924) |
 
 ## Family and early life
 
-Norman Armour was born at Brighton, England, on 14 October 1887, "of American parents" in the words of the State Department's *Register*.[2][4] His parents were George Allison Armour of Chicago and Harriette Cobb Foote.[1][9][10] His paternal grandfather was the Scottish-born Chicago grain merchant [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/George-Armour-1812-1881.md).[13]
+Norman Armour was born at Brighton, England, on 14 October 1887, "of American parents" in the words of the State Department's *Register*.[2][4] His parents were George Allison Armour of Chicago and Harriette Cobb Foote.[1][9][10] His paternal grandfather was the Scottish-born Chicago grain merchant [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md).[13]
 
-In 1895 his father bought the John P. Stockton house at 83 Stockton Street, Princeton, New Jersey, which *A Princeton Companion* calls "the childhood home of Barbara Armour and her four brothers".[11] His sister was [Barbara Armour Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md), who married the clergyman and Kierkegaard translator [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/Walter-Lowrie-1868-1959.md).[1][11] Find a Grave links him to three brothers: William (1892–1958), Allison (1896–1955) and Edmund (1899–1912).[9] The profile page gives a longer list of siblings (see Open questions).[1]
+In 1895 his father bought the John P. Stockton house at 83 Stockton Street, Princeton, New Jersey, which *A Princeton Companion* calls "the childhood home of Barbara Armour and her four brothers".[11] His sister was [Barbara Armour Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md), who married the clergyman and Kierkegaard translator [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md).[1][11] Find a Grave links him to three brothers: William (1892–1958), Allison (1896–1955) and Edmund (1899–1912).[9] The profile page gives a longer list of siblings (see Open questions).[1]
 
 Wikipedia says he attended St. Paul's School.[8] Princeton's finding aid for his papers says he took his B.A. at Princeton in 1909, graduated from Harvard Law School in 1913, and returned to Princeton for an M.A. in 1915.[4] The State Department *Register* for 1918, as transcribed in the research report in this folder, adds that he was employed in a law office in Newark in 1913–14 and was admitted to the New Jersey bar in 1914; its dates for his degrees differ (see Open questions).[2]
 
@@ -132,7 +132,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Norman Armour Sr (1887–1982)". Profile page in this repository, with data from Geni and family recollections. [Norman-Armour-Sr-1887-1982.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md). A second copy with the same text is at `Armour/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md`.
+1. "Norman Armour Sr (1887–1982)". Profile page in this repository, with data from Geni and family recollections. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/additional-notes-not-in-README.md) (extracted from `Norman-Armour-Sr-1887-1982.md`). A second copy with the same text is at `Armour/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md`.
 2. Armour, Theo. "Norman Armour Sr. in Russia, 1916–1918 — First Research Pass". Compiled 27 July 2026. [norman-armour-petrograd-research-2026-07-27-18-24.pdf](norman-armour-petrograd-research-2026-07-27-18-24.pdf). Transcribes the entry for Armour in the *Register of the Department of State*, corrected to 23 December 1918, p. 81, and summarises the 1922 *Register*; neither *Register* has been seen directly for this biography.
 3. "Norman Armour (1887–1982)". Office of the Historian, United States Department of State. <https://history.state.gov/departmenthistory/people/armour-norman>
 4. *Norman Armour Papers, 1913–1983* (MC028). Public Policy Papers, Seeley G. Mudd Manuscript Library, Princeton University Library. Finding aid by Laura E. Burt, 1994: biographical note, scope and contents, and source of acquisition. <https://findingaids.princeton.edu/catalog/MC028>

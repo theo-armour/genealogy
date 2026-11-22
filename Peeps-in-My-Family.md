@@ -24,7 +24,7 @@ As in Wikipedia, names are in given name family name are listed in alphabetical 
 
 <img src="https://theo-armour.github.io/genealogy/Commons/albert-burrage.jpg" alt="Albert Burrage" width="300"><br>
 
-📖 [More about Albert Cameron Burrage in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md)
+📖 [More about Albert Cameron Burrage in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md)
 
 **1859 – 1931** | Industrialist, attorney, philanthropist, and orchid enthusiast
 
@@ -37,7 +37,7 @@ Given how important he was in the family, I'm so surprised how little I knew abo
 
 ### Links & References
 
-* 📁 [Family wiki: Albert Cameron Burrage](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md)
+* 📁 [Family wiki: Albert Cameron Burrage](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md)
 * <https://en.wikipedia.org/wiki/Albert_Burrage>
 * <https://en.wikipedia.org/wiki/Chuquicamata>
 * <https://www.americanorchidsociety.org/> — American Orchid Society (founded by Burrage)
@@ -48,7 +48,7 @@ Given how important he was in the family, I'm so surprised how little I knew abo
 
 <img src="https://theo-armour.github.io/genealogy/Commons/alexander-trepov.jpg" alt="Alexander Trepov" width="300"><br>
 
-📖 [More about Alexander Trepov in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/Alexander-Fyodorovich-Trepov-1862-1928.md)
+📖 [More about Alexander Trepov in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/README-Alexander-Fyodorovich-Trepov-1862-1928.md)
 
 **1862 – 1928** | Prime Minister of the Russian Empire
 
@@ -61,7 +61,7 @@ My great-grandmother Princess Vera's uncle was one of the last Prime Ministers o
 
 
 ### Links & References
-* 📁 [Family wiki: Alexander Trepov](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/Alexander-Fyodorovich-Trepov-1862-1928.md)
+* 📁 [Family wiki: Alexander Trepov](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/README-Alexander-Fyodorovich-Trepov-1862-1928.md)
 * <https://en.wikipedia.org/wiki/Alexander_Trepov>
 * <https://en.wikipedia.org/wiki/Kirov_Railway>
 * Son of https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)
@@ -71,7 +71,7 @@ My great-grandmother Princess Vera's uncle was one of the last Prime Ministers o
 
 <img src="https://theo-armour.github.io/genealogy/Commons/allison-armour.jpg" alt="Allison Armour" width="300">
 
-📖 [More about Allison Vincent Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/Allison-Vincent-Armour-1863-1941.md)
+📖 [More about Allison Vincent Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md)
 
 **1863 – 1941** | Scientific explorer and Olympic leader
 
@@ -83,7 +83,7 @@ Great Uncle Allison was a far more dashing figure than my great-grandfather, Geo
 
 ### Links & References
 
-* 📁 [Family wiki: Allison Vincent Armour](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/Allison-Vincent-Armour-1863-1941.md)
+* 📁 [Family wiki: Allison Vincent Armour](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md)
 * [Yale University Obituary Record](http://mssa.library.yale.edu/obituary_record/1925_1952/1940-41.pdf) (Page 23)
 
 
@@ -94,7 +94,7 @@ Great Uncle Allison was a far more dashing figure than my great-grandfather, Geo
 <img src="https://theo-armour.github.io/genealogy/Commons/anne-burrage.jpg" alt="Anne Burrage" width="300">
 <img src="https://theo-armour.github.io/genealogy/Commons/1930~-unknown-anne-bell-burrage-in-diving-suit.jpg" alt="Anne Burrage" width="300">
 
-📖 [More about Anne Bell Burrage in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md)
+📖 [More about Anne Bell Burrage in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
 
 **1890 – 1983** | Founder of The Herb Society of America
 
@@ -107,7 +107,7 @@ My grandma used creativity, design, joie de vivre, enthusiasm, imagination, gett
 
 
 ### Links & References
-* 📁 [Family wiki: Anne Bell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md)
+* 📁 [Family wiki: Anne Bell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
 * <https://www.herbsociety.org/about/history.html> — Official Herb Society history
 * <https://www.herbsociety.org/> — The Herb Society of America
 
@@ -116,7 +116,7 @@ My grandma used creativity, design, joie de vivre, enthusiasm, imagination, gett
 
 <img src="https://theo-armour.github.io/genealogy/Commons/erastus-foote.jpg" alt="Erastus Foote" width="300">
 
-📖 [More about Erastus Foote in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/Erastus-Foote-1777-1856.md)
+📖 [More about Erastus Foote in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md)
 
 **1777 – 1856** | American lawyer and first Attorney General of Maine
 
@@ -127,7 +127,7 @@ Born September 19, 1777, in Waterbury, Connecticut, Erastus Foote was admitted t
 One summer we visited his house and met some of the family in Wiscasset, Maine. For a number of years, I was in a relationship with one of his descendants living in Walnut Creek, CA.
 
 ### Links & References
-* 📁 [Family wiki: Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/Erastus-Foote-1777-1856.md)
+* 📁 [Family wiki: Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md)
 * <https://en.wikipedia.org/wiki/Erastus_Foote>
 * [Maine's First Leaders](https://digitalmaine.com/arc_200_exhibit_first_leaders/1/)
 * [Find a Grave memorial](https://www.findagrave.com/memorial/36411786/erastus-foote)
@@ -138,7 +138,7 @@ One summer we visited his house and met some of the family in Wiscasset, Maine. 
 
 <img src="https://theo-armour.github.io/genealogy/Commons/fyodor-trepov.jpg" alt="Fyodor Trepov" width="300">
 
-📖 [More about Fyodor Trepov (senior) in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
+📖 [More about Fyodor Trepov (senior) in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md)
 
 **1809 – 1889** | Russian general and Governor of Saint Petersburg
 
@@ -152,7 +152,7 @@ Granny told me that when the family first moved to Poland, They staked out a pla
 
 
 ### Links & References
-* 📁 [Family wiki: Fyodor Trepov (senior)](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
+* 📁 [Family wiki: Fyodor Trepov (senior)](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md)
 * <https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)>
 
 
@@ -160,7 +160,7 @@ Granny told me that when the family first moved to Poland, They staked out a pla
 
 <img src="https://theo-armour.github.io/genealogy/Commons/george-armour.png" alt="George Armour" width="300">
 
-📖 [More about George Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/George-Armour-1812-1881.md)
+📖 [More about George Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md)
 
 **1812 – 1881** | Scottish American grain pioneer and art patron
 
@@ -172,7 +172,7 @@ Here is one of the more amazing people in American history: True rags-to-riches 
 
 ### Links & References
 
-* 📁 [Family wiki: George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/George-Armour-1812-1881.md)
+* 📁 [Family wiki: George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md)
 * <https://en.wikipedia.org/wiki/George_Armour>
 * <https://www.artic.edu/> — Art Institute of Chicago (founded with Armour as first president)
 * <https://www.ymcachicago.org/> — YMCA of Metro Chicago
@@ -183,7 +183,7 @@ Here is one of the more amazing people in American history: True rags-to-riches 
 <img src="https://theo-armour.github.io/genealogy/Commons/james-shirk.png" alt="James Whitehill Shirk" width="300">
 <img src="https://theo-armour.github.io/genealogy/Commons/uss-shirk.jpg" alt="James Whitehill Shirk" width="300">
 
-📖 [More about James Whitehill Shirk in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/James-Whitehill-Shirk-1832-1873.md)
+📖 [More about James Whitehill Shirk in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md)
 
 **1832 – 1873** | Union Navy commander in the American Civil War
 
@@ -199,7 +199,7 @@ How this upstart officer became involved with a Southern Belle remains a mystery
 
 ### Links & References
 
-* 📁 [Family wiki: James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/James-Whitehill-Shirk-1832-1873.md)
+* 📁 [Family wiki: James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md)
 * <https://en.wikipedia.org/wiki/USS_Shirk> — Namesake biography
 * [Dictionary of American Naval Fighting Ships](https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/s/shirk.html)
 
@@ -208,7 +208,7 @@ How this upstart officer became involved with a Southern Belle remains a mystery
 
 <img src="https://theo-armour.github.io/genealogy/Commons/nikolay-kudashev.jpg" alt="Nikolay Danilovich Kudashev" width="300">
 
-📖 [More about Nikolay Danilovich Kudashev in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/Nikolay-Danilovich-Kudashev-1784-1813.md)
+📖 [More about Nikolay Danilovich Kudashev in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/README-Nikolay-Danilovich-Kudashev-1784-1813.md)
 
 **1784 – 1813** | Russian Major General of the Napoleonic Wars
 
@@ -222,7 +222,7 @@ I assume that he was one of the reasons why another Prince Sergei Kudashev in th
 
 ### Links & References
 
-* 📁 [Family wiki: Nikolay Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/Nikolay-Danilovich-Kudashev-1784-1813.md)
+* 📁 [Family wiki: Nikolay Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/README-Nikolay-Danilovich-Kudashev-1784-1813.md)
 * <https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87> — Russian Wikipedia
 * [Military Gallery of the Winter Palace portrait](http://www.museum.ru/1812/persons/vgzd/vg_k49.html)
 
@@ -230,7 +230,7 @@ I assume that he was one of the reasons why another Prince Sergei Kudashev in th
 
 <img src="https://theo-armour.github.io/genealogy/Commons/norman-armour.jpg" alt="Norman Armour" width="300">
 
-📖 [More about Norman Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md)
+📖 [More about Norman Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md)
 
 **1887 – 1982** | Career diplomat and Assistant Secretary of State
 
@@ -245,7 +245,7 @@ The two of them were consummate diplomats. Having a meal with them was always en
 
 ### Links & References
 
-* 📁 [Family wiki: Norman Armour](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md)
+* 📁 [Family wiki: Norman Armour](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md)
 * <https://en.wikipedia.org/wiki/Norman_Armour>
 * [Norman Armour Papers](http://arks.princeton.edu/ark:/88435/n870zq81v) — Seeley G. Mudd Manuscript Library, Princeton University
 
@@ -275,7 +275,7 @@ She comes into the family through her eldest daughter, Olga Erikovna von Pistohl
 
 <img src="https://theo-armour.github.io/genealogy/Commons/1903-ball-sergei-kudashev.jpeg" alt="Sergei Vladimirovich Kudashev at the 1903 Romanov costume ball" width="300">
 
-📖 [More about Sergei Vladimirovich Kudashev in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md)
+📖 [More about Sergei Vladimirovich Kudashev in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md)
 
 ### Personal Recollections
 
@@ -283,7 +283,7 @@ Until my new friend Eric Van der Graaf came along, I knew almost nothing about P
 
 ### Links & References
 
-* 📁 [Family wiki: Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md)
+* 📁 [Family wiki: Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md)
 * https://www.wikidata.org/wiki/Q108332252
 * https://www.christies.com/en/lot/lot-3990190#:~:text=VARIOUS%20PROPERTIES,Serge%20Wladimirowitch%20Koudacheff%20a%20St.
 * https://www.prlib.ru/en/news/1328412
@@ -298,7 +298,7 @@ Until my new friend Eric Van der Graaf came along, I knew almost nothing about P
 
 <img src="https://theo-armour.github.io/genealogy/Commons/nirod_fedor_maksimilianovic_001_2__large.jpg" alt="Theodor von Nieroth" width="300">
 
-📖 [More about Theodor von Nieroth in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
+📖 [More about Theodor von Nieroth in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
 
 **1871 – 1952** | Major General in the Imperial Russian Army
 
@@ -311,7 +311,7 @@ Theo Armour says: My nickname comes from my uncle Theo. I remember visiting his 
 I remember hearing that he was the youngest general in this horse army. And also, he went out on a three-day hunt on one of his properties. On the hunt, he discovered a village that was not on any map, so the first thing he did was send out the tax collector.
 
 ### Links & References
-* 📁 [Family wiki: Theodor von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
+* 📁 [Family wiki: Theodor von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
 * <https://et.wikipedia.org/wiki/Theodor_von_Nieroth_(1871%E2%80%931952)> — Estonian Wikipedia
 * <https://www.ra.ee/apps/georgi/html/mitte-eestlaste_elulood.html>
 
@@ -323,7 +323,7 @@ I remember hearing that he was the youngest general in this horse army. And also
 <img src="https://theo-armour.github.io/genealogy/Commons/1900~-unknown-vera-von-neiroth-in-court-dress.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
 <img src="https://theo-armour.github.io/genealogy/Commons/1900~-unknown-vera-von-neiroth.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
 
-📖 [More about Vera Maximilianovna Kudasheva in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
+📖 [More about Vera Maximilianovna Kudasheva in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
 
 
 ### Personal
@@ -335,7 +335,7 @@ Apart from the incredible family she came from, all I know is that she was a sig
 
 ### Links & References
 
-* 📁 [Family wiki: Vera Maximilianovna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
+* 📁 [Family wiki: Vera Maximilianovna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
 * Wife of Sergei Vladimirovich Kudashev
 * Daughter of Maximilian von Nieroth and Anastasia Trepova
 * Granddaughter of <https://en.wikipedia.org/wiki/Fyodor_Trepov_(senior)>
@@ -344,7 +344,7 @@ Apart from the incredible family she came from, all I know is that she was a sig
 
 <img src="https://theo-armour.github.io/genealogy/Commons/walter-lowrie.jpg" alt="Walter Lowrie" width="300">
 
-📖 [More about Walter Lowrie in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/Walter-Lowrie-1868-1959.md)
+📖 [More about Walter Lowrie in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md)
 
 **1868 – 1959** | Kierkegaardian theologian and prolific translator
 
@@ -358,7 +358,7 @@ And then, of course, he was part of the team that translated Søren Kierkegaard 
 
 
 ### Links & References
-* 📁 [Family wiki: Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/Walter-Lowrie-1868-1959.md)
+* 📁 [Family wiki: Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md)
 * <https://en.wikipedia.org/wiki/Walter_Lowrie_(author)>
 * <https://www.goodreads.com/author/list/264525.Walter_Lowrie> — Complete bibliography of published works
 * [Walter Lowrie House, Princeton](https://etcweb.princeton.edu/CampusWWW/Companion/lowrie_house.html) — Now part of Princeton University
@@ -369,7 +369,7 @@ And then, of course, he was part of the team that translated Søren Kierkegaard 
 
 <img src="https://theo-armour.github.io/genealogy/Commons/william-fulton.jpg" alt="William S. Fulton" width="300">
 
-📖 [More about William Savin Fulton in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/William-S-Fulton-1795-1844.md)
+📖 [More about William Savin Fulton in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md)
 
 **1795 – 1844** | Governor of Arkansas Territory and US Senator
 
@@ -383,7 +383,7 @@ I believe, looking at his profile on this image, that my cousin has a shadow pro
 
 
 ### Links & References
-* 📁 [Family wiki: William Savin Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/William-S-Fulton-1795-1844.md)
+* 📁 [Family wiki: William Savin Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md)
 * <https://en.wikipedia.org/wiki/William_S._Fulton>
 * [Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/william-savin-fulton-2653/)
 * [Biographical Directory of the U.S. Congress](https://bioguide.congress.gov/search/bio/F000425)

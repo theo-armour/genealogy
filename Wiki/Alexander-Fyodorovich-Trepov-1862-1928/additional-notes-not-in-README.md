@@ -13,7 +13,7 @@ Extracted on 2026-11-21 from `Alexander-Fyodorovich-Trepov-1862-1928.md` by comp
   * Dmitri Fyodorovich (also recorded as Dmitriy Fyodorovich and Dimitri Feodorovitch)
   * Yelizaveta Fyodorovna
   * Vladimir Fyodorovich
-  * [Anastasia Fyodorovna (also recorded as Anastatisya Fyodorovna)](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md) *(README mentions Anastasia without patronymic, alternate spelling, or profile link)*
+  * [Anastasia Fyodorovna (also recorded as Anastatisya Fyodorovna)](../Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md) *(README mentions Anastasia without patronymic, alternate spelling, or profile link)*
 * **Daughters' patronymics:** Yelena Aleksandrovna and Sofya Aleksandrovna (README gives only `Sofia, Yelena`).
 * **Relation label:** `paternal 3x-great-uncle` (README describes him as "a brother of Theo Armour's great-great-grandmother Anastasia").
 * **White Army support:** Explicitly states that after the October Revolution he "supported the White Army" in France (README describes his monarchist activity in Finland and France without mentioning the White Army).
@@ -46,5 +46,5 @@ Extracted on 2026-11-21 from `Alexander-Fyodorovich-Trepov-1862-1928.md` by comp
   * [Everything Explained Today — Alexander Trepov](https://everything.explained.today/Alexander_Trepov/)
   * [Wikimedia Commons search for "trepov"](https://commons.wikimedia.org/w/index.php?search=trepov&title=Special%3AMediaSearch&type=image)
 * Relative profile links in Genealogy section:
-  * [Fyodor Fyodorovich Trepov Sr.](../Fyodor-Fyodorovich-Trepov-1809-1889/Fyodor-Fyodorovich-Trepov-1809-1889.md)
-  * [Anastasia Fyodorovna (also recorded as Anastatisya Fyodorovna)](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md)
+  * [Fyodor Fyodorovich Trepov Sr.](../Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md)
+  * [Anastasia Fyodorovna (also recorded as Anastatisya Fyodorovna)](../Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md)

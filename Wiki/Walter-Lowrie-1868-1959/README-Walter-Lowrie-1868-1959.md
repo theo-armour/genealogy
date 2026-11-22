@@ -4,14 +4,14 @@
 
 | `Walter_Lowrie_AC058_Box_MP35.webp` | Walter Lowrie in old age, seated in clerical dress on a brick terrace, with two standing clergymen and a table of books. The date and the other two men are not identified. | Source not recorded. The file name suggests the Princeton University Archives (AC058, box MP35); this has not been checked. |
 
-**Walter Lowrie** (26 April 1868 – 12 August 1959) was an American Episcopal clergyman, author and translator. He was rector of St. Paul's American Church in Rome from 1907 to 1930, and after retiring to Princeton, New Jersey, he taught himself Danish and translated the works of Søren Kierkegaard into English, and wrote two biographies of him.[1][2][3] He was the husband of [Barbara Armour Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md), the sister of Theo Armour's paternal grandfather, and so Theo Armour's great-uncle by marriage.[1][6][7]
+**Walter Lowrie** (26 April 1868 – 12 August 1959) was an American Episcopal clergyman, author and translator. He was rector of St. Paul's American Church in Rome from 1907 to 1930, and after retiring to Princeton, New Jersey, he taught himself Danish and translated the works of Søren Kierkegaard into English, and wrote two biographies of him.[1][2][3] He was the husband of [Barbara Armour Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md), the sister of Theo Armour's paternal grandfather, and so Theo Armour's great-uncle by marriage.[1][6][7]
 
 | **Walter Lowrie** | |
 | :--- | :--- |
 | **Born** | 26 April 1868<br>Philadelphia, Pennsylvania |
 | **Died** | 12 August 1959 (aged 91)<br>Princeton Hospital, Princeton, New Jersey |
 | **Occupation** | Episcopal clergyman; author and translator |
-| **Spouse** | [Barbara Armour](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md) (married 19 February 1918) |
+| **Spouse** | [Barbara Armour](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (married 19 February 1918) |
 | **Children** | None |
 | **Parents** | Rev. Samuel Thompson Lowrie<br>Elizabeth Albertine Dickson |
 
@@ -31,7 +31,7 @@ In 1898 he moved to the Philadelphia City Mission. He was again at the American 
 
 From 1907 to 1930 Lowrie was rector of St. Paul's American Church in Rome (St. Paul's-within-the-Walls). He twice spent a year in America as an exchange pastor: at Christ Church, Cincinnati, in 1912–1913 and at Calvary Church, New York, in 1922–1923.[1][2][6] His papers include a "Report to the Red Cross on the Journey to the Italian Front, Summer 1917".[1] The cover of Donald Hardie Fox's biography of him lists a "Gold Medal from the King of Italy, 1917" among his honours.[8]
 
-On 19 February 1918 he married Barbara Armour at Trinity Church, Princeton. She was the daughter of [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md) of Princeton and the sister of the diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md). They had no children.[1][4][6][7]
+On 19 February 1918 he married Barbara Armour at Trinity Church, Princeton. She was the daughter of [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) of Princeton and the sister of the diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md). They had no children.[1][4][6][7]
 
 In March 1929 he preached his first sermons on Kierkegaard, and in May 1930 he gave the last sermon of his ministry in Rome. The finding aid quotes him:[1]
 
@@ -108,7 +108,7 @@ Points that family knowledge or family papers may settle.
 4. Family-tree exports in this repository, records for Walter Lowrie and Barbara Armour: Geni (`Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged`) and a FamilySearch-derived tree that cites the New Jersey marriage index for 1915–1919 (not seen) (`Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`).
 5. Find a Grave, memorial 108027153, "Walter Lowrie", Princeton Cemetery, Princeton, Mercer County, New Jersey. <https://www.findagrave.com/memorial/108027153/walter-lowrie>
 6. Leitch, Alexander. "Lowrie, Walter, House". *A Princeton Companion*. Princeton University Press, 1978, p. 292 ff. Online text: <https://pr.princeton.edu/history/companion/lowrie_house.html>; also reproduced at <https://www.princetonianamuseum.org/artifact/77c68fae-369d-46c4-9d63-96b21361ffaf>
-7. "Walter Lowrie ~ Paternal great-uncle". Profile page in this repository. [Walter-Lowrie-1868-1959.md](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/Walter-Lowrie-1868-1959.md). The same text appears in `Peeps-in-My-Family.md`. For the Armour family see also `Armour/README-Armour.md`.
+7. "Walter Lowrie ~ Paternal great-uncle". Profile page in this repository. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/additional-notes-not-in-README.md) (extracted from `Walter-Lowrie-1868-1959.md`). The same text appears in `Peeps-in-My-Family.md`. For the Armour family see also `Armour/README-Armour.md`.
 8. Fox, Donald Hardie. *The Long Life of Walter Lowrie*. Front cover only, in the image [images/walter-lowrie.jpg](images/walter-lowrie.jpg). The book has not been seen. Princeton's finding aid describes it as a thesis for Princeton Theological Seminary, May 1985.[1]
 9. "Reference: Lowrie House". Princetoniana Museum. <https://www.princetonianamuseum.org/reference/7c12f747-767c-406a-a30f-80b76184c3a0>
 

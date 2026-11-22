@@ -73,9 +73,9 @@ In 1897 or 1898, in St. Petersburg, he married **Princess Darya Mikhailovna Cant
 
 1. "Нирод, Фёдор Максимилианович". *Wikipedia* (Russian). <https://ru.wikipedia.org/wiki/Нирод,_Фёдор_Максимилианович>
 2. "Theodor von Nieroth (1871–1952)". *Wikipedia* (Estonian), as translated on the profile page [3]. <https://et.wikipedia.org/wiki/Theodor_von_Nieroth_(1871%E2%80%931952)>
-3. "Fyodor Maximilianovich von Nieroth (1871–1952)" (profile page, with the Geni record and Theo Armour's notes). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md>
+3. "Fyodor Maximilianovich von Nieroth (1871–1952)" (profile page, with the Geni record and Theo Armour's notes). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md>
 4. "Alexander Trepov". *Wikipedia*. <https://en.wikipedia.org/wiki/Alexander_Trepov>
-5. "Anastasia Fyodorovna Trepova (1849–1940)" (profile page). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md>
+5. "Anastasia Fyodorovna Trepova (1849–1940)" (profile page). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md>
 
 ## Further reading
 

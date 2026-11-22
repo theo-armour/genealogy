@@ -6,9 +6,9 @@
 
 * https://www.geni.com/family-tree/index/6000000004118029730
 * Birth: 1947 ~ add full date and place
-* Parents: [Norman Armour Jr](../Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md) and [Cynthia Sewall Burrage](../Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md) (later married Hovey)
-* Paternal grandparents: [Norman Armour Sr](../Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) and Princess [Maria Sergeyevna Kudasheva](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md)
-* Maternal grandparents: [Albert Cameron Burrage Jr](../Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md) and [Anne Bell Shirk](../Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md)
+* Parents: [Norman Armour Jr](../Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) and [Cynthia Sewall Burrage](../Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (later married Hovey)
+* Paternal grandparents: [Norman Armour Sr](../Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) and Princess [Maria Sergeyevna Kudasheva](../Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md)
+* Maternal grandparents: [Albert Cameron Burrage Jr](../Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) and [Anne Bell Shirk](../Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
 * Siblings: `<Private>` and `<Private>`
 * Children: three daughters ~ `<Private>`, `<Private>` and `<Private>`
 
@@ -27,18 +27,18 @@ Line of descent:
 5. Hannah Nye (1712–1779)
 6. Ebenezer Nye (1739–1793)
 7. Achsah Nye Haskell (1774–1835)
-8. [Elisha Haskell](../Elisha-Haskell-Jr-1795-1880/Elisha-Haskell-Jr-1795-1880.md) (1795–1880)
-9. [Francis Hathaway "Frank" Haskell](../Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md) (1830–1868)
-10. [Alice Hathaway Haskell](../Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md) (1857–1947)
-11. [Albert Cameron Burrage, Jr.](../Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)
-12. [Cynthia Sewall Hovey](../Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983)
+8. [Elisha Haskell](../Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md) (1795–1880)
+9. [Francis Hathaway "Frank" Haskell](../Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md) (1830–1868)
+10. [Alice Hathaway Haskell](../Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) (1857–1947)
+11. [Albert Cameron Burrage, Jr.](../Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)
+12. [Cynthia Sewall Hovey](../Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983)
 13. Norman "Theo" Armour III
 
 ## Names and Spellings
 
 * Full name: Norman Theo Armour III
 * Known as: Theo
-* The third Norman Armour, after grandfather [Norman Armour Sr](../Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) and father [Norman Armour Jr](../Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md)
+* The third Norman Armour, after grandfather [Norman Armour Sr](../Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) and father [Norman Armour Jr](../Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md)
 
 ## Life
 

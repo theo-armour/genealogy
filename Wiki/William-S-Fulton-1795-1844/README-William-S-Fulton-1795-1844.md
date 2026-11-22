@@ -13,11 +13,11 @@
 | **Occupation** | Lawyer; county judge in Alabama; Secretary and Governor of Arkansas Territory; United States senator |
 | **Spouse** | Matilda Frances Nowland (married 9 February 1823 at Florence, Alabama) (see Open questions for the name) |
 | **Children** | Elizabeth Rebecca (Mrs Moorhead Wright), Sophia (Mrs James M. Curran, later Mrs George C. Watkins), Ida (Mrs William Hunter), and five others who died young (see Open questions) |
-| **Parents** | [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/David-Fulton-1771-1843.md) (1771–1843)<br>Elizabeth Savin |
+| **Parents** | [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md) (1771–1843)<br>Elizabeth Savin |
 
 ## Family and education
 
-William Savin Fulton was born in Cecil County, on the Eastern Shore of Maryland, on 2 June 1795.[2][3][4] His father, [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/David-Fulton-1771-1843.md), was born in Ireland and came to Maryland as a young man; his mother, Elizabeth Savin, was a native of Maryland.[2][3] A parish history of 1900 names two sons and a daughter of the marriage who were later "well-known citizens" of Little Rock: William, Dr John Fulton and Jane.[5]
+William Savin Fulton was born in Cecil County, on the Eastern Shore of Maryland, on 2 June 1795.[2][3][4] His father, [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md), was born in Ireland and came to Maryland as a young man; his mother, Elizabeth Savin, was a native of Maryland.[2][3] A parish history of 1900 names two sons and a daughter of the marriage who were later "well-known citizens" of Little Rock: William, Dr John Fulton and Jane.[5]
 
 John Hallum's history of Arkansas (1887) prints an extract from Fulton's own diary, lent by his daughter Elizabeth Wright. In it Fulton says that he became a pupil of the Rev. Samuel Knox on 2 February 1804, graduated from Baltimore College in September 1813, and began to read law under William Pinkney in November 1813.[2] The Encyclopedia of Arkansas attributes his formal education to "his mother's wealth".[3]
 
@@ -57,7 +57,7 @@ Fulton County, Arkansas, is named for him.[7]
 
 Hempstead wrote in 1890 that three daughters were born of the marriage: Mrs Moorhead Wright, "who is still living"; Mrs James M. Curran, afterwards Mrs George C. Watkins; and Mrs William Hunter. Fulton's name, he added, survived only as a given name among their descendants, "from the failure of any male line to perpetuate it".[4] The Encyclopedia of Arkansas names eight children and says that only Elizabeth, Sophia and Ida lived to be adults.[3]
 
-Sophia Fulton married first James M. Curran, a lawyer, and second Chief Justice George C. Watkins. The parish history of 1900 lists the children of the second marriage as Maria Louise, Elizabeth Wright (died), Georgie Claiborne and Ida Watkins, and adds: "Ida married Marshall Shirk; they have one daughter, Anne Bell Shirk."[5] Anne Bell Shirk, later [Anne Bell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md), was Theo Armour's grandmother, the mother of [Cynthia Burrage Hovey](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md).[9][12]
+Sophia Fulton married first James M. Curran, a lawyer, and second Chief Justice George C. Watkins. The parish history of 1900 lists the children of the second marriage as Maria Louise, Elizabeth Wright (died), Georgie Claiborne and Ida Watkins, and adds: "Ida married Marshall Shirk; they have one daughter, Anne Bell Shirk."[5] Anne Bell Shirk, later [Anne Bell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md), was Theo Armour's grandmother, the mother of [Cynthia Burrage Hovey](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md).[9][12]
 
 ## Residences
 
@@ -96,7 +96,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "William S. Fulton (1795–1844)". Profile page in this repository. [William-S-Fulton-1795-1844.md](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/William-S-Fulton-1795-1844.md)
+1. "William S. Fulton (1795–1844)". Profile page in this repository. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/additional-notes-not-in-README.md) (extracted from `William-S-Fulton-1795-1844.md`)
 2. Hallum, John. *Biographical and Pictorial History of Arkansas*, vol. 1. Albany: Weed, Parsons and Company, 1887. "Mrs. Elizabeth R. Wright", pp. 180–181; "Governor William Savin Fulton", pp. 183–198, including the extract from his diary (pp. 184–185), Jackson's letter of 4 April 1823 (pp. 186–187), Fulton's letter of 25 May 1829 (p. 191), and his offices and death (pp. 194–195). Read in the Internet Archive's machine-read text, which has many character errors. <https://archive.org/details/biographicalpict01hall>
 3. Baker, Lea Flowers. "William Savin Fulton (1795–1844)". *Encyclopedia of Arkansas*, Central Arkansas Library System. <https://encyclopediaofarkansas.net/entries/william-savin-fulton-2653/>
 4. Hempstead, Fay. *A Pictorial History of Arkansas, from Earliest Times to the Year 1890*. St. Louis and New York: N. D. Thompson Publishing Company, 1890, pp. 222–223; also a list of territorial officers later in the book (page not noted). <https://archive.org/details/pictorialhistory00hemp_0>

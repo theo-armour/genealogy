@@ -68,7 +68,7 @@ He married **Anastasia Fyodorovna Trepova** (1849–1940). They had two children
 ## References
 
 1. "Нирод, Максимилиан Евстафьевич". *Wikipedia* (Russian). Cites *Государственный совет Российской империи: 1906–1917* (Moscow: РОССПЭН, 2008), p. 184; the register of the Church of St. Catherine, Tsarskoye Selo (ЦГИА СПб, f. 19, op. 127, d. 3002, p. 129); and "Nieroth, Maximilian Gf. v. (1846–1914)", *Baltisches Biographisches Lexikon digital*, p. 547. <https://ru.wikipedia.org/wiki/Нирод,_Максимилиан_Евстафьевич>
-2. "Maximilian Carl Benedict von Nieroth (1846–1914)" (profile page with genealogical records). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md>
+2. "Maximilian Carl Benedict von Nieroth (1846–1914)" (profile page with genealogical records). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md>
 3. "Трепов, Фёдор Фёдорович (старший)". *Wikipedia* (Russian). <https://ru.wikipedia.org/wiki/Трепов,_Фёдор_Фёдорович_(старший)>
 4. "Треповы". *Wikipedia* (Russian). <https://ru.wikipedia.org/wiki/Треповы>
 

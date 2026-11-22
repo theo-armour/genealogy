@@ -1,19 +1,19 @@
 # Norman Armour Jr
 
-**Norman Armour Jr** (10 February 1920 – 26 April 1978) was the only child of the American diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) and Princess Myra Koudacheff ([Maria Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md)). He was born in Brussels, attended Princeton University, and in 1941 married [Cynthia Sewall Burrage](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md) of Boston and Ipswich, Massachusetts.[1][2][4] He was the father of Theo Armour.[1]
+**Norman Armour Jr** (10 February 1920 – 26 April 1978) was the only child of the American diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) and Princess Myra Koudacheff ([Maria Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md)). He was born in Brussels, attended Princeton University, and in 1941 married [Cynthia Sewall Burrage](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) of Boston and Ipswich, Massachusetts.[1][2][4] He was the father of Theo Armour.[1]
 
 | **Norman Armour Jr** | |
 | :--- | :--- |
 | **Born** | 10 February 1920<br>Brussels, Belgium (see Open questions) |
 | **Died** | 26 April 1978 (aged 58)<br>New York, New York |
 | **Occupation** | Not established (see Open questions) |
-| **Spouses** | [Cynthia Sewall Burrage](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md) (married 28 June 1941; divorced 1952)<br>Cynthia Brooks Howe |
+| **Spouses** | [Cynthia Sewall Burrage](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (married 28 June 1941; divorced 1952)<br>Cynthia Brooks Howe |
 | **Children** | Four, according to the profile page, among them Theo Armour |
-| **Parents** | [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md) (1895 or 1896–1990) |
+| **Parents** | [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md) (1895 or 1896–1990) |
 
 ## Family and early life
 
-Norman Armour Jr was born in Brussels on 10 February 1920.[1][6] His father, a secretary in the American diplomatic service, had been assigned to the Embassy in Brussels in December 1918 and had married in Stockholm on 2 February 1919.[7] His mother was the daughter of Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md) and Countess [Vera Maximilianovna von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md); his grandmother Vera died in Paris on 26 January 1920, two weeks before he was born.[7][8] *Time* magazine called him his father's "only child".[4]
+Norman Armour Jr was born in Brussels on 10 February 1920.[1][6] His father, a secretary in the American diplomatic service, had been assigned to the Embassy in Brussels in December 1918 and had married in Stockholm on 2 February 1919.[7] His mother was the daughter of Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) and Countess [Vera Maximilianovna von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md); his grandmother Vera died in Paris on 26 January 1920, two weeks before he was born.[7][8] *Time* magazine called him his father's "only child".[4]
 
 His father's assignments in his childhood were The Hague (1920), Montevideo (1921), Washington, Rome, Tokyo and Paris, followed by Haiti (1932–1935) and Canada (1935–1938) as Minister.[7][8][9] Family trees built from Ancestry records attach to him an entry as an infant in the 1920 census of Americans in the consular service abroad, an arrival at San Francisco on 2 June 1927, an entry in the 1930 census at Paris, and an arrival at New York from Port-au-Prince on 9 January 1933. None of these records has been seen for this biography.[6]
 
@@ -25,7 +25,7 @@ He attended Princeton University. One family tree cites the Princeton yearbooks 
 
 > Engaged. Norman Armour Jr., 21, Princeton junior, only child of U.S. Ambassador to the Argentine Norman ("The Ideal Diplomat") Armour; and Cynthia Sewell Burrage, 19, granddaughter of the late multimillionaire Boston copper king Albert Cameron Burrage; in Boston.
 
-They were married on Saturday 28 June 1941 at Ascension Memorial Church in Ipswich, Massachusetts. The Rev. Richard A. Cartmell officiated, and H. Clay Frick of Roslyn, New York, was best man. The *Boston Sunday Post* of the next day reported the wedding under the headline "Cynthia Burrage and N. Armour, Jr., Wed", with a photograph of the couple.[2] The bride was the daughter of [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md) and [Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md).[2][10] A fuller account of the wedding is in her biography.[10]
+They were married on Saturday 28 June 1941 at Ascension Memorial Church in Ipswich, Massachusetts. The Rev. Richard A. Cartmell officiated, and H. Clay Frick of Roslyn, New York, was best man. The *Boston Sunday Post* of the next day reported the wedding under the headline "Cynthia Burrage and N. Armour, Jr., Wed", with a photograph of the couple.[2] The bride was the daughter of [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) and [Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md).[2][10] A fuller account of the wedding is in her biography.[10]
 
 ## War years
 
@@ -73,7 +73,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Norman Armour Jr 1920-1978". Profile page in this repository, with data from Geni. [Norman-Armour-Jr-1920-1978.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md)
+1. "Norman Armour Jr 1920-1978". Profile page in this repository, with data from Geni. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/additional-notes-not-in-README.md) (extracted from `Norman-Armour-Jr-1920-1978.md`)
 2. "Cynthia Burrage and N. Armour, Jr., Wed". *Boston Sunday Post*, 29 June 1941, datelined Ipswich, 28 June. Clipping in this repository: `Wiki/Cynthia-Burrage-Hovey-1921-1983/images/The_Boston_Post_29_Jun_1941.jpg`
 3. "Society Belle in Reno Divorce From Armour". *Boston Post*, Saturday 23 August 1952, p. 2, datelined Ipswich, 22 August. Clipping in this repository: `Wiki/Cynthia-Burrage-Hovey-1921-1983/images/The_Boston_Post_23_Aug_1952.jpg`
 4. "Milestones". *Time*, 5 May 1941. <https://time.com/archive/6786108/milestones-may-5-1941/>

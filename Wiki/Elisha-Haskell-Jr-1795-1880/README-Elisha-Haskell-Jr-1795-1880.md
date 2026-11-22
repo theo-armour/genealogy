@@ -1,6 +1,6 @@
 # Elisha Haskell
 
-**Elisha Haskell** (about 1798 – 8 October 1880) was a Boston auctioneer with family roots in Middleborough and New Bedford, Massachusetts. For about twenty years he was a partner in the Boston auction house of Coolidge & Haskell. His second wife, Alice Russell Hathaway, was a daughter of the New Bedford merchant Humphrey Hathaway, and in later life the couple lived in her father's house at the Head of the River in Acushnet, where his funeral was held.[1][2][3][4] Through his daughter Caroline he was the grandfather of Alice Hathaway Lee, the first wife of Theodore Roosevelt.[4][5] His year of birth is uncertain (see Open questions). Through his son [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md) and his granddaughter [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md) he was Theo Armour's maternal great-great-great-grandfather.[6][7]
+**Elisha Haskell** (about 1798 – 8 October 1880) was a Boston auctioneer with family roots in Middleborough and New Bedford, Massachusetts. For about twenty years he was a partner in the Boston auction house of Coolidge & Haskell. His second wife, Alice Russell Hathaway, was a daughter of the New Bedford merchant Humphrey Hathaway, and in later life the couple lived in her father's house at the Head of the River in Acushnet, where his funeral was held.[1][2][3][4] Through his daughter Caroline he was the grandfather of Alice Hathaway Lee, the first wife of Theodore Roosevelt.[4][5] His year of birth is uncertain (see Open questions). Through his son [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md) and his granddaughter [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) he was Theo Armour's maternal great-great-great-grandfather.[6][7]
 
 | **Elisha Haskell** | |
 | :--- | :--- |
@@ -8,7 +8,7 @@
 | **Died** | 8 October 1880<br>New Bedford, Bristol County, Massachusetts (family trees; see Open questions) |
 | **Occupation** | Auctioneer (Coolidge & Haskell, Boston) |
 | **Spouses** | Sally (Sarah) Tobey (married 17 October 1820; died 10 April 1823)<br>Alice Russell Hathaway (intention 1 July 1826; died 17 April 1880) |
-| **Children** | By Sally: George Lewis (about 1822–1860)<br>By Alice: Alice Hathaway, later Mrs Cunningham; [Francis Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md); Caroline Watts, later Mrs George Cabot Lee; Thomas Hathaway; Frederick E.; Charlotte, later Mrs Bullard |
+| **Children** | By Sally: George Lewis (about 1822–1860)<br>By Alice: Alice Hathaway, later Mrs Cunningham; [Francis Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md); Caroline Watts, later Mrs George Cabot Lee; Thomas Hathaway; Frederick E.; Charlotte, later Mrs Bullard |
 | **Parents** | Eli Haskell (born 1775)<br>Achsah Nye of Oakham |
 
 ## Family and early life
@@ -42,7 +42,7 @@ Alice Russell Hathaway was a daughter of Humphrey Hathaway (1765–1821) of New 
 The *Chronicles of the Haskell Family* gives Elisha six children by Alice Hathaway.[8] With dates from Geni, which cites no sources for them, they were:[7][8]
 
 * **Alice Hathaway Haskell** (1829–1908), who married a Cunningham. Geni names him John Adams Cunningham Jr and dates the marriage 4 June 1850 at Boston.
-* **[Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md)**, who married Elizabeth Russell. He was master of the ship *Norseman* and later a steamer captain at Hong Kong.[17]
+* **[Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md)**, who married Elizabeth Russell. He was master of the ship *Norseman* and later a steamer captain at Hong Kong.[17]
 * **Caroline Watts Haskell** (1835–1914). She married George Cabot Lee at Boston on 10 December 1857; his Harvard class report calls her "dau. of Elisha Haskell and Alice Russell Hathaway".[5]
 * **Thomas Hathaway Haskell** (1837–1893). In 1858 the Boston directory lists Thomas H. Haskell, clerk, at his father's address.[3]
 * **Frederick E. Haskell** (1843–1909); Geni gives his middle name as Elihu.
@@ -81,7 +81,7 @@ No death record, obituary or burial record has been seen.
 * **"Elisha H. Haskell".** The 1856 register of the *Norseman* gives her part-owner a middle initial that appears nowhere else.[17]
 * **Two entries in the Boston directory of 1828.** It lists "Haskell Elisha, house High" and "Haskell Elisha, (D. & P. Thacher & Co.) house High". These may be one man entered twice.[3]
 * **His daughter Charlotte's name.** The gravestone record gives "Charlotte H." and her husband as John L. Bullard; the *Chronicles* gives "Charlotte G. m Dr. John H. Bullard"; Geni gives Charlotte Green Haskell.[7][8][13]
-* **"Elizabeth Haskell", born 1834 in England.** Geni lists a daughter of this name and also separate children "Fred" and "Tom".[7] The *Chronicles* lists six children and no Elizabeth.[8] The entry may be a confusion with his daughter-in-law, [Elizabeth Russell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/Elizabeth-Russell-1835-1909.md), whom Geni records as born in England in 1835; "Fred" and "Tom" look like duplicates of Frederick and Thomas.
+* **"Elizabeth Haskell", born 1834 in England.** Geni lists a daughter of this name and also separate children "Fred" and "Tom".[7] The *Chronicles* lists six children and no Elizabeth.[8] The entry may be a confusion with his daughter-in-law, [Elizabeth Russell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md), whom Geni records as born in England in 1835; "Fred" and "Tom" look like duplicates of Frederick and Thomas.
 * **The profile page's account of his later career.** The profile page says he was "later associated with the building trade" and may have been in a contracting partnership with Anselm J. Bourne that built houses in Fairhaven. *(Unsound: from an AI-generated summary, with no source; nothing found supports it.)*[1]
 * **The 1850 census.** The profile page says the 1850 census lists him in Boston as an auctioneer.[1] The census has not been seen; the Boston directories confirm the occupation.[2]
 
@@ -97,7 +97,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Elisha Haskell (1795–1880)". Profile page in this repository; much of its text is an AI-generated summary. [Elisha-Haskell-Jr-1795-1880.md](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/Elisha-Haskell-Jr-1795-1880.md)
+1. "Elisha Haskell (1795–1880)". Profile page in this repository; much of its text is an AI-generated summary. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/additional-notes-not-in-README.md) (extracted from `Elisha-Haskell-Jr-1795-1880.md`)
 2. *Stimpson's Boston Directory* and its successors, firm entries for "Coolidge (Samuel F.) & Haskell (Elisha), auctioneers": 67 and 69 Kilby Street in the editions of 1830, 1833 and 1839; 29 and 31 Water Street in those of 1845 and 1848–1849. <https://archive.org/details/bd-1830>, <https://archive.org/details/bd-1833>, <https://archive.org/details/bd-1839>, <https://archive.org/details/bd-1845>, <https://archive.org/details/bd-1848-49>
 3. *The Boston Directory* (Charles Stimpson and later publishers), editions of 1826, 1828, 1830, 1833, 1836, 1839, 1845, 1848–1849, 1853 and 1858, personal entries for "Haskell Elisha", "Haskell Geo. L." (1845) and "Haskell Thomas H." (1858). Digitised texts, e.g. <https://archive.org/details/bd-1826>, <https://archive.org/details/bd-1828>, <https://archive.org/details/bd-1853>, <https://archive.org/details/bd-1858>. The editions of 1842, 1850–1851, 1856 and 1861 were searched without finding him, which may be a fault of the scans.
 4. Howland, Franklyn. *A History of the Town of Acushnet, Bristol County, State of Massachusetts*. New Bedford: published by the author, 1907. "Captain Humphrey Hathaway (Alice Roosevelt) House", pp. 40–41. <https://archive.org/details/historyoftownofa00howl>

@@ -4,7 +4,7 @@
 
 | `erastus-foote.jpg` | Erastus Foote (1777–1856). Photograph of a painted or drawn bust portrait: an older man with white hair, in a dark coat, white stock and ruffled shirt. There is a signature at the right edge that has not been read with confidence. The Maine State Archives describes it as a "Painted portrait of Erastus Foote. Maine Attorney General, 1820."[10] | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Erastus_Foote.jpg), which credits the Maine State Archives |
 
-**Erastus Foote** (19 September 1777 – 14 July 1856) was a Connecticut-born lawyer who practised for about fifteen years at Camden and about forty at Wiscasset, in what became the State of Maine. He was county attorney of Lincoln County, a colonel of Massachusetts militia in the War of 1812, a member of both houses of the Massachusetts legislature, and a member of the first Senate of Maine, and in 1820 Governor William King appointed him the new state's first attorney general, an office he held for about twelve years.[2][3][7] His granddaughter Harriette Cobb Foote married [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md), which makes him Theo Armour's paternal great-great-great-grandfather.[11][12]
+**Erastus Foote** (19 September 1777 – 14 July 1856) was a Connecticut-born lawyer who practised for about fifteen years at Camden and about forty at Wiscasset, in what became the State of Maine. He was county attorney of Lincoln County, a colonel of Massachusetts militia in the War of 1812, a member of both houses of the Massachusetts legislature, and a member of the first Senate of Maine, and in 1820 Governor William King appointed him the new state's first attorney general, an office he held for about twelve years.[2][3][7] His granddaughter Harriette Cobb Foote married [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md), which makes him Theo Armour's paternal great-great-great-grandfather.[11][12]
 
 | **Erastus Foote** | |
 | :--- | :--- |
@@ -67,7 +67,7 @@ He married first, in 1812, Susan Carlton, daughter of Col. Moses Carlton of Wisc
 
 Goodwin lists seven children. By Susan: Mary Wood (born 20 December 1813, died 13 January 1814), Erastus Miles (born 31 August 1815, died 10 February 1816) and Susan Eliza (born 1 January 1817). By Eliza: Erastus (born 6 September 1821), Mary Todd (born 25 December 1823), Abigail (born 31 August 1825, died 7 September 1826) and Ann Butler (born 8 October 1827).[2]
 
-The surviving son, Erastus Foote Jr, was a lawyer at Wiscasset in 1849.[2] The family trees record that he married Sarah Page Wood, that their daughter Harriette Cobb Foote was born at Wiscasset on 15 November 1859, and that he died at Chicago on 20 February 1893.[11] Harriette married George Allison Armour at Chicago on 27 April 1882; their son [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) was the father of [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md) and the grandfather of Theo Armour.[11][12]
+The surviving son, Erastus Foote Jr, was a lawyer at Wiscasset in 1849.[2] The family trees record that he married Sarah Page Wood, that their daughter Harriette Cobb Foote was born at Wiscasset on 15 November 1859, and that he died at Chicago on 20 February 1893.[11] Harriette married George Allison Armour at Chicago on 27 April 1882; their son [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) was the father of [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) and the grandfather of Theo Armour.[11][12]
 
 ## Residences
 
@@ -106,7 +106,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Erastus Foote 1777 – 1856". Profile page in this repository. [Erastus-Foote-1777-1856.md](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/Erastus-Foote-1777-1856.md)
+1. "Erastus Foote 1777 – 1856". Profile page in this repository. `Erastus-Foote-1777-1856.md` (merged into this README and removed)
 2. Goodwin, Nathaniel. *The Foote Family: or, The Descendants of Nathaniel Foote, One of the First Settlers of Wethersfield, Conn.* Hartford: Case, Tiffany and Company, 1849. Family of Obed Foote (no. 1995), pp. 192–193; family of Erastus Foote (no. 2171), p. 222; Appendix X, "Hon. Erastus Foote", pp. 319–320. <https://archive.org/details/footefamilyordes00good>
 3. Willis, William. *A History of the Law, the Courts, and the Lawyers of Maine, from Its First Colonization to the Early Part of the Present Century*. Portland, 1863. "Erastus Foote. 1801–1856", pp. 392–395. <https://archive.org/details/historyoflawcour00will>
 4. Locke, John L. *Sketches of the History of the Town of Camden, Maine*. Hallowell: Masters, Smith & Company, 1859. Biographical sketch of Col. Foote, about pp. 218–220. Read in the Internet Archive's machine-read text, which is badly garbled on these pages. <https://archive.org/details/sketchesofhistor00lock_0>

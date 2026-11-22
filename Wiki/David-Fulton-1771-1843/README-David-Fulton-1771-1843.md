@@ -1,6 +1,6 @@
 # David Fulton
 
-**David Fulton** (2 January 1771 – 7 August 1843) was an Irish-born settler who came to Maryland as a youth, moved west with his family through Tennessee and Alabama, and spent his last ten years in Little Rock, Arkansas. There he was the fourth and last mayor of the Town of Little Rock in 1835, a county judge, and surveyor-general of the public lands in Arkansas under President Van Buren.[2][3][5] He was the father of [William S. Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/William-S-Fulton-1795-1844.md), governor of Arkansas Territory and United States senator, and through him Theo Armour's maternal great-great-great-great-grandfather.[7][10][12]
+**David Fulton** (2 January 1771 – 7 August 1843) was an Irish-born settler who came to Maryland as a youth, moved west with his family through Tennessee and Alabama, and spent his last ten years in Little Rock, Arkansas. There he was the fourth and last mayor of the Town of Little Rock in 1835, a county judge, and surveyor-general of the public lands in Arkansas under President Van Buren.[2][3][5] He was the father of [William S. Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md), governor of Arkansas Territory and United States senator, and through him Theo Armour's maternal great-great-great-great-grandfather.[7][10][12]
 
 | **David Fulton** | |
 | :--- | :--- |
@@ -8,7 +8,7 @@
 | **Died** | 7 August 1843 (aged 72)<br>Little Rock, Arkansas |
 | **Occupation** | Banker in Tennessee; newspaper editor in Alabama; tanner, mayor, county judge and surveyor-general in Arkansas |
 | **Spouse** | Elizabeth Savin (see Open questions for the date of the marriage) |
-| **Children** | [William Savin](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/William-S-Fulton-1795-1844.md) (1795–1844), Mary, Eliza, Jane Juliet, Rebecca, Dr John T. (see Family) |
+| **Children** | [William Savin](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md) (1795–1844), Mary, Eliza, Jane Juliet, Rebecca, Dr John T. (see Family) |
 | **Parents** | David Fulton and Elinor Macken, according to one modern account (see Open questions) |
 
 No portrait of him is in this folder.
@@ -98,7 +98,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "David Fulton (1771–1843)". Profile page in this repository. [David-Fulton-1771-1843.md](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/David-Fulton-1771-1843.md)
+1. "David Fulton (1771–1843)". Profile page in this repository. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/additional-notes-not-in-README.md) (extracted from `David-Fulton-1771-1843.md`)
 2. Hallum, John. *Biographical and Pictorial History of Arkansas*, vol. 1. Albany: Weed, Parsons and Company, 1887. "Mrs. Elizabeth R. Wright", pp. 180–181; "Governor William Savin Fulton", pp. 183–198, including William's diary (pp. 184–185), his letter of 25 May 1829 (p. 191) and John T. Fulton's letter of 2 June 1829 (pp. 192–193); "David Fulton to Governor Fulton — Surveyor-General's Office, January 4, 1841", p. 208. Read in the Internet Archive's machine-read text, which has many character errors; the surname Nowland appears there as Rowland, Noland and Howland. <https://archive.org/details/biographicalpict01hall>
 3. Carter, Scott Whiteley. "Little Rock's fourth Mayor – David Fulton, born in Ireland on Jan 2, 1771". *Little Rock Culture Vulture* (blog), 2 January 2020. It cites no sources. <https://lrculturevulture.com/2020/01/02/little-rocks-fourth-mayor-david-fulton-born-in-ireland-on-jan-2-1771/>
 4. "David Fulton (1771–1843)". Find a Grave memorial 7550824, Mount Holly Cemetery, Little Rock. Its text reproduces a 2019 version of the article in reference 3. <https://www.findagrave.com/memorial/7550824/david-fulton>

@@ -1,15 +1,15 @@
 # Francis Hathaway Haskell
 
-**Francis Hathaway Haskell** (about 1827 or 1830 – 1868), known as Frank, was a Massachusetts shipmaster who settled in south China. In 1856 he was the first master of the Boston ship *Norseman*, in which he sailed to San Francisco and China. By 1861 he was a partner in Thomas Hunt & Co., shipwrights at Whampoa, and from about 1864 he commanded the river steamer *Kinshan* between Hong Kong and Canton.[1][2][3][4] He married Elizabeth Russell, and their children were born in China. The family trees say he died on 25 June 1868; no contemporary record of his death has been found (see Open questions).[5][6] He was the father of [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md) and Theo Armour's maternal great-great-grandfather.[7]
+**Francis Hathaway Haskell** (about 1827 or 1830 – 1868), known as Frank, was a Massachusetts shipmaster who settled in south China. In 1856 he was the first master of the Boston ship *Norseman*, in which he sailed to San Francisco and China. By 1861 he was a partner in Thomas Hunt & Co., shipwrights at Whampoa, and from about 1864 he commanded the river steamer *Kinshan* between Hong Kong and Canton.[1][2][3][4] He married Elizabeth Russell, and their children were born in China. The family trees say he died on 25 June 1868; no contemporary record of his death has been found (see Open questions).[5][6] He was the father of [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) and Theo Armour's maternal great-great-grandfather.[7]
 
 | **Francis Hathaway Haskell** | |
 | :--- | :--- |
 | **Born** | 1827 or 1830 (see Open questions)<br>Boston, or "Boston or New Bedford", Massachusetts |
 | **Died** | 25 June 1868 (family trees; not confirmed)<br>Place uncertain (see Open questions) |
 | **Occupation** | Shipmaster; partner in Thomas Hunt & Co., Whampoa; commander of the river steamer *Kinshan* |
-| **Spouse** | [Elizabeth Russell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/Elizabeth-Russell-1835-1909.md) (married by 1857) |
-| **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
-| **Parents** | [Elisha Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/Elisha-Haskell-Jr-1795-1880.md) (died 1880)<br>Alice Russell Hathaway (1806–1880) |
+| **Spouse** | [Elizabeth Russell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md) (married by 1857) |
+| **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
+| **Parents** | [Elisha Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md) (died 1880)<br>Alice Russell Hathaway (1806–1880) |
 
 ## Family and early life
 
@@ -49,7 +49,7 @@ Haviland names him as the registered owner of the steamer *Kumsing*, of 467 tons
 
 In April, May and June 1864 the *Hong Kong Daily Press* carried a notice from Thomas Hunt & Co., dated Hongkong, 31 March, that "the Interest and Responsibility of Mr. F. H. Haskell in our Firm ceased on this day".[16]
 
-Haviland adds that "it seems that Mrs. Endicott and Mrs. Haskell were sisters".[4] See the biography of [Elizabeth Russell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/Elizabeth-Russell-1835-1909.md).
+Haviland adds that "it seems that Mrs. Endicott and Mrs. Haskell were sisters".[4] See the biography of [Elizabeth Russell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md).
 
 ## Commander of the *Kinshan*
 
@@ -66,7 +66,7 @@ He married Elizabeth Russell.[8][21] No record of the marriage has been found. S
 The children known from the sources read are:
 
 * **Elizabeth, called Bessie.** The *London and China Telegraph* of 10 June 1865 printed her death "at Canton, very suddenly, of cholera", aged five years and six months, as the daughter of Francis H. and Elizabeth R. Haskell. The scan gives the date as "April 31st" and the father's name is partly illegible.[22] Geni lists an Elizabeth Hathaway Haskell, without dates, who is probably the same child.[5]
-* **[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md)**, born on 6 October in 1857, 1861 or 1862, in Hong Kong or "China"; she married Albert Cameron Burrage in 1885 and died in 1947. Her husband's Harvard class report names her parents as "Francis Hathaway Haskell and Elizabeth (Russell) Haskell".[7][21]
+* **[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md)**, born on 6 October in 1857, 1861 or 1862, in Hong Kong or "China"; she married Albert Cameron Burrage in 1885 and died in 1947. Her husband's Harvard class report names her parents as "Francis Hathaway Haskell and Elizabeth (Russell) Haskell".[7][21]
 * **Francis Hathaway Haskell Jr**, born at Hong Kong on 19 July 1863 and died at Brookline, Massachusetts, on 1 March 1927, according to Geni.[5]
 * **Robert Hathaway Haskell**, born at Hong Kong and died in China, according to Geni, which gives no dates.[5]
 * **Sarah Anne Haskell**, born at Hong Kong, according to Geni.[5] The *London and China Telegraph* of 28 August 1867 printed the birth "on the 9th July, at Hong Kong, the wife of Capt. F. H. Haskell, of a daughter".[19] The notice does not name the child; Sarah is the likeliest.
@@ -110,7 +110,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Francis Hathaway Haskell (1830–1868)". Profile page in this repository; most of its text is an AI-generated summary. [Francis-Hathaway-Haskell-1830-1868.md](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md)
+1. "Francis Hathaway Haskell (1830–1868)". Profile page in this repository; most of its text is an AI-generated summary. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/additional-notes-not-in-README.md) (extracted from `Francis-Hathaway-Haskell-1830-1868.md`)
 2. Survey of Federal Archives, National Archives Project. *Alphabetical List of Ship Registers, District of Boston, Massachusetts, 1802–1860*. 1939. Vol. 11, entry for the ship *Norseman*; for the Deer Isle masters, vols. 3 and 4. <https://archive.org/details/alphabeticallist11surv>
 3. State Street Trust Company. *Some Merchants and Sea Captains of Old Boston*. Boston, 1918, p. 49. <https://archive.org/details/somemerchantssea00stat>
 4. Haviland, Edward Kenneth. "American Steam Navigation in China, 1845–1878". *The American Neptune*, vol. 17 (1957): Part III, no. 1 (January), p. 46 (*Kinshan*); Part IV, no. 2 (April), pp. 142–144 (Endicott, *Kumsing*, Thomas Hunt and Co.). <https://archive.org/details/sim_american-neptune_1957-01_17_1> and <https://archive.org/details/sim_american-neptune_1957-04_17_2>

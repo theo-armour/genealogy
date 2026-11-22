@@ -1,13 +1,13 @@
 # Elizabeth Russell Haskell
 
-**Elizabeth Russell** (December 1835 or 1837 – 1909), known after her marriage as Mrs Francis H. Haskell, was the wife of the Massachusetts shipmaster [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md). Most sources say she was born in England. She was married by 1857, lived for about ten years at Canton and Hong Kong, where her children were born, and spent her long widowhood in Roxbury and Boston, Massachusetts.[1][2][3][4] Her dates of birth and death are both in conflict (see Open questions). She was the mother of [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md) and Theo Armour's maternal great-great-grandmother.[5]
+**Elizabeth Russell** (December 1835 or 1837 – 1909), known after her marriage as Mrs Francis H. Haskell, was the wife of the Massachusetts shipmaster [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md). Most sources say she was born in England. She was married by 1857, lived for about ten years at Canton and Hong Kong, where her children were born, and spent her long widowhood in Roxbury and Boston, Massachusetts.[1][2][3][4] Her dates of birth and death are both in conflict (see Open questions). She was the mother of [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) and Theo Armour's maternal great-great-grandmother.[5]
 
 | **Elizabeth Russell Haskell** | |
 | :--- | :--- |
 | **Born** | December 1835, or 16 December 1837 (see Open questions)<br>Kingston, Surrey, England (most sources), or Marblehead, Massachusetts |
 | **Died** | September 1909; 19 September or 19 December (see Open questions)<br>Marblehead, Essex County, Massachusetts (family trees) |
-| **Spouse** | [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md) (married by 1857; died 1868 according to family trees) |
-| **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
+| **Spouse** | [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md) (married by 1857; died 1868 according to family trees) |
+| **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
 | **Parents** | Robert Russell (Geni)<br>Mother not established (see Open questions) |
 
 ## Family and early life
@@ -20,7 +20,7 @@ She probably also had a sister in China. Edward Kenneth Haviland, writing on Ame
 
 ## Marriage
 
-She married Francis Hathaway Haskell, a son of [Elisha Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/Elisha-Haskell-Jr-1795-1880.md) of Boston and New Bedford. The *Chronicles of the Haskell Family* (1943) enters him as "Francis H. m Elizabeth Russell", and her son-in-law named "Francis Hathaway Haskell and Elizabeth (Russell) Haskell" as his wife's parents in his Harvard class report.[10][11] No record of the marriage has been found, and its date and place are not known.
+She married Francis Hathaway Haskell, a son of [Elisha Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md) of Boston and New Bedford. The *Chronicles of the Haskell Family* (1943) enters him as "Francis H. m Elizabeth Russell", and her son-in-law named "Francis Hathaway Haskell and Elizabeth (Russell) Haskell" as his wife's parents in his Harvard class report.[10][11] No record of the marriage has been found, and its date and place are not known.
 
 It had taken place by late 1857. Her husband was then master of the Boston ship *Norseman*, which left Macao and Hong Kong in November 1857 and reached New York in March 1858. The *New York Times* listed among the passengers "In ship Norseman, from Macao—Mrs. Henry Carrol and child, Mrs. F. H. Haskell".[2]
 
@@ -35,7 +35,7 @@ The family's years in China are marked by two newspaper notices. The *London and
 Her children, as far as the sources read show them, were:
 
 * **Elizabeth, called Bessie**, born about the autumn of 1859; died at Canton in April 1865.[13] Geni lists an Elizabeth Hathaway Haskell without dates, probably the same child.[6]
-* **[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md)**, born on 6 October in 1857, 1861 or 1862, in Hong Kong or "China"; died in 1947.[5]
+* **[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md)**, born on 6 October in 1857, 1861 or 1862, in Hong Kong or "China"; died in 1947.[5]
 * **Francis Hathaway Haskell Jr**, born at Hong Kong on 19 July 1863 and died at Brookline, Massachusetts, on 1 March 1927, according to Geni.[6] *Back Bay Houses* says he died in March 1927.[5]
 * **Robert Hathaway Haskell**, born at Hong Kong and died in China, according to Geni, which gives no dates.[6]
 * **Sarah Anne Haskell**, born at Hong Kong, according to Geni; probably the daughter born on 9 July 1867.[6][14]
@@ -88,7 +88,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Elizabeth Russell (1835–1909)". Profile page in this repository. [Elizabeth-Russell-1835-1909.md](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/Elizabeth-Russell-1835-1909.md); see also "Francis Hathaway Haskell (1830–1868)", [Francis-Hathaway-Haskell-1830-1868.md](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/Francis-Hathaway-Haskell-1830-1868.md)
+1. "Elizabeth Russell (1835–1909)". Profile page in this repository. `Elizabeth-Russell-1835-1909.md` (merged into this README and removed); see also "Francis Hathaway Haskell (1830–1868)", [README-Francis-Hathaway-Haskell-1830-1868.md](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md)
 2. *The New York Times*, 29 March 1858, passengers arrived and marine intelligence. <https://archive.org/details/sim_new-york-times_the-new-york-times_1858-03-29_7_2035>
 3. Haviland, Edward Kenneth. "American Steam Navigation in China, 1845–1878", Part IV. *The American Neptune*, vol. 17, no. 2 (April 1957), pp. 142–144. The note to the sentence about the sisters appears to cite a letter of Franklin Delano Williams to his wife, Hong Kong, 6 February 1862 (not seen). <https://archive.org/details/sim_american-neptune_1957-04_17_2>
 4. "7 Gloucester". *Back Bay Houses*. <https://backbayhouses.org/7-gloucester/>

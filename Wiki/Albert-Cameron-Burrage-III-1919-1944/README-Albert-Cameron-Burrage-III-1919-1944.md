@@ -15,11 +15,11 @@
 | **Service** | American Field Service, 1940<br>United States Army, Combat Command A, 6th Armored Division |
 | **Rank** | Captain (service number O-414488) |
 | **Awards** | Croix de Guerre (1939–1945); Purple Heart |
-| **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
+| **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
 
 ## Family and early life
 
-Albert Cameron Burrage III was born on 14 February 1919.[1][5][6] He was the son of Albert Cameron Burrage Jr and Anne Bell Shirk, and a grandson of the Boston attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md).[1] He had two sisters, Anne Bell and [Cynthia Sewall](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983).[1]
+Albert Cameron Burrage III was born on 14 February 1919.[1][5][6] He was the son of Albert Cameron Burrage Jr and Anne Bell Shirk, and a grandson of the Boston attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md).[1] He had two sisters, Anne Bell and [Cynthia Sewall](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983).[1]
 
 One family tree cites the 1920 United States census for him as a son in his parents' household at Hamilton, Massachusetts, and the 1930 census for the family in Boston.[6] *(Unsound: the census pages themselves have not been seen.)*
 
@@ -79,7 +79,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Albert Cameron Burrage III (1919–1944)". Profile page in this repository, with data from Geni. [Albert-Cameron-Burrage-III-1919-1944.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/Albert-Cameron-Burrage-III-1919-1944.md); Geni: <https://www.geni.com/people/Albert-Burrage-III/364410217780007647>
+1. "Albert Cameron Burrage III (1919–1944)". Profile page in this repository, with data from Geni. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/additional-notes-not-in-README.md) (extracted from `Albert-Cameron-Burrage-III-1919-1944.md`); Geni: <https://www.geni.com/people/Albert-Burrage-III/364410217780007647>
 2. Associated Press photograph, New York, 18 July 1940, in "Photos: Today in history, July". *MetroWest Daily News*, 16 July 2020. <https://www.metrowestdailynews.com/picture-gallery/entertainment/2020/07/16/photos-today-in-history-july/66197863007/>
 3. "Harvard Men to Drive in French Ambulances". *The Harvard Crimson*, 25 March 1940. <https://www.thecrimson.com/article/1940/3/25/harvard-men-to-drive-in-french/>
 4. "Burrage, Albert Cameron, III". *People in AFS*, AFS Archives. <https://the-afs-archive.org/people-in-afs/article/burrage-albert-cameron-iii-2-0255>

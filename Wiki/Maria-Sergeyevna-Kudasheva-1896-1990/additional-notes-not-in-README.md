@@ -1,6 +1,6 @@
 # Additional Notes Not in README — Maria Sergeyevna Kudasheva
 
-Extracted on 2026-11-21 from [Maria-Sergeyevna-Kudasheva-1896-1990.md](Maria-Sergeyevna-Kudasheva-1896-1990.md) by comparison against [README-Maria-Sergeyevna-Kudasheva-1896-1990.md](README-Maria-Sergeyevna-Kudasheva-1896-1990.md).
+Extracted on 2026-11-21 from `Maria-Sergeyevna-Kudasheva-1896-1990.md` by comparison against [README-Maria-Sergeyevna-Kudasheva-1896-1990.md](README-Maria-Sergeyevna-Kudasheva-1896-1990.md).
 
 ## Personal Recollections & Comments
 
@@ -41,11 +41,11 @@ From `Maria-Sergeyevna-Kudasheva-1896-1990.md` (`## My Comments`, verbatim):
 * **1921 Olive Snell portrait (external URL):** [https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg](https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg)
 * **Geni profile:** [https://www.geni.com/people/Princess-Myra-Armour/364408351200007646](https://www.geni.com/people/Princess-Myra-Armour/364408351200007646)
 * **Relative wiki links (not linked in README):**
-  * [Sergei Vladimirovich Kudashev](../Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md)
-  * [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
-  * [Sergei Sergeyevich](../Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md)
-  * [Norman Armour, Sr](../Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md)
-  * [Norman](../Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md)
+  * [Sergei Vladimirovich Kudashev](../Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md)
+  * [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
+  * [Sergei Sergeyevich](../Sergei-Sergeyevich-Kudashev-1901-1991/README-Sergei-Sergeyevich-Kudashev-1901-1991.md)
+  * [Norman Armour, Sr](../Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md)
+  * [Norman](../Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md)
 
 ## Research Notes, Drafts & Correspondence
 

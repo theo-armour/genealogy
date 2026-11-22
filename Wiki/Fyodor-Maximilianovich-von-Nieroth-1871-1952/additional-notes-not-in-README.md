@@ -15,8 +15,8 @@ From **My Comments**:
 ## Additional Biographical & Family Details
 
 * **Family background:** Described as belonging to the **Baltic German** von Nieroth family.
-* **Father's role and full name:** Listed in Genealogy as Count [Maximilian Carl Benedict von Nieroth](../Maximilian-Carl-Benedict-von-Nieroth-1846-1914/Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md), and described in both the "From Claude?" blurb and the Estonian Wikipedia translation as a **courtier** (the README describes him as an official of the Ministry of the Interior).
-* **Sister:** Explicitly linked in Genealogy as [Vera Maximilianovna](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (the README refers to her as "Theo Armour's great-grandmother Vera" without patronymic or link).
+* **Father's role and full name:** Listed in Genealogy as Count [Maximilian Carl Benedict von Nieroth](../Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md), and described in both the "From Claude?" blurb and the Estonian Wikipedia translation as a **courtier** (the README describes him as an official of the Ministry of the Interior).
+* **Sister:** Explicitly linked in Genealogy as [Vera Maximilianovna](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (the README refers to her as "Theo Armour's great-grandmother Vera" without patronymic or link).
 * **Civil War commander's full name:** Names **Anton Denikin** as leader of the White Volunteer Army (the README says "General Denikin").
 * **Specific brigade command:** The Estonian Wikipedia translation specifies that from January 1915 he commanded the **2nd Brigade** of the 2nd Guards Cavalry Division (the README states "a brigade of the 2nd Guards Cavalry Division").
 
@@ -27,7 +27,7 @@ From **My Comments**:
 * **Modern transliteration:** `Fyodor Maksimilianovich Nirod`
 * **Alternate transliteration in Genealogy:** `Fyodor Maksimilianovich von Nieroth`
 * **Name note:** `Theodor is the German equivalent of Fyodor`
-* **Mother's alternate recording:** `Anastatisya Fyodorovna Nieroth` (`also recorded as Anastatisya Fyodorovna Nieroth; married Nieroth`; linked to [Anastasia Fyodorovna Trepova](../Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md))
+* **Mother's alternate recording:** `Anastatisya Fyodorovna Nieroth` (`also recorded as Anastatisya Fyodorovna Nieroth; married Nieroth`; linked to [Anastasia Fyodorovna Trepova](../Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md))
 * **Spouse's Geni recording:** `Daria Nieroth (born Fstin. Cantacuzin Gfin. Speransky)`
 * **Children's spellings:** `Mikhail Fyodorovich` and `Daria` (Genealogy); `Mihhail von Nieroth (born 1899)` and `Daria von Nieroth (born 1900)` (Estonian Wikipedia translation)
 * **Death region:** `Amblainville, Picardie, France` (the README lists `Amblainville, France` and `Amblainville, Oise`)

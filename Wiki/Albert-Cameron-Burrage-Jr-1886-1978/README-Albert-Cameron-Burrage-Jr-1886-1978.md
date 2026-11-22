@@ -1,6 +1,6 @@
 # Albert Cameron Burrage Jr
 
-**Albert Cameron Burrage Jr** (30 August 1886 – 8 February 1978) was a Boston engineer and copper-mining executive, and a vegetable gardener and writer on gardening, who lived in Boston and at Ipswich, Massachusetts. He was a son of the attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md). The Massachusetts Horticultural Society gave him its Large Gold Medal in 1942 for research in vegetable selection, and he published *Burrage on Vegetables* in 1954.[1][2][3][4][5] He was the maternal grandfather of Theo Armour.[1][6]
+**Albert Cameron Burrage Jr** (30 August 1886 – 8 February 1978) was a Boston engineer and copper-mining executive, and a vegetable gardener and writer on gardening, who lived in Boston and at Ipswich, Massachusetts. He was a son of the attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md). The Massachusetts Horticultural Society gave him its Large Gold Medal in 1942 for research in vegetable selection, and he published *Burrage on Vegetables* in 1954.[1][2][3][4][5] He was the maternal grandfather of Theo Armour.[1][6]
 
 | **Albert Cameron Burrage Jr** | |
 | :--- | :--- |
@@ -8,9 +8,9 @@
 | **Died** | 8 February 1978<br>Ipswich, Massachusetts |
 | **Education** | Harvard College (1908) |
 | **Occupation** | Metallurgist; mining engineer; copper-mining executive |
-| **Spouse** | [Anne Bell Shirk](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md) (1890–1983), married April 1915 |
+| **Spouse** | [Anne Bell Shirk](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) (1890–1983), married April 1915 |
 | **Children** | [Albert Cameron Burrage III](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md) (1919–1944)<br>Anne Bell<br>[Cynthia Sewall](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983) |
-| **Parents** | [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931)<br>[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md) |
+| **Parents** | [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931)<br>[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) |
 | **Awards** | Large Gold Medal, Massachusetts Horticultural Society (1942) |
 
 ## Family and early life
@@ -81,7 +81,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Albert Cameron Burrage Jr (1886–1978)". Profile page in this repository, with data from Geni. [Albert-Cameron-Burrage-Jr-1886-1978.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md); Geni: <https://www.geni.com/people/Albert-Burrage-Jr/6000000002789973029>
+1. "Albert Cameron Burrage Jr (1886–1978)". Profile page in this repository, with data from Geni. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/additional-notes-not-in-README.md) (extracted from `Albert-Cameron-Burrage-Jr-1886-1978.md`); Geni: <https://www.geni.com/people/Albert-Burrage-Jr/6000000002789973029>
 2. "314 Commonwealth". *Back Bay Houses*. <https://backbayhouses.org/314-commonwealth/>
 3. "29 Hereford". *Back Bay Houses*. <https://backbayhouses.org/29-hereford/>
 4. *Massachusetts Horticultural Society Honorary Medals*. Massachusetts Horticultural Society Library, 6 June 2023. Large Gold Medal, 1942. <https://www.masshort.org/hubfs/Library%20Documents/230606%20Honorary%20Medals.Web.pdf>
@@ -89,7 +89,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 6. "Cynthia Sewall Burrage Hovey". Biography in this repository. [README-Cynthia-Burrage-Hovey-1921-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md)
 7. Ancestry- and FamilySearch-derived family tree, record for Albert C. Burrage Jr. Cites the 1900, 1920, 1930 and 1950 United States censuses; Massachusetts birth records; First and Second World War draft registrations; a 1923 passport application; *Boston Evening Transcript*, 7 April 1915; *The Journal and Tribune* (Knoxville), 11 April 1915; *The Boston Globe*, 6 June 1927 and 10 February 1978; and the Social Security Death Index. None of these has been seen directly. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
 8. Geni GEDCOM exports, record for Albert Cameron Burrage Jr (geni:6000000002789973029), `Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged` and `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`; MyHeritage GEDCOM export quoting the Geni World Family Tree, `Online-Genealogy/gedcom-files/2025-08-18-myheritage-armour.ged`; Ancestry export, `Online-Genealogy/gedcom-files/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged`; and an Ancestry-derived tree, `Online-Genealogy/gedcom-files/2025-08-23-carley-armour-family-tree.ged`
-9. "Anne Bell Burrage (1890–1983)". Profile page in this repository. [Anne-Bell-Burrage-1890-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md)
+9. "Anne Bell Burrage (1890–1983)". Profile page in this repository. [README-Anne-Bell-Burrage-1890-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
 10. "Albert Cameron Burrage III". Biography in this repository. [README-Albert-Cameron-Burrage-III-1919-1944.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md)
 11. "Cynthia Burrage and N. Armour, Jr., Wed". *Boston Sunday Post*, 29 June 1941, datelined Ipswich, 28 June. Clipping: [The_Boston_Post_29_Jun_1941.jpg](https://theo-armour.github.io/genealogy/Wiki/Cynthia-Burrage-Hovey-1921-1983/images/The_Boston_Post_29_Jun_1941.jpg)
 12. "74 Essex Rd., Ipswich MA". *Historic Ipswich*. <https://historicipswich.net/74-essex-rd/>

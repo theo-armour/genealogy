@@ -1,6 +1,6 @@
 # Additional Notes Not in README — David Fulton
 
-Extracted on 2026-11-21 from [David-Fulton-1771-1843.md](David-Fulton-1771-1843.md) by comparison against [README-David-Fulton-1771-1843.md](README-David-Fulton-1771-1843.md).
+Extracted on 2026-11-21 from `David-Fulton-1771-1843.md` by comparison against [README-David-Fulton-1771-1843.md](README-David-Fulton-1771-1843.md).
 
 ## Additional Biographical & Family Details
 

@@ -1,6 +1,6 @@
 # Additional Notes Not in README — Elisha Haskell
 
-Extracted on 2026-11-21 from [Elisha-Haskell-Jr-1795-1880.md](Elisha-Haskell-Jr-1795-1880.md) by comparison against [README-Elisha-Haskell-Jr-1795-1880.md](README-Elisha-Haskell-Jr-1795-1880.md).
+Extracted on 2026-11-21 from `Elisha-Haskell-Jr-1795-1880.md` by comparison against [README-Elisha-Haskell-Jr-1795-1880.md](README-Elisha-Haskell-Jr-1795-1880.md).
 
 ## Additional Biographical & Family Details
 

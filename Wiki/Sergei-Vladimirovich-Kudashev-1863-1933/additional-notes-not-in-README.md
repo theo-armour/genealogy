@@ -152,9 +152,9 @@ Extracted on 2026-11-21 from `0-Sergei-Vladimirovich-Kudashev-1863-1933.md`, `0-
 ### Local Folder Documents & Relative Wiki Links (from `0-contents.md` and `0-Sergei-Vladimirovich-Kudashev-1863-1933.md`)
 
 * Relative Wiki profiles not linked in README:
-  * [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
-  * [Maria Sergeyevna Kudasheva](../Maria-Sergeyevna-Kudasheva-1896-1990/Maria-Sergeyevna-Kudasheva-1896-1990.md)
-  * [Sergei Sergeyevich Kudashev](../Sergei-Sergeyevich-Kudashev-1901-1991/Sergei-Sergeyevich-Kudashev-1901-1991.md)
+  * [Vera Maximilianovna von Nieroth](../Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
+  * [Maria Sergeyevna Kudasheva](../Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md)
+  * [Sergei Sergeyevich Kudashev](../Sergei-Sergeyevich-Kudashev-1901-1991/README-Sergei-Sergeyevich-Kudashev-1901-1991.md)
 * Painting collection folder & standalone catalogue:
   * [Koudacheff-Collection/](Koudacheff-Collection/)
   * [Koudacheff-Collection/koudacheff-collection.md](Koudacheff-Collection/koudacheff-collection.md)
@@ -165,8 +165,8 @@ Extracted on 2026-11-21 from `0-Sergei-Vladimirovich-Kudashev-1863-1933.md`, `0-
   * [Summary Provenance & Attribution Research - January 2026](Summary%20Provenance%20%26%20Attribution%20Research%20-%20January%202026.pdf)
   * [The landscape (Jan Vermeer van Haarlem I)](Jan%20Vermeer%20van%20Haarlem%20I%20-%20landscape.jpeg)
 * Local research notes, drafts & Word documents:
-  * [2026-07-08-Erik-many-changes.md](2026-07-08-Erik-many-changes.md)
-  * [2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md](2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md)
+  * `2026-07-08-Erik-many-changes.md`
+  * `2026-11-14-Sergei-Vladimirovich-Kudashev-1863-1933-biography.md`
   * [Koudacheff Questionnaire.docx](Koudacheff%20Questionnaire.docx)
   * [Koudacheff Questionnaire replied by Theo.docx](Koudacheff%20Questionnaire%20replied%20by%20Theo.docx)
   * [Kudashev Background.docx](Kudashev%20Background.docx)

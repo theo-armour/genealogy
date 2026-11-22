@@ -11,14 +11,14 @@
 | **Born** | 20 November 1921<br>Boston, Massachusetts (most sources; see Open questions) |
 | **Died** | 12 September 1983 (aged 61)<br>New Haven County, Connecticut (most sources; see Open questions) |
 | **Education** | Beaver Country Day School<br>Mme. Boissier's School, Paris |
-| **Spouses** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/Norman-Armour-Jr-1920-1978.md) (married 28 June 1941; divorced 1952)<br>Chandler Hovey Jr |
-| **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
+| **Spouses** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) (married 28 June 1941; divorced 1952)<br>Chandler Hovey Jr |
+| **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
 
 ## Family and early life
 
-Cynthia Sewall Burrage was born on 20 November 1921, in Boston according to most of the family trees that record her.[1][5][6][8] She was the daughter of Albert Cameron Burrage Jr and Anne Bell Shirk, and a granddaughter of the industrialist and attorney [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md).[1][10][11] Her mother was a founder of The Herb Society of America, which was established at the family's home in Ipswich in 1933.[10]
+Cynthia Sewall Burrage was born on 20 November 1921, in Boston according to most of the family trees that record her.[1][5][6][8] She was the daughter of Albert Cameron Burrage Jr and Anne Bell Shirk, and a granddaughter of the industrialist and attorney [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md).[1][10][11] Her mother was a founder of The Herb Society of America, which was established at the family's home in Ipswich in 1933.[10]
 
-She had an elder brother, [Albert Cameron Burrage III](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/Albert-Cameron-Burrage-III-1919-1944.md) (1919–1944), and a sister, Anne Bell.[1] By June 1941 her sister was Mrs William B. Chace of Uxbridge.[2]
+She had an elder brother, [Albert Cameron Burrage III](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md) (1919–1944), and a sister, Anne Bell.[1] By June 1941 her sister was Mrs William B. Chace of Uxbridge.[2]
 
 One family tree cites the 1930 United States census for her as a daughter in a household in Boston.[8] In 1941 the newspapers described her parents as "of Ipswich and 29 Hereford street, Boston", and "Candlewood Farm" at Ipswich as their summer home.[2][3]
 
@@ -30,7 +30,7 @@ The same report said that in 1940 she was voted the "1940 Belle of the North Sho
 
 ## Marriage to Norman Armour Jr
 
-Her engagement to Norman Armour Jr was announced late in April 1941.[3] He was the son of [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md), then United States Ambassador to Argentina, and was described as "of Princeton, N. J." and a graduate of Princeton University.[2][3]
+Her engagement to Norman Armour Jr was announced late in April 1941.[3] He was the son of [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md), then United States Ambassador to Argentina, and was described as "of Princeton, N. J." and a graduate of Princeton University.[2][3]
 
 They were married on Saturday 28 June 1941 at Ascension Memorial Church in Ipswich. The rector, the Rev. Richard A. Cartmell, officiated.[2][3] The *Boston Daily Record* of that morning headed its society column "Cynthia Burrage Is N. Shore Bride Today" and reported that the bridegroom's parents had travelled from South America for the wedding.[3] The *Boston Sunday Post* of the next day reported that she was given in marriage by her father, that her sister was matron of honor, and that her brother Cameron Burrage and her brother-in-law William B. Chace were among the ushers. The best man was H. Clay Frick of Roslyn, New York. After the ceremony the couple received "several hundred guests" at Candlewood Farm.[2] The *Post* described the bride's dress:
 
@@ -79,7 +79,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Cynthia Burrage Hovey (1921–1983)". Profile page in this repository, with data from Geni. [Cynthia-Burrage-Hovey-1921-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/Cynthia-Burrage-Hovey-1921-1983.md); Geni: <https://www.geni.com/family-tree/index/6000000002789967033>
+1. "Cynthia Burrage Hovey (1921–1983)". Profile page in this repository, with data from Geni. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/additional-notes-not-in-README.md) (extracted from `Cynthia-Burrage-Hovey-1921-1983.md`); Geni: <https://www.geni.com/family-tree/index/6000000002789967033>
 2. "Cynthia Burrage and N. Armour, Jr., Wed". *Boston Sunday Post*, 29 June 1941, datelined Ipswich, 28 June. The page number in the header appears to be 3. Clipping: [images/The_Boston_Post_29_Jun_1941.jpg](images/The_Boston_Post_29_Jun_1941.jpg)
 3. Winslow, Constance. "Cynthia Burrage Is N. Shore Bride Today". *Boston Daily Record*, Saturday 28 June 1941, p. 17. Clipping: [images/The_Boston_Record_28_Jun_1941_17.jpg](images/The_Boston_Record_28_Jun_1941_17.jpg)
 4. "Society Belle in Reno Divorce From Armour". *Boston Post*, Saturday 23 August 1952, p. 2, datelined Ipswich, 22 August. Clipping: [images/The_Boston_Post_23_Aug_1952.jpg](images/The_Boston_Post_23_Aug_1952.jpg)
@@ -88,8 +88,8 @@ Points that family knowledge or family papers may settle. Each links to a confli
 7. Ancestry-derived family tree, record for Cynthia Sewall Burrage. Cites "Ancestry Family Tree" and an index entry for *The Ottawa Citizen*, 15 May 1941 (not seen). `Online-Genealogy/gedcom-files/2025-08-23-carley-armour-family-tree.ged`
 8. Ancestry- and FamilySearch-derived family tree, record for Cynthia Sewall Burrage. Cites the Connecticut Death Index, 1949–2012; Massachusetts Town and Vital Records; the 1930 United States census (Boston, Suffolk, page 7A, enumeration district 0163); and New York passenger lists. None of these records has been seen directly. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
 9. Ancestry GEDCOM export, record for "Cynthia Burrage Armour". `Online-Genealogy/gedcom-files/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged`
-10. "Anne Bell Burrage (1890–1983)". Profile page in this repository. [Anne-Bell-Burrage-1890-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/Anne-Bell-Burrage-1890-1983.md)
-11. "Albert Cameron Burrage Jr (1886–1978)". Profile page in this repository. [Albert-Cameron-Burrage-Jr-1886-1978.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md)
+10. "Anne Bell Burrage (1890–1983)". Profile page in this repository. [README-Anne-Bell-Burrage-1890-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
+11. "Albert Cameron Burrage Jr (1886–1978)". Profile page in this repository. [README-Albert-Cameron-Burrage-Jr-1886-1978.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md)
 
 ## Further research
 

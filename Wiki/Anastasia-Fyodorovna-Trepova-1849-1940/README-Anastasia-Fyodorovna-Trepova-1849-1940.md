@@ -63,9 +63,9 @@ Nothing has been found about how she left Russia. Her daughter Vera died in Pari
 
 ## References
 
-1. "Anastasia Fyodorovna Trepova (1849–1940)" (profile page, with the Geni record). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/Anastasia-Fyodorovna-Trepova-1849-1940.md>
+1. "Anastasia Fyodorovna Trepova (1849–1940)" (profile page, with the Geni record). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md>
 2. "Треповы". *Wikipedia* (Russian). <https://ru.wikipedia.org/wiki/Треповы>
 3. "Трепов, Фёдор Фёдорович (старший)". *Wikipedia* (Russian). <https://ru.wikipedia.org/wiki/Трепов,_Фёдор_Фёдорович_(старший)>
-4. "Sergei Vladimirovich Kudashev (1863–1933)" (profile page). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/0-Sergei-Vladimirovich-Kudashev-1863-1933.md>
+4. "Sergei Vladimirovich Kudashev (1863–1933)" (profile page). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md>
 5. "Нирод, Максимилиан Евстафьевич". *Wikipedia* (Russian). <https://ru.wikipedia.org/wiki/Нирод,_Максимилиан_Евстафьевич>
-6. "Fyodor Maximilianovich von Nieroth (1871–1952)" (profile page). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/Fyodor-Maximilianovich-von-Nieroth-1871-1952.md>
+6. "Fyodor Maximilianovich von Nieroth (1871–1952)" (profile page). Theo Armour Genealogy. <https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md>

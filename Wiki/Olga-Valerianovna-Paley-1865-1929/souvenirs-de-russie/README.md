@@ -2,8 +2,8 @@
 
 Princess Paley's memoir of Russia, 1916–1919, with a preface by Paul Bourget. Published in Paris by Librairie Plon, 1923.
 
-* [Biography of Princess Paley](../../Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md) ~ the author
-* [Biography of Olga Erikovna von Pistohlkors](../../Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) ~ her eldest daughter, the "Countess Kreutz" of chapters IV, XI and XVI, later Princess Serge Koudacheff
+* [Biography of Princess Paley](../../Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md) ~ the author
+* [Biography of Olga Erikovna von Pistohlkors](../../Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) ~ her eldest daughter, the "Countess Kreutz" of chapters IV, XI and XVI, later Princess Serge Koudacheff
 
 ## Start here
 

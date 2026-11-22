@@ -1,6 +1,6 @@
 # Additional Notes Not in README — Cynthia Sewall Burrage Hovey
 
-Extracted on 2026-11-21 from [Cynthia-Burrage-Hovey-1921-1983.md](Cynthia-Burrage-Hovey-1921-1983.md) by comparison against [README-Cynthia-Burrage-Hovey-1921-1983.md](README-Cynthia-Burrage-Hovey-1921-1983.md).
+Extracted on 2026-11-21 from `Cynthia-Burrage-Hovey-1921-1983.md` by comparison against [README-Cynthia-Burrage-Hovey-1921-1983.md](README-Cynthia-Burrage-Hovey-1921-1983.md).
 
 ## Additional Biographical & Family Details
 

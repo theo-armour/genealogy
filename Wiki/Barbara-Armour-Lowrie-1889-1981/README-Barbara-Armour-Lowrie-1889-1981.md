@@ -1,18 +1,18 @@
 # Barbara Armour Lowrie
 
-**Barbara Armour Lowrie** (27 November 1889 – 14 June 1981) was the only daughter of George Allison Armour of Chicago and Princeton, New Jersey, and the wife of the Episcopal clergyman and Kierkegaard translator [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/Walter-Lowrie-1868-1959.md). After his death she gave her family's house at 83 Stockton Street, Princeton, to Princeton University in his memory; as the Walter Lowrie House it has been the residence of the university's president since 1968.[1][2][3] She was the sister of [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) and Theo Armour's great-aunt.[1][8]
+**Barbara Armour Lowrie** (27 November 1889 – 14 June 1981) was the only daughter of George Allison Armour of Chicago and Princeton, New Jersey, and the wife of the Episcopal clergyman and Kierkegaard translator [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md). After his death she gave her family's house at 83 Stockton Street, Princeton, to Princeton University in his memory; as the Walter Lowrie House it has been the residence of the university's president since 1968.[1][2][3] She was the sister of [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) and Theo Armour's great-aunt.[1][8]
 
 | **Barbara Armour Lowrie** | |
 | :--- | :--- |
 | **Born** | 27 November 1889<br>Chicago, Illinois (see Open questions) |
 | **Died** | 14 June 1981 (aged 91)<br>Princeton, New Jersey (see Open questions) |
-| **Spouse** | [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/Walter-Lowrie-1868-1959.md) (married 19 February 1918; died 1959) |
+| **Spouse** | [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md) (married 19 February 1918; died 1959) |
 | **Children** | None |
-| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md) (1856–1936)<br>Harriette Cobb Foote (1859–1924) |
+| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>Harriette Cobb Foote (1859–1924) |
 
 ## Family and early life
 
-Barbara Armour was born on 27 November 1889, in Chicago according to the profile page and the MyHeritage tree.[1][6] She was the daughter of George Allison Armour and Harriette Cobb Foote, and a granddaughter of the Chicago grain merchant [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/George-Armour-1812-1881.md), whose wife was Barbara Allison.[1][7][8] Two family trees give her full name as Barbara Allison Armour.[6]
+Barbara Armour was born on 27 November 1889, in Chicago according to the profile page and the MyHeritage tree.[1][6] She was the daughter of George Allison Armour and Harriette Cobb Foote, and a granddaughter of the Chicago grain merchant [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md), whose wife was Barbara Allison.[1][7][8] Two family trees give her full name as Barbara Allison Armour.[6]
 
 In 1895 her father bought the house at 83 Stockton Street, Princeton, which had been built for John P. Stockton and later occupied by Paul Tulane. *A Princeton Companion* says it "became the childhood home of Barbara Armour and her four brothers".[2] One of the brothers was the diplomat Norman Armour Sr.[1] Find a Grave links her to three others: William (1892–1958), Allison (1896–1955) and Edmund (1899–1912).[5]
 
@@ -72,14 +72,14 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Barbara Armour Lowrie (1889–1981)". Profile page in this repository, with data from Geni. [Barbara-Armour-Lowrie-1889-1981.md](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md)
+1. "Barbara Armour Lowrie (1889–1981)". Profile page in this repository, with data from Geni. [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/additional-notes-not-in-README.md) (extracted from `Barbara-Armour-Lowrie-1889-1981.md`)
 2. Leitch, Alexander. "Lowrie, Walter, House". *A Princeton Companion*. Princeton University Press, 1978, p. 292 ff. Online text: <https://pr.princeton.edu/history/companion/lowrie_house.html>; also reproduced at <https://www.princetonianamuseum.org/artifact/77c68fae-369d-46c4-9d63-96b21361ffaf>
 3. "Reference: Lowrie House". Princetoniana Museum. <https://www.princetonianamuseum.org/reference/7c12f747-767c-406a-a30f-80b76184c3a0>
 4. *Walter Lowrie Papers, 1843–1978 (bulk 1891–1959)* (C0286). Manuscripts Division, Special Collections, Princeton University Library. Finding aid: biographical note and source of acquisition. <https://findingaids.princeton.edu/catalog/C0286>
 5. Find a Grave, memorial 108027152, "Barbara Armour Lowrie", Princeton Cemetery, Princeton, Mercer County, New Jersey. <https://www.findagrave.com/memorial/108027152/barbara-lowrie>
 6. Family-tree exports in this repository, records for Barbara Armour and her parents: Geni (`Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged`); MyHeritage (`2025-08-18-myheritage-armour.ged`); Ancestry (`2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged`); and two Ancestry- and FamilySearch-derived trees (`2025-08-23-carley-armour-family-tree.ged`, `2025-08-28-matthew-family-tree.ged`). The last cites the 1900 and 1940 censuses, the New Jersey marriage index for 1915–1919, a 1919 passport application and the Social Security Death Index; none of these records has been seen.
-7. "George Allison Armour (1856–1936)". Profile page in this repository. [George-Allison-Armour-1856-1936.md](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md)
-8. "Armour Read Me" (`Armour/README-Armour.md`) and "Norman Armour Sr (1887–1982)", profile page, in this repository. [Norman-Armour-Sr-1887-1982.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md)
+7. "George Allison Armour (1856–1936)". Profile page in this repository. [README-George-Allison-Armour-1856-1936.md](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md)
+8. "Armour Read Me" (`Armour/README-Armour.md`) and "Norman Armour Sr (1887–1982)", profile page, in this repository. [README-Norman-Armour-Sr-1887-1982.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md)
 9. "The Walter Lowrie House". Princeton & Slavery Project, Princeton University. <https://slavery.princeton.edu/stories/the-walter-lowrie-house>
 
 ## Further research

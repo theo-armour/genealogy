@@ -14,9 +14,9 @@
 | **Occupation** | Attorney; gas-company president; copper-mining promoter; horticulturist |
 | **Offices** | Boston Common Council (1892)<br>Boston Transit Commission<br>President, Massachusetts Horticultural Society (from 1921)<br>First president, American Orchid Society (1921, for eight years) |
 | **Awards** | George Robert White Medal of Honor, Massachusetts Horticultural Society (1922)<br>Lindley Medal, Royal Horticultural Society (1925) |
-| **Spouse** | [Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md) (married 10 November 1885; died December 1947) |
-| **Children** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>Francis Hathaway (1888–1911)<br>Russell<br>Elizabeth Alice, Mrs Harold L. Chalifoux (1895–1987) |
-| **Parents** | [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/George-Sanderson-Burrage-1823-1876.md) (1823–1876)<br>Aurelia Chamberlin (also recorded as Amelia C. Chamberlain) |
+| **Spouse** | [Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) (married 10 November 1885; died December 1947) |
+| **Children** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>Francis Hathaway (1888–1911)<br>Russell<br>Elizabeth Alice, Mrs Harold L. Chalifoux (1895–1987) |
+| **Parents** | [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md) (1823–1876)<br>Aurelia Chamberlin (also recorded as Amelia C. Chamberlain) |
 
 ## Family and early life
 
@@ -60,7 +60,7 @@ In Redlands, the historical society records gifts of $20,000 from Mrs Burrage to
 
 He married **Alice Hathaway Haskell** of Boston on 10 November 1885.[2][14] Her birth is recorded variously (see Open questions). She died in December 1947.[7] They had four children:[3][7][14]
 
-* **[Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md)** (30 August 1886 – 8 February 1978), Harvard 1908, metallurgist and mining engineer, who married Anne Bell Shirk in April 1915 and was the grandfather of Theo Armour.[7][14][15]
+* **[Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md)** (30 August 1886 – 8 February 1978), Harvard 1908, metallurgist and mining engineer, who married Anne Bell Shirk in April 1915 and was the grandfather of Theo Armour.[7][14][15]
 * **Francis Hathaway Burrage** (born 14 March 1888), Harvard 1910, banker, who married Marion Otis Gay in September 1911 and died in December 1911.[7][14]
 * **Russell Burrage** (born 18 December 1889), Harvard 1911, who married Katharine Lee Baxter in April 1912.[7][14]
 * **Elizabeth Alice Burrage** (12 July 1895 – 25 December 1987), who married Harold Leufroi Chalifoux in November 1916.[7][14]
@@ -117,7 +117,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "Albert Cameron Burrage (1859–1931)". Profile page in this repository, with data from Geni, and the entry in [Peeps-in-My-Family.md](https://theo-armour.github.io/genealogy/#Peeps-in-My-Family.md). [Albert-Cameron-Burrage-Sr-1859-1931.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md); Geni: <https://www.geni.com/people/Albert-Burrage-Sr/364409776800007631>
+1. "Albert Cameron Burrage (1859–1931)". Profile page in this repository, with data from Geni, and the entry in [Peeps-in-My-Family.md](https://theo-armour.github.io/genealogy/#Peeps-in-My-Family.md). [additional-notes-not-in-README.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/additional-notes-not-in-README.md) (extracted from `Albert-Cameron-Burrage-Sr-1859-1931.md`); Geni: <https://www.geni.com/people/Albert-Burrage-Sr/364409776800007631>
 2. "Albert Burrage". *Wikipedia*. Cites "A. C. Burrage dead; Boston attorney", *New York Times*, 30 June 1931, p. 25; "In Memorium", *American Orchid Society Bulletin* 1:1 (June 1932), pp. 2–4; *The Mineralogical Record* biographical archive; *New York Times*, 28 May 1907, p. 2. <https://en.wikipedia.org/wiki/Albert_Burrage>
 3. Young, William, and David Payne. *The Burrage House: Study Report*. Boston Landmarks Commission, n.d. (about 2003), pp. 28–30. <https://www.cityofboston.gov/environment/pdfs/burrage.pdf>
 4. Burrage, Alvah A. *The Burrage Memorial: A Genealogical History of the Descendants of John Burrage, who Settled in Charlestown, Mass., in 1637*. Boston: Alfred Mudge and Son, 1877, pp. 84, 109, 177. <https://archive.org/details/burragememorialg00burr>
@@ -131,9 +131,9 @@ Points that family knowledge or family papers may settle. Each links to a confli
 12. Burrage, Albert C. *The Twenty-Minute-a-Day Garden*. Boston: Houghton Mifflin, 1943. Copy in this repository: `Burrage/The twenty-minute-a-day garden -- Burrage, Albert C_ (Albert Cameron), 1859-1931 -- Boston, Massachusetts, 1943.pdf`; also <https://archive.org/details/twentyminuteaday00burr>
 13. "Bumpkin Island". Boston Harbor Islands, National Park Service. <https://www.nps.gov/boha/learn/historyculture/facts-bump.htm>
 14. Ancestry- and FamilySearch-derived family tree, records for Albert Cameron Burrage, Alice Lillian Hathaway Haskell, their children and his parents. Cites the 1900 United States census (Cohasset, Norfolk, roll 669, page 23, enumeration district 1029), not seen directly. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
-15. "Albert Cameron Burrage Jr (1886–1978)". Profile page in this repository. [Albert-Cameron-Burrage-Jr-1886-1978.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/Albert-Cameron-Burrage-Jr-1886-1978.md)
+15. "Albert Cameron Burrage Jr (1886–1978)". Profile page in this repository. [README-Albert-Cameron-Burrage-Jr-1886-1978.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md)
 16. Geni GEDCOM exports (geni:364409776800007631), MyHeritage GEDCOM export (quoting the Geni World Family Tree) and Ancestry GEDCOM export. `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`, `Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged`, `Online-Genealogy/gedcom-files/2025-08-18-myheritage-armour.ged`, `Online-Genealogy/gedcom-files/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged`
-17. "Alice Hathaway Haskell (1857–1947)". Profile page in this repository. [Alice-Hathaway-Haskell-Burrage-1861-1947.md](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/Alice-Hathaway-Haskell-Burrage-1861-1947.md)
+17. "Alice Hathaway Haskell (1857–1947)". Profile page in this repository. [README-Alice-Hathaway-Haskell-Burrage-1861-1947.md](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md)
 18. "Albert C. Burrage". Garden Club of America, medalists: Distinguished Service Medal, 1961, for experiments with small vegetables and fruits at his model farm in Ipswich. <https://www.gcamerica.org/medalists/albert-c-burrage>
 
 ## Further research

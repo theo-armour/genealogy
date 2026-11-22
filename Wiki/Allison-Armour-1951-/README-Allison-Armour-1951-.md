@@ -99,7 +99,6 @@ Because Allison is living, this biography is limited to publicly available mater
 
 * **LinkedIn details.** If you would like to sign in to LinkedIn in the browser (or paste the text from her LinkedIn profile), I can merge her exact education years, work history, and any additional roles into this biography.
 * **Personal/family details.** Should the page stay strictly with birth year `1951` and public career details, or would you like to include her full birth date, siblings, or any other family details?
-* **Earlier stub file.** [Allison-Armour-1951-.md](Allison-Armour-1951-.md) now contains only her website URL and blank headings; okay to delete it?
 * **Recollections and images.** Would you like to add any personal comments or a portrait/sculpture photograph in `images/`?
 
 ## References

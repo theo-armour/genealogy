@@ -6,7 +6,7 @@
 
 No portrait of him is held in this folder.
 
-**George Allison Armour** (27 March 1856 – 8 June 1936) was a Chicago-born Princeton graduate of the class of 1877 who settled at Princeton, New Jersey, in 1895 and lived there for the rest of his life. A son of the Chicago grain-elevator proprietor George Armour, he was a hospital and library trustee and church builder in Chicago, and a collector of books, whose library was sold at auction in New York in 1937. His house at 83 Stockton Street, Princeton, was later given to Princeton University by his daughter and is now the residence of the university's president.[3][4][5][6][7][8] He was the father of the diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) and Theo Armour's paternal great-grandfather.[1][14]
+**George Allison Armour** (27 March 1856 – 8 June 1936) was a Chicago-born Princeton graduate of the class of 1877 who settled at Princeton, New Jersey, in 1895 and lived there for the rest of his life. A son of the Chicago grain-elevator proprietor George Armour, he was a hospital and library trustee and church builder in Chicago, and a collector of books, whose library was sold at auction in New York in 1937. His house at 83 Stockton Street, Princeton, was later given to Princeton University by his daughter and is now the residence of the university's president.[3][4][5][6][7][8] He was the father of the diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) and Theo Armour's paternal great-grandfather.[1][14]
 
 | **George Allison Armour** | |
 | :--- | :--- |
@@ -15,14 +15,14 @@ No portrait of him is held in this folder.
 | **Education** | Princeton (B.A. and M.A.; class of 1877) |
 | **Occupation** | Recorded as a lawyer in 1880 and as retired in 1915; book collector |
 | **Spouse** | Harriette Cobb Foote (1859–1924; married 27 April 1882) |
-| **Children** | George (1884–1893)<br>Paul (1886–1887)<br>[Norman](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Barbara](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/Barbara-Armour-Lowrie-1889-1981.md) (1889–1981)<br>William (1892–1958)<br>Allison (born 1896)<br>Edmund (1899–1912) |
-| **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/George-Armour-1812-1881.md) (1812–1881)<br>Barbara Allison (1826–1898) |
+| **Children** | George (1884–1893)<br>Paul (1886–1887)<br>[Norman](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Barbara](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (1889–1981)<br>William (1892–1958)<br>Allison (born 1896)<br>Edmund (1899–1912) |
+| **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>Barbara Allison (1826–1898) |
 
 ## Family and early life
 
 George Allison Armour was born in Chicago on 27 March 1856. He gave that date and place himself, on oath, in a passport application of January 1920, and the family trees agree.[1][9][12][13] He was the second son of George Armour, a Scottish-born contractor and grain-elevator proprietor, and Barbara Allison.[1][9][12]
 
-His elder brother John William died in 1865. His younger brothers were William (1858–1888) and [Allison Vincent Armour](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/Allison-Vincent-Armour-1863-1941.md) (1863–1941), the yachtsman and patron of scientific expeditions, and his sister was Mary Greenlee (1868–1958), who married the architect [Francis Meredyth Whitehouse](https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/Francis-Meredyth-Whitehouse-1848-1938.md).[12][13]
+His elder brother John William died in 1865. His younger brothers were William (1858–1888) and [Allison Vincent Armour](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md) (1863–1941), the yachtsman and patron of scientific expeditions, and his sister was Mary Greenlee (1868–1958), who married the architect [Francis Meredyth Whitehouse](https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md).[12][13]
 
 Two family trees cite the 1860 census for the household at Waukegan, Lake County, Illinois, and the 1870 census in the First Ward of Chicago.[13]
 
@@ -38,14 +38,14 @@ He was also the builder of St. Clement's Church in Chicago. A. T. Andreas's *His
 
 ## Marriage and children
 
-On 27 April 1882, in Chicago, he married Harriette Cobb Foote.[3][4] She was born on 15 November 1859, the youngest child of Erastus Foote (1821–1893), a Bowdoin graduate and lawyer of Wiscasset, Maine, who moved his family to Chicago in 1868, and of Sarah Page Wood. She was a granddaughter of [Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/Erastus-Foote-1777-1856.md) (1777–1856) of Wiscasset.[4] Her father and her husband's father were ordained elders of the Second Presbyterian Church of Chicago on the same occasion, in April 1877.[10]
+On 27 April 1882, in Chicago, he married Harriette Cobb Foote.[3][4] She was born on 15 November 1859, the youngest child of Erastus Foote (1821–1893), a Bowdoin graduate and lawyer of Wiscasset, Maine, who moved his family to Chicago in 1868, and of Sarah Page Wood. She was a granddaughter of [Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md) (1777–1856) of Wiscasset.[4] Her father and her husband's father were ordained elders of the Second Presbyterian Church of Chicago on the same occasion, in April 1877.[10]
 
 Abram W. Foote's *Foote Family* (1907) lists seven children:[4]
 
 * George, born in Chicago on 16 December 1884; died 30 May 1893. A note in the Geni tree says he died of diphtheria in Chicago at the age of eight.[12]
 * Paul, born 4 July 1886; died 23 January 1887.
 * Norman, born 14 October 1887, at Brighton, England, while his parents were there.[12][16] He became a career diplomat.
-* Barbara, born 27 November 1889. She married the Rev. [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/Walter-Lowrie-1868-1959.md).[6]
+* Barbara, born 27 November 1889. She married the Rev. [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md).[6]
 * William, born 23 January 1892.
 * Allison, born 27 August 1896; the family trees give the place as Manchester, Vermont.[13]
 * Edmund, born 26 July, in a year printed as 1889 but evidently 1899. The family trees say he died at Concord, New Hampshire, on 4 June 1912.[12][13]
@@ -108,7 +108,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 
 ## References
 
-1. "George Allison Armour (1856–1936)". Profile page in this repository, with data from Geni. [George-Allison-Armour-1856-1936.md](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/George-Allison-Armour-1856-1936.md); Geni: <https://www.geni.com/people/George-Armour/6000000002789973002>
+1. "George Allison Armour (1856–1936)". Profile page in this repository, with data from Geni. `George-Allison-Armour-1856-1936.md` (merged into this README and removed); Geni: <https://www.geni.com/people/George-Armour/6000000002789973002>
 2. Death notice, "ARMOUR—George Allison". Clipping in this folder, attributed by its file name to the *New York Times*, 9 June 1936: [images/george allison armour ny times 06 09 1936.png](images/george%20allison%20armour%20ny%20times%2006%2009%201936.png)
 3. *"After Twenty Years": The Record of the Class of 1877, Princeton University, 1877–1897*. 1898. Entry for George A. Armour; list of marriages; account of the twentieth reunion. Read in the digitised text. <https://archive.org/details/aftertwentyyears00prin_0>
 4. Foote, Abram W. *Foote Family, Comprising the Genealogy and History of Nathaniel Foote, of Wethersfield, Conn., and His Descendants*, vol. 1. 1907. No. 1479, Erastus Foote, and no. 2963, Harriette Cobb, p. 297. <https://archive.org/details/footefamilycompr01foot>
@@ -123,7 +123,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 13. Ancestry- and FamilySearch-derived family trees, records for George Allison Armour, Harriette Cobb Foote and their children; with the accompanying research notes. They cite the United States censuses of 1860–1930, the New Jersey state censuses of 1905 and 1915, New York passenger lists, newspaper obituary indexes for June 1936 (*Brooklyn Times Union*, *Chicago Tribune*, and a Trenton paper) and Find a Grave memorial 108027119. None of these records has been seen directly. `Online-Genealogy/gedcom-files/2025-08-23-carley-armour-family-tree.ged`, `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged` and `Online-Genealogy/fiverr/jeff-carley/alt lineage with bios.txt`
 14. "Armour Read Me". This repository. [README-Armour.md](https://theo-armour.github.io/genealogy/#Armour/README-Armour.md)
 15. "Correspondence on Saint Clement's Stones". Transcript of letters of 1887–1888 from the archives of St. Clement's Church, Philadelphia, digitised by Richard Mammana, 2024; the item description names George Allison Armour as the recipient. <https://archive.org/details/clement-stones>
-16. "Norman Armour Sr (1887–1982)". Profile page in this repository. [Norman-Armour-Sr-1887-1982.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/Norman-Armour-Sr-1887-1982.md); and "Norman Armour", *Wikipedia*. <https://en.wikipedia.org/wiki/Norman_Armour>
+16. "Norman Armour Sr (1887–1982)". Profile page in this repository. [README-Norman-Armour-Sr-1887-1982.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md); and "Norman Armour", *Wikipedia*. <https://en.wikipedia.org/wiki/Norman_Armour>
 17. "George Armour". *Wikipedia*, read 21 November 2026. <https://en.wikipedia.org/wiki/George_Armour>
 
 ## Further research

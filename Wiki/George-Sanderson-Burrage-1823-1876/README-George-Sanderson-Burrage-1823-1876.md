@@ -4,7 +4,7 @@
 
 | `george-sanderson-burrage.jpeg` | George Sanderson Burrage (1823–1876). Engraved or drawn portrait with the printed caption "GEORGE SANDERSON BURRAGE." The signature at lower right appears to read "Marianne Mathieu" with a date in the 1870s; it is faint and the reading is uncertain. | Source not recorded |
 
-**George Sanderson Burrage** (15 May 1823 – 16 May 1876) was a Massachusetts chair manufacturer who later planted vineyards in Napa County, California. Born in Leominster, he founded with his brothers the chair-making settlement of Burrageville in Ashburnham, Massachusetts, served as a selectman of Ashburnham, and moved to Napa about 1861, where he was a partner in the Vine Cliff Vineyard near Yountville.[1][2][3][4] He was the father of the copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md) and Theo Armour's maternal great-great-grandfather.[5][6]
+**George Sanderson Burrage** (15 May 1823 – 16 May 1876) was a Massachusetts chair manufacturer who later planted vineyards in Napa County, California. Born in Leominster, he founded with his brothers the chair-making settlement of Burrageville in Ashburnham, Massachusetts, served as a selectman of Ashburnham, and moved to Napa about 1861, where he was a partner in the Vine Cliff Vineyard near Yountville.[1][2][3][4] He was the father of the copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) and Theo Armour's maternal great-great-grandfather.[5][6]
 
 | **George Sanderson Burrage** | |
 | :--- | :--- |
@@ -12,7 +12,7 @@
 | **Died** | 16 May 1876 (aged 53)<br>Napa County, California (see Open questions) |
 | **Occupation** | Chair manufacturer; vineyard owner and grape grower |
 | **Spouses** | Martha G. Phelps of Leominster (married 2 April 1844; died 6 August 1849)<br>Aurelia Chamberlin (married 1 January 1851) (see Open questions for the name) |
-| **Children** | By Martha: Clara A. (b. 1844), Ellen M. (1847–1867), Mary E. (1849–1849)<br>By Aurelia: Cora Chamberlin (b. 1851), William Henry (1854–1854), Martha Bayley (1855–1855), Charles Dana (b. 1857), [Albert Cameron](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931) |
+| **Children** | By Martha: Clara A. (b. 1844), Ellen M. (1847–1867), Mary E. (1849–1849)<br>By Aurelia: Cora Chamberlin (b. 1851), William Henry (1854–1854), Martha Bayley (1855–1855), Charles Dana (b. 1857), [Albert Cameron](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931) |
 | **Parents** | Deacon William Burrage (1768–1844)<br>Roxanna Sanderson of Lancaster |
 
 ## Family and early life
@@ -90,7 +90,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 2. Stearns, Ezra S. *History of Ashburnham, Massachusetts, from the Grant of Dorchester Canada to the Present Time, 1734–1886*. 1887. Town officers, p. 239; "Burrageville", pp. 415–416; post office, p. 532. <https://archive.org/details/historyofashburn00stea>
 3. Menefee, C. A. *Historical and Descriptive Sketch Book of Napa, Sonoma, Lake, and Mendocino*. 1873. "Agricultural Resources", pp. 197–198 and 207–209. <https://archive.org/details/historicaldescri01mene>
 4. "Our Story". Vine Cliff Winery. <https://vinecliff1871.com/story>
-5. "George Sanderson Burrage (1823–1876)". Profile page in this repository, with data from Geni. [George-Sanderson-Burrage-1823-1876.md](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/George-Sanderson-Burrage-1823-1876.md); Geni: <https://www.geni.com/people/George-Burrage/6000000002789973055>; Find a Grave memorial 151877066 (not read; the site refused automated access): <https://www.findagrave.com/memorial/151877066/george_sanderson-burrage>
+5. "George Sanderson Burrage (1823–1876)". Profile page in this repository, with data from Geni. `George-Sanderson-Burrage-1823-1876.md` (merged into this README and removed); Geni: <https://www.geni.com/people/George-Burrage/6000000002789973055>; Find a Grave memorial 151877066 (not read; the site refused automated access): <https://www.findagrave.com/memorial/151877066/george_sanderson-burrage>
 6. *Harvard College Class of 1883. Sixth Report*. Boston, 1913. Entry for Albert Cameron Burrage, pp. 15–17. <https://archive.org/details/6threportclass1883harvuoft>
 7. Geni GEDCOM exports, record for George Sanderson Burrage (geni:6000000002789973055), with the note "Source: The Burrage Memorial". `Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged` and `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
 8. "Albert Burrage". *Wikipedia*. Cites "In Memoriam", *American Orchid Society Bulletin*, vol. 1, no. 1 (June 1932), pp. 2–4. <https://en.wikipedia.org/wiki/Albert_Burrage>
