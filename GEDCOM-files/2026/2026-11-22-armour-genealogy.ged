@@ -1,0 +1,1471 @@
+0 HEAD
+1 SOUR THEO-ARMOUR-GENEALOGY
+2 NAME Theo Armour Genealogy
+1 DEST ANY
+1 DATE 22 NOV 2026
+1 SUBM @U1@
+1 FILE 2026-11-22-armour-genealogy.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 NOTE Master tree for https://theo-armour.github.io/genealogy.
+2 CONT One person for each Wiki biography, plus the people needed to connect them.
+2 CONT Facts are taken from the Wiki biographies, which are cited on every person.
+2 CONT Where sources disagree, the date the biography prefers is given and a NOTE records the alternatives.
+2 CONT Living people are recorded by name only.
+2 CONT Hand-maintained: edit this file, not the exports in GEDCOM-files/2025.
+0 @U1@ SUBM
+1 NAME Theo Armour
+1 WWW https://theo-armour.github.io/genealogy
+0 @S1@ SOUR
+1 TITL Theo Armour Genealogy Wiki
+1 AUTH Theo Armour
+1 PUBL https://theo-armour.github.io/genealogy/#Wiki/README.md
+1 NOTE One biography per person, each with its own references and open questions. The PAGE of each citation is the URL of the biography.
+0 @I01@ INDI
+1 NAME Norman "Theo" /Armour/ III
+2 GIVN Norman
+2 NICK Theo
+2 SURN Armour
+2 NSFX III
+1 SEX M
+1 NOTE Living. Personal details are omitted.
+1 FAMC @F01@
+1 REFN geni:6000000004118029730
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Norman-Theo-Armour-III-1947-/Norman-Theo-Armour-III-1947-.md
+0 @I02@ INDI
+1 NAME Norman /Armour/ Jr
+2 GIVN Norman
+2 SURN Armour
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 10 FEB 1920
+2 PLAC Brussels, Belgium
+2 NOTE Birthplace discussed under Open questions in the biography.
+1 DEAT
+2 DATE 26 APR 1978
+2 PLAC New York, New York, USA
+1 FAMC @F02@
+1 FAMS @F01@
+1 REFN geni:6000000002789967025
+2 TYPE Geni
+1 NOTE Married second Cynthia Brooks Howe.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md
+0 @I03@ INDI
+1 NAME Cynthia Sewall /Burrage/
+2 GIVN Cynthia Sewall
+2 SURN Burrage
+1 NAME Cynthia Sewall /Hovey/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 20 NOV 1921
+2 PLAC Boston, Massachusetts, USA
+1 DEAT
+2 DATE 12 SEP 1983
+2 PLAC New Haven County, Connecticut, USA
+2 NOTE Most sources; see Open questions in the biography.
+1 FAMC @F03@
+1 FAMS @F01@
+1 REFN geni:6000000002789967033
+2 TYPE Geni
+1 NOTE Married second Chandler Hovey Jr.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md
+0 @I04@ INDI
+1 NAME Allison /Armour/
+2 GIVN Allison
+2 SURN Armour
+1 NAME Allison /Armour-Wilson/
+2 TYPE aka
+1 SEX F
+1 NOTE Living. Personal details are omitted.
+1 FAMC @F01@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Allison-Armour-1951-/README-Allison-Armour-1951-.md
+0 @I05@ INDI
+1 NAME Norman /Armour/ Sr
+2 GIVN Norman
+2 SURN Armour
+2 NSFX Sr
+1 SEX M
+1 BIRT
+2 DATE 14 OCT 1887
+2 PLAC Brighton, Sussex, England
+2 NOTE See Open questions in the biography for the day.
+1 DEAT
+2 DATE 27 SEP 1982
+2 PLAC New York, New York, USA
+1 OCCU Diplomat
+1 FAMC @F04@
+1 FAMS @F02@
+1 REFN geni:6000000002789971986
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md
+0 @I06@ INDI
+1 NAME Maria Sergeyevna /Kudasheva/
+2 GIVN Maria Sergeyevna
+2 NICK Myra
+2 SURN Kudasheva
+2 NPFX Princess
+1 NAME Мария Сергеевна /Кудашева/
+2 TYPE aka
+1 NAME Myra /Koudacheff/
+2 TYPE aka
+1 NAME Maria Sergeyevna /Armour/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 7 APR 1895
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE The year is also given as 1896.
+1 DEAT
+2 DATE 15 SEP 1990
+2 PLAC United States
+1 FAMC @F05@
+1 FAMS @F02@
+1 REFN geni:364408351200007646
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md
+0 @I07@ INDI
+1 NAME Albert Cameron /Burrage/ Jr
+2 GIVN Albert Cameron
+2 SURN Burrage
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 30 AUG 1886
+2 PLAC Boston, Massachusetts, USA
+2 NOTE Most sources; Geni gives 1887.
+1 DEAT
+2 DATE 8 FEB 1978
+2 PLAC Ipswich, Massachusetts, USA
+1 FAMC @F06@
+1 FAMS @F03@
+1 REFN geni:6000000002789973029
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md
+0 @I08@ INDI
+1 NAME Anne Bell /Shirk/
+2 GIVN Anne Bell
+2 SURN Shirk
+1 NAME Anne Bell /Burrage/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 6 OCT 1893
+2 PLAC Philadelphia, Pennsylvania, USA
+2 NOTE Most sources; the profile page gives 1890.
+1 DEAT
+2 DATE AUG 1983
+2 PLAC Ipswich, Massachusetts, USA
+2 NOTE 22 or 28 August.
+1 BURI
+2 PLAC Highland Cemetery, Ipswich, Massachusetts, USA
+1 FAMC @F07@
+1 FAMS @F03@
+1 REFN geni:6000000002789973022
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md
+0 @I09@ INDI
+1 NAME Albert Cameron /Burrage/ III
+2 GIVN Albert Cameron
+2 SURN Burrage
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 14 FEB 1919
+2 PLAC Boston or Ipswich, Massachusetts, USA
+1 DEAT
+2 DATE 8 AUG 1944
+2 PLAC near Gouesnou, Finistère, France
+2 NOTE Most sources; see Open questions in the biography.
+1 BURI
+2 PLAC Brittany American Cemetery, France
+2 NOTE Plot K, Row 13, Grave 19.
+1 FAMC @F03@
+1 REFN geni:364410217780007647
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md
+0 @I10@ INDI
+1 NAME George Allison /Armour/
+2 GIVN George Allison
+2 SURN Armour
+1 SEX M
+1 BIRT
+2 DATE 27 MAR 1856
+2 PLAC Chicago, Illinois, USA
+1 DEAT
+2 DATE 8 JUN 1936
+2 PLAC Princeton, New Jersey, USA
+1 FAMC @F08@
+1 FAMS @F04@
+1 REFN geni:6000000002789973002
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md
+0 @I11@ INDI
+1 NAME Harriette Cobb /Foote/
+2 GIVN Harriette Cobb
+2 SURN Foote
+1 NAME Harriette Cobb /Armour/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1859
+2 PLAC Wiscasset, Lincoln County, Maine, USA
+2 NOTE Geni gives Chicago; Wiscasset fits Foote Family (1907), which says the family moved to Chicago in 1868.
+1 DEAT
+2 DATE 11 OCT 1924
+2 PLAC Princeton, New Jersey, USA
+1 BURI
+2 PLAC Princeton, New Jersey, USA
+1 FAMC @F09@
+1 FAMS @F04@
+1 REFN geni:6000000002789973007
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md
+0 @I12@ INDI
+1 NAME Barbara /Armour/
+2 GIVN Barbara
+2 SURN Armour
+1 NAME Barbara Armour /Lowrie/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1889
+2 PLAC Chicago, Illinois, USA
+1 DEAT
+2 DATE 14 JUN 1981
+2 PLAC Princeton, New Jersey, USA
+1 FAMC @F04@
+1 FAMS @F27@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md
+0 @I13@ INDI
+1 NAME Sergei Vladimirovich /Kudashev/
+2 GIVN Sergei Vladimirovich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Сергей Владимирович /Кудашев/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1863
+2 PLAC Kiev, Kiev Governorate, Russian Empire
+2 NOTE The biography gives 14 December (O.S. 14 September) 1863; Geni gives 14 September 1863.
+1 DEAT
+2 DATE 27 FEB 1933
+2 PLAC Florence, Italy
+2 NOTE 27 or 28 February.
+1 BURI
+2 PLAC Cimitero Evangelico agli Allori, Florence, Italy
+1 OCCU Kammerherr; art collector
+1 FAMC @F10@
+1 FAMS @F05@
+1 FAMS @F25@
+1 REFN geni:6000000019323938097
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md
+0 @I14@ INDI
+1 NAME Vera Maximilianovna /von Nieroth/
+2 GIVN Vera Maximilianovna
+2 SURN von Nieroth
+2 NPFX Countess
+1 NAME Vera Maximilianovna /Kudasheva/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 23 JUL 1874
+2 PLAC St. Petersburg, Russian Empire
+1 DEAT
+2 DATE 26 JAN 1920
+2 PLAC Paris, France
+1 FAMC @F11@
+1 FAMS @F05@
+1 REFN geni:6000000019323779328
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md
+0 @I15@ INDI
+1 NAME Sergei Sergeyevich /Kudashev/
+2 GIVN Sergei Sergeyevich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Сергей Сергеевич /Кудашев/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE BET 15 OCT 1901 AND 20 OCT 1901
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE 15 or 20 October.
+1 DEAT
+2 DATE 14 APR 1991
+2 PLAC France
+1 BURI
+2 PLAC Père Lachaise Cemetery, Paris, France
+1 FAMC @F05@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Sergeyevich-Kudashev-1901-1991/README-Sergei-Sergeyevich-Kudashev-1901-1991.md
+0 @I16@ INDI
+1 NAME Albert Cameron /Burrage/ Sr
+2 GIVN Albert Cameron
+2 SURN Burrage
+2 NSFX Sr
+1 SEX M
+1 BIRT
+2 DATE 21 NOV 1859
+2 PLAC Ashburnham, Massachusetts, USA
+2 NOTE Some trees give 21 May.
+1 DEAT
+2 DATE JUN 1931
+2 PLAC Beverly or West Manchester, Massachusetts, USA
+2 NOTE 28 June at Beverly, or 29 June at West Manchester.
+1 OCCU Lawyer; copper-mining promoter
+1 FAMC @F12@
+1 FAMS @F06@
+1 REFN geni:364409776800007631
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md
+0 @I17@ INDI
+1 NAME Alice Hathaway /Haskell/
+2 GIVN Alice Hathaway
+2 SURN Haskell
+1 NAME Alice Hathaway /Burrage/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE BET 1857 AND 1862
+2 PLAC Hong Kong
+2 NOTE 6 October, in 1857, 1861 or 1862. Most sources give Hong Kong or "China".
+1 DEAT
+2 DATE 21 DEC 1947
+2 PLAC Manchester, Essex County, Massachusetts, USA
+2 NOTE 21 or 22 December.
+1 FAMC @F13@
+1 FAMS @F06@
+1 REFN geni:364409907770007569
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md
+0 @I18@ INDI
+1 NAME James Cameron Marshall /Shirk/
+2 GIVN James Cameron Marshall
+2 SURN Shirk
+1 NAME James Carson Marshall /Shirk/
+2 TYPE aka
+1 NAME J. C. Marshall /Shirk/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 23 JUN 1865
+2 PLAC Philadelphia, Pennsylvania, USA
+1 DEAT
+2 DATE 24 AUG 1918
+2 PLAC Scranton or Philadelphia, Pennsylvania, USA
+1 OCCU Architect
+1 FAMC @F14@
+1 FAMS @F07@
+1 REFN geni:6000000187323507829
+2 TYPE Geni
+1 NOTE His middle name is Cameron in some family records and Carson in most other sources.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md
+0 @I19@ INDI
+1 NAME Ida W. /Watkins/
+2 GIVN Ida W.
+2 SURN Watkins
+1 NAME Ida /Shirk/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1864
+2 PLAC Little Rock, Arkansas, USA
+1 DEAT
+2 DATE ABT 21 NOV 1951
+2 PLAC Ipswich, Massachusetts, USA
+1 FAMC @F15@
+1 FAMS @F07@
+1 REFN geni:364428047360003312
+2 TYPE Geni
+1 NOTE The 1900 parish history makes her a daughter of Chief Justice George C. Watkins; a 1915 newspaper excerpt calls her his granddaughter.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md
+0 @I20@ INDI
+1 NAME George /Armour/
+2 GIVN George
+2 SURN Armour
+1 SEX M
+1 BIRT
+2 DATE 24 APR 1812
+2 PLAC Campbeltown, Argyll, Scotland
+1 BAPM
+2 DATE 28 APR 1812
+2 PLAC Campbeltown, Argyll, Scotland
+1 DEAT
+2 DATE 13 JUN 1881
+2 PLAC Brighton, Sussex, England
+1 BURI
+2 PLAC Graceland Cemetery, Chicago, Illinois, USA
+1 OCCU Grain-elevator proprietor
+1 FAMS @F08@
+1 REFN geni:364407867780007569
+2 TYPE Geni
+1 NOTE Parents Archibald Armour (1782-1828) and Ann Greenlees (1785-1859), according to the family trees.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md
+0 @I21@ INDI
+1 NAME Barbara /Allison/
+2 GIVN Barbara
+2 SURN Allison
+1 NAME Barbara Allison /Armour/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE BET 14 MAY 1826 AND 15 MAY 1826
+2 PLAC Scotland
+2 NOTE Place uncertain: one tree gives "Milton, East Lothian, Lanarkshire"; Wikipedia says Aberdeen.
+1 DEAT
+2 DATE FEB 1898
+2 PLAC Charleston, South Carolina, USA
+2 NOTE Two trees give 1 February 1898 at Charleston; Harvey says she died on her son's yacht in Cuban waters. Geni and MyHeritage give February 1893 in Illinois.
+1 FAMS @F08@
+1 REFN geni:364408151370007582
+2 TYPE Geni
+1 NOTE Daughter of William Allison "of Millbank, Scotland, and Chicago"; Geni names her mother Barbara Wark.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md
+0 @I22@ INDI
+1 NAME Allison Vincent /Armour/
+2 GIVN Allison Vincent
+2 SURN Armour
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1863
+2 PLAC Chicago, Illinois, USA
+1 DEAT
+2 DATE 6 MAR 1941
+2 PLAC New York, New York, USA
+2 NOTE 6 or 7 March.
+1 FAMC @F08@
+1 NOTE Married Anne Louise Kelley, 10 December 1885; she died 3 April 1890. No children.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md
+0 @I23@ INDI
+1 NAME Erastus /Foote/ Jr
+2 GIVN Erastus
+2 SURN Foote
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 1821
+2 PLAC Wiscasset, Lincoln County, Maine, USA
+1 DEAT
+2 DATE 20 FEB 1893
+2 PLAC Chicago, Illinois, USA
+1 OCCU Lawyer
+1 FAMC @F16@
+1 FAMS @F09@
+1 REFN geni:6000000220990842407
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md
+0 @I24@ INDI
+1 NAME Sarah Page /Wood/
+2 GIVN Sarah Page
+2 SURN Wood
+1 NAME Sarah Page /Foote/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 3 MAR 1826
+2 PLAC Maine, USA
+1 DEAT
+2 DATE 22 OCT 1898
+2 PLAC Chicago, Illinois, USA
+1 FAMS @F09@
+1 REFN geni:6000000220990842413
+2 TYPE Geni
+1 NOTE Parents Wilmot Wood and Emeline Page, according to the family trees.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sarah-Page-Wood-Foote-1826-1898/README-Sarah-Page-Wood-Foote-1826-1898.md
+0 @I25@ INDI
+1 NAME Vladimir Sergeyevich /Kudashev/
+2 GIVN Vladimir Sergeyevich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Владимир Сергеевич /Кудашев/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 22 MAR 1833
+2 PLAC Kiev, Russian Empire
+2 NOTE Other sources: 23 March.
+1 DEAT
+2 DATE 2 OCT 1871
+2 PLAC Kiev, Russian Empire
+1 FAMC @F17@
+1 FAMS @F10@
+1 REFN geni:6000000015780452509
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/README-Vladimir-Sergeyevich-Kudashev-1833-1871.md
+0 @I26@ INDI
+1 NAME Olga Nikolaevna /Horvat/
+2 GIVN Olga Nikolaevna
+2 SURN Horvat
+1 NAME Ольга Николаевна /Хорват/
+2 TYPE aka
+1 NAME Olga Nikolaïevna /Horvath/
+2 TYPE aka
+1 NAME Olga Nikolaevna /Kudasheva/
+2 TYPE married
+2 NPFX Princess
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1840
+2 PLAC Kiev, Russian Empire
+2 NOTE Geneanet and her husband's biography say Kiev; Geni says Odessa and links an 1840 baptism register of the Pokrovskaya church there.
+1 DEAT
+2 DATE 25 OCT 1907
+2 PLAC Yalta, Crimea, Russian Empire
+1 FAMS @F10@
+1 REFN geni:364525368000002484
+2 TYPE Geni
+1 NOTE Her father is given as Nikolai Antonovich Horvat (born 1797) in unsourced trees.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md
+0 @I27@ INDI
+1 NAME Maximilian Carl Benedict /von Nieroth/
+2 GIVN Maximilian Carl Benedict
+2 SURN von Nieroth
+2 NPFX Count
+1 NAME Максимилиан Евстафьевич /Нирод/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 30 DEC 1846
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE Other sources: 1848.
+1 DEAT
+2 DATE 24 MAY 1914
+2 PLAC Tsarskoye Selo, Russian Empire
+2 NOTE Other sources: Kiev.
+1 BURI
+2 PLAC Vydubychi Monastery, Kiev
+1 FAMS @F11@
+1 REFN geni:6000000018118609628
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md
+0 @I28@ INDI
+1 NAME Anastasia Fyodorovna /Trepova/
+2 GIVN Anastasia Fyodorovna
+2 SURN Trepova
+1 NAME Анастасия Фёдоровна /Трепова/
+2 TYPE aka
+1 NAME Anastasia Fyodorovna /von Nieroth/
+2 TYPE married
+2 NPFX Countess
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1849
+2 PLAC Kiev, Russian Empire
+1 DEAT
+2 DATE 25 SEP 1940
+2 PLAC Amblainville, Oise, France
+1 FAMC @F18@
+1 FAMS @F11@
+1 REFN geni:6000000018118673343
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md
+0 @I29@ INDI
+1 NAME Fyodor Maximilianovich /von Nieroth/
+2 GIVN Fyodor Maximilianovich
+2 SURN von Nieroth
+2 NPFX Count
+1 NAME Фёдор Максимилианович /Нирод/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 2 JUL 1871
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE 20 June (O.S.) 1871; other sources 20 July (1 August).
+1 DEAT
+2 DATE 26 MAR 1952
+2 PLAC Paris, France
+2 NOTE 26 March or 4 April, at Paris or Amblainville.
+1 BURI
+2 PLAC Père Lachaise Cemetery, Paris, France
+1 FAMC @F11@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md
+0 @I30@ INDI
+1 NAME George Sanderson /Burrage/
+2 GIVN George Sanderson
+2 SURN Burrage
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1823
+2 PLAC Leominster, Worcester County, Massachusetts, USA
+1 DEAT
+2 DATE 16 MAY 1876
+2 PLAC Napa County, California, USA
+2 NOTE See Open questions in the biography.
+1 FAMS @F12@
+1 REFN geni:6000000002789973055
+2 TYPE Geni
+1 NOTE First married Martha G. Phelps of Leominster, 2 April 1844; she died 6 August 1849. Parents Deacon William Burrage (1768-1844) and Roxanna Sanderson.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md
+0 @I31@ INDI
+1 NAME Aurelia /Chamberlin/
+2 GIVN Aurelia
+2 SURN Chamberlin
+1 NAME Amelia C. /Chamberlain/
+2 TYPE aka
+1 NAME Aurelia /Burrage/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE ABT 3 FEB 1830
+2 PLAC Newbury, Orange County, Vermont, USA
+2 NOTE From one family tree, which cites no source.
+1 DEAT
+2 DATE ABT 2 OCT 1899
+2 PLAC Boston, Massachusetts, USA
+2 NOTE From the same tree.
+1 FAMS @F12@
+1 REFN geni:6000000002789973060
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Aurelia-Chamberlin-Burrage-1830-1899/README-Aurelia-Chamberlin-Burrage-1830-1899.md
+0 @I32@ INDI
+1 NAME Francis Hathaway /Haskell/
+2 GIVN Francis Hathaway
+2 NICK Frank
+2 SURN Haskell
+1 SEX M
+1 BIRT
+2 DATE BET 1827 AND 1830
+2 PLAC Boston, Massachusetts, USA
+2 NOTE 1827 or 1830; Boston, or "Boston or New Bedford".
+1 DEAT
+2 DATE 25 JUN 1868
+2 NOTE Family trees; not confirmed. Place uncertain.
+1 FAMC @F19@
+1 FAMS @F13@
+1 REFN geni:6000000028260844003
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md
+0 @I33@ INDI
+1 NAME Elizabeth /Russell/
+2 GIVN Elizabeth
+2 SURN Russell
+1 NAME Elizabeth /Haskell/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE DEC 1835
+2 PLAC Kingston, Surrey, England
+2 NOTE December 1835, or 16 December 1837; Kingston (most sources), or Marblehead, Massachusetts.
+1 DEAT
+2 DATE SEP 1909
+2 PLAC Marblehead, Essex County, Massachusetts, USA
+2 NOTE 19 September or 19 December 1909.
+1 FAMS @F13@
+1 REFN geni:6000000002789973095
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md
+0 @I34@ INDI
+1 NAME James Whitehill /Shirk/
+2 GIVN James Whitehill
+2 SURN Shirk
+1 NAME James W. /Shirk/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 16 JUL 1832
+2 PLAC Pennsylvania, USA
+1 DEAT
+2 DATE 10 FEB 1873
+2 PLAC Washington, District of Columbia, USA
+1 BURI
+2 PLAC Erie Cemetery, Erie, Pennsylvania, USA
+1 OCCU Commander, United States Navy
+1 FAMS @F14@
+1 REFN geni:6000000209225000864
+2 TYPE Geni
+1 NOTE Parents David Shirk (1806-1873) and Mary Whitehill. Middle name Whitehill or Whitehall.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md
+0 @I35@ INDI
+1 NAME Mary W. /Marshall/
+2 GIVN Mary W.
+2 SURN Marshall
+1 NAME Mary W. /Shirk/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 19 AUG 1833
+2 PLAC Girard, Erie County, Pennsylvania, USA
+1 DEAT
+2 DATE 8 AUG 1910
+1 BURI
+2 PLAC Erie Cemetery, Erie, Pennsylvania, USA
+1 FAMS @F14@
+1 REFN geni:6000000220990842605
+2 TYPE Geni
+1 NOTE Elder daughter of James C. Marshall of Erie and Eliza Weatherbee. MyHeritage gives 1840-1900; the cemetery dates are the better evidence.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Mary-W-Marshall-Shirk-1833-1910/README-Mary-W-Marshall-Shirk-1833-1910.md
+0 @I36@ INDI
+1 NAME George Claiborne /Watkins/
+2 GIVN George Claiborne
+2 SURN Watkins
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1815
+2 PLAC Shelbyville, Shelby County, Kentucky, USA
+2 NOTE One tree; Geni gives 1815, Kentucky.
+1 DEAT
+2 DATE 7 DEC 1872
+2 PLAC Little Rock, Arkansas, USA
+2 NOTE Date from one tree; Geni gives 1872.
+1 BURI
+2 PLAC Little Rock, Arkansas, USA
+1 OCCU Lawyer; Chief Justice of Arkansas
+1 FAMS @F15@
+1 REFN geni:6000000220990842611
+2 TYPE Geni
+1 NOTE Parents Isaac Watkins and Maria Toncray, according to one tree.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md
+0 @I37@ INDI
+1 NAME Sophia /Fulton/
+2 GIVN Sophia
+2 SURN Fulton
+1 NAME Sophie Caroline /Fulton/
+2 TYPE aka
+1 NAME Sophia /Curran/
+2 TYPE married
+1 NAME Sophia /Watkins/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE ABT 4 APR 1830
+2 PLAC District of Columbia, USA
+2 NOTE From one tree.
+1 DEAT
+2 DATE ABT 23 JUL 1865
+2 PLAC Little Rock, Arkansas, USA
+2 NOTE From the same tree.
+1 BURI
+2 PLAC Little Rock, Arkansas, USA
+1 FAMC @F20@
+1 FAMS @F15@
+1 NOTE Married first James M. Curran, a lawyer (21 June 1849, Pulaski County, according to one tree).
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md
+0 @I38@ INDI
+1 NAME Erastus /Foote/
+2 GIVN Erastus
+2 SURN Foote
+1 SEX M
+1 BIRT
+2 DATE 19 SEP 1777
+2 PLAC Waterbury (now Plymouth), Connecticut, USA
+1 DEAT
+2 DATE 14 JUL 1856
+2 PLAC Wiscasset, Lincoln County, Maine, USA
+1 BURI
+2 PLAC Evergreen Cemetery, Wiscasset, Maine, USA
+1 OCCU Lawyer; first Attorney General of Maine
+1 FAMS @F16@
+1 REFN geni:6000000220990842419
+2 TYPE Geni
+1 NOTE First married Susan Carlton (1812; she died 28 June 1817). Parents Obed Foote (1741-1797) and Mary Todd (1742-1815).
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md
+0 @I39@ INDI
+1 NAME Sergei Danilovich /Kudashev/
+2 GIVN Sergei Danilovich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Сергей Данилович /Кудашев/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 29 MAY 1795
+2 PLAC Beletskovka, near Kremenchuk, Russian Empire
+2 NOTE Place according to one source.
+1 DEAT
+2 DATE 18 MAR 1862
+2 PLAC Kiev, Russian Empire
+1 BURI
+2 PLAC Kiev-Pechersk Lavra, Kiev
+2 NOTE Unconfirmed.
+1 FAMC @F22@
+1 FAMS @F17@
+1 REFN geni:364527333350006979
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md
+0 @I40@ INDI
+1 NAME Fyodor Fyodorovich /Trepov/
+2 GIVN Fyodor Fyodorovich
+2 SURN Trepov
+1 NAME Фёдор Фёдорович /Трепов/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1812
+2 NOTE 4 (16) May 1812; his service record gives 1809.
+1 DEAT
+2 DATE 5 DEC 1889
+2 PLAC Kiev, Russian Empire
+2 NOTE 23 November (5 December) 1889.
+1 BURI
+2 PLAC Vydubychi Monastery, Kiev
+1 OCCU General
+1 FAMS @F18@
+1 REFN geni:6000000018895402816
+2 TYPE Geni
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md
+0 @I41@ INDI
+1 NAME Fyodor Fyodorovich /Trepov/
+2 GIVN Fyodor Fyodorovich
+2 SURN Trepov
+1 NAME Фёдор Фёдорович /Трепов/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 25 MAY 1854
+2 NOTE 13 (25) May 1854.
+1 DEAT
+2 DATE 27 MAR 1938
+2 PLAC Nice, France
+1 BURI
+2 PLAC Russian Cemetery (Caucade), Nice, France
+1 OCCU General
+1 FAMC @F18@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1854-1938/README-Fyodor-Fyodorovich-Trepov-1854-1938.md
+0 @I42@ INDI
+1 NAME Dmitri Fyodorovich /Trepov/
+2 GIVN Dmitri Fyodorovich
+2 SURN Trepov
+1 NAME Дмитрий Фёдорович /Трепов/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 14 DEC 1855
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE 2 (14) December 1855. The Wiki folder name gives 1850.
+1 DEAT
+2 DATE 15 SEP 1906
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE 2 (15) September 1906.
+1 BURI
+2 PLAC Court Church of Saints Peter and Paul, Peterhof
+1 OCCU General
+1 FAMC @F18@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Dmitri%20Feodorovich%20Trepov-1850-1906/README-Dmitri-Feodorovich-Trepov-1850-1906.md
+0 @I43@ INDI
+1 NAME Alexander Fyodorovich /Trepov/
+2 GIVN Alexander Fyodorovich
+2 SURN Trepov
+1 NAME Александр Фёдорович /Трепов/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 30 SEP 1862
+2 PLAC Kiev, Russian Empire
+2 NOTE 18 (30) September 1862.
+1 DEAT
+2 DATE 10 NOV 1928
+2 PLAC Nice, France
+1 BURI
+2 PLAC Russian Cemetery (Caucade), Nice, France
+1 FAMC @F18@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/README-Alexander-Fyodorovich-Trepov-1862-1928.md
+0 @I44@ INDI
+1 NAME Vladimir Fyodorovich /Trepov/
+2 GIVN Vladimir Fyodorovich
+2 SURN Trepov
+1 NAME Владимир Фёдорович /Трепов/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 1863
+2 NOTE 6 (18) January 1863.
+1 DEAT
+2 DATE BET AUG 1918 AND SEP 1918
+2 PLAC Kronstadt, Russia
+1 FAMC @F18@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Vladimir%20Fyodorovich%20Trepov-1863-1918/README-Vladimir-Fyodorovich-Trepov-1863-1918.md
+0 @I45@ INDI
+1 NAME Elisha /Haskell/ Jr
+2 GIVN Elisha
+2 SURN Haskell
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE BET 1795 AND 1802
+2 PLAC Middleborough, Plymouth County, Massachusetts, USA
+2 NOTE 1795, 1798 or 1802. Place from the family trees.
+1 DEAT
+2 DATE 8 OCT 1880
+2 PLAC New Bedford, Bristol County, Massachusetts, USA
+1 FAMS @F19@
+1 REFN geni:308615375810002056
+2 TYPE Geni
+1 NOTE First married Sally (Sarah) Tobey, 17 October 1820; she died 10 April 1823. Parents Eli Haskell and Achsah Nye.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md
+0 @I46@ INDI
+1 NAME William Savin /Fulton/
+2 GIVN William Savin
+2 SURN Fulton
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1795
+2 PLAC Cecil County, Maryland, USA
+1 DEAT
+2 DATE 15 AUG 1844
+2 PLAC Rosewood, Little Rock, Arkansas, USA
+1 OCCU Governor of Arkansas Territory; United States Senator
+1 FAMC @F21@
+1 FAMS @F20@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md
+0 @I47@ INDI
+1 NAME David /Fulton/
+2 GIVN David
+2 SURN Fulton
+1 SEX M
+1 BIRT
+2 DATE 2 JAN 1771
+2 PLAC County Donegal, Ireland
+1 DEAT
+2 DATE 7 AUG 1843
+2 PLAC Little Rock, Arkansas, USA
+1 FAMS @F21@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md
+0 @I48@ INDI
+1 NAME Nikolay Danilovich /Kudashev/
+2 GIVN Nikolay Danilovich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Николай Данилович /Кудашев/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1784
+2 PLAC Russian Empire
+1 DEAT
+2 DATE 9 NOV 1813
+2 PLAC near Leipzig, Saxony
+2 NOTE 28 October (9 November) 1813.
+1 BURI
+2 PLAC St. Alexis Memorial Church of Russian Glory, Leipzig
+1 FAMC @F22@
+1 NOTE Married Yekaterina Mikhailovna Golenishcheva-Kutuzova (1787-1826).
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/README-Nikolay-Danilovich-Kudashev-1784-1813.md
+0 @I49@ INDI
+1 NAME Nikolai Alexandrovich /Kudashev/
+2 GIVN Nikolai Alexandrovich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Николай Александрович /Кудашев/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 DEAT
+2 DATE 1925
+2 PLAC Paris, France
+1 FAMC @F23@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/README-Nikolai-Alexandrovich-Kudashev-1868-1925.md
+0 @I50@ INDI
+1 NAME Alexander Sergeyevich /Kudashev/
+2 GIVN Alexander Sergeyevich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Александр Сергеевич /Кудашев/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 21 FEB 1872
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE 9 (21) February 1872.
+1 DEAT
+2 DATE 1917
+1 FAMC @F24@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/README-Alexander-Sergeyevich-Kudashev-1872-1917.md
+0 @I51@ INDI
+1 NAME Olga Erikovna /von Pistohlkors/
+2 GIVN Olga Erikovna
+2 SURN von Pistohlkors
+1 NAME Ольга Эриковна /Пистолькорс/
+2 TYPE aka
+1 NAME Olga Erikovna /von Kreutz/
+2 TYPE married
+2 NPFX Countess
+1 NAME Olga Erikovna /Kudasheva/
+2 TYPE married
+2 NPFX Princess
+1 SEX F
+1 BIRT
+2 DATE 8 OCT 1888
+2 PLAC Kronstadt, Russian Empire
+1 DEAT
+2 DATE 1963
+2 PLAC Rome, Italy
+2 NOTE Place according to one source.
+1 FAMC @F26@
+1 FAMS @F25@
+1 NOTE First married Count Alexander Alexandrovich von Kreutz (1906; divorced).
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md
+0 @I52@ INDI
+1 NAME Olga Valerianovna /Karnovich/
+2 GIVN Olga Valerianovna
+2 SURN Karnovich
+1 NAME Ольга Валериановна /Палей/
+2 TYPE aka
+1 NAME Olga Valerianovna /von Pistohlkors/
+2 TYPE married
+1 NAME Olga Valerianovna /Paley/
+2 TYPE married
+2 NPFX Princess
+1 SEX F
+1 BIRT
+2 DATE 14 DEC 1865
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE 14 December (O.S. 2 December) 1865.
+1 DEAT
+2 DATE 2 NOV 1929
+2 PLAC Paris, France
+1 BURI
+2 PLAC Cimetière Gabriel-Péri, Colombes, France
+1 FAMS @F26@
+1 NOTE Married second Grand Duke Paul Alexandrovich of Russia (1902).
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md
+0 @I53@ INDI
+1 NAME Walter /Lowrie/
+2 GIVN Walter
+2 SURN Lowrie
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1868
+2 PLAC Philadelphia, Pennsylvania, USA
+1 DEAT
+2 DATE 12 AUG 1959
+2 PLAC Princeton, New Jersey, USA
+1 OCCU Clergyman
+1 FAMS @F27@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md
+0 @I54@ INDI
+1 NAME Francis Meredyth /Whitehouse/
+2 GIVN Francis Meredyth
+2 SURN Whitehouse
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1848
+2 PLAC New York, New York, USA
+1 DEAT
+2 DATE 8 MAR 1938
+2 PLAC Winter Park, Florida, USA
+1 OCCU Architect
+1 FAMS @F28@
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md
+0 @I55@ INDI
+1 NAME Katharine Lane /Weems/
+2 GIVN Katharine Lane
+2 SURN Weems
+1 NAME Katharine Ward /Lane/
+2 TYPE birth
+1 SEX F
+1 BIRT
+2 DATE 22 FEB 1899
+2 PLAC Boston, Massachusetts, USA
+1 DEAT
+2 DATE 11 FEB 1989
+2 PLAC Rockport, Massachusetts, USA
+1 OCCU Sculptor
+1 NOTE Her relationship to the family has not been established, so she has no family links in this tree.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Katherine-Weems-1899-1989/README-Katherine-Weems-1899-1989.md
+0 @C01@ INDI
+1 NAME Mary Greenlee /Armour/
+2 GIVN Mary Greenlee
+2 SURN Armour
+1 NAME Mary Greenlee /Whitehouse/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 16 MAR 1868
+1 DEAT
+2 DATE 16 MAY 1958
+1 FAMC @F08@
+1 FAMS @F28@
+1 NOTE Connector: no Wiki page. Dates from the family trees, cited in George Armour's biography; her year of birth is questioned in Francis Meredyth Whitehouse's.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md
+0 @C02@ INDI
+1 NAME Eliza /Carlton/
+2 GIVN Eliza
+2 SURN Carlton
+1 NAME Eliza /Carleton/
+2 TYPE aka
+1 NAME Eliza /Foote/
+2 TYPE married
+1 SEX F
+1 FAMS @F16@
+1 NOTE Connector: no Wiki page. Sister of Erastus Foote's first wife, Susan Carlton.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md
+0 @C03@ INDI
+1 NAME Mathilde /de Choiseul-Gouffier/
+2 GIVN Mathilde
+2 SURN de Choiseul-Gouffier
+2 NPFX Countess
+1 NAME Matilda Oktavyevna /Kudasheva/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1806
+1 DEAT
+2 DATE 1867
+1 FAMS @F17@
+1 REFN geni:364586940370002462
+2 TYPE Geni
+1 NOTE Connector: no Wiki page.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md
+0 @C04@ INDI
+1 NAME Alexander Sergeyevich /Kudashev/
+2 GIVN Alexander Sergeyevich
+2 SURN Kudashev
+2 NPFX Prince
+1 SEX M
+1 BIRT
+2 DATE 1830
+1 DEAT
+2 DATE 1877
+1 OCCU Bank director, Kiev
+1 FAMC @F17@
+1 FAMS @F23@
+1 NOTE Connector: no Wiki page. Father of Prince Nikolai Alexandrovich Kudashev; his wife was Sofia Ivanovna, born Orlova.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/README-Nikolai-Alexandrovich-Kudashev-1868-1925.md
+0 @C05@ INDI
+1 NAME Sergei Sergeyevich /Kudashev/
+2 GIVN Sergei Sergeyevich
+2 SURN Kudashev
+2 NPFX Prince
+1 SEX M
+1 BIRT
+2 DATE 1834
+1 DEAT
+2 DATE 1915
+1 FAMC @F17@
+1 FAMS @F24@
+1 NOTE Connector: no Wiki page. Retired colonel; father of Prince Alexander Sergeyevich Kudashev (1872-1917).
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/README-Alexander-Sergeyevich-Kudashev-1872-1917.md
+0 @C06@ INDI
+1 NAME Vera Vasilyevna /Lukashevich/
+2 GIVN Vera Vasilyevna
+2 SURN Lukashevich
+1 NAME Vera Vasilyevna /Trepova/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE BET 1817 AND 1821
+2 NOTE 1817 or 1821.
+1 DEAT
+2 DATE 1866
+1 FAMS @F18@
+1 REFN geni:6000000018895402822
+2 TYPE Geni
+1 NOTE Connector: no Wiki page.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md
+0 @C07@ INDI
+1 NAME Alice Russell /Hathaway/
+2 GIVN Alice Russell
+2 SURN Hathaway
+1 NAME Alice Russell /Haskell/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1806
+1 DEAT
+2 DATE 17 APR 1880
+1 FAMS @F19@
+1 REFN geni:308615870900008249
+2 TYPE Geni
+1 NOTE Connector: no Wiki page.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md
+0 @C08@ INDI
+1 NAME Matilda Frances /Nowland/
+2 GIVN Matilda Frances
+2 SURN Nowland
+1 NAME Matilda Francis /Howland/
+2 TYPE aka
+1 NAME Matilda Frances /Fulton/
+2 TYPE married
+1 SEX F
+1 FAMS @F20@
+1 NOTE Connector: no Wiki page. The Arkansas sources spell her surname Nowland; one tree gives Howland, with birth 15 September 1803 in Maryland and death 15 January 1879 at Little Rock.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md
+0 @C09@ INDI
+1 NAME Elizabeth /Savin/
+2 GIVN Elizabeth
+2 SURN Savin
+1 NAME Elizabeth /Fulton/
+2 TYPE married
+1 SEX F
+1 FAMS @F21@
+1 NOTE Connector: no Wiki page.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md
+0 @C10@ INDI
+1 NAME Daniil Ivanovich /Kudashev/
+2 GIVN Daniil Ivanovich
+2 SURN Kudashev
+2 NPFX Prince
+1 NAME Danila Ivanovich /Kudashev/
+2 TYPE aka
+1 SEX M
+1 FAMS @F22@
+1 REFN geni:6000000002659953365
+2 TYPE Geni
+1 NOTE Connector: no Wiki page.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md
+0 @C11@ INDI
+1 NAME Yekaterina Sergeyevna /Baratova/
+2 GIVN Yekaterina Sergeyevna
+2 SURN Baratova
+2 NPFX Princess
+1 NAME Yekaterina Sergeyevna /Kudasheva/
+2 TYPE married
+1 SEX F
+1 FAMS @F22@
+1 REFN geni:6000000002660071241
+2 TYPE Geni
+1 NOTE Connector: no Wiki page. Born Princess Baratova or Baranova; sources differ.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md
+0 @C12@ INDI
+1 NAME Erich Gerhard /von Pistohlkors/
+2 GIVN Erich Gerhard
+2 SURN von Pistohlkors
+1 SEX M
+1 BIRT
+2 DATE 1853
+1 DEAT
+2 DATE 1935
+1 OCCU Major General
+1 FAMS @F26@
+1 NOTE Connector: no Wiki page.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md
+0 @F01@ FAM
+1 HUSB @I02@
+1 WIFE @I03@
+1 CHIL @I01@
+1 CHIL @I04@
+1 MARR
+2 DATE 28 JUN 1941
+1 DIV Y
+2 DATE 1952
+0 @F02@ FAM
+1 HUSB @I05@
+1 WIFE @I06@
+1 CHIL @I02@
+1 MARR
+2 DATE 2 FEB 1919
+0 @F03@ FAM
+1 HUSB @I07@
+1 WIFE @I08@
+1 CHIL @I09@
+1 CHIL @I03@
+1 MARR
+2 DATE APR 1915
+2 NOTE One tree gives 7 April 1915.
+0 @F04@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I05@
+1 CHIL @I12@
+1 MARR
+2 DATE 27 APR 1882
+2 PLAC Chicago, Illinois, USA
+0 @F05@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I06@
+1 CHIL @I15@
+1 MARR
+2 DATE 1894
+0 @F06@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I07@
+1 MARR
+2 DATE 10 NOV 1885
+0 @F07@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I08@
+1 MARR
+2 DATE 20 APR 1892
+2 PLAC Philadelphia, Pennsylvania, USA
+2 NOTE From one family tree.
+0 @F08@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I10@
+1 CHIL @I22@
+1 CHIL @C01@
+1 MARR
+2 DATE BET 28 AUG 1850 AND 29 AUG 1850
+2 PLAC Illinois, USA
+0 @F09@ FAM
+1 HUSB @I23@
+1 WIFE @I24@
+1 CHIL @I11@
+0 @F10@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 CHIL @I13@
+0 @F11@ FAM
+1 HUSB @I27@
+1 WIFE @I28@
+1 CHIL @I29@
+1 CHIL @I14@
+0 @F12@ FAM
+1 HUSB @I30@
+1 WIFE @I31@
+1 CHIL @I16@
+1 MARR
+2 DATE 1 JAN 1851
+0 @F13@ FAM
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I17@
+1 MARR
+2 DATE BEF 1857
+0 @F14@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I18@
+0 @F15@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I19@
+0 @F16@ FAM
+1 HUSB @I38@
+1 WIFE @C02@
+1 CHIL @I23@
+1 MARR
+2 DATE 9 JUL 1820
+0 @F17@ FAM
+1 HUSB @I39@
+1 WIFE @C03@
+1 CHIL @C04@
+1 CHIL @I25@
+1 CHIL @C05@
+0 @F18@ FAM
+1 HUSB @I40@
+1 WIFE @C06@
+1 CHIL @I28@
+1 CHIL @I41@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+0 @F19@ FAM
+1 HUSB @I45@
+1 WIFE @C07@
+1 CHIL @I32@
+1 MARR
+2 DATE 1826
+2 NOTE Intention recorded 1 July 1826; Geni gives 27 July 1827.
+0 @F20@ FAM
+1 HUSB @I46@
+1 WIFE @C08@
+1 CHIL @I37@
+1 MARR
+2 DATE 9 FEB 1823
+2 PLAC Florence, Alabama, USA
+0 @F21@ FAM
+1 HUSB @I47@
+1 WIFE @C09@
+1 CHIL @I46@
+0 @F22@ FAM
+1 HUSB @C10@
+1 WIFE @C11@
+1 CHIL @I48@
+1 CHIL @I39@
+0 @F23@ FAM
+1 HUSB @C04@
+1 CHIL @I49@
+0 @F24@ FAM
+1 HUSB @C05@
+1 CHIL @I50@
+0 @F25@ FAM
+1 HUSB @I13@
+1 WIFE @I51@
+1 MARR
+2 DATE 1922
+2 PLAC Florence, Italy
+0 @F26@ FAM
+1 HUSB @C12@
+1 WIFE @I52@
+1 CHIL @I51@
+1 MARR
+2 DATE 1884
+1 DIV Y
+0 @F27@ FAM
+1 HUSB @I53@
+1 WIFE @I12@
+1 MARR
+2 DATE 19 FEB 1918
+0 @F28@ FAM
+1 HUSB @I54@
+1 WIFE @C01@
+0 TRLR
