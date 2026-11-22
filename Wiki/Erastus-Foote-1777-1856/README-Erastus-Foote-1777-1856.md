@@ -116,7 +116,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 8. "Erastus Foote I (1777–1856)". Find a Grave memorial 36411786, Evergreen Cemetery, Wiscasset. It quotes *The Otsego Farmer & Republican* (Cooperstown, New York), 9 August 1929, p. 3 (not seen). <https://www.findagrave.com/memorial/36411786/erastus-foote>
 9. "Erastus Foote". *Wikipedia*. Its "Early life" section is marked as unreferenced. <https://en.wikipedia.org/wiki/Erastus_Foote>
 10. "File:Erastus Foote.jpg", Wikimedia Commons, <https://commons.wikimedia.org/wiki/File:Erastus_Foote.jpg>; and "1820, Erastus Foote", Maine State Archives, attorneys general portraits, Digital Maine, <https://digitalmaine.com/arc_agportraits/47/>
-11. Family trees in this repository, records for Erastus Foote I, Eliza Carleton, Erastus Foote Jr, Sarah Page Wood, Harriette Cobb Foote, George Allison Armour and Norman Armour Sr. None cites a source for the Foote events. `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged` (Geni), `Online-Genealogy/gedcom-files/2025-08-23-carley-armour-family-tree.ged` and `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+11. Family trees in this repository, records for Erastus Foote I, Eliza Carleton, Erastus Foote Jr, Sarah Page Wood, Harriette Cobb Foote, George Allison Armour and Norman Armour Sr. None cites a source for the Foote events. `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged` (Geni), `GEDCOM-files/2025/2025-08-23-carley-armour-family-tree.ged` and `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 12. "Armour Read Me". `Armour/README-Armour.md` in this repository.
 
 ## Further research

@@ -92,12 +92,12 @@ Points that family knowledge or family papers may settle. Each links to a confli
 4. "Our Story". Vine Cliff Winery. <https://vinecliff1871.com/story>
 5. "George Sanderson Burrage (1823–1876)". Profile page in this repository, with data from Geni. `George-Sanderson-Burrage-1823-1876.md` (merged into this README and removed); Geni: <https://www.geni.com/people/George-Burrage/6000000002789973055>; Find a Grave memorial 151877066 (not read; the site refused automated access): <https://www.findagrave.com/memorial/151877066/george_sanderson-burrage>
 6. *Harvard College Class of 1883. Sixth Report*. Boston, 1913. Entry for Albert Cameron Burrage, pp. 15–17. <https://archive.org/details/6threportclass1883harvuoft>
-7. Geni GEDCOM exports, record for George Sanderson Burrage (geni:6000000002789973055), with the note "Source: The Burrage Memorial". `Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged` and `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
+7. Geni GEDCOM exports, record for George Sanderson Burrage (geni:6000000002789973055), with the note "Source: The Burrage Memorial". `GEDCOM-files/2025/2025-08-18-export-geni/export-BloodTree.ged` and `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
 8. "Albert Burrage". *Wikipedia*. Cites "In Memoriam", *American Orchid Society Bulletin*, vol. 1, no. 1 (June 1932), pp. 2–4. <https://en.wikipedia.org/wiki/Albert_Burrage>
 9. *History of Napa and Lake Counties, California*. 1881. Water companies, p. 252. <https://archive.org/details/historyofnapalak00palm>
 10. Tombstone of George S. Burrage. Photograph, [images/tombstone.jpg](images/tombstone.jpg). Cemetery not identified.
 11. "Trinity Episcopal Church". Redlands Area Historical Society, Heritage Award, 1980. <https://rahs.org/awards/trinity-episcopal-church/>
-12. Ancestry- and FamilySearch-derived family tree, records for George Sanderson Burrage and Amelia C Chamberlain. No sources cited for these events. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+12. Ancestry- and FamilySearch-derived family tree, records for George Sanderson Burrage and Amelia C Chamberlain. No sources cited for these events. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 
 ## Further research
 

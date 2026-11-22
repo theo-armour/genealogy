@@ -45,7 +45,7 @@ One tree cites the 1860 census for her at Little Rock, and gives her death there
 
 1. "William S. Fulton (1795–1844)". Biography in this repository, citing Hempstead, Fay, *A Pictorial History of Arkansas* (1890), pp. 222–223; Cantrell, Ellen Harrell, *The Annals of Christ Church Parish of Little Rock* (1900), pp. 57–59; and Baker, Lea Flowers, "William Savin Fulton", *Encyclopedia of Arkansas*. [README-William-S-Fulton-1795-1844.md](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md)
 2. "Anne Bell Shirk Burrage (1890–1983)". Biography in this repository. [README-Anne-Bell-Burrage-1890-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
-3. Ancestry-derived family tree, records for Sophie Caroline Fulton, James Moore Curran, George Claiborne Watkins and the children. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+3. Ancestry-derived family tree, records for Sophie Caroline Fulton, James Moore Curran, George Claiborne Watkins and the children. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 
 ## Further research
 

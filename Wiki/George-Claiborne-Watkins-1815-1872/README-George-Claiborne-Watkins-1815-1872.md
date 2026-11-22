@@ -50,8 +50,8 @@ He died in 1872, at Little Rock according to Geni. One tree gives 7 December 187
 
 1. "Anne Bell Shirk Burrage (1890–1983)". Biography in this repository, citing Cantrell, Ellen Harrell, *The Annals of Christ Church Parish of Little Rock, Arkansas, from 1839 to 1899* (Little Rock, 1900), pp. 57–59, and the *Daily Arkansas Gazette*, 28 March 1915, p. 26. [README-Anne-Bell-Burrage-1890-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
 2. "William S. Fulton (1795–1844)". Biography in this repository. [README-William-S-Fulton-1795-1844.md](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md)
-3. Geni GEDCOM export, record for George Claiborn Watkins (geni:6000000220990842611). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
-4. Ancestry-derived family tree, records for George Claiborne Watkins, Sophie Caroline Fulton, Isaac Watkins and the children. It cites the 1860 and 1870 United States censuses, which have not been seen. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+3. Geni GEDCOM export, record for George Claiborn Watkins (geni:6000000220990842611). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
+4. Ancestry-derived family tree, records for George Claiborne Watkins, Sophie Caroline Fulton, Isaac Watkins and the children. It cites the 1860 and 1870 United States censuses, which have not been seen. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 5. "Burrage Read Me". This repository. [README-Burrage.md](https://theo-armour.github.io/genealogy/#Burrage/README-Burrage.md)
 
 ## Further research

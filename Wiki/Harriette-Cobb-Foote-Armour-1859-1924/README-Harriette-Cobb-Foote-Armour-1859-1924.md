@@ -68,8 +68,8 @@ She died on 11 October 1924, at Princeton according to the Geni tree. She was bu
 
 1. "George Allison Armour (1856–1936)". Biography in this repository. [README-George-Allison-Armour-1856-1936.md](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md)
 2. Foote, Abram W. *Foote Family, Comprising the Genealogy and History of Nathaniel Foote, of Wethersfield, Conn., and His Descendants*, vol. 1. 1907. No. 1479, Erastus Foote, and no. 2963, Harriette Cobb, p. 297. Cited from reference 1. <https://archive.org/details/footefamilycompr01foot>
-3. Geni GEDCOM export, record for Harriette Cobb Foote (geni:6000000002789973007). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
-4. Ancestry-derived family tree, record for Harriette Cobb Foote. It cites the United States censuses of 1860–1920 and a New York passenger list. None of these records has been seen. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+3. Geni GEDCOM export, record for Harriette Cobb Foote (geni:6000000002789973007). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
+4. Ancestry-derived family tree, record for Harriette Cobb Foote. It cites the United States censuses of 1860–1920 and a New York passenger list. None of these records has been seen. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 
 ## Further research
 

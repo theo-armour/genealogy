@@ -46,8 +46,8 @@ Her son Albert became a Boston lawyer and copper magnate. He married Alice Hatha
 
 1. "George Sanderson Burrage (1823–1876)". Biography in this repository, citing Burrage, Alvah A., *The Burrage Memorial* (Boston, 1877), and "Trinity Episcopal Church", Redlands Area Historical Society. [README-George-Sanderson-Burrage-1823-1876.md](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md)
 2. "Albert Cameron Burrage Sr (1859–1931)". Biography in this repository. [README-Albert-Cameron-Burrage-Sr-1859-1931.md](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md)
-3. Geni GEDCOM export, record for Aurelia Chamberlain (geni:6000000002789973060). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
-4. Ancestry-derived family tree, records for Amelia C Chamberlain, William Chamberlain and Betsy Cameron. No sources are cited. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+3. Geni GEDCOM export, record for Aurelia Chamberlain (geni:6000000002789973060). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
+4. Ancestry-derived family tree, records for Amelia C Chamberlain, William Chamberlain and Betsy Cameron. No sources are cited. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 
 ## Further research
 

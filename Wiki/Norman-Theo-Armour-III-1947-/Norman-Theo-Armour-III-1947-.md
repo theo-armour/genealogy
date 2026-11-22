@@ -65,7 +65,7 @@ In his own words (from notes written 2023):
 
 ## Links
 
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged> ~ interactive blood-line tree
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-18-export-geni/export-BloodTree.ged> ~ interactive blood-line tree
 * https://www.geni.com/family-tree/index/6000000004118029730
 
 ## Research Notes

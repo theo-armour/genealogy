@@ -44,8 +44,8 @@ Her husband died in Chicago in February 1893. She died there on 22 October 1898.
 ## References
 
 1. "George Allison Armour (1856–1936)". Biography in this repository, citing Foote, Abram W., *Foote Family* (1907), no. 1479, p. 297. [README-George-Allison-Armour-1856-1936.md](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md)
-2. Geni GEDCOM export, record for Sarah Page Wood (geni:6000000220990842413). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
-3. Ancestry-derived family tree, records for Sarah Page Wood, Wilmot Wood and Emeline Page. No sources are cited. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+2. Geni GEDCOM export, record for Sarah Page Wood (geni:6000000220990842413). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
+3. Ancestry-derived family tree, records for Sarah Page Wood, Wilmot Wood and Emeline Page. No sources are cited. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 
 ## Further research
 

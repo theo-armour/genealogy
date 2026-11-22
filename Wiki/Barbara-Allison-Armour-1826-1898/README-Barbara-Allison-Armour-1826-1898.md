@@ -50,7 +50,7 @@ She died in February 1898. Daniel Harvey's history of the Argyle Settlement says
 2. "Allison Vincent Armour (1863–1941)". Biography in this repository. [README-Allison-Vincent-Armour-1863-1941.md](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md)
 3. "George Allison Armour (1856–1936)". Biography in this repository. [README-George-Allison-Armour-1856-1936.md](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md)
 4. "Barbara Armour Lowrie (1889–1981)". Biography in this repository. [README-Barbara-Armour-Lowrie-1889-1981.md](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md)
-5. Geni GEDCOM export, record for Barbara Allison (geni:364408151370007582). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
+5. Geni GEDCOM export, record for Barbara Allison (geni:364408151370007582). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
 
 ## Further research
 

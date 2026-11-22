@@ -49,7 +49,7 @@ She died at Yalta on 25 October 1907.[1][4]
 1. "Vladimir Sergeyevich Kudashev (1833–1871)". Biography in this repository, citing the VGD forum, Geneanet tree *ivehel* and the Russian Wikipedia article "Кудашев, Николай Всеволодович". [README-Vladimir-Sergeyevich-Kudashev-1833-1871.md](https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/README-Vladimir-Sergeyevich-Kudashev-1833-1871.md)
 2. "The Princes Kudachev (Koudacheff)". Family history blog, 9 February 2009. <https://koudachev.wordpress.com/2009/02/09/the-princes-kudachev-koudacheff/>
 3. "Sergei Vladimirovich Kudashev (1863–1933)". Biography in this repository. [README-Sergei-Vladimirovich-Kudashev-1863-1933.md](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md)
-4. Geni GEDCOM export, records for Olga Nikolaïevna Horvath (geni:364525368000002484) and Nicolai Horvath (geni:6000000019185989815). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
+4. Geni GEDCOM export, records for Olga Nikolaïevna Horvath (geni:364525368000002484) and Nicolai Horvath (geni:6000000019185989815). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
 5. "Ольга Николаевна Хорват (Кудашева)". *Родовод* (Rodovid). Cited in reference 1; not read for this page. <https://ru.rodovid.org/wk/Запись:310283>
 
 ## Further research

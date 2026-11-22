@@ -107,7 +107,7 @@ Points that family knowledge or family papers may settle. Each links to a confli
 7. Cantrell, Ellen Harrell. *The Annals of Christ Church Parish of Little Rock, Arkansas, from 1839 to 1899*. Little Rock: Arkansas Democrat Co., 1900, pp. 57–59 (section "William S. Fulton"). <https://archive.org/details/annalsofchristch00cant>
 8. "Elizabeth Savin Fulton (1764–1829)". Find a Grave memorial 251099726, with its list of family members. <https://www.findagrave.com/memorial/251099726/elizabeth-fulton>
 9. Hempstead, Fay. *A Pictorial History of Arkansas, from Earliest Times to the Year 1890*. St. Louis and New York: N. D. Thompson Publishing Company, 1890. Little Rock in 1830, pp. 719–720; a second passage naming Dr John T. Fulton as postmaster from 1829 (page not noted). <https://archive.org/details/pictorialhistory00hemp_0>
-10. Ancestry- and FamilySearch-derived family tree, records for David Fulton, Elizabeth Fulton, William Savin Fulton and his descendants. It cites Find a Grave and Pennsylvania church and town records; none has been seen directly. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+10. Ancestry- and FamilySearch-derived family tree, records for David Fulton, Elizabeth Fulton, William Savin Fulton and his descendants. It cites Find a Grave and Pennsylvania church and town records; none has been seen directly. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 11. "List of mayors of Little Rock, Arkansas". *Wikipedia*. It agrees with reference 5. <https://en.wikipedia.org/wiki/List_of_mayors_of_Little_Rock,_Arkansas>
 12. "Shirk Read Me", `Shirk/README-Shirk.md`, and the biography of Anne Bell Burrage, `Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md`, in this repository.
 

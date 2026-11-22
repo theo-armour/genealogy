@@ -93,16 +93,16 @@ Points that family knowledge or family papers may settle. Each links to a confli
 3. Haviland, Edward Kenneth. "American Steam Navigation in China, 1845–1878", Part IV. *The American Neptune*, vol. 17, no. 2 (April 1957), pp. 142–144. The note to the sentence about the sisters appears to cite a letter of Franklin Delano Williams to his wife, Hong Kong, 6 February 1862 (not seen). <https://archive.org/details/sim_american-neptune_1957-04_17_2>
 4. "7 Gloucester". *Back Bay Houses*. <https://backbayhouses.org/7-gloucester/>
 5. "Alice Hathaway Haskell Burrage". Biography in this repository, which records her as Theo Armour's maternal great-grandmother. [README-Alice-Hathaway-Haskell-Burrage-1861-1947.md](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md)
-6. Geni GEDCOM export, records for Elizabeth Russell (geni:6000000002789973095), Robert Russell (geni:6000000002789973120) and her children. No sources cited. `Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged`
-7. Ancestry-derived family tree, record for "Elisabeth Llnnnrll (Haskell) Russell". No sources cited. `Online-Genealogy/gedcom-files/2025-08-23-carley-armour-family-tree.ged`
-8. Ancestry- and FamilySearch-derived family tree, records for "Elisabeth Llnnnrll Russell" and her husband. Cites the Find a Grave index (memorial 209001988, <https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell>), the Massachusetts State Census of 1865 and Massachusetts Town and Vital Records. None of these records has been seen directly; Find a Grave refused automated access. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+6. Geni GEDCOM export, records for Elizabeth Russell (geni:6000000002789973095), Robert Russell (geni:6000000002789973120) and her children. No sources cited. `GEDCOM-files/2025/2025-08-18-export-geni/export-BloodTree.ged`
+7. Ancestry-derived family tree, record for "Elisabeth Llnnnrll (Haskell) Russell". No sources cited. `GEDCOM-files/2025/2025-08-23-carley-armour-family-tree.ged`
+8. Ancestry- and FamilySearch-derived family tree, records for "Elisabeth Llnnnrll Russell" and her husband. Cites the Find a Grave index (memorial 209001988, <https://www.findagrave.com/memorial/209001988/elizabeth-r.-haskell>), the Massachusetts State Census of 1865 and Massachusetts Town and Vital Records. None of these records has been seen directly; Find a Grave refused automated access. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 9. "James Bridges Endicott [1814–1870]". *Gwulo: Old Hong Kong*, biographical notes and readers' comments. <https://gwulo.com/node/32346>
 10. Haskell, Ira J. *Chronicles of the Haskell Family*. 1943. Table of descendants, p. 117. <https://archive.org/details/chroniclesofhask00hask_0>
 11. *Harvard College Class of 1883. Second Report of the Secretary* (about 1886). Entry for Albert Cameron Burrage. Seen as a search extract; quoted in full in reference 5. <https://archive.org/details/n02reportclass1883harvuoft>
 12. "Francis Hathaway Haskell". Biography in this repository, with the ship-register, directory and newspaper references for his career. [README-Francis-Hathaway-Haskell-1830-1868.md](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md)
 13. *London and China Telegraph*, 10 June 1865, deaths. The scan gives the day as "April 31st" and shows only the end of the father's first name. <https://archive.org/details/londonchina-1865.06.10>
 14. *London and China Telegraph*, 28 August 1867, births. <https://archive.org/details/londonchina-1867.08.28>
-15. Geni GEDCOM export of ancestors, record for "Elizabeth Llnnnrll Russell". `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
+15. Geni GEDCOM export of ancestors, record for "Elizabeth Llnnnrll Russell". `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
 
 ## Further research
 

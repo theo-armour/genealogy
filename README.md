@@ -25,7 +25,7 @@ Much of the data that is here has been collected via online web genealogy servic
 
 View of the GEDCOM files exported from Geni 2025-08-18
 
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged>
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-18-export-geni/export-BloodTree.ged>
 * <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/export-geni/export-BloodTree.ged>
 
 ### Ancestry.com
@@ -36,7 +36,7 @@ Must be a member to access
 
 View of the GEDCOM files exported from Ancestry 2025-08-18
 
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Online-Genealogy/gedcom-files/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged>
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged>
 
 
 ### MyHeritage.com
@@ -45,16 +45,16 @@ View of the GEDCOM files exported from Ancestry 2025-08-18
 
 View of the GEDCOM files exported from MyHeritage 2025-08-18
 
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Online-Genealogy/gedcom-files/2025-08-18-myheritage-armour.ged>
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-18-myheritage-armour.ged>
 
 
 ## Data from Jeff Carley
 
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Online-Genealogy/gedcom-files/2025-08-23-carley-armour-family-tree.ged>
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-23-carley-armour-family-tree.ged>
 
 ## Data from Matthew
 
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged>
+* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged>
 
 
 ## Kudashev Website

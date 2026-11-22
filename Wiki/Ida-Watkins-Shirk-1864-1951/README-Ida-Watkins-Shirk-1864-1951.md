@@ -50,8 +50,8 @@ Her husband died in August 1918, and she lived another 33 years as a widow.[2] T
 
 1. "Anne Bell Shirk Burrage (1890–1983)". Biography in this repository, citing Cantrell, Ellen Harrell, *The Annals of Christ Church Parish of Little Rock, Arkansas, from 1839 to 1899* (Little Rock, 1900), pp. 57–59, and the *Daily Arkansas Gazette*, 28 March 1915, p. 26. [README-Anne-Bell-Burrage-1890-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
 2. "James Cameron Marshall Shirk (1865–1918)". Biography in this repository. [README-James-Cameron-Marshall-Shirk-1865-1918.md](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md)
-3. Geni GEDCOM export, record for Ida W Watkins (geni:364428047360003312). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
-4. Ancestry-derived family tree, records for Ida W Watkins, her parents and Ida W. Fulton. It cites the 1870 and 1950 United States censuses, which have not been seen. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+3. Geni GEDCOM export, record for Ida W Watkins (geni:364428047360003312). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
+4. Ancestry-derived family tree, records for Ida W Watkins, her parents and Ida W. Fulton. It cites the 1870 and 1950 United States censuses, which have not been seen. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 
 ## Further research
 

@@ -113,6 +113,6 @@ Because Allison is living, this biography is limited to publicly available mater
 8. "Special Commissions | Custom Projects". Official website. <https://www.allisonarmour.com/special-commissions/>
 9. "Norman Armour Jr". Biography in this repository. [README-Norman-Armour-Jr-1920-1978.md](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md)
 10. "Cynthia Sewall Burrage Hovey". Biography in this repository. [README-Cynthia-Burrage-Hovey-1921-1983.md](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md)
-11. Family-tree exports in this repository (`Online-Genealogy/gedcom-files/2025-08-18-export-geni/export-BloodTree.ged` and `2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged`), confirming parents Norman Armour Jr and Cynthia Sewall Burrage and birth in Paris in 1951.
+11. Family-tree exports in this repository (`GEDCOM-files/2025/2025-08-18-export-geni/export-BloodTree.ged` and `2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged`), confirming parents Norman Armour Jr and Cynthia Sewall Burrage and birth in Paris in 1951.
 12. LinkedIn profile (linked from `allisonarmour.com`; behind sign-in wall when checked): <https://www.linkedin.com/in/allison-armour-b80408a>
 13. "Portfolio / Latest News". Official website. <https://www.allisonarmour.com/latest-news/>

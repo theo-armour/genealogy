@@ -53,8 +53,8 @@ He died at Chicago on 20 February 1893, according to the family trees.[3][4]
 
 1. "Erastus Foote (1777–1856)". Biography in this repository, citing Goodwin, Nathaniel, *The Foote Family* (Hartford, 1849), no. 2171, p. 222, and Willis, William, *A History of the Law, the Courts, and the Lawyers of Maine* (Portland, 1863), pp. 392–395. [README-Erastus-Foote-1777-1856.md](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md)
 2. "George Allison Armour (1856–1936)". Biography in this repository, citing Foote, Abram W., *Foote Family* (1907), no. 1479, p. 297, and *The Second Presbyterian Church of Chicago* (1892). [README-George-Allison-Armour-1856-1936.md](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md)
-3. Geni GEDCOM export, record for Erastus Foote Jr (geni:6000000220990842407). `Online-Genealogy/gedcom-files/theo/2025-08-30-export-geni/export-Ancestors.ged`
-4. Ancestry-derived family tree, records for Erastus Foote Jr., Sarah Page Wood and their children. No sources are cited for these events. `Online-Genealogy/gedcom-files/2025-08-28-matthew-family-tree.ged`
+3. Geni GEDCOM export, record for Erastus Foote Jr (geni:6000000220990842407). `GEDCOM-files/2025/2025-08-30-export-geni/export-Ancestors.ged`
+4. Ancestry-derived family tree, records for Erastus Foote Jr., Sarah Page Wood and their children. No sources are cited for these events. `GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged`
 
 ## Further research
 
