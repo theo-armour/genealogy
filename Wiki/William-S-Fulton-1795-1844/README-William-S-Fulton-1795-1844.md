@@ -12,7 +12,7 @@
 | **Died** | 15 August 1844 (aged 49)<br>"Rosewood", Little Rock, Arkansas |
 | **Occupation** | Lawyer; county judge in Alabama; Secretary and Governor of Arkansas Territory; United States senator |
 | **Spouse** | Matilda Frances Nowland (married 9 February 1823 at Florence, Alabama) (see Open questions for the name) |
-| **Children** | Elizabeth Rebecca (Mrs Moorhead Wright), Sophia (Mrs James M. Curran, later Mrs George C. Watkins), Ida (Mrs William Hunter), and five others who died young (see Open questions) |
+| **Children** | Elizabeth Rebecca (Mrs Moorhead Wright), [Sophia](https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md) (Mrs James M. Curran, later Mrs [George C. Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md)), Ida (Mrs William Hunter), and five others who died young (see Open questions) |
 | **Parents** | [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md) (1771–1843)<br>Elizabeth Savin |
 
 ## Family and education

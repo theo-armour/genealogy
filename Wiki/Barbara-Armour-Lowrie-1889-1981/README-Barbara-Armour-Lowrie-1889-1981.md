@@ -8,7 +8,7 @@
 | **Died** | 14 June 1981 (aged 91)<br>Princeton, New Jersey (see Open questions) |
 | **Spouse** | [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md) (married 19 February 1918; died 1959) |
 | **Children** | None |
-| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>Harriette Cobb Foote (1859–1924) |
+| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>[Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924) |
 
 ## Family and early life
 

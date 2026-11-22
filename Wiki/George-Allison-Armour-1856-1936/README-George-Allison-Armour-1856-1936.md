@@ -14,9 +14,9 @@ No portrait of him is held in this folder.
 | **Died** | 8 June 1936 (aged 80)<br>Princeton, New Jersey |
 | **Education** | Princeton (B.A. and M.A.; class of 1877) |
 | **Occupation** | Recorded as a lawyer in 1880 and as retired in 1915; book collector |
-| **Spouse** | Harriette Cobb Foote (1859–1924; married 27 April 1882) |
+| **Spouse** | [Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924; married 27 April 1882) |
 | **Children** | George (1884–1893)<br>Paul (1886–1887)<br>[Norman](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Barbara](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (1889–1981)<br>William (1892–1958)<br>Allison (born 1896)<br>Edmund (1899–1912) |
-| **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>Barbara Allison (1826–1898) |
+| **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>[Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (1826–1898) |
 
 ## Family and early life
 

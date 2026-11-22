@@ -16,7 +16,7 @@
 | **Awards** | George Robert White Medal of Honor, Massachusetts Horticultural Society (1922)<br>Lindley Medal, Royal Horticultural Society (1925) |
 | **Spouse** | [Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) (married 10 November 1885; died December 1947) |
 | **Children** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>Francis Hathaway (1888–1911)<br>Russell<br>Elizabeth Alice, Mrs Harold L. Chalifoux (1895–1987) |
-| **Parents** | [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md) (1823–1876)<br>Aurelia Chamberlin (also recorded as Amelia C. Chamberlain) |
+| **Parents** | [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md) (1823–1876)<br>[Aurelia Chamberlin](https://theo-armour.github.io/genealogy/#Wiki/Aurelia-Chamberlin-Burrage-1830-1899/README-Aurelia-Chamberlin-Burrage-1830-1899.md) (also recorded as Amelia C. Chamberlain) |
 
 ## Family and early life
 

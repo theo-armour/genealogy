@@ -14,7 +14,7 @@
 | **Born** | 22 March 1833 (other sources: 23 March)<br>[Kiev](https://en.wikipedia.org/wiki/Kyiv), Russian Empire |
 | **Died** | 2 October 1871 (aged 38)<br>Kiev, Russian Empire |
 | **Rank** | *Poruchik* (lieutenant) |
-| **Spouse** | Olga Nikolaevna Horvat (Хорват) (1840–1907) |
+| **Spouse** | [Olga Nikolaevna Horvat](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md) (Хорват) (1840–1907) |
 | **Children** | Matilda (b. 1857)<br>Sergei (1863–1933)<br>Maria (b. 1869)<br>Vsevolod (b. 1870)<br>Vladimir (d. 1957) |
 | **Father** | Prince [Sergei Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md) (1795–1862) |
 | **Mother** | Countess Mathilde de Choiseul-Gouffier |

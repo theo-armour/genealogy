@@ -13,7 +13,7 @@
 | **Occupation** | Diplomat (United States Foreign Service) |
 | **Spouse** | [Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md) (married 2 February 1919) |
 | **Children** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) (1920–1978) |
-| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>Harriette Cobb Foote (1859–1924) |
+| **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>[Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924) |
 
 ## Family and early life
 

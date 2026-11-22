@@ -18,7 +18,7 @@
 | **Spouses** | Countess Vera Maximilianovna von Nieroth (m. 1894; d. 1920)<br>[Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) (m. 1922; d. 1963) |
 | **Children** | Princess Maria (Myra) Sergeyevna (1896–1990)<br>Prince Sergei Sergeyevich (1901–1991)<br>Olga Sergeyevna (b. 1926) |
 | **Father** | Prince Vladimir Sergeyevich Kudashev (1833–1871) |
-| **Mother** | Princess Olga Nikolaevna Horvath (1840–1907) |
+| **Mother** | [Princess Olga Nikolaevna Horvath](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md) (1840–1907) |
 | **House** | Kudashev |
 
 ## Family background and early life

@@ -7,9 +7,9 @@
 | **Born** | 23 June 1865<br>Philadelphia, Pennsylvania |
 | **Died** | 24 August 1918 (aged 53)<br>Scranton or Philadelphia, Pennsylvania (see Open questions) |
 | **Occupation** | Architect |
-| **Spouse** | Ida Watkins of Little Rock, Arkansas (married 20 April 1892, according to one family tree) |
+| **Spouse** | [Ida Watkins](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md) of Little Rock, Arkansas (married 20 April 1892, according to one family tree) |
 | **Children** | [Anne Bell Shirk](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md), later Mrs Albert C. Burrage Jr |
-| **Parents** | [James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md) (1832–1873)<br>Mary W. Marshall (1833–1910) |
+| **Parents** | [James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md) (1832–1873)<br>[Mary W. Marshall](https://theo-armour.github.io/genealogy/#Wiki/Mary-W-Marshall-Shirk-1833-1910/README-Mary-W-Marshall-Shirk-1833-1910.md) (1833–1910) |
 
 ## Family and early life
 

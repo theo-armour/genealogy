@@ -11,7 +11,7 @@
 | **Born** | 24 April 1812 (baptised 28 April 1812)<br>Campbeltown, Argyll, Scotland |
 | **Died** | 13 June 1881 (aged 69; see Open questions)<br>Brighton, England |
 | **Occupation** | Wheelwright; canal and railroad contractor; grain-elevator proprietor |
-| **Spouse** | Barbara Allison (married 28 or 29 August 1850; see Open questions) |
+| **Spouse** | [Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (married 28 or 29 August 1850; see Open questions) |
 | **Children** | John William (1851–1865)<br>[George Allison](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>William (1858–1888)<br>[Allison Vincent](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md) (1863–1941)<br>Mary Greenlee, Mrs Francis Meredyth Whitehouse (1868–1958) |
 | **Parents** | Archibald Armour (1782–1828) and Ann Greenlees (1785–1859), according to the family trees (see Open questions) |
 

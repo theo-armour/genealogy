@@ -12,7 +12,7 @@
 | **Died** | 14 July 1856 (aged 78)<br>Wiscasset, Lincoln County, Maine |
 | **Occupation** | Lawyer; county attorney; legislator; Attorney General of Maine |
 | **Spouses** | Susan Carlton (married 1812; died 28 June 1817)<br>Eliza Carlton, her sister (married 9 July 1820) |
-| **Children** | By Susan: Mary Wood (1813–1814), Erastus Miles (1815–1816), Susan Eliza (b. 1817)<br>By Eliza: Erastus (1821–1893), Mary Todd (b. 1823), Abigail (1825–1826), Ann Butler (b. 1827) |
+| **Children** | By Susan: Mary Wood (1813–1814), Erastus Miles (1815–1816), Susan Eliza (b. 1817)<br>By Eliza: [Erastus](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md) (1821–1893), Mary Todd (b. 1823), Abigail (1825–1826), Ann Butler (b. 1827) |
 | **Parents** | Obed Foote (1741–1797)<br>Mary Todd (1742–1815) |
 
 ## Family and early life

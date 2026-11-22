@@ -15,7 +15,7 @@
 | **Known for** | A founder and first president (1933–34) of The Herb Society of America<br>First president of the Castle Hill Foundation (1951) |
 | **Spouse** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978), married April 1915 |
 | **Children** | [Albert Cameron Burrage III](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md) (1919–1944)<br>Anne Bell (see Open questions)<br>[Cynthia Sewall Burrage Hovey](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983) |
-| **Parents** | [James Carson Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918)<br>Ida Watkins Shirk |
+| **Parents** | [James Carson Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918)<br>[Ida Watkins Shirk](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md) |
 
 ## Family and early life
 

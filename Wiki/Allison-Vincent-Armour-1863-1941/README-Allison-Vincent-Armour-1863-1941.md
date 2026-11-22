@@ -14,7 +14,7 @@
 | **Occupation** | Management of family estates; yachtsman and ship's master; patron of scientific expeditions |
 | **Spouse** | Anne Louise Kelley (married 10 December 1885; died 3 April 1890) |
 | **Children** | None |
-| **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>Barbara Allison (1826–1898) |
+| **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>[Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (1826–1898) |
 
 ## Family and early life
 

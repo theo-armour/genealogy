@@ -11,7 +11,7 @@
 | **Born** | 15 May 1823<br>Leominster, Worcester County, Massachusetts |
 | **Died** | 16 May 1876 (aged 53)<br>Napa County, California (see Open questions) |
 | **Occupation** | Chair manufacturer; vineyard owner and grape grower |
-| **Spouses** | Martha G. Phelps of Leominster (married 2 April 1844; died 6 August 1849)<br>Aurelia Chamberlin (married 1 January 1851) (see Open questions for the name) |
+| **Spouses** | Martha G. Phelps of Leominster (married 2 April 1844; died 6 August 1849)<br>[Aurelia Chamberlin](https://theo-armour.github.io/genealogy/#Wiki/Aurelia-Chamberlin-Burrage-1830-1899/README-Aurelia-Chamberlin-Burrage-1830-1899.md) (married 1 January 1851) (see Open questions for the name) |
 | **Children** | By Martha: Clara A. (b. 1844), Ellen M. (1847–1867), Mary E. (1849–1849)<br>By Aurelia: Cora Chamberlin (b. 1851), William Henry (1854–1854), Martha Bayley (1855–1855), Charles Dana (b. 1857), [Albert Cameron](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931) |
 | **Parents** | Deacon William Burrage (1768–1844)<br>Roxanna Sanderson of Lancaster |
 

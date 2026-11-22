@@ -12,7 +12,7 @@
 | **Died** | 10 February 1873 (aged 40)<br>Washington, D.C. |
 | **Resting place** | Erie Cemetery, Erie, Pennsylvania (cemetery association records) |
 | **Occupation** | Officer, United States Navy, 1849–1873; commander from 1866 |
-| **Spouse** | Mary W. Marshall of Erie (1833–1910; see Open questions) |
+| **Spouse** | [Mary W. Marshall](https://theo-armour.github.io/genealogy/#Wiki/Mary-W-Marshall-Shirk-1833-1910/README-Mary-W-Marshall-Shirk-1833-1910.md) of Erie (1833–1910; see Open questions) |
 | **Children** | Three were living in 1884, among them [James C. Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918) (see Open questions) |
 | **Parents** | David Shirk (1806–1873)<br>Mary Whitehill |
 
