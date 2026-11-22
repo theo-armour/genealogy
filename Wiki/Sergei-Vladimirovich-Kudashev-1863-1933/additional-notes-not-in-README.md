@@ -186,48 +186,19 @@ From the MS Word document ["Sergei Koudacheff - references in primarily Russian 
 > Top of Page 8
 > **Resided at Morskaya 57.** T. 53038. Dir. Board: Insurance Company "Salamandra" and Trade and Industrial Company "Alfa Nobel"; Board of Russian Trade and Industrial Company 6.
 
-### Email Exchange — Erik Van der Graaf & Theo Armour, 8 July 2026 (verbatim from `2026-07-08-Erik-many-changes.md`)
+### Findings from Erik Van der Graaf, July 2026 (summarised from his notes, which are kept privately)
 
-> Thank you so much for your reply yesterday and this updated overview, this is really a labor of love! I need some time to process all this information but I salute you for your initiative!
->
-> I have been contacting various sources in Sweden, France and Italy regarding your great-grandfather in the hope to trace his personal life and activities. Since we are entering summer holidays it may take a while before I will get replies, however the Florence State Archives already got back to me stating that - unfortunately - they don't have any records on him or his second wife (see annexe 1).
-> It is still early days and I am rather hopeful that I will get information from other sources. Meanwhile I am continuing my quest and found some interesting albeit basic bits of information on the brother of your grandmother via documents I found via the Gallica database (the online database of the Bibliotheque Nationale de France - the French National Library).
->
-> Based on various documents referencing Serge Sergeiewitch Koudacheff I have put together a small file for you which includes a picture from him taken in 1947, information on 3 of his home addresses in France (Paris), a reference to the fact that at some point he was married to a French woman (not included in your family-tree) and information on some of his business ventures, apparently he was partnering in or financing various enterprises throughout the 1920-1950 period in France (Paris). I do hope this info is useful to you.
->
-> I will keep up the good work and try to live up to my reputation of having 'magic fingers'.
->
-> With kind regards,
->
-> Erik
->
-> Op wo 8 jul 2026 om 07:56 schreef Theo Armour <t.armour@gmail.com>:
->  2 Attachments
->   •  Scanned by Gmail
-> Hi Erik
->
-> Thanks for digging into those sources despite the summer slowdown. Good to know about the Florence archives, even if it was a dead end.
->
-> That information on Serge Sergeiewitch Koudacheff sounds very interesting—especially the picture and the business ventures. I look forward to seeing that file when you send it over.
->
-> Cheers,
->
-> Theo
+#### 8 July 2026
 
-### Research Notes & Open Questions — Erik Van der Graaf, 16 July 2026 (verbatim from `2026-07-16-erik-new-findings.md`)
+* The Florence State Archives have no records on Sergei or his second wife.
+* Erik has written to sources in Sweden, France and Italy; replies expected after the summer holidays.
+* From the Gallica database (Bibliothèque nationale de France), on Serge Sergeiewitch Koudacheff, my grandmother's brother: a photograph from 1947, three of his home addresses in Paris, a reference to a marriage to a French woman not in my family tree, and business ventures he partnered in or financed in Paris between 1920 and 1950.
 
-> **Business activities**
-> Ksenya Kiebuzinski of the University of Toronto did an amazing job by screening and investigating Russian newspapers from the 1892-1917 period. This exercise revealed that your great-grandfather was involved in business on a large scale and far beyond my imagination. The newspapers revealed that he was involved in over 15 businesses - banks, insurance companies, railway companies, manufacturing companies and mining companies - mainly through membership of the board of these companies.
-> I am currently working on a clear and detailed overview to be included in the next version of my report.
->
-> **Private correspondence**
-> With the help of the Berlin Art Museum I have had the opportunity to study various letters your great-grandfather sent to art historian Wilhelm von Bode who helped him to set up the catalogue of his painting collection in 1902.
-> The correspondence covers the period between October 1904 and January 1905 and reveals the reasons why your great-grandfather wanted to sell off his collection. At that time he was residing in Florence and stayed there in view of the (bad) health of his son (that must have been 'Gigi'). His address in Florence back then was Villa Granduchessa.
-> I need to study the correspondence more in detail and then I will include the key parts in the next version of my report.
->
-> **Volokolamsk estate**
-> I found out that your great-grandfather was the owner of a (family) estate in the Volokolamsk area (a small city at 130 kilometers north-west  of Moscow).
-> Were you aware of this estate and was it possibly inherited by your great-grandfather? Do you have any reference on the estate in your family archive?
+#### 16 July 2026
+
+* **Business activities.** Ksenya Kiebuzinski of the University of Toronto searched Russian newspapers from 1892–1917 and found Sergei involved in more than 15 businesses ~ banks, insurance, railway, manufacturing and mining companies ~ mainly as a board member. Erik is preparing a detailed list for the next version of his report.
+* **Letters to Wilhelm von Bode.** With help from the Berlin museums, Erik studied Sergei's letters to the art historian Wilhelm von Bode, who helped him with the 1902 catalogue of his collection. They run from October 1904 to January 1905 and give his reasons for selling the collection. He was living at Villa Granduchessa in Florence because of his son's poor health ~ Erik takes the son to be 'Gigi'.
+* **Volokolamsk estate.** Sergei owned an estate, possibly a family one, in the Volokolamsk area, about 130 km north-west of Moscow. Erik's open questions: was I aware of it, did Sergei inherit it, and is there any reference to it in the family archive?
 
 ### Working Research Prompt for `artists-list.md` (verbatim from `Koudacheff-Collection/README.md`)
 

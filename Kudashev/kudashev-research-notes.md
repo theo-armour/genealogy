@@ -26,7 +26,7 @@ Leads to follow:
 
 * Mosolov's memoir, *At the Court of the Last Tsar* (1935) ~ full text online
 * Fyodor Maximilianovich von Nieroth's published memoirs of the Page Corps and the First World War
-* The Russian newspaper search for 1892–1917 mentioned in the notes from Erik
+* The search of Russian newspapers for 1892–1917 by Ksenya Kiebuzinski, reported by Erik Van der Graaf ~ see [Sergei Vladimirovich's biography](../Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md)
 * Court calendars (*Придворный календарь*) for who held which court rank in which year
 
 Sources:
@@ -44,13 +44,12 @@ Sources:
 
 * https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B
 * https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2
-* https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%88%D0%B5%D0%B2%D1%8B
 
 ## Genealogy
 
 https://geni.com has a family tree for the Kudashev family, which includes Prince Sergei Kudashev, Princess Vera Kudasheva, and Princess Myra Armour (née Kudasheva). The family tree provides information about their relationships and connections to many other individuals.
 
-Here links to quite a few references here.
+The profiles link to many more references.
 
 * https://www.geni.com/people/Prince-Sergei-Kudashev/6000000019323938097
 * https://www.geni.com/people/Princess-Vera-Kudasheva/6000000019323779328
@@ -66,6 +65,8 @@ Here links to quite a few references here.
 
 Found on Wikimedia Commons; relation to our line not yet confirmed. Stored in [images/](images/).
 
+| File | What it shows | Source |
+| --- | --- | --- |
 | `1903-ball-elizaveta-mikhailovna-nirod.jpg` | Elizaveta **Mikhailovna** Nirod at the 1903 Romanov ball ~ which Nirod branch? | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1903_ball_-_Eliz._Mikh._Nirod.jpg) |
 | `nirod-estate-ukraine.jpg` | "Садиба графа Нірода" ~ Count Nirod's estate, Ukraine ~ Maximilian died in Kiev; same family? | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%B4%D0%B8%D0%B1%D0%B0_%D0%B3%D1%80%D0%B0%D1%84%D0%B0_%D0%9D%D1%96%D1%80%D0%BE%D0%B4%D0%B0.jpg) |
 
