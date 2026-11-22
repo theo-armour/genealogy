@@ -92,7 +92,7 @@ Great Uncle Allison was a far more dashing figure than my great-grandfather, Geo
 ## Anne Bell Burrage ~ Maternal grandmother
 
 <img src="https://theo-armour.github.io/genealogy/Commons/anne-burrage.jpg" alt="Anne Burrage" width="300">
-<img src="https://theo-armour.github.io/genealogy/Commons/1930~-unknown-anne-bell-burrage-in-diving-suit.jpg" alt="Anne Burrage" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Anne-Bell-Burrage-1890-1983/images/1930~-unknown-anne-bell-burrage-in-diving-suit.jpg" alt="Anne Burrage" width="300">
 
 📖 [More about Anne Bell Burrage in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
 

@@ -4,7 +4,7 @@ Family tree exports from the online services, named by export date. These are so
 
 ## Start here
 
-* [index.html](index.html) ~ my GEDCOM viewer: one file, opens the exports below, links people to their Wiki pages
+* [GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/) ~ my viewer: opens the exports below, links people to their Wiki pages ~ source in its own repo, [theo-armour/gedcom-viewer](https://github.com/theo-armour/gedcom-viewer)
 * [gedcom.md](gedcom.md) ~ notes and links on the GEDCOM format, and the viewer I like
 
 ## Exports

@@ -170,13 +170,13 @@ Extracted on 2026-11-21 from `0-Sergei-Vladimirovich-Kudashev-1863-1933.md`, `0-
   * [Koudacheff Questionnaire.docx](Koudacheff%20Questionnaire.docx)
   * [Koudacheff Questionnaire replied by Theo.docx](Koudacheff%20Questionnaire%20replied%20by%20Theo.docx)
   * [Kudashev Background.docx](Kudashev%20Background.docx)
-  * [Sergei Koudacheff - references in primarily Russian newspapers 1878-1917.docx](../../commons/Sergei%20Koudacheff%20-%20references%20in%20primarily%20Russian%20newspapers%201878-1917.docx)
+  * [Sergei Koudacheff - references in primarily Russian newspapers 1878-1917.docx](Sergei%20Koudacheff%20-%20references%20in%20primarily%20Russian%20newspapers%201878-1917.docx)
 
 ## Research Notes, Drafts & Correspondence
 
 ### Verbatim Newspaper & Directory Extracts (from `0-Sergei-Vladimirovich-Kudashev-1863-1933.md`)
 
-From the MS Word document ["Sergei Koudacheff - references in primarily Russian newspapers 1878-1917"](../../commons/Sergei%20Koudacheff%20-%20references%20in%20primarily%20Russian%20newspapers%201878-1917.docx):
+From the MS Word document ["Sergei Koudacheff - references in primarily Russian newspapers 1878-1917"](Sergei%20Koudacheff%20-%20references%20in%20primarily%20Russian%20newspapers%201878-1917.docx):
 
 > **Den', 1912.10.06, p. 6**
 > Top of Page 5
