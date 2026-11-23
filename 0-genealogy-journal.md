@@ -1,5 +1,11 @@
 # Genealogy Journal
 
+## Releases
+
+Newest first. Each one is a tagged snapshot of this repository on GitHub.
+
+* [v1.0.0](https://github.com/theo-armour/genealogy/releases/tag/v1.0.0) — 2026-11-22 — First numbered snapshot: 66 biographies, the master GEDCOM tree and the ancestor fan chart
+
 ## 2026-11-22
 
 A big day for the family tree, working with Claude.
