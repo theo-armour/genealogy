@@ -1217,6 +1217,17 @@
 2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md
+0 @I56@ INDI
+1 NAME Sergio /Pelà/
+2 GIVN Sergio
+2 SURN Pelà
+1 SEX M
+1 NOTE Living. Personal details are omitted.
+1 FAMC @F29@
+1 REFN Sergio-Pela-1957-
+2 TYPE Wiki
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md
 0 @I55@ INDI
 1 NAME Katharine Lane /Weems/
 2 GIVN Katharine Lane
@@ -1415,6 +1426,36 @@
 1 NOTE Connector: no Wiki page.
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md
+0 @C13@ INDI
+1 NAME Olga Sergeyevna /Kudasheva/
+2 GIVN Olga Sergeyevna
+2 SURN Kudasheva
+1 NAME Olga /Koudacheff/
+2 TYPE aka
+1 NAME Olga /Pelà/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 FAMC @F25@
+1 FAMS @F29@
+1 NOTE Connector: no Wiki page. Whether she is living is not recorded.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md
+0 @C14@ INDI
+1 NAME Achille /Pelà/
+2 GIVN Achille
+2 SURN Pelà
+1 SEX M
+1 BIRT
+2 DATE 7 NOV 1921
+1 DEAT
+2 DATE 1986
+1 OCCU Translator
+1 FAMS @F29@
+1 NOTE Connector: no Wiki page.
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md
 0 @F01@ FAM
 1 HUSB @I02@
 1 WIFE @I03@
@@ -1561,6 +1602,7 @@
 0 @F25@ FAM
 1 HUSB @I13@
 1 WIFE @I51@
+1 CHIL @C13@
 1 MARR
 2 DATE 1922
 2 PLAC Florence, Italy
@@ -1579,4 +1621,10 @@
 0 @F28@ FAM
 1 HUSB @I54@
 1 WIFE @C01@
+0 @F29@ FAM
+1 HUSB @C14@
+1 WIFE @C13@
+1 CHIL @I56@
+1 MARR
+2 DATE 1955
 0 TRLR
