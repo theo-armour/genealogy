@@ -1,6 +1,6 @@
 # Count Maximilian von Nieroth
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Maximilian-Carl-Benedict-von-Nieroth-1846-1914)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Maximilian-Carl-Benedict-von-Nieroth-1846-1914)
 
 ![Count Maximilian von Nieroth](images/nieroth_maximilian_large.jpg)
 

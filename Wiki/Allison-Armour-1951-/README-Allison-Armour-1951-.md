@@ -1,6 +1,6 @@
 # Allison Armour
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Allison-Armour-1951-)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Allison-Armour-1951-)
 
 **Allison Armour** (born 1951), also known in earlier exhibitions and press as **Allison Armour-Wilson**, is an American-raised contemporary sculptor and garden designer known for her mirror-polished stainless steel sculptures and the *Aqualens* crystal sphere water fountain.[1][2][4][5] Born in Paris and raised in New York, she studied at the Parsons School of Design and the Architectural Association in London before launching her sculpture practice in Sussex, England, in 1999 and debuting with a Silver Medal at the 2000 RHS Chelsea Flower Show.[1][4][5] She is the daughter of [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) and [Cynthia Sewall Burrage](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md), and the sister of [Theo Armour](https://theo-armour.github.io/genealogy/#Wiki/Norman-Theo-Armour-III-1947-/Norman-Theo-Armour-III-1947-.md).[9][10][11]
 

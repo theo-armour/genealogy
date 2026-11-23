@@ -1,6 +1,6 @@
 # Albert Cameron Burrage III
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-III-1919-1944)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-III-1919-1944)
 
 ![American Field Service ambulance drivers arriving at New York, 18 July 1940](images/ghows_image-WL-96611be9-20be-4494-a06a-7c499e2dab99.webp)
 

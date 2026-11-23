@@ -1,6 +1,6 @@
 # Prince Vladimir Sergeyevich Kudashev
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir-Sergeyevich-Kudashev-1833-1871)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir-Sergeyevich-Kudashev-1833-1871)
 
 ![Coat of arms of the Princes Kudashev](images/kudashev-coat-of-arms-1904.jpg)
 

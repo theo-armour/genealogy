@@ -1,6 +1,6 @@
 # Walter Lowrie
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Walter-Lowrie-1868-1959)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Walter-Lowrie-1868-1959)
 
 ![Walter Lowrie seated on a terrace with a table of books](images/Walter_Lowrie_AC058_Box_MP35.webp)
 

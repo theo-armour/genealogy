@@ -1,6 +1,6 @@
 # Princess Mathilde Kudasheva, born Countess de Choiseul-Gouffier (1806–1867) ~ Матильда Октавьевна Кудашева
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867)
 
 No portrait of her is held in this folder. A portrait of her grandfather is on her husband's page.
 

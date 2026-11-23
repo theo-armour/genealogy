@@ -1,6 +1,6 @@
 # Barbara Armour Lowrie
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Armour-Lowrie-1889-1981)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Armour-Lowrie-1889-1981)
 
 **Barbara Armour Lowrie** (27 November 1889 – 14 June 1981) was the only daughter of George Allison Armour of Chicago and Princeton, New Jersey, and the wife of the Episcopal clergyman and Kierkegaard translator [Walter Lowrie](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md). After his death she gave her family's house at 83 Stockton Street, Princeton, to Princeton University in his memory; as the Walter Lowrie House it has been the residence of the university's president since 1968.[1][2][3] She was the sister of [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) and Theo Armour's great-aunt.[1][8]
 

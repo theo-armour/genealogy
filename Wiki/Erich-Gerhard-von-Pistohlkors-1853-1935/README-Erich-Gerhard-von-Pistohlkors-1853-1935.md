@@ -1,6 +1,6 @@
 # Erich Gerhard von Pistohlkors (1853–1935) ~ Эрик Августович фон Пистолькорс
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erich-Gerhard-von-Pistohlkors-1853-1935)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Erich-Gerhard-von-Pistohlkors-1853-1935)
 
 No portrait of him is held in this folder.
 

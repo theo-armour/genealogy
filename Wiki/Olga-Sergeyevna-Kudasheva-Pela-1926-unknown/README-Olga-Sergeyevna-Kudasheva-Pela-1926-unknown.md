@@ -1,6 +1,6 @@
 # Olga Sergeyevna Pelà, born Princess Kudasheva (1926–?)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Sergeyevna-Kudasheva-Pela-1926-unknown)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Sergeyevna-Kudasheva-Pela-1926-unknown)
 
 No portrait of her is held in this folder.
 

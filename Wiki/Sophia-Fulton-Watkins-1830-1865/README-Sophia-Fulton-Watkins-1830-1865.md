@@ -1,6 +1,6 @@
 # Sophia Fulton Watkins (1830–1865)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sophia-Fulton-Watkins-1830-1865)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Sophia-Fulton-Watkins-1830-1865)
 
 No portrait of her is held in this folder.
 

@@ -1,6 +1,6 @@
 # General Dmitri Fyodorovich Trepov
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Dmitri%20Feodorovich%20Trepov-1850-1906)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Dmitri%20Feodorovich%20Trepov-1850-1906)
 
 ![Dmitri Fyodorovich Trepov, 1905](images/dmitri-trepov-1905.jpg)
 

@@ -1,6 +1,6 @@
 # Ida Watkins Shirk (1864–1951)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Ida-Watkins-Shirk-1864-1951)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Ida-Watkins-Shirk-1864-1951)
 
 No portrait of her is held in this folder.
 

@@ -1,6 +1,6 @@
 # Katharine Lane Weems
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Katherine-Weems-1899-1989)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Katherine-Weems-1899-1989)
 
 ![Katharine Lane as a girl](images/Katharine-Lane-Weems.jpg)
 

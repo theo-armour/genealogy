@@ -1,6 +1,6 @@
 # August Friedrich Woldemar von Pistohlkors (1822–1886) ~ Август фон Пистолькорс
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=August-Friedrich-Woldemar-von-Pistohlkors-1822-1886)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=August-Friedrich-Woldemar-von-Pistohlkors-1822-1886)
 
 No portrait of him is held in this folder.
 

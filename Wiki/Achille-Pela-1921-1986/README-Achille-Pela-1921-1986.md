@@ -1,6 +1,6 @@
 # Achille Pelà (1921–1986)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Achille-Pela-1921-1986)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Achille-Pela-1921-1986)
 
 No portrait of him is held in this folder.
 

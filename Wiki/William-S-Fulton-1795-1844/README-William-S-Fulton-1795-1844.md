@@ -1,6 +1,6 @@
 # William Savin Fulton
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=William-S-Fulton-1795-1844)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=William-S-Fulton-1795-1844)
 
 ![William S. Fulton](images/william-fulton.jpg)
 

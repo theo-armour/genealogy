@@ -1,6 +1,6 @@
 # Cynthia Sewall Burrage Hovey
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Cynthia-Burrage-Hovey-1921-1983)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Cynthia-Burrage-Hovey-1921-1983)
 
 ![Boston Sunday Post, 29 June 1941](images/The_Boston_Post_29_Jun_1941.jpg)
 

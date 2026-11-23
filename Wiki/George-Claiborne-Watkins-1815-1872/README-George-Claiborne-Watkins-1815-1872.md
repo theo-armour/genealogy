@@ -1,6 +1,6 @@
 # George Claiborne Watkins (1815–1872)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Claiborne-Watkins-1815-1872)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Claiborne-Watkins-1815-1872)
 
 No portrait of him is held in this folder.
 

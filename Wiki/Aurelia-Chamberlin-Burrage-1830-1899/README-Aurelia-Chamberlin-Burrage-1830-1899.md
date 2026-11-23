@@ -1,6 +1,6 @@
 # Aurelia Chamberlin Burrage (1830–1899)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Aurelia-Chamberlin-Burrage-1830-1899)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Aurelia-Chamberlin-Burrage-1830-1899)
 
 No portrait of her is held in this folder.
 

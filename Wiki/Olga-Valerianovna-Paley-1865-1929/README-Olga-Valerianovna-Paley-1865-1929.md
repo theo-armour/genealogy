@@ -1,6 +1,6 @@
 # Princess Olga Valerianovna Paley
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Valerianovna-Paley-1865-1929)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Valerianovna-Paley-1865-1929)
 
 ![Princess Olga Valerianovna Paley](images/1890s-olga-paley-portrait.jpg)
 

@@ -1,6 +1,6 @@
 # Prince Sergei Vladimirovich Kudashev
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Vladimirovich-Kudashev-1863-1933)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Vladimirovich-Kudashev-1863-1933)
 
 ![Prince Sergei Vladimirovich Kudashev at the 1903 costume ball in the Winter Palace](images/1903-ball-sergei-kudashev.jpeg)
 

@@ -1,6 +1,6 @@
 # Countess Anastasia Fyodorovna von Nieroth (Trepova)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Anastasia-Fyodorovna-Trepova-1849-1940)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Anastasia-Fyodorovna-Trepova-1849-1940)
 
 ![Countess Anastasia Fyodorovna von Nieroth](images/nieroth_anastasia_large.jpg)
 

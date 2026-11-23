@@ -1,6 +1,6 @@
 # Erastus Foote Jr (1821–1893)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-Jr-1821-1893)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-Jr-1821-1893)
 
 No portrait of him is held in this folder.
 

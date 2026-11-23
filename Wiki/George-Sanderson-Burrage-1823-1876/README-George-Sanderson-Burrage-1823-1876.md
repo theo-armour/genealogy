@@ -1,6 +1,6 @@
 # George Sanderson Burrage
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Sanderson-Burrage-1823-1876)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Sanderson-Burrage-1823-1876)
 
 ![George Sanderson Burrage](images/george-sanderson-burrage.jpeg)
 

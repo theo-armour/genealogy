@@ -1,6 +1,6 @@
 # Lubov Alexandrovna Horvat, born Pishchevich (1800–1849) ~ Любовь Александровна Хорват, урождённая Пищевич
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849)
 
 No portrait of her is held in this folder.
 

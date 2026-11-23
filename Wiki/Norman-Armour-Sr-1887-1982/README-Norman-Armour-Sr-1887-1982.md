@@ -1,6 +1,6 @@
 # Norman Armour Sr
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Sr-1887-1982)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Sr-1887-1982)
 
 ![Norman Armour](images/norman-armour.jpg)
 

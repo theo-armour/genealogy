@@ -1,6 +1,6 @@
 # George Armour
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Armour-1812-1881)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Armour-1812-1881)
 
 ![George Armour](images/george-armour.png)
 

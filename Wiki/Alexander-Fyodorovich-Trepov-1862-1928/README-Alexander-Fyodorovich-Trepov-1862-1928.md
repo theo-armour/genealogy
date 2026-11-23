@@ -1,6 +1,6 @@
 # Alexander Fyodorovich Trepov
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Fyodorovich-Trepov-1862-1928)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Fyodorovich-Trepov-1862-1928)
 
 ![Alexander Fyodorovich Trepov, 1897](images/alexander-trepov.jpg)
 

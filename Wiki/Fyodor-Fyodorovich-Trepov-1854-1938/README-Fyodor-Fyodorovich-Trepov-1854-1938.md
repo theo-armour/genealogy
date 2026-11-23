@@ -1,6 +1,6 @@
 # General Fyodor Fyodorovich Trepov (junior)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1854-1938)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1854-1938)
 
 ![Fyodor Fyodorovich Trepov, 1915](images/fyodor-trepov-junior-1915.jpg)
 

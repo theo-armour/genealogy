@@ -1,6 +1,6 @@
 # Prince Nikolay Danilovich Kudashev
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolay-Danilovich-Kudashev-1784-1813)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolay-Danilovich-Kudashev-1784-1813)
 
 ![Prince Nikolay Danilovich Kudashev, Military Gallery of the Winter Palace](images/nikolay-kudashev.jpg)
 

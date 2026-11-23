@@ -1,6 +1,6 @@
 # James Cameron Marshall Shirk
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Cameron-Marshall-Shirk-1865-1918)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Cameron-Marshall-Shirk-1865-1918)
 
 **James C. Marshall Shirk** (23 June 1865 – 24 August 1918), known professionally as J. C. Marshall Shirk, was a Philadelphia architect. He trained in the office of Addison Hutton, studied at the École des Beaux-Arts in Paris, and practised on his own account in Philadelphia from 1893 until his death; he was elected to the American Institute of Architects in 1901.[1][2] His middle name is given as Cameron in some family records and as Carson in most other sources (see Open questions). He was the son of the naval officer [James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md), the father of [Anne Bell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md), and Theo Armour's maternal great-grandfather.[1][8][12]
 

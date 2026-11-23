@@ -1,6 +1,6 @@
 # Princess Vera Maximilianovna Kudasheva
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920)
 
 **Princess Vera Maximilianovna Kudasheva** (née **Countess von Nieroth**; Russian: Вера Максимилиановна Кудашева, урождённая фон Нирод; 23 July 1874 – 26 January 1920) was a Russian aristocrat and courtier who served as a Maid of Honor (*freilina*) to Empress Alexandra Feodorovna. Through her paternal Baltic-German family, the Counts von Nieroth, and her maternal Russian administrative family, the Trepovs, she belonged to the governing elite of the late Russian Empire. She is particularly noted in cultural history for her documented appearance at the 1903 Winter Palace Costume Ball, whose photographic record served as a visual source for the "Russian Style" (*Russkiy Stil*) playing card deck, and for her family's escape from Soviet Russia following the October Revolution of 1917.
 

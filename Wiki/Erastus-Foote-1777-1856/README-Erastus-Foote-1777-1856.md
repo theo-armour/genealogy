@@ -1,6 +1,6 @@
 # Erastus Foote
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-1777-1856)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-1777-1856)
 
 ![Erastus Foote](images/erastus-foote.jpg)
 

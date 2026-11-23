@@ -1,6 +1,6 @@
 # Barbara Allison Armour (1826–1898)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Allison-Armour-1826-1898)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Allison-Armour-1826-1898)
 
 No portrait of her is held in this folder.
 

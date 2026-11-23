@@ -1,6 +1,6 @@
 # James Whitehill Shirk
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Whitehill-Shirk-1832-1873)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Whitehill-Shirk-1832-1873)
 
 ![James W. Shirk](images/james-shirk.png)
 

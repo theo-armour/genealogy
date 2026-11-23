@@ -1,6 +1,6 @@
 # David Fulton
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=David-Fulton-1771-1843)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=David-Fulton-1771-1843)
 
 **David Fulton** (2 January 1771 – 7 August 1843) was an Irish-born settler who came to Maryland as a youth, moved west with his family through Tennessee and Alabama, and spent his last ten years in Little Rock, Arkansas. There he was the fourth and last mayor of the Town of Little Rock in 1835, a county judge, and surveyor-general of the public lands in Arkansas under President Van Buren.[2][3][5] He was the father of [William S. Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md), governor of Arkansas Territory and United States senator, and through him Theo Armour's maternal great-great-great-great-grandfather.[7][10][12]
 

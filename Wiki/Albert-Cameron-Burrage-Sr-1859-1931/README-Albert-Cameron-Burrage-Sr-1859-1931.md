@@ -1,6 +1,6 @@
 # Albert Cameron Burrage Sr
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Sr-1859-1931)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Sr-1859-1931)
 
 ![Albert Cameron Burrage](images/albert-burrage.jpg)
 

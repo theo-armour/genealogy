@@ -1,6 +1,6 @@
 # Olga Erikovna von Pistohlkors
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Ericovna-von-Pistohlkors-1888-1963)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Ericovna-von-Pistohlkors-1888-1963)
 
 ![The family of Princess Paley, about 1911](images/1911~-family-of-princess-paley.jpg)
 

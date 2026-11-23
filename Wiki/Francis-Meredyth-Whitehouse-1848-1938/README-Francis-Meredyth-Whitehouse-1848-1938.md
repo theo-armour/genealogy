@@ -1,6 +1,6 @@
 # Francis Meredyth Whitehouse
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Meredyth-Whitehouse-1848-1938)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Meredyth-Whitehouse-1848-1938)
 
 ![Francis Meredyth Whitehouse](images/Francis_M._Whitehouse_architect.jpg)
 

@@ -1,6 +1,6 @@
 # Vladimir Fyodorovich Trepov
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir%20Fyodorovich%20Trepov-1863-1918)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir%20Fyodorovich%20Trepov-1863-1918)
 
 ![Vladimir Fyodorovich Trepov at the 1903 costume ball in the Winter Palace](images/1903-ball-vladimir-trepov.jpg)
 

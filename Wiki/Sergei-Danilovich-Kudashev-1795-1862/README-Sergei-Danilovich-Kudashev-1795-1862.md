@@ -1,6 +1,6 @@
 # Prince Sergei Danilovich Kudashev
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Danilovich-Kudashev-1795-1862)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Danilovich-Kudashev-1795-1862)
 
 ![Coat of arms of the Princes Kudashev](images/kudashev-coat-of-arms-1904.jpg)
 

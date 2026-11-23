@@ -1,6 +1,6 @@
 # Valerian Gavrilovich Karnovich (1823–1891) ~ Валериан Гаврилович Карнович
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Valerian-Gavrilovich-Karnovich-1823-1891)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Valerian-Gavrilovich-Karnovich-1823-1891)
 
 No portrait of him is held in this folder.
 

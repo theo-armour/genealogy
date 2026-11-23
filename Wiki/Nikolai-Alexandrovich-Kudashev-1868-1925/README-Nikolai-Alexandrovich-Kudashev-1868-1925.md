@@ -1,6 +1,6 @@
 # Prince Nikolai Alexandrovich Kudashev
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Alexandrovich-Kudashev-1868-1925)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Alexandrovich-Kudashev-1868-1925)
 
 ![Russian Peace Commission and staff at Portsmouth, New Hampshire, 1905](images/1905-russian-peace-commission-portsmouth.jpg)
 

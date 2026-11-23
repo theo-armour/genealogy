@@ -1,6 +1,6 @@
 # Alice Hathaway Haskell Burrage
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alice-Hathaway-Haskell-Burrage-1861-1947)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Alice-Hathaway-Haskell-Burrage-1861-1947)
 
 **Alice Hathaway Haskell** (6 October 1857, 1861 or 1862 – December 1947), known after her marriage as Mrs Albert C. Burrage, was the wife of the Boston lawyer and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md). Most sources say she was born in China. She lived in the Burrage houses at 314 Commonwealth Avenue, Boston, at Redlands, California, and at Manchester, Massachusetts, and she paid for Trinity Episcopal Church in Redlands.[1][2][3][4][5] Her birth year is uncertain (see Open questions). She was Theo Armour's maternal great-grandmother.[1][6]
 

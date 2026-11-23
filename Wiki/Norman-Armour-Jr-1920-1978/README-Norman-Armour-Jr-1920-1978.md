@@ -1,6 +1,6 @@
 # Norman Armour Jr
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Jr-1920-1978)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Jr-1920-1978)
 
 **Norman Armour Jr** (10 February 1920 – 26 April 1978) was the only child of the American diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) and Princess Myra Koudacheff ([Maria Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md)). He was born in Brussels, attended Princeton University, and in 1941 married [Cynthia Sewall Burrage](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) of Boston and Ipswich, Massachusetts.[1][2][4] He was the father of Theo Armour.[1]
 

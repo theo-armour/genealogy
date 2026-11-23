@@ -1,6 +1,6 @@
 # Prince Alexander Sergeyevich Kudashev
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Sergeyevich-Kudashev-1872-1917)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Sergeyevich-Kudashev-1872-1917)
 
 ![Prince Alexander Sergeyevich Kudashev in the uniform of a railway engineer, 1895/1896](images/alexander-kudashev-1895.jpg)
 

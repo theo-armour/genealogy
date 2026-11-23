@@ -1,6 +1,6 @@
 # Olga Nikolaevna Kudasheva (1840–1907) ~ Ольга Николаевна Кудашева
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Nikolaevna-Kudasheva-1840-1907)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Nikolaevna-Kudasheva-1840-1907)
 
 No portrait of her is held in this folder.
 

@@ -1,6 +1,6 @@
 # Nikolai Antonovich Horvat (1797–?) ~ Николай Антонович Хорват
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Antonovich-Horvat-1797-unknown)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Antonovich-Horvat-1797-unknown)
 
 No portrait of him is held in this folder.
 

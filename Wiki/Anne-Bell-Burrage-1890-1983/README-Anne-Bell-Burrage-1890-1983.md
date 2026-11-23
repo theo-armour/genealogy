@@ -1,6 +1,6 @@
 # Anne Bell Shirk Burrage
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Anne-Bell-Burrage-1890-1983)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Anne-Bell-Burrage-1890-1983)
 
 ![Anne Bell Burrage](images/anne-burrage.jpg)
 

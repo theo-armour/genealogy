@@ -1,6 +1,6 @@
 # Olga Vasilyevna Karnovich, born Meszaros (1826–1919) ~ Ольга Васильевна Карнович, урождённая Месарош
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Vasilyevna-Meszaros-Karnovich-1826-1919)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Vasilyevna-Meszaros-Karnovich-1826-1919)
 
 No portrait of her is held in this folder. A photograph of a portrait of her is in the State A. S. Pushkin Museum in Moscow (see Further research).
 

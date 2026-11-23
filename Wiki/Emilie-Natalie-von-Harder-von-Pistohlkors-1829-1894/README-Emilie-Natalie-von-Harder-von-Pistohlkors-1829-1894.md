@@ -1,6 +1,6 @@
 # Emilie Natalie von Pistohlkors, born von Harder (1829–1894)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894)
 
 No portrait of her is held in this folder.
 

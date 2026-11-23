@@ -3,7 +3,7 @@
 ## Website
 
 * ~~Create GEDCOM viewer~~ ✅ 2026-11-22 ~ the viewer shows the master tree, and every biography links to it
-* ~~Opening README <name>.mds~~ ✅ 2026-11-22 ~ biographies are now `README-<folder>.md`, all but mine (`Norman-Theo-Armour-III-1947-.md`)
+* ~~Opening README <name>.mds~~ ✅ 2026-11-22 ~ every biography is now `README-<folder>.md`
 * Add note about Wiki
 * Update case
 

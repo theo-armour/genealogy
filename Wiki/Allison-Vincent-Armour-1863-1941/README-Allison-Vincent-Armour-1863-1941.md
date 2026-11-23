@@ -1,6 +1,6 @@
 # Allison Vincent Armour
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Allison-Vincent-Armour-1863-1941)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Allison-Vincent-Armour-1863-1941)
 
 ![Allison Armour and Cornelius Vanderbilt, Bain News Service](images/allison-armour.jpg)
 

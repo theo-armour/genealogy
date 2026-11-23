@@ -1,6 +1,6 @@
 # George Allison Armour
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Allison-Armour-1856-1936)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Allison-Armour-1856-1936)
 
 ![New York Times death notice, June 1936](images/george%20allison%20armour%20ny%20times%2006%2009%201936.png)
 

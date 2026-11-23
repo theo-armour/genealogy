@@ -1,6 +1,6 @@
 # Mary W. Marshall Shirk (1833–1910)
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Mary-W-Marshall-Shirk-1833-1910)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Mary-W-Marshall-Shirk-1833-1910)
 
 No portrait of her is held in this folder.
 

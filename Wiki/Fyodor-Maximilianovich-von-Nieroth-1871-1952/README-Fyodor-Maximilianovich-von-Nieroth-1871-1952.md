@@ -1,6 +1,6 @@
 # Count Fyodor Maximilianovich von Nieroth
 
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Maximilianovich-von-Nieroth-1871-1952)
+🌳 [See in the GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Maximilianovich-von-Nieroth-1871-1952)
 
 ![Count Fyodor Maximilianovich von Nieroth](images/nirod_fedor_maksimilianovic_001_2__large.jpg)
 
