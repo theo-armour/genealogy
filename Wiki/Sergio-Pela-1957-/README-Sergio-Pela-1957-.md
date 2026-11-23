@@ -7,8 +7,8 @@
 | **Born** | 1957 (1956 in one note)[1] |
 | **Also written** | Sergio Pela, Serge Pelà |
 | **Occupation** | High school teacher (Japan)[1] |
-| **Father** | Achille Pelà (1921–1986)[1] |
-| **Mother** | Olga Sergeyevna Kudasheva (born 1926)[1][2] |
+| **Father** | [Achille Pelà](https://theo-armour.github.io/genealogy/#Wiki/Achille-Pela-1921-1986/README-Achille-Pela-1921-1986.md) (1921–1986)[1] |
+| **Mother** | [Olga Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Olga-Sergeyevna-Kudasheva-Pela-1926-unknown/README-Olga-Sergeyevna-Kudasheva-Pela-1926-unknown.md) (born 1926)[1][2] |
 | **Siblings** | Alexandra Pelà; Olga Pelà[1] |
 | **Grandparents** | Prince Sergei Vladimirovich Kudashev (1863–1933)<br>Olga Erikovna von Pistohlkors (1888–1963) |
 

@@ -16,7 +16,7 @@
 | **Resting place** | [Kiev-Pechersk Lavra](https://en.wikipedia.org/wiki/Kyiv_Pechersk_Lavra) (unconfirmed) |
 | **Offices** | Vice-Governor of Kiev Governorate (1838–1844)<br>Marshal of the Nobility of Kherson Governorate (1844–1847) |
 | **Ranks** | *Kammerherr* (chamberlain)<br>State Councillor (*статский советник*) |
-| **Spouse** | Countess Mathilde de Choiseul-Gouffier (1806–1867) |
+| **Spouse** | [Countess Mathilde de Choiseul-Gouffier](https://theo-armour.github.io/genealogy/#Wiki/Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867/README-Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867.md) (1806–1867) |
 | **Children** | Alexei, Viktor, Maria, Nikolai, Alexander, Yekaterina, [Vladimir](https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/README-Vladimir-Sergeyevich-Kudashev-1833-1871.md) (1833–1871), Sergei (1834–1915), Olga, Alexandra (1838–1912) |
 | **Father** | Prince Daniil (Danila) Ivanovich Kudashev |
 | **Mother** | Yekaterina Sergeyevna, born Princess Baratova or Baranova (sources differ) |

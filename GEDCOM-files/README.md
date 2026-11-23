@@ -6,7 +6,7 @@ The master tree, which I maintain by hand, is [armour-genealogy.ged](armour-gene
 
 ## Master tree
 
-* [armour-genealogy.ged](armour-genealogy.ged) ~ GEDCOM 5.5.1, UTF-8 ~ one person for each Wiki biography (55), plus 12 people needed to connect them ~ facts taken from the biographies, each person cited to their Wiki page and given a `REFN` of `TYPE Wiki` naming their Wiki folder (the GEDCOM Viewer uses it for biography links), with notes where sources disagree ~ living people by name only ~ [open in Topola](https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/armour-genealogy.ged)
+* [armour-genealogy.ged](armour-genealogy.ged) ~ GEDCOM 5.5.1, UTF-8 ~ one person for each Wiki biography (66), plus 10 people needed to connect them ~ facts taken from the biographies, each person cited to their Wiki page and given a `REFN` of `TYPE Wiki` naming their Wiki folder (the GEDCOM Viewer uses it for biography links), with notes where sources disagree ~ living people by name only ~ [open in Topola](https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/armour-genealogy.ged)
 
 It's one undated file, updated in place; git keeps the earlier versions. Started 22 November 2026.
 

@@ -8,7 +8,7 @@ My family history: lineage, profiles of family members, source documents and exp
 
 ## Organization
 
-- [Wiki/](Wiki/) — one folder per person, named `Given-Names-Surname-BIRTH-DEATH` (e.g. `Albert-Cameron-Burrage-Sr-1859-1931`; living people end with a dash, `1951-`).
+- [Wiki/](Wiki/) — one folder per person, named `Given-Names-Surname-BIRTH-DEATH` (e.g. `Albert-Cameron-Burrage-Sr-1859-1931`; living people end with a dash, `1951-`; a year that isn't known is written `unknown`, e.g. `1797-unknown`).
 - [Armour/](Armour/), [Kudashev/](Kudashev/), [Burrage/](Burrage/), [Shirk/](Shirk/) — one folder per grandparent's birth surname.
 - [Peeps-in-My-Family.md](Peeps-in-My-Family.md) — notable people in the four families. The dated copies beside it are my backups; leave them alone.
 - [Online-Genealogy/](Online-Genealogy/) — Geni, Ancestry, MyHeritage and WikiTree notes.

@@ -594,6 +594,7 @@
 1 DEAT
 2 DATE 25 OCT 1907
 2 PLAC Yalta, Crimea, Russian Empire
+1 FAMC @F32@
 1 FAMS @F10@
 1 REFN geni:364525368000002484
 2 TYPE Geni
@@ -1177,6 +1178,7 @@
 2 PLAC Paris, France
 1 BURI
 2 PLAC Cimetière Gabriel-Péri, Colombes, France
+1 FAMC @F31@
 1 FAMS @F26@
 1 NOTE Married second Grand Duke Paul Alexandrovich of Russia (1902).
 1 REFN Olga-Valerianovna-Paley-1865-1929
@@ -1285,15 +1287,20 @@
 2 TYPE married
 1 SEX F
 1 BIRT
-2 DATE 1806
+2 DATE 19 MAR 1806
+2 PLAC Vilnius
+2 NOTE From a baptismal record cited on Geni. A Praslin genealogy gives 1805/6.
 1 DEAT
 2 DATE 1867
+2 NOTE October 1867 in one genealogy.
 1 FAMS @F17@
 1 REFN geni:364586940370002462
 2 TYPE Geni
-1 NOTE Connector: no Wiki page.
+1 REFN Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867
+2 TYPE Wiki
+1 NOTE Parents, from her patronymic and Geni: Count Octave de Choiseul-Gouffier and Wiktoria Potocka.
 1 SOUR @S1@
-2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867/README-Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867.md
 0 @C04@ INDI
 1 NAME Alexander Sergeyevich /Kudashev/
 2 GIVN Alexander Sergeyevich
@@ -1417,15 +1424,24 @@
 2 GIVN Erich Gerhard
 2 SURN von Pistohlkors
 1 SEX M
+1 NAME Эрик Августович /фон Пистолькорс/
+2 TYPE aka
 1 BIRT
-2 DATE 1853
+2 DATE 25 NOV 1853
+2 PLAC Frankfurt am Main, Prussia
 1 DEAT
-2 DATE 1935
+2 DATE 8 NOV 1935
+2 PLAC Riga, Latvia
 1 OCCU Major General
+1 FAMC @F30@
 1 FAMS @F26@
-1 NOTE Connector: no Wiki page.
+1 NOTE Geni also records a second marriage, in 1922, to Maria Golowinski.
+1 REFN geni:6000000011060757551
+2 TYPE Geni
+1 REFN Erich-Gerhard-von-Pistohlkors-1853-1935
+2 TYPE Wiki
 1 SOUR @S1@
-2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md
 0 @C13@ INDI
 1 NAME Olga Sergeyevna /Kudasheva/
 2 GIVN Olga Sergeyevna
@@ -1439,9 +1455,12 @@
 2 DATE 1926
 1 FAMC @F25@
 1 FAMS @F29@
-1 NOTE Connector: no Wiki page. Whether she is living is not recorded.
+1 DEAT Y
+1 REFN Olga-Sergeyevna-Kudasheva-Pela-1926-unknown
+2 TYPE Wiki
+1 NOTE She has died; the date is not recorded here.
 1 SOUR @S1@
-2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Sergeyevna-Kudasheva-Pela-1926-unknown/README-Olga-Sergeyevna-Kudasheva-Pela-1926-unknown.md
 0 @C14@ INDI
 1 NAME Achille /Pelà/
 2 GIVN Achille
@@ -1449,13 +1468,144 @@
 1 SEX M
 1 BIRT
 2 DATE 7 NOV 1921
+2 PLAC Milan, Italy
 1 DEAT
 2 DATE 1986
 1 OCCU Translator
 1 FAMS @F29@
-1 NOTE Connector: no Wiki page.
+1 NOTE His parents are not recorded.
+1 REFN geni:3967018815730030193
+2 TYPE Geni
+1 REFN Achille-Pela-1921-1986
+2 TYPE Wiki
 1 SOUR @S1@
-2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Achille-Pela-1921-1986/README-Achille-Pela-1921-1986.md
+0 @I57@ INDI
+1 NAME August Friedrich Woldemar /von Pistohlkors/
+2 GIVN August Friedrich Woldemar
+2 SURN von Pistohlkors
+1 NAME Август /фон Пистолькорс/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 4 AUG 1822
+2 PLAC Riga, Livonia, Russian Empire
+1 DEAT
+2 DATE 15 NOV 1886
+2 PLAC Koltzen (Biriņi), Livonia, Russian Empire
+1 FAMS @F30@
+1 NOTE Recorded on Geni as a baron, of Koltzen.
+1 REFN geni:6000000014913582345
+2 TYPE Geni
+1 REFN August-Friedrich-Woldemar-von-Pistohlkors-1822-1886
+2 TYPE Wiki
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/August-Friedrich-Woldemar-von-Pistohlkors-1822-1886/README-August-Friedrich-Woldemar-von-Pistohlkors-1822-1886.md
+0 @I58@ INDI
+1 NAME Emilie Natalie /von Harder/
+2 GIVN Emilie Natalie
+2 SURN von Harder
+2 NICK Emily
+1 NAME Emilie Natalie /von Pistohlkors/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 1829
+2 PLAC St. Petersburg, Russian Empire
+1 DEAT
+2 DATE 12 APR 1894
+2 PLAC Lappier (Ozolmuiža), Livonia, Russian Empire
+1 FAMS @F30@
+1 REFN geni:6000000010695252921
+2 TYPE Geni
+1 REFN Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894
+2 TYPE Wiki
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894/README-Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894.md
+0 @I59@ INDI
+1 NAME Valerian Gavrilovich /Karnovich/
+2 GIVN Valerian Gavrilovich
+2 SURN Karnovich
+1 NAME Валериан Гаврилович /Карнович/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1823
+2 PLAC Moscow, Russian Empire
+1 DEAT
+2 DATE 17 APR 1891
+2 PLAC St. Petersburg, Russian Empire
+2 NOTE Provintsialny nekropol lists him at Gora-Pyatnitskaya, Yaroslavl Uyezd, probably his burial place.
+1 OCCU Actual State Councillor; chamberlain
+1 FAMS @F31@
+1 REFN geni:6000000000307287341
+2 TYPE Geni
+1 REFN Valerian-Gavrilovich-Karnovich-1823-1891
+2 TYPE Wiki
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Valerian-Gavrilovich-Karnovich-1823-1891/README-Valerian-Gavrilovich-Karnovich-1823-1891.md
+0 @I60@ INDI
+1 NAME Olga Vasilyevna /Meszaros/
+2 GIVN Olga Vasilyevna
+2 SURN Meszaros
+1 NAME Ольга Васильевна /Месарош/
+2 TYPE aka
+1 NAME Olga Vasilyevna /Karnovich/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1826
+2 NOTE Geni gives 1826, in Hungary; other sources 1830; the 1848 confession register's age points to about 1827.
+1 DEAT
+2 DATE AUG 1919
+1 FAMS @F31@
+1 REFN geni:6000000006796046558
+2 TYPE Geni
+1 REFN Olga-Vasilyevna-Meszaros-Karnovich-1826-1919
+2 TYPE Wiki
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Vasilyevna-Meszaros-Karnovich-1826-1919/README-Olga-Vasilyevna-Meszaros-Karnovich-1826-1919.md
+0 @I61@ INDI
+1 NAME Nikolai Antonovich /Horvat/
+2 GIVN Nikolai Antonovich
+2 SURN Horvat
+1 NAME Николай Антонович /Хорват/
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 1797
+1 FAMS @F32@
+1 NOTE Father of Olga Nikolaevna only according to Geni and an unsourced Wikipedia template.
+1 REFN geni:6000000019185989815
+2 TYPE Geni
+1 REFN Nikolai-Antonovich-Horvat-1797-unknown
+2 TYPE Wiki
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Antonovich-Horvat-1797-unknown/README-Nikolai-Antonovich-Horvat-1797-unknown.md
+0 @I62@ INDI
+1 NAME Lubov Alexandrovna /Pishchevich/
+2 GIVN Lubov Alexandrovna
+2 SURN Pishchevich
+1 NAME Любовь Александровна /Пищевич/
+2 TYPE aka
+1 NAME Lubov Alexandrovna /Horvat/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1800
+1 DEAT
+2 DATE 13 NOV 1849
+2 PLAC Odessa, Russian Empire
+1 BURI
+2 DATE 15 NOV 1849
+1 FAMS @F32@
+1 NOTE Mother of Olga Nikolaevna only according to Geni.
+1 REFN geni:364525773500002461
+2 TYPE Geni
+1 REFN Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849
+2 TYPE Wiki
+1 SOUR @S1@
+2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849/README-Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849.md
 0 @F01@ FAM
 1 HUSB @I02@
 1 WIFE @I03@
@@ -1627,4 +1777,22 @@
 1 CHIL @I56@
 1 MARR
 2 DATE 1955
+0 @F30@ FAM
+1 HUSB @I57@
+1 WIFE @I58@
+1 CHIL @C12@
+1 MARR
+2 DATE 25 APR 1850
+2 PLAC St. Petersburg, Russian Empire
+0 @F31@ FAM
+1 HUSB @I59@
+1 WIFE @I60@
+1 CHIL @I52@
+0 @F32@ FAM
+1 HUSB @I61@
+1 WIFE @I62@
+1 CHIL @I26@
+1 MARR
+2 DATE 28 APR 1821
+2 PLAC Revovka, Yekaterinoslav Governorate, Russian Empire
 0 TRLR

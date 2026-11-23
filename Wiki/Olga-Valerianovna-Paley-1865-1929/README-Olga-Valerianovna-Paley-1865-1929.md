@@ -15,10 +15,10 @@ She belongs in this family history through her eldest daughter, [Olga Erikovna v
 | **Died** | 2 November 1929 (aged 63)<br>Paris, France |
 | **Resting place** | Cimetière Gabriel-Péri, Colombes, near Paris |
 | **Titles** | Countess von Hohenfelsen (Bavaria, 1904)<br>Princess Paley (Russia, 1915) |
-| **Spouses** | Erich Gerhard von Pistohlkors (m. 1884; divorced)<br>Grand Duke Paul Alexandrovich of Russia (m. 1902; d. 1919) |
+| **Spouses** | [Erich Gerhard von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md) (m. 1884; divorced)<br>Grand Duke Paul Alexandrovich of Russia (m. 1902; d. 1919) |
 | **Children** | Alexander Erikovich von Pistohlkors (1885–1944)<br>Olga Erikovna von Pistohlkors (1886–1887)<br>Olga Erikovna von Pistohlkors (1888–1963)<br>Marianna Erikovna von Pistohlkors (1890–1976)<br>Prince Vladimir Pavlovich Paley (1897–1918)<br>Princess Irina Pavlovna Paley (1903–1990)<br>Princess Natalia Pavlovna Paley (1905–1981) |
-| **Father** | Valerian Gavrilovich Karnovich (d. 1891) |
-| **Mother** | Olga Vasilyevna Meszaros (d. 1919) |
+| **Father** | [Valerian Gavrilovich Karnovich](https://theo-armour.github.io/genealogy/#Wiki/Valerian-Gavrilovich-Karnovich-1823-1891/README-Valerian-Gavrilovich-Karnovich-1823-1891.md) (d. 1891) |
+| **Mother** | [Olga Vasilyevna Meszaros](https://theo-armour.github.io/genealogy/#Wiki/Olga-Vasilyevna-Meszaros-Karnovich-1826-1919/README-Olga-Vasilyevna-Meszaros-Karnovich-1826-1919.md) (d. 1919) |
 
 🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Valerianovna-Paley-1865-1929)
 

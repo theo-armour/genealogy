@@ -11,7 +11,7 @@ No portrait of her is held in this folder.
 | **Died** | 25 October 1907 (aged 67)<br>Yalta, Crimea |
 | **Spouse** | [Prince Vladimir Sergeyevich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/README-Vladimir-Sergeyevich-Kudashev-1833-1871.md) (1833–1871) |
 | **Children** | Matilda (born 1857)<br>[Sergei](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) (1863–1933)<br>Maria (born 1869)<br>Vsevolod (born 1870)<br>Vladimir (died 1957) |
-| **Parents** | Nikolai Antonovich Horvat (born 1797), according to unsourced trees (see Open questions) |
+| **Parents** | [Nikolai Antonovich Horvat](https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Antonovich-Horvat-1797-unknown/README-Nikolai-Antonovich-Horvat-1797-unknown.md) (born 1797), according to unsourced trees (see Open questions) |
 
 🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Nikolaevna-Kudasheva-1840-1907)
 

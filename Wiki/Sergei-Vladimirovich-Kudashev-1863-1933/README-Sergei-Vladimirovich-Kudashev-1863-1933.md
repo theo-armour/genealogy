@@ -16,7 +16,7 @@
 | **Occupations** | Imperial courtier, state official, corporate director, art collector |
 | **Titles & ranks** | Prince (Russian Empire; recognized in Italy, 1926–1927)<br>*Kammerjunker* (1899)<br>*Kammerherr* (1908)<br>Active State Councillor |
 | **Spouses** | Countess Vera Maximilianovna von Nieroth (m. 1894; d. 1920)<br>[Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) (m. 1922; d. 1963) |
-| **Children** | Princess Maria (Myra) Sergeyevna (1896–1990)<br>Prince Sergei Sergeyevich (1901–1991)<br>Olga Sergeyevna (b. 1926) |
+| **Children** | Princess Maria (Myra) Sergeyevna (1896–1990)<br>Prince Sergei Sergeyevich (1901–1991)<br>[Olga Sergeyevna](https://theo-armour.github.io/genealogy/#Wiki/Olga-Sergeyevna-Kudasheva-Pela-1926-unknown/README-Olga-Sergeyevna-Kudasheva-Pela-1926-unknown.md) (b. 1926) |
 | **Father** | Prince Vladimir Sergeyevich Kudashev (1833–1871) |
 | **Mother** | [Princess Olga Nikolaevna Horvath](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md) (1840–1907) |
 | **House** | Kudashev |

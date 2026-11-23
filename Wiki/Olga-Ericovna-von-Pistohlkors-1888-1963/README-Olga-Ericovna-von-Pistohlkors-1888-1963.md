@@ -14,8 +14,8 @@ Very little is recorded about her own life. The fullest glimpses of her are in h
 | **Born** | 8 October 1888<br>Kronstadt, near St. Petersburg, Russian Empire[1] |
 | **Died** | 1963<br>Rome, according to one source[3] |
 | **Spouses** | Count Alexander Alexandrovich von Kreutz (m. 1906; divorced)<br>Prince Sergei Vladimirovich Kudashev (m. 1922; d. 1933) |
-| **Children** | Count Alexander Alexandrovich von Kreutz (1907–1980)<br>Olga Sergeyevna Kudasheva (b. 1926; later Olga Pelà) |
-| **Father** | Erich Gerhard von Pistohlkors (1853–1935) |
+| **Children** | Count Alexander Alexandrovich von Kreutz (1907–1980)<br>[Olga Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Olga-Sergeyevna-Kudasheva-Pela-1926-unknown/README-Olga-Sergeyevna-Kudasheva-Pela-1926-unknown.md) (b. 1926; later Olga Pelà) |
+| **Father** | [Erich Gerhard von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md) (1853–1935) |
 | **Mother** | Olga Valerianovna Karnovich, later Princess Paley (1864 or 1865–1929) |
 | **House** | Pistohlkors |
 
