@@ -21,7 +21,7 @@ When a biography is added, add the person to the tree with this line. When a Wik
 
 ## Start here
 
-* [GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/) ~ my viewer: opens the exports below, links people to their Wiki pages ~ source in its own repo, [theo-armour/gedcom-viewer](https://github.com/theo-armour/gedcom-viewer)
+* [GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/) ~ my viewer: opens the master tree (the exports below are left out, since they hold details of living people), links people to their Wiki pages and shows the biographies ~ source in its own repo, [theo-armour/gedcom-viewer](https://github.com/theo-armour/gedcom-viewer)
 * [0-gedcom.md](0-gedcom.md) ~ notes and links on the GEDCOM format, and the viewer I like
 
 ## Exports
@@ -33,4 +33,4 @@ When a biography is added, add the person to the tree with this line. When a Wik
 * [2025-08-28-matthew-family-tree.ged](2025/2025-08-28-matthew-family-tree.ged) ~ from Matthew ~ see [fiverr/](../Online-Genealogy/fiverr/)
 * [2025-08-23-carley-armour-family-tree.ged](2025/2025-08-23-carley-armour-family-tree.ged) ~ from Jeff Carley ~ see [fiverr/](../Online-Genealogy/fiverr/)
 
-The three `.zip` files hold the same exports as downloaded. The two Geni files match their unzipped copies exactly. The unzipped Ancestry file was renamed from `Armour - Ferté.ged` and differs from the zipped one only in its line endings.
+The Ancestry export is also kept as downloaded, in [2025-08-18-ancestry-armour-ferté.zip](2025/2025-08-18-ancestry-armour-fert%C3%A9.zip). The unzipped file was renamed from `Armour - Ferté.ged` and differs from the zipped one only in its line endings.
