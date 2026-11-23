@@ -1,5 +1,15 @@
 # Genealogy Journal
 
+## 2026-11-22
+
+A big day for the family tree, working with Claude.
+
+* **Every ancestor back to my great-great-grandparents now has a page.** Ten new biographies: Harriette Cobb Foote Armour, Erastus Foote Jr, Sarah Page Wood Foote, Barbara Allison Armour, Olga Nikolaevna Kudasheva, Aurelia Chamberlin Burrage, Mary W. Marshall Shirk, Ida Watkins Shirk, George Claiborne Watkins and Sophia Fulton Watkins. They're short, built from what was already here, and each lists its open questions. The biggest is whether Ida was the Chief Justice's daughter or his granddaughter.
+* **GEDCOM files have their own folder.** The exports moved to `GEDCOM-files/2025/`, and I fixed the links to them.
+* **A master tree I keep by hand.** [armour-genealogy.ged](GEDCOM-files/armour-genealogy.ged) has one person for each Wiki biography (55), plus the 12 people needed to connect them. It's one undated file, updated in place; git keeps the history. Every fact comes from the biographies, and where sources disagree there's a note. Living people are names only.
+* **The tree and the Wiki point at each other.** Each person in the master tree carries their Wiki folder name, and each biography now has a 🌳 "See in the family tree" link that opens the GEDCOM Viewer on that person. AGENTS.md has the rule: a new biography goes into the master tree, with both links.
+* **The viewer shows only the master tree.** The online-service exports hold details of living people, so the viewer no longer offers them. They're still in the repo, though, so anyone who knows the path can open them. That's a question for another day.
+
 ## 2026-07-07
 
 Yesterday I organized the files by having people's names go into a family name folder.
