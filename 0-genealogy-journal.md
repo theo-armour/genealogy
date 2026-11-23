@@ -19,6 +19,7 @@ A big day for the family tree, working with Claude.
 * **What a GEDCOM file is.** The README explains the format, with George Armour's record as a sample, and why it matters: my family history isn't locked into any one website or program.
 * **"See in the GEDCOM Viewer."** I prefer that name to "the family tree", so the 🌳 link in all 66 biographies now says so, as do the README, AGENTS.md and the GEDCOM read me.
 * **Viewer link fixed.** My biography is now `README-Norman-Theo-Armour-III-1947-.md`, and the GEDCOM Viewer's list of biographies follows the rename.
+* **Commons is gone.** Every file in the `Commons` folder already had an identical copy in a Wiki person's `images/` folder. Peeps in My Family and the Kudashev page now use those copies, and the Wiki read me says a shared picture stays with the person it shows. Then I deleted the folder: 54 files, about 39 MB.
 
 ## 2026-07-07
 
