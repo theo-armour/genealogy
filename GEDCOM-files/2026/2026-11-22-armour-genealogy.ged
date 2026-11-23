@@ -15,6 +15,7 @@
 2 CONT Facts are taken from the Wiki biographies, which are cited on every person.
 2 CONT Where sources disagree, the date the biography prefers is given and a NOTE records the alternatives.
 2 CONT Living people are recorded by name only.
+2 CONT Each person with a Wiki biography has a REFN of TYPE Wiki naming their Wiki folder.
 2 CONT Hand-maintained: edit this file, not the exports in GEDCOM-files/2025.
 0 @U1@ SUBM
 1 NAME Theo Armour
@@ -35,6 +36,8 @@
 1 FAMC @F01@
 1 REFN geni:6000000004118029730
 2 TYPE Geni
+1 REFN Norman-Theo-Armour-III-1947-
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Norman-Theo-Armour-III-1947-/Norman-Theo-Armour-III-1947-.md
 0 @I02@ INDI
@@ -55,6 +58,8 @@
 1 REFN geni:6000000002789967025
 2 TYPE Geni
 1 NOTE Married second Cynthia Brooks Howe.
+1 REFN Norman-Armour-Jr-1920-1978
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md
 0 @I03@ INDI
@@ -76,6 +81,8 @@
 1 REFN geni:6000000002789967033
 2 TYPE Geni
 1 NOTE Married second Chandler Hovey Jr.
+1 REFN Cynthia-Burrage-Hovey-1921-1983
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md
 0 @I04@ INDI
@@ -87,6 +94,8 @@
 1 SEX F
 1 NOTE Living. Personal details are omitted.
 1 FAMC @F01@
+1 REFN Allison-Armour-1951-
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Allison-Armour-1951-/README-Allison-Armour-1951-.md
 0 @I05@ INDI
@@ -107,6 +116,8 @@
 1 FAMS @F02@
 1 REFN geni:6000000002789971986
 2 TYPE Geni
+1 REFN Norman-Armour-Sr-1887-1982
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md
 0 @I06@ INDI
@@ -133,6 +144,8 @@
 1 FAMS @F02@
 1 REFN geni:364408351200007646
 2 TYPE Geni
+1 REFN Maria-Sergeyevna-Kudasheva-1896-1990
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md
 0 @I07@ INDI
@@ -152,6 +165,8 @@
 1 FAMS @F03@
 1 REFN geni:6000000002789973029
 2 TYPE Geni
+1 REFN Albert-Cameron-Burrage-Jr-1886-1978
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md
 0 @I08@ INDI
@@ -175,6 +190,8 @@
 1 FAMS @F03@
 1 REFN geni:6000000002789973022
 2 TYPE Geni
+1 REFN Anne-Bell-Burrage-1890-1983
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md
 0 @I09@ INDI
@@ -196,6 +213,8 @@
 1 FAMC @F03@
 1 REFN geni:364410217780007647
 2 TYPE Geni
+1 REFN Albert-Cameron-Burrage-III-1919-1944
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md
 0 @I10@ INDI
@@ -213,6 +232,8 @@
 1 FAMS @F04@
 1 REFN geni:6000000002789973002
 2 TYPE Geni
+1 REFN George-Allison-Armour-1856-1936
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md
 0 @I11@ INDI
@@ -235,6 +256,8 @@
 1 FAMS @F04@
 1 REFN geni:6000000002789973007
 2 TYPE Geni
+1 REFN Harriette-Cobb-Foote-Armour-1859-1924
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md
 0 @I12@ INDI
@@ -252,6 +275,8 @@
 2 PLAC Princeton, New Jersey, USA
 1 FAMC @F04@
 1 FAMS @F27@
+1 REFN Barbara-Armour-Lowrie-1889-1981
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md
 0 @I13@ INDI
@@ -278,6 +303,8 @@
 1 FAMS @F25@
 1 REFN geni:6000000019323938097
 2 TYPE Geni
+1 REFN Sergei-Vladimirovich-Kudashev-1863-1933
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md
 0 @I14@ INDI
@@ -298,6 +325,8 @@
 1 FAMS @F05@
 1 REFN geni:6000000019323779328
 2 TYPE Geni
+1 REFN Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md
 0 @I15@ INDI
@@ -318,6 +347,8 @@
 1 BURI
 2 PLAC Père Lachaise Cemetery, Paris, France
 1 FAMC @F05@
+1 REFN Sergei-Sergeyevich-Kudashev-1901-1991
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Sergeyevich-Kudashev-1901-1991/README-Sergei-Sergeyevich-Kudashev-1901-1991.md
 0 @I16@ INDI
@@ -339,6 +370,8 @@
 1 FAMS @F06@
 1 REFN geni:364409776800007631
 2 TYPE Geni
+1 REFN Albert-Cameron-Burrage-Sr-1859-1931
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md
 0 @I17@ INDI
@@ -360,6 +393,8 @@
 1 FAMS @F06@
 1 REFN geni:364409907770007569
 2 TYPE Geni
+1 REFN Alice-Hathaway-Haskell-Burrage-1861-1947
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md
 0 @I18@ INDI
@@ -383,6 +418,8 @@
 1 REFN geni:6000000187323507829
 2 TYPE Geni
 1 NOTE His middle name is Cameron in some family records and Carson in most other sources.
+1 REFN James-Cameron-Marshall-Shirk-1865-1918
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md
 0 @I19@ INDI
@@ -403,6 +440,8 @@
 1 REFN geni:364428047360003312
 2 TYPE Geni
 1 NOTE The 1900 parish history makes her a daughter of Chief Justice George C. Watkins; a 1915 newspaper excerpt calls her his granddaughter.
+1 REFN Ida-Watkins-Shirk-1864-1951
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md
 0 @I20@ INDI
@@ -426,6 +465,8 @@
 1 REFN geni:364407867780007569
 2 TYPE Geni
 1 NOTE Parents Archibald Armour (1782-1828) and Ann Greenlees (1785-1859), according to the family trees.
+1 REFN George-Armour-1812-1881
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md
 0 @I21@ INDI
@@ -447,6 +488,8 @@
 1 REFN geni:364408151370007582
 2 TYPE Geni
 1 NOTE Daughter of William Allison "of Millbank, Scotland, and Chicago"; Geni names her mother Barbara Wark.
+1 REFN Barbara-Allison-Armour-1826-1898
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md
 0 @I22@ INDI
@@ -463,6 +506,8 @@
 2 NOTE 6 or 7 March.
 1 FAMC @F08@
 1 NOTE Married Anne Louise Kelley, 10 December 1885; she died 3 April 1890. No children.
+1 REFN Allison-Vincent-Armour-1863-1941
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md
 0 @I23@ INDI
@@ -482,6 +527,8 @@
 1 FAMS @F09@
 1 REFN geni:6000000220990842407
 2 TYPE Geni
+1 REFN Erastus-Foote-Jr-1821-1893
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md
 0 @I24@ INDI
@@ -501,6 +548,8 @@
 1 REFN geni:6000000220990842413
 2 TYPE Geni
 1 NOTE Parents Wilmot Wood and Emeline Page, according to the family trees.
+1 REFN Sarah-Page-Wood-Foote-1826-1898
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sarah-Page-Wood-Foote-1826-1898/README-Sarah-Page-Wood-Foote-1826-1898.md
 0 @I25@ INDI
@@ -522,6 +571,8 @@
 1 FAMS @F10@
 1 REFN geni:6000000015780452509
 2 TYPE Geni
+1 REFN Vladimir-Sergeyevich-Kudashev-1833-1871
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/README-Vladimir-Sergeyevich-Kudashev-1833-1871.md
 0 @I26@ INDI
@@ -547,6 +598,8 @@
 1 REFN geni:364525368000002484
 2 TYPE Geni
 1 NOTE Her father is given as Nikolai Antonovich Horvat (born 1797) in unsourced trees.
+1 REFN Olga-Nikolaevna-Kudasheva-1840-1907
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md
 0 @I27@ INDI
@@ -570,6 +623,8 @@
 1 FAMS @F11@
 1 REFN geni:6000000018118609628
 2 TYPE Geni
+1 REFN Maximilian-Carl-Benedict-von-Nieroth-1846-1914
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md
 0 @I28@ INDI
@@ -592,6 +647,8 @@
 1 FAMS @F11@
 1 REFN geni:6000000018118673343
 2 TYPE Geni
+1 REFN Anastasia-Fyodorovna-Trepova-1849-1940
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md
 0 @I29@ INDI
@@ -613,6 +670,8 @@
 1 BURI
 2 PLAC Père Lachaise Cemetery, Paris, France
 1 FAMC @F11@
+1 REFN Fyodor-Maximilianovich-von-Nieroth-1871-1952
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md
 0 @I30@ INDI
@@ -631,6 +690,8 @@
 1 REFN geni:6000000002789973055
 2 TYPE Geni
 1 NOTE First married Martha G. Phelps of Leominster, 2 April 1844; she died 6 August 1849. Parents Deacon William Burrage (1768-1844) and Roxanna Sanderson.
+1 REFN George-Sanderson-Burrage-1823-1876
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md
 0 @I31@ INDI
@@ -653,6 +714,8 @@
 1 FAMS @F12@
 1 REFN geni:6000000002789973060
 2 TYPE Geni
+1 REFN Aurelia-Chamberlin-Burrage-1830-1899
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Aurelia-Chamberlin-Burrage-1830-1899/README-Aurelia-Chamberlin-Burrage-1830-1899.md
 0 @I32@ INDI
@@ -672,6 +735,8 @@
 1 FAMS @F13@
 1 REFN geni:6000000028260844003
 2 TYPE Geni
+1 REFN Francis-Hathaway-Haskell-1830-1868
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md
 0 @I33@ INDI
@@ -692,6 +757,8 @@
 1 FAMS @F13@
 1 REFN geni:6000000002789973095
 2 TYPE Geni
+1 REFN Elizabeth-Russell-1835-1909
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md
 0 @I34@ INDI
@@ -714,6 +781,8 @@
 1 REFN geni:6000000209225000864
 2 TYPE Geni
 1 NOTE Parents David Shirk (1806-1873) and Mary Whitehill. Middle name Whitehill or Whitehall.
+1 REFN James-Whitehill-Shirk-1832-1873
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md
 0 @I35@ INDI
@@ -734,6 +803,8 @@
 1 REFN geni:6000000220990842605
 2 TYPE Geni
 1 NOTE Elder daughter of James C. Marshall of Erie and Eliza Weatherbee. MyHeritage gives 1840-1900; the cemetery dates are the better evidence.
+1 REFN Mary-W-Marshall-Shirk-1833-1910
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Mary-W-Marshall-Shirk-1833-1910/README-Mary-W-Marshall-Shirk-1833-1910.md
 0 @I36@ INDI
@@ -756,6 +827,8 @@
 1 REFN geni:6000000220990842611
 2 TYPE Geni
 1 NOTE Parents Isaac Watkins and Maria Toncray, according to one tree.
+1 REFN George-Claiborne-Watkins-1815-1872
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md
 0 @I37@ INDI
@@ -782,6 +855,8 @@
 1 FAMC @F20@
 1 FAMS @F15@
 1 NOTE Married first James M. Curran, a lawyer (21 June 1849, Pulaski County, according to one tree).
+1 REFN Sophia-Fulton-Watkins-1830-1865
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md
 0 @I38@ INDI
@@ -802,6 +877,8 @@
 1 REFN geni:6000000220990842419
 2 TYPE Geni
 1 NOTE First married Susan Carlton (1812; she died 28 June 1817). Parents Obed Foote (1741-1797) and Mary Todd (1742-1815).
+1 REFN Erastus-Foote-1777-1856
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md
 0 @I39@ INDI
@@ -826,6 +903,8 @@
 1 FAMS @F17@
 1 REFN geni:364527333350006979
 2 TYPE Geni
+1 REFN Sergei-Danilovich-Kudashev-1795-1862
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md
 0 @I40@ INDI
@@ -848,6 +927,8 @@
 1 FAMS @F18@
 1 REFN geni:6000000018895402816
 2 TYPE Geni
+1 REFN Fyodor-Fyodorovich-Trepov-1809-1889
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md
 0 @I41@ INDI
@@ -867,6 +948,8 @@
 2 PLAC Russian Cemetery (Caucade), Nice, France
 1 OCCU General
 1 FAMC @F18@
+1 REFN Fyodor-Fyodorovich-Trepov-1854-1938
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1854-1938/README-Fyodor-Fyodorovich-Trepov-1854-1938.md
 0 @I42@ INDI
@@ -888,6 +971,8 @@
 2 PLAC Court Church of Saints Peter and Paul, Peterhof
 1 OCCU General
 1 FAMC @F18@
+1 REFN Dmitri Feodorovich Trepov-1850-1906
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Dmitri%20Feodorovich%20Trepov-1850-1906/README-Dmitri-Feodorovich-Trepov-1850-1906.md
 0 @I43@ INDI
@@ -907,6 +992,8 @@
 1 BURI
 2 PLAC Russian Cemetery (Caucade), Nice, France
 1 FAMC @F18@
+1 REFN Alexander-Fyodorovich-Trepov-1862-1928
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/README-Alexander-Fyodorovich-Trepov-1862-1928.md
 0 @I44@ INDI
@@ -923,6 +1010,8 @@
 2 DATE BET AUG 1918 AND SEP 1918
 2 PLAC Kronstadt, Russia
 1 FAMC @F18@
+1 REFN Vladimir Fyodorovich Trepov-1863-1918
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Vladimir%20Fyodorovich%20Trepov-1863-1918/README-Vladimir-Fyodorovich-Trepov-1863-1918.md
 0 @I45@ INDI
@@ -942,6 +1031,8 @@
 1 REFN geni:308615375810002056
 2 TYPE Geni
 1 NOTE First married Sally (Sarah) Tobey, 17 October 1820; she died 10 April 1823. Parents Eli Haskell and Achsah Nye.
+1 REFN Elisha-Haskell-Jr-1795-1880
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md
 0 @I46@ INDI
@@ -958,6 +1049,8 @@
 1 OCCU Governor of Arkansas Territory; United States Senator
 1 FAMC @F21@
 1 FAMS @F20@
+1 REFN William-S-Fulton-1795-1844
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md
 0 @I47@ INDI
@@ -972,6 +1065,8 @@
 2 DATE 7 AUG 1843
 2 PLAC Little Rock, Arkansas, USA
 1 FAMS @F21@
+1 REFN David-Fulton-1771-1843
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md
 0 @I48@ INDI
@@ -993,6 +1088,8 @@
 2 PLAC St. Alexis Memorial Church of Russian Glory, Leipzig
 1 FAMC @F22@
 1 NOTE Married Yekaterina Mikhailovna Golenishcheva-Kutuzova (1787-1826).
+1 REFN Nikolay-Danilovich-Kudashev-1784-1813
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/README-Nikolay-Danilovich-Kudashev-1784-1813.md
 0 @I49@ INDI
@@ -1009,6 +1106,8 @@
 2 DATE 1925
 2 PLAC Paris, France
 1 FAMC @F23@
+1 REFN Nikolai-Alexandrovich-Kudashev-1868-1925
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Alexandrovich-Kudashev-1868-1925/README-Nikolai-Alexandrovich-Kudashev-1868-1925.md
 0 @I50@ INDI
@@ -1026,6 +1125,8 @@
 1 DEAT
 2 DATE 1917
 1 FAMC @F24@
+1 REFN Alexander-Sergeyevich-Kudashev-1872-1917
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Alexander-Sergeyevich-Kudashev-1872-1917/README-Alexander-Sergeyevich-Kudashev-1872-1917.md
 0 @I51@ INDI
@@ -1051,6 +1152,8 @@
 1 FAMC @F26@
 1 FAMS @F25@
 1 NOTE First married Count Alexander Alexandrovich von Kreutz (1906; divorced).
+1 REFN Olga-Ericovna-von-Pistohlkors-1888-1963
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md
 0 @I52@ INDI
@@ -1076,6 +1179,8 @@
 2 PLAC Cimetière Gabriel-Péri, Colombes, France
 1 FAMS @F26@
 1 NOTE Married second Grand Duke Paul Alexandrovich of Russia (1902).
+1 REFN Olga-Valerianovna-Paley-1865-1929
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md
 0 @I53@ INDI
@@ -1091,6 +1196,8 @@
 2 PLAC Princeton, New Jersey, USA
 1 OCCU Clergyman
 1 FAMS @F27@
+1 REFN Walter-Lowrie-1868-1959
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md
 0 @I54@ INDI
@@ -1106,6 +1213,8 @@
 2 PLAC Winter Park, Florida, USA
 1 OCCU Architect
 1 FAMS @F28@
+1 REFN Francis-Meredyth-Whitehouse-1848-1938
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md
 0 @I55@ INDI
@@ -1123,6 +1232,8 @@
 2 PLAC Rockport, Massachusetts, USA
 1 OCCU Sculptor
 1 NOTE Her relationship to the family has not been established, so she has no family links in this tree.
+1 REFN Katherine-Weems-1899-1989
+2 TYPE Wiki
 1 SOUR @S1@
 2 PAGE https://theo-armour.github.io/genealogy/#Wiki/Katherine-Weems-1899-1989/README-Katherine-Weems-1899-1989.md
 0 @C01@ INDI
