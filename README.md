@@ -4,7 +4,7 @@
 
 [![A fan chart of Theo Armour's ancestors back to his great-great-grandparents](GEDCOM-files/theo-armour-ancestors-fan.png)](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Theo-Armour-III-1947-&layout=fan)
 
-Four colors for my four grandparents' lines: Armour, Kudashev, Burrage and Shirk. Click the fan to open it in the GEDCOM Viewer, where every name links to its biography.
+Four colors for my four grandparents' lines: Armour, Kudashev, Burrage and Shirk. Click the fan to open it in the [GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Theo-Armour-III-1947-&layout=fan), where every name links to its biography.
 
 ## ✨ Did you know?
 
@@ -96,28 +96,9 @@ Must be a member to access
 
 * <https://www.ancestry.com/invite-ui/accept?token=>
 
-View of the GEDCOM files exported from Ancestry 2025-08-18
-
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-18-ancestry-armour-ferté/2025-08-18-armour-ferte.ged>
-
-
 ### MyHeritage.com
 
 * <https://www.myheritage.com/family-sites/armour/OYYV6PBSECQU5WE7JKWV7Q44V3NYJUI>
-
-View of the GEDCOM files exported from MyHeritage 2025-08-18
-
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-18-myheritage-armour.ged>
-
-
-## Data from Jeff Carley
-
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-23-carley-armour-family-tree.ged>
-
-## Data from Matthew
-
-* <https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2025/2025-08-28-matthew-family-tree.ged>
-
 
 ## Kudashev Website
 

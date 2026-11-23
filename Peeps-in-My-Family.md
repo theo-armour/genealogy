@@ -22,7 +22,7 @@ As in Wikipedia, names are in given name family name are listed in alphabetical 
 
 ## Albert Cameron Burrage ~ Maternal great-grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/albert-burrage.jpg" alt="Albert Burrage" width="300"><br>
+<img src="https://theo-armour.github.io/genealogy/Wiki/Albert-Cameron-Burrage-Sr-1859-1931/images/albert-burrage.jpg" alt="Albert Burrage" width="300"><br>
 
 📖 [More about Albert Cameron Burrage in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md)
 
@@ -46,7 +46,7 @@ Given how important he was in the family, I'm so surprised how little I knew abo
 
 ## Alexander Trepov ~ Paternal 3x-great-uncle
 
-<img src="https://theo-armour.github.io/genealogy/Commons/alexander-trepov.jpg" alt="Alexander Trepov" width="300"><br>
+<img src="https://theo-armour.github.io/genealogy/Wiki/Alexander-Fyodorovich-Trepov-1862-1928/images/alexander-trepov.jpg" alt="Alexander Trepov" width="300"><br>
 
 📖 [More about Alexander Trepov in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Alexander-Fyodorovich-Trepov-1862-1928/README-Alexander-Fyodorovich-Trepov-1862-1928.md)
 
@@ -69,7 +69,7 @@ My great-grandmother Princess Vera's uncle was one of the last Prime Ministers o
 
 ## Allison Vincent Armour ~ Paternal great-great-uncle
 
-<img src="https://theo-armour.github.io/genealogy/Commons/allison-armour.jpg" alt="Allison Armour" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Allison-Vincent-Armour-1863-1941/images/allison-armour.jpg" alt="Allison Armour" width="300">
 
 📖 [More about Allison Vincent Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md)
 
@@ -91,7 +91,7 @@ Great Uncle Allison was a far more dashing figure than my great-grandfather, Geo
 
 ## Anne Bell Burrage ~ Maternal grandmother
 
-<img src="https://theo-armour.github.io/genealogy/Commons/anne-burrage.jpg" alt="Anne Burrage" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Anne-Bell-Burrage-1890-1983/images/anne-burrage.jpg" alt="Anne Burrage" width="300">
 <img src="https://theo-armour.github.io/genealogy/Wiki/Anne-Bell-Burrage-1890-1983/images/1930~-unknown-anne-bell-burrage-in-diving-suit.jpg" alt="Anne Burrage" width="300">
 
 📖 [More about Anne Bell Burrage in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md)
@@ -114,7 +114,7 @@ My grandma used creativity, design, joie de vivre, enthusiasm, imagination, gett
 
 ## Erastus Foote ~ Paternal great-great-great-grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/erastus-foote.jpg" alt="Erastus Foote" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Erastus-Foote-1777-1856/images/erastus-foote.jpg" alt="Erastus Foote" width="300">
 
 📖 [More about Erastus Foote in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md)
 
@@ -136,7 +136,7 @@ One summer we visited his house and met some of the family in Wiscasset, Maine. 
 
 ## Fyodor Trepov (senior) ~ Paternal 3x-great-grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/fyodor-trepov.jpg" alt="Fyodor Trepov" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/images/fyodor-trepov.jpg" alt="Fyodor Trepov" width="300">
 
 📖 [More about Fyodor Trepov (senior) in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Fyodorovich-Trepov-1809-1889/README-Fyodor-Fyodorovich-Trepov-1809-1889.md)
 
@@ -158,7 +158,7 @@ Granny told me that when the family first moved to Poland, They staked out a pla
 
 ## George Armour ~ Paternal great-great-grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/george-armour.png" alt="George Armour" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/George-Armour-1812-1881/images/george-armour.png" alt="George Armour" width="300">
 
 📖 [More about George Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md)
 
@@ -180,8 +180,8 @@ Here is one of the more amazing people in American history: True rags-to-riches 
 
 ## James Whitehill Shirk ~ Maternal great-great-grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/james-shirk.png" alt="James Whitehill Shirk" width="300">
-<img src="https://theo-armour.github.io/genealogy/Commons/uss-shirk.jpg" alt="James Whitehill Shirk" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/James-Whitehill-Shirk-1832-1873/images/james-shirk.png" alt="James Whitehill Shirk" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/James-Whitehill-Shirk-1832-1873/images/uss-shirk.jpg" alt="James Whitehill Shirk" width="300">
 
 📖 [More about James Whitehill Shirk in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md)
 
@@ -206,7 +206,7 @@ How this upstart officer became involved with a Southern Belle remains a mystery
 
 ## Nikolay Danilovich Kudashev
 
-<img src="https://theo-armour.github.io/genealogy/Commons/nikolay-kudashev.jpg" alt="Nikolay Danilovich Kudashev" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Nikolay-Danilovich-Kudashev-1784-1813/images/nikolay-kudashev.jpg" alt="Nikolay Danilovich Kudashev" width="300">
 
 📖 [More about Nikolay Danilovich Kudashev in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/README-Nikolay-Danilovich-Kudashev-1784-1813.md)
 
@@ -228,7 +228,7 @@ I assume that he was one of the reasons why another Prince Sergei Kudashev in th
 
 ## Norman Armour ~ Paternal grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/norman-armour.jpg" alt="Norman Armour" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Norman-Armour-Sr-1887-1982/images/norman-armour.jpg" alt="Norman Armour" width="300">
 
 📖 [More about Norman Armour in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md)
 
@@ -273,7 +273,7 @@ She comes into the family through her eldest daughter, Olga Erikovna von Pistohl
 
 ## Sergei Vladimirovich Kudashev (1863–1933) ~ Paternal great grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/1903-ball-sergei-kudashev.jpeg" alt="Sergei Vladimirovich Kudashev at the 1903 Romanov costume ball" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/images/1903-ball-sergei-kudashev.jpeg" alt="Sergei Vladimirovich Kudashev at the 1903 Romanov costume ball" width="300">
 
 📖 [More about Sergei Vladimirovich Kudashev in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md)
 
@@ -296,7 +296,7 @@ Until my new friend Eric Van der Graaf came along, I knew almost nothing about P
 
 ## Theodor von Nieroth ~ Paternal great-great-uncle
 
-<img src="https://theo-armour.github.io/genealogy/Commons/nirod_fedor_maksimilianovic_001_2__large.jpg" alt="Theodor von Nieroth" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/images/nirod_fedor_maksimilianovic_001_2__large.jpg" alt="Theodor von Nieroth" width="300">
 
 📖 [More about Theodor von Nieroth in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md)
 
@@ -319,9 +319,9 @@ I remember hearing that he was the youngest general in this horse army. And also
 
 ## Vera Maximilianovna Kudasheva (1874–1920) ~ Paternal great grandmother
 
-<img src="https://theo-armour.github.io/genealogy/Commons/vera-kudasheva.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
-<img src="https://theo-armour.github.io/genealogy/Commons/1900~-unknown-vera-von-neiroth-in-court-dress.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
-<img src="https://theo-armour.github.io/genealogy/Commons/1900~-unknown-vera-von-neiroth.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/images/vera-kudasheva.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/images/1900~-unknown-vera-von-neiroth-in-court-dress.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/images/1900~-unknown-vera-von-neiroth.jpg" alt="Princess Vera Maximilianovna Kudasheva" width="300">
 
 📖 [More about Vera Maximilianovna Kudasheva in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md)
 
@@ -342,7 +342,7 @@ Apart from the incredible family she came from, all I know is that she was a sig
 
 ## Walter Lowrie ~ Paternal great-uncle
 
-<img src="https://theo-armour.github.io/genealogy/Commons/walter-lowrie.jpg" alt="Walter Lowrie" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/Walter-Lowrie-1868-1959/images/walter-lowrie.jpg" alt="Walter Lowrie" width="300">
 
 📖 [More about Walter Lowrie in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/Walter-Lowrie-1868-1959/README-Walter-Lowrie-1868-1959.md)
 
@@ -367,7 +367,7 @@ And then, of course, he was part of the team that translated Søren Kierkegaard 
 
 ## William Savin Fulton ~ Maternal great-great-great-grandfather
 
-<img src="https://theo-armour.github.io/genealogy/Commons/william-fulton.jpg" alt="William S. Fulton" width="300">
+<img src="https://theo-armour.github.io/genealogy/Wiki/William-S-Fulton-1795-1844/images/william-fulton.jpg" alt="William S. Fulton" width="300">
 
 📖 [More about William Savin Fulton in the family wiki →](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md)
 

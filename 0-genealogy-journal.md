@@ -14,6 +14,11 @@ A big day for the family tree, working with Claude.
 * **No public links into `.private`.** The Kudashev additional notes linked to the Vermeer provenance research and three Word documents that now live in `.private/`. Those links are gone.
 * **A home page with some sparkle.** The README now opens with "Did you know?" (the Mayflower, Kutuzov's son-in-law, the Norwegian passport, Princess Paley, the Princeton house, the Herb Society), then a grid of eight family portraits that link to their biographies, and a "Help wanted" list of four open mysteries. It also points to the family tree in the GEDCOM Viewer.
 * **Agenda tidied.** The GEDCOM viewer and the `README-<name>.md` renaming are done. New: what to do about the online exports with living people's details, and an Open Questions list.
+* **A fan of my ancestors on the home page.** The GEDCOM Viewer's PNG export of my ancestors back to my great-great-grandparents, in four colors for my four grandparents' lines, now tops the README as "My ancestors at a glance". It's saved as [theo-armour-ancestors-fan.png](GEDCOM-files/theo-armour-ancestors-fan.png), and clicking it opens the viewer in fan layout.
+* **Prince Sergei's Dutch masters.** "Did you know?" now includes his collection of 17th-century Dutch and Flemish Old Masters, sold in Amsterdam in 1905 under the name "Prince Tatarsky".
+* **What a GEDCOM file is.** The README explains the format, with George Armour's record as a sample, and why it matters: my family history isn't locked into any one website or program.
+* **"See in the GEDCOM Viewer."** I prefer that name to "the family tree", so the 🌳 link in all 66 biographies now says so, as do the README, AGENTS.md and the GEDCOM read me.
+* **Viewer link fixed.** My biography is now `README-Norman-Theo-Armour-III-1947-.md`, and the GEDCOM Viewer's list of biographies follows the rename.
 
 ## 2026-07-07
 

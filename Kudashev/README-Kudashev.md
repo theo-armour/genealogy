@@ -41,7 +41,7 @@ A Baltic German family. In Russian the name is Нирод ~ Nirod.
 * [Fyodor Maximilianovich von Nieroth](../Wiki/Fyodor-Maximilianovich-von-Nieroth-1871-1952/README-Fyodor-Maximilianovich-von-Nieroth-1871-1952.md) (1871–1952) ~ Vera's brother, my great-great-uncle. A major general in the Imperial Russian Army. He died in Amblainville, France
 * [Vera Maximilianovna](../Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md) (1874–1920) ~ my great-grandmother. Born in Saint Petersburg, died in Paris
 
-![Princess Vera Kudasheva](../Commons/vera-kudasheva.jpg)
+![Princess Vera Kudasheva](../Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/images/vera-kudasheva.jpg)
 
 More on the family's origins is in [Neroths.md](Neroths.md).
 
