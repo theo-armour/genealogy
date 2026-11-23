@@ -11,7 +11,8 @@ My family history: lineage, profiles of family members, source documents and exp
 - [Wiki/](Wiki/) — one folder per person, named `Given-Names-Surname-BIRTH-DEATH` (e.g. `Albert-Cameron-Burrage-Sr-1859-1931`; living people end with a dash, `1951-`).
 - [Armour/](Armour/), [Kudashev/](Kudashev/), [Burrage/](Burrage/), [Shirk/](Shirk/) — one folder per grandparent's birth surname.
 - [Peeps-in-My-Family.md](Peeps-in-My-Family.md) — notable people in the four families. The dated copies beside it are my backups; leave them alone.
-- [Online-Genealogy/](Online-Genealogy/) — Geni, Ancestry, MyHeritage and WikiTree notes and GEDCOM exports.
+- [Online-Genealogy/](Online-Genealogy/) — Geni, Ancestry, MyHeritage and WikiTree notes.
+- [GEDCOM-files/](GEDCOM-files/) — the hand-maintained master tree, [armour-genealogy.ged](GEDCOM-files/armour-genealogy.ged) (one undated file, updated in place), and the dated online-service exports in `2025/`, kept as exported.
 - [Documents/](Documents/) — working notes, kept as history.
 - [0-genealogy-agenda.md](0-genealogy-agenda.md), [0-genealogy-journal.md](0-genealogy-journal.md) — priorities and dated notes (newest first).
 - [index.html](index.html) — TooToo instance that browses this repo (generated; treat as read-only).
@@ -22,6 +23,7 @@ My family history: lineage, profiles of family members, source documents and exp
 - **Leave sources as they are.** Transcriptions, memoirs (e.g. `Kudashev/souvenirs-de-russie`) and exported GEDCOM files keep their original wording and spelling, in the original language. Put translations and notes alongside, not in place of the original.
 - **Living people.** Ask before adding personal details about anyone living — contact details, addresses, health, family disagreements.
 - **Nothing private.** Never copy material from my private repos (agenda, journals, people notes) into this one.
+- **Master tree follows the Wiki.** When a Wiki biography is added, add that person to `GEDCOM-files/armour-genealogy.ged`, citing their page and giving them `1 REFN <Wiki folder>` / `2 TYPE Wiki`. When a Wiki folder is renamed, update its `REFN`, the page address in the citation, and the viewer's `WIKI` list in the gedcom-viewer repo. Edit the master in place; don't make dated copies.
 - **Names.** Follow the Wikipedia-style convention used here: given names then family name, the name that would appear on the tombstone. Keep existing transliterations of Russian names unless I ask.
 - **Voice.** Plain, direct, first person, with recollections and meaning as well as facts. Apply proofreading edits and new additions directly; propose wording changes first only when deleting or replacing existing information.
 - **Autonomy.** Make reasonable assumptions and apply changes directly without asking clarifying questions unless something is destructive or ambiguous.

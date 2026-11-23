@@ -2,11 +2,22 @@
 
 Family tree exports from the online services, named by export date, in [2025/](2025/). These are source files and stay exactly as exported.
 
-The master tree, which I maintain by hand, is in [2026/](2026/).
+The master tree, which I maintain by hand, is [armour-genealogy.ged](armour-genealogy.ged).
 
 ## Master tree
 
-* [2026-11-22-armour-genealogy.ged](2026/2026-11-22-armour-genealogy.ged) ~ GEDCOM 5.5.1, UTF-8 ~ one person for each Wiki biography (55), plus 12 people needed to connect them ~ facts taken from the biographies, each person cited to their Wiki page and given a `REFN` of `TYPE Wiki` naming their Wiki folder (the GEDCOM Viewer uses it for biography links), with notes where sources disagree ~ living people by name only ~ [open in Topola](https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/2026/2026-11-22-armour-genealogy.ged)
+* [armour-genealogy.ged](armour-genealogy.ged) ~ GEDCOM 5.5.1, UTF-8 ~ one person for each Wiki biography (55), plus 12 people needed to connect them ~ facts taken from the biographies, each person cited to their Wiki page and given a `REFN` of `TYPE Wiki` naming their Wiki folder (the GEDCOM Viewer uses it for biography links), with notes where sources disagree ~ living people by name only ~ [open in Topola](https://pewu.github.io/topola-viewer/#/view?url=https://theo-armour.github.io/genealogy/GEDCOM-files/armour-genealogy.ged)
+
+It's one undated file, updated in place; git keeps the earlier versions. Started 22 November 2026.
+
+**Keeping it in step with the Wiki.** Every person with a Wiki biography is in the master tree, with a line naming their Wiki folder:
+
+```text
+1 REFN Maria-Sergeyevna-Kudasheva-1896-1990
+2 TYPE Wiki
+```
+
+When a biography is added, add the person to the tree with this line. When a Wiki folder is renamed, change the line to match. The GEDCOM Viewer uses it to link people to their biographies, even when the tree's years differ from the folder name. `REFN` is a standard GEDCOM tag, so other programs keep it, showing it at most as a reference number.
 
 ## Start here
 
