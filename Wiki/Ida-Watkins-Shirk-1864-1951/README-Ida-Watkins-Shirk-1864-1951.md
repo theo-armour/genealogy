@@ -12,6 +12,8 @@ No portrait of her is held in this folder.
 | **Children** | [Anne Bell Shirk](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md), later Mrs Albert C. Burrage Jr |
 | **Parents** | [George Claiborne Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md) (1815–1872)<br>[Sophia Fulton](https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md) (1830–1865) (see Open questions) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Ida-Watkins-Shirk-1864-1951)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/364428047360003312>

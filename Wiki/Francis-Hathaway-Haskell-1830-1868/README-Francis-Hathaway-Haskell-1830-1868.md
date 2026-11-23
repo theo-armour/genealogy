@@ -11,6 +11,8 @@
 | **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
 | **Parents** | [Elisha Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md) (died 1880)<br>Alice Russell Hathaway (1806–1880) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Hathaway-Haskell-1830-1868)
+
 ## Family and early life
 
 Francis Hathaway Haskell was a son of Elisha Haskell, a Boston auctioneer, and his second wife, Alice Russell Hathaway of New Bedford.[5][8] The *Chronicles of the Haskell Family* (1943) lists him among their six children as "Francis H. m Elizabeth Russell".[8] His father was in Boston by 1826 and lived at 2 Tremont Place from 1830 to at least 1845, so he probably grew up there; see his father's biography.[9]

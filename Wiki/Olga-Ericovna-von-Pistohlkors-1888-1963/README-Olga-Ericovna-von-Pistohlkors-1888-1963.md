@@ -19,6 +19,8 @@ Very little is recorded about her own life. The fullest glimpses of her are in h
 | **Mother** | Olga Valerianovna Karnovich, later Princess Paley (1864 or 1865–1929) |
 | **House** | Pistohlkors |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Ericovna-von-Pistohlkors-1888-1963)
+
 ## Family background
 
 Her father, Erich Gerhard von Pistohlkors (Эрик Августович фон Пистолькорс, 1853–1935), was a Russian officer from a Baltic-German noble family who reached the rank of major general and died in Riga.[1][2] Her mother, Olga Valerianovna Karnovich, was the daughter of the chamberlain Valerian Gavrilovich Karnovich and Olga Vasilyevna Meszaros.[1][2] The couple married in 1884.[1][2]

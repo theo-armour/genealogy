@@ -15,6 +15,8 @@
 | **Children** | Meredyth Whitehouse (see Open questions) |
 | **Parents** | Rt. Rev. Henry John Whitehouse (1803–1874)<br>Evelina Harriet Bruen (1806–1864) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Meredyth-Whitehouse-1848-1938)
+
 ## Family and early life
 
 Francis Meredyth Whitehouse was born in New York City on 2 October 1848.[1] His father, Henry John Whitehouse, was the second Episcopal Bishop of Illinois, in office from 1852 until his death in Chicago in 1874. His mother was Evelina Harriet Bruen, whom the bishop had married on 8 August 1835.[9]

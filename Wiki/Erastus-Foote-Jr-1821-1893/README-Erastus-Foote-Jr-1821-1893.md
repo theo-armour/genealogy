@@ -14,6 +14,8 @@ No portrait of him is held in this folder.
 | **Children** | Including Erastus (born about 1850) and [Harriette Cobb](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924), the youngest |
 | **Parents** | [Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md) (1777–1856)<br>Eliza Carlton (Carleton) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-Jr-1821-1893)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/6000000220990842407>

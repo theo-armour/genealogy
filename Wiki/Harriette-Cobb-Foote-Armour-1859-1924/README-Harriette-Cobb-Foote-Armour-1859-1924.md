@@ -12,6 +12,8 @@ No portrait of her is held in this folder.
 | **Children** | George (1884–1893)<br>Paul (1886–1887)<br>[Norman](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Barbara](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (1889–1981)<br>William (1892–1958)<br>Allison (born 1896)<br>Edmund (1899–1912) |
 | **Parents** | [Erastus Foote Jr](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md) (1821–1893)<br>[Sarah Page Wood](https://theo-armour.github.io/genealogy/#Wiki/Sarah-Page-Wood-Foote-1826-1898/README-Sarah-Page-Wood-Foote-1826-1898.md) (1826–1898) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Harriette-Cobb-Foote-Armour-1859-1924)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/6000000002789973007>

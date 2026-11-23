@@ -15,6 +15,8 @@
 | **Children** | By Susan: Mary Wood (1813–1814), Erastus Miles (1815–1816), Susan Eliza (b. 1817)<br>By Eliza: [Erastus](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md) (1821–1893), Mary Todd (b. 1823), Abigail (1825–1826), Ann Butler (b. 1827) |
 | **Parents** | Obed Foote (1741–1797)<br>Mary Todd (1742–1815) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-1777-1856)
+
 ## Family and early life
 
 Erastus Foote was born on 19 September 1777, the eighth of the eleven children of Obed Foote and Mary Todd.[2] Nathaniel Goodwin's Foote genealogy, published in 1849 while Erastus was living, describes Obed as "first of that part of Waterbury, now Plymouth, afterwards of Gill, (Mass.)", and Mary as the daughter of the Rev. Samuel Todd, a Yale graduate and the first minister of Northbury parish in Waterbury. They had married on 3 December 1761.[2] William Willis, in his history of the Maine bar (1863), says that Erastus was born at Waterbury.[3]

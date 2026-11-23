@@ -10,6 +10,8 @@
 | **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
 | **Parents** | Robert Russell (Geni)<br>Mother not established (see Open questions) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Elizabeth-Russell-1835-1909)
+
 ## Family and early life
 
 Very little about her early life is established. Geni and her profile page give her birth as December 1835 at "Kingston?, England", with the question mark, and name her father as Robert Russell.[1][6] One Ancestry-derived tree gives 16 December 1837 at Kingston, Surrey, England; another gives the same day at Marblehead, Massachusetts.[7][8] No birth or baptism record has been seen.

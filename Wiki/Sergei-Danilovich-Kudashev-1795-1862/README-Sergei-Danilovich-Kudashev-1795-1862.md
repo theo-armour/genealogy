@@ -22,6 +22,8 @@
 | **Mother** | Yekaterina Sergeyevna, born Princess Baratova or Baranova (sources differ) |
 | **House** | [Kudashev](https://ru.wikipedia.org/wiki/Кудашевы) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Danilovich-Kudashev-1795-1862)
+
 ## Family background and early life
 
 Sergei Danilovich Kudashev was born on 29 May 1795.[12] A local-history article by A. Reznik says he was born at Beletskovka, the family estate near Kremenchuk in Poltava Governorate, and cites an entry in the register of its St. Nicholas church.[11] The Kudashevs were a princely family of Tatar origin, descended from Murza Chepai Kudashev, whose princely title was confirmed by the Russian Senate.[2][10][14]

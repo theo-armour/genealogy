@@ -17,6 +17,8 @@
 | **Children** | [Albert Cameron Burrage III](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md) (1919–1944)<br>Anne Bell (see Open questions)<br>[Cynthia Sewall Burrage Hovey](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983) |
 | **Parents** | [James Carson Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918)<br>[Ida Watkins Shirk](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Anne-Bell-Burrage-1890-1983)
+
 ## Family and early life
 
 Anne Bell Shirk was born in Philadelphia on 6 October 1893, according to the Geni, MyHeritage and three Ancestry-derived family trees and to a headstone transcription.[13][14][15][16][17][22] The profile page in this repository gives the same day and month but the year 1890.[1] Two of the trees record her baptism at Philadelphia on 24 June 1894, citing the Historical Society of Pennsylvania's church and town records.[15][17]

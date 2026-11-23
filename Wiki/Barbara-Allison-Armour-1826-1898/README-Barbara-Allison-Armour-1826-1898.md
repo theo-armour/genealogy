@@ -12,6 +12,8 @@ No portrait of her is held in this folder.
 | **Children** | John William (1851–1865)<br>[George Allison](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>William (1858–1888)<br>[Allison Vincent](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md) (1863–1941)<br>Mary Greenlee (1868–1958), Mrs [Francis Meredyth Whitehouse](https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md) |
 | **Parents** | William Allison "of Millbank, Scotland, and Chicago"<br>Barbara Wark, according to Geni |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Allison-Armour-1826-1898)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/364408151370007582>

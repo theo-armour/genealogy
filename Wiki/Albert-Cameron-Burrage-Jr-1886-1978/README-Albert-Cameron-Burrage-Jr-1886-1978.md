@@ -13,6 +13,8 @@
 | **Parents** | [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931)<br>[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) |
 | **Awards** | Large Gold Medal, Massachusetts Horticultural Society (1942) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Jr-1886-1978)
+
 ## Family and early life
 
 Albert Cameron Burrage Jr was born on 30 August 1886 in Boston, according to the profile page, which follows Geni's web page.[1] A family tree drawn from Ancestry also gives 30 August 1886, and cites Massachusetts birth records among its sources; other exports give 30 August 1887 (see Open questions).[7][8]

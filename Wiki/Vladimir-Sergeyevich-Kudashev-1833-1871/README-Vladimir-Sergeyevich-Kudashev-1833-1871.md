@@ -20,6 +20,8 @@
 | **Mother** | Countess Mathilde de Choiseul-Gouffier |
 | **House** | Kudashev |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir-Sergeyevich-Kudashev-1833-1871)
+
 ## Early life and family
 
 Vladimir Sergeyevich Kudashev was born in Kiev in March 1833. Russian genealogical compilations give the date as 22 March;[1][5] the family-tree database Geneanet, as carried into Ancestry exports, gives 23 March.[6] The sources do not say whether the date is Old Style ([Julian](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates)) or New Style; Old Style was the civil calendar of the Russian Empire at the time.

@@ -2,6 +2,8 @@
 
 * Known as: Theo
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Theo-Armour-III-1947-)
+
 ## Genealogy
 
 * https://www.geni.com/family-tree/index/6000000004118029730

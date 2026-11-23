@@ -15,6 +15,8 @@
 | **Children** | By Martha: Clara A. (b. 1844), Ellen M. (1847–1867), Mary E. (1849–1849)<br>By Aurelia: Cora Chamberlin (b. 1851), William Henry (1854–1854), Martha Bayley (1855–1855), Charles Dana (b. 1857), [Albert Cameron](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931) |
 | **Parents** | Deacon William Burrage (1768–1844)<br>Roxanna Sanderson of Lancaster |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Sanderson-Burrage-1823-1876)
+
 ## Family and early life
 
 George Sanderson Burrage was born at Leominster, Massachusetts, on 15 May 1823.[1][7] He was the eldest son of the second marriage of Deacon William Burrage (born 2 September 1768), a tanner and currier in the north part of Leominster who was chosen a deacon of the First Congregational Church in 1814 and held the office until his death in 1844. William had married first, in 1792, Mary Joslin, and second, on 21 June 1821, Roxanna Sanderson of Lancaster.[1]

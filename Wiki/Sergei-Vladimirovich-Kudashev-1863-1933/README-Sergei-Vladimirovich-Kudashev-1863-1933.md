@@ -21,6 +21,8 @@
 | **Mother** | [Princess Olga Nikolaevna Horvath](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md) (1840–1907) |
 | **House** | Kudashev |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Vladimirovich-Kudashev-1863-1933)
+
 ## Family background and early life
 
 Sergei Vladimirovich Kudashev was born in Kiev on 14 December (14 September Old Style) 1863 into the Kudashev family, a Russian princely dynasty of Tatar origin whose noble title had been recognized in Russia since the 17th century.[1][3] His great-grandfather, Prince Daniil Ivanovich Kudashev, bought the estate of Veselyi Kut in Chigirin Uyezd of Kiev Governorate (modern-day Cherkasy Oblast, Ukraine) in 1804.[4][5] It passed to the family of Daniil's son-in-law, General Belsky, and was sold in 1855, eight years before Sergei was born.[4] His grandfather, [Prince Sergei Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md) (1795–1862), was Vice-Governor of Kiev and marshal of the nobility of Kherson Governorate.[16] His great-uncle, Major General [Prince Nikolai Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Nikolay-Danilovich-Kudashev-1784-1813/README-Nikolay-Danilovich-Kudashev-1784-1813.md) (1784–1813), married a daughter of Field Marshal Mikhail Kutuzov and commanded a partisan detachment during the Patriotic War of 1812.[3]

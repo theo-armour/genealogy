@@ -24,6 +24,8 @@
 | **Relatives** | Prince Ivan Alexandrovich Kudashev (brother, diplomat)<br>[Alexander Izvolsky](https://en.wikipedia.org/wiki/Alexander_Izvolsky) (brother-in-law) |
 | **House** | Kudashev |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Alexandrovich-Kudashev-1868-1925)
+
 ## Family background
 
 Nikolai Alexandrovich Kudashev was born in 1868.[1] His father, Prince Alexander Sergeyevich Kudashev (1830–1877), was a director of private banks in Kiev and a son of Prince Sergei Danilovich Kudashev. His mother was Sofia Ivanovna, born Orlova.[1][6][7] In 1872 Princess Sofia Kudasheva bought a house and grounds at Bulvarno-Kudriavska Street 25 in Kiev, which her husband mortgaged on her behalf. Alexander Sergeyevich died of tuberculosis on 5 September 1877, when Nikolai was about nine, and the house was sold the same year.[6]

@@ -12,6 +12,8 @@ No portrait of her is held in this folder.
 | **Children** | By George C. Watkins: Maria Louise, Elizabeth Wright (died young), Georgie Claiborne, [Ida](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md) (1864–1951) |
 | **Parents** | [William Savin Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md) (1795–1844)<br>Matilda Frances Nowland (Howland in one tree) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sophia-Fulton-Watkins-1830-1865)
+
 ## Genealogy
 
 * Birth: 4 April 1830 ~ District of Columbia (one tree)

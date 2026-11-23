@@ -10,6 +10,8 @@
 | **Children** | None |
 | **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>[Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Armour-Lowrie-1889-1981)
+
 ## Family and early life
 
 Barbara Armour was born on 27 November 1889, in Chicago according to the profile page and the MyHeritage tree.[1][6] She was the daughter of George Allison Armour and Harriette Cobb Foote, and a granddaughter of the Chicago grain merchant [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md), whose wife was Barbara Allison.[1][7][8] Two family trees give her full name as Barbara Allison Armour.[6]

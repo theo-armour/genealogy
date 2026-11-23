@@ -13,6 +13,8 @@ No portrait of her is held in this folder.
 | **Children** | Matilda (born 1857)<br>[Sergei](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) (1863–1933)<br>Maria (born 1869)<br>Vsevolod (born 1870)<br>Vladimir (died 1957) |
 | **Parents** | Nikolai Antonovich Horvat (born 1797), according to unsourced trees (see Open questions) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Nikolaevna-Kudasheva-1840-1907)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/364525368000002484>

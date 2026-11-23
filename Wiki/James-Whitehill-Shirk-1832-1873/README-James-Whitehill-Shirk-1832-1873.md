@@ -16,6 +16,8 @@
 | **Children** | Three were living in 1884, among them [James C. Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918) (see Open questions) |
 | **Parents** | David Shirk (1806–1873)<br>Mary Whitehill |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Whitehill-Shirk-1832-1873)
+
 ## Family and early life
 
 James W. Shirk was born in Pennsylvania on 16 July 1832, according to the record of his service printed in his lifetime.[1] He was a son of David Shirk and Mary Whitehill, both "natives of Pennsylvania, the former of German, the latter of English extraction".[2]

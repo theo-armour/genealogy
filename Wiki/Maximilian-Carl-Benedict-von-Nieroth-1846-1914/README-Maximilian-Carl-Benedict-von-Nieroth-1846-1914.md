@@ -21,6 +21,8 @@
 | **Mother** | Paulina Fyodorovna Shtenger (Pauline Dorothea Elisabeth von Stenger) |
 | **Religion** | Lutheran |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Maximilian-Carl-Benedict-von-Nieroth-1846-1914)
+
 ## Family background
 
 The Nieroths (in Russian, Нирод, Nirod) were a family of counts settled in the Baltic provinces of the Russian Empire. Maximilian was born in St. Petersburg, the son of the cavalry general Count Evstafy Evstafyevich Nirod and Paulina Fyodorovna, born Shtenger.[1] Genealogical records in this folder give his parents' German names as Gustaf Reinhold Johan von Nieroth and Pauline Dorothea Elisabeth von Stenger, and name four siblings: Gustav Friedrich Nikolai, Alexander Wilhelm Julius, Heloise Augusta Johanna (married Crichton) and Moritz Nikolai Pontius.[2]

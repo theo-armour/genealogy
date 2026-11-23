@@ -18,6 +18,8 @@
 | **Spouse** | Yelizaveta Sergeyevna von Kilchen (1856–1937) |
 | **Children** | Vera (1881–1958), Yelizaveta (1885–1978) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1854-1938)
+
 ## Early career
 
 Trepov graduated from the Page Corps in 1873 and was commissioned a cornet in the Life Guards Horse Regiment. In 1877–1878 he was adjutant to the commander of the Orenburg Military District and took part in the [Russo-Turkish War](https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878)). From 10 May 1881 he was an official for special assignments under the Governor-General of Kiev, Podolia and Volhynia. He became a colonel in 1884.[1]

@@ -18,6 +18,8 @@
 | **Children** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>Francis Hathaway (1888–1911)<br>Russell<br>Elizabeth Alice, Mrs Harold L. Chalifoux (1895–1987) |
 | **Parents** | [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md) (1823–1876)<br>[Aurelia Chamberlin](https://theo-armour.github.io/genealogy/#Wiki/Aurelia-Chamberlin-Burrage-1830-1899/README-Aurelia-Chamberlin-Burrage-1830-1899.md) (also recorded as Amelia C. Chamberlain) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Sr-1859-1931)
+
 ## Family and early life
 
 The family genealogy published in 1877, *The Burrage Memorial*, records "Albert Cameron, b. Nov. 21, 1859", the youngest of the five children of George Sanderson Burrage by his second wife, Aurelia Chamberlin, whom he had married on 1 January 1851. His father also had three children by his first wife, Martha G. Phelps.[4] The Boston Landmarks Commission describes him as a descendant of John Burrage, who came to the colonies from England in 1636; *The Burrage Memorial* is subtitled as a history of the descendants of John Burrage "who settled in Charlestown, Mass., in 1637".[3][4]

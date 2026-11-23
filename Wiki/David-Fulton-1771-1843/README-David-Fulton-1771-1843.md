@@ -13,6 +13,8 @@
 
 No portrait of him is in this folder.
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=David-Fulton-1771-1843)
+
 ## Ireland and Maryland
 
 David Fulton was born on 2 January 1771 in County Donegal, Ireland.[3][4][10] A local-history article reproduced on his Find a Grave memorial places the birth in the parish of Templemore and names his parents as David and Elinor Macken Fulton.[4]

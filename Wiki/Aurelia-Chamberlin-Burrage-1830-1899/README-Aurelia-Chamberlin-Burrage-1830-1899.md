@@ -12,6 +12,8 @@ No portrait of her is held in this folder.
 | **Children** | Cora Chamberlin (born 1851)<br>William Henry (1854–1854)<br>Martha Bayley (1855–1855)<br>Charles Dana (born 1857)<br>[Albert Cameron](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931) |
 | **Parents** | William Chamberlin (Geni); William Chamberlain and Betsy Cameron (one tree) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Aurelia-Chamberlin-Burrage-1830-1899)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/6000000002789973060>

@@ -13,6 +13,8 @@ No portrait of her is held in this folder.
 | **Children** | David Marshall<br>[James C. Marshall](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918)<br>Fannie |
 | **Parents** | James C. Marshall (born 1799)<br>Eliza Weatherbee |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Mary-W-Marshall-Shirk-1833-1910)
+
 ## Genealogy
 
 * Birth: 19 August 1833 ~ Girard, Pennsylvania (the trees)

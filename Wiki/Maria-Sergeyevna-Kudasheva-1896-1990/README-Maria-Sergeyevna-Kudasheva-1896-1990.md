@@ -14,6 +14,8 @@
 | **Mother** | Countess Vera Maximilianovna von Nieroth (1874–1920) |
 | **House** | Kudashev |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Maria-Sergeyevna-Kudasheva-1896-1990)
+
 ## Early life in St. Petersburg
 
 Maria Sergeyevna Kudasheva—known throughout her life by the diminutive **Myra**—was born in St. Petersburg into the upper tier of the Russian Imperial aristocracy.[1][2] Her father, Prince Sergei Vladimirovich Kudashev (1863–1933), held the court ranks of *Kammerjunker* and *Kammerherr* (Chamberlain) under Emperor Nicholas II, served in the Main Directorate of Appanages, and sat on the boards of leading Russian financial and industrial enterprises.[1][6] Her mother, Countess Vera Maximilianovna von Nieroth (1874–1920), had served as a Maid of Honor (*freilina*) to Empress Alexandra Feodorovna and was the daughter of Imperial Master of the Hunt Count Maximilian von Nieroth and Anastasia Fyodorovna Trepova (sister of Prime Minister Alexander Trepov and Palace Commandant Dmitri Trepov).[1][7]

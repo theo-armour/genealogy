@@ -18,6 +18,8 @@
 | **Spouse** | Vera Vasilyevna Lukashevich (1817 or 1821 – 1866) |
 | **Children** | Anastasia, Yevgenia, Yulia, Sofia, Fyodor, Dmitri, Yelizaveta, Alexander, Vladimir |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1809-1889)
+
 ## Origins
 
 Trepov's origins are obscure. Russian Wikipedia gives his birth as 4 (16) May 1812, but notes that his service record says 1809 and that some books say 1803. Officially he was "из обер-офицерских детей" (the child of a junior officer) and a Lutheran. He is described as the illegitimate son of F. A. Shtenger, an Active State Councillor who was director of the towns of Pavlovsk and Gatchina.[1] On 2 November 1866 the Senate confirmed him and his children in the hereditary nobility for "his personal merits", and the family received its own coat of arms.[2]

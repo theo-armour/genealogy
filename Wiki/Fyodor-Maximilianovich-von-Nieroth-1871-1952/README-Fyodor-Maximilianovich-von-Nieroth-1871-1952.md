@@ -23,6 +23,8 @@
 | **Father** | [Count Maximilian von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) (1846–1914) |
 | **Mother** | [Anastasia Fyodorovna Trepova](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md) (1849–1940) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Maximilianovich-von-Nieroth-1871-1952)
+
 ## Early life
 
 He was born in St. Petersburg in the summer of 1871, the son of Count Maximilian von Nieroth, an official of the Ministry of the Interior, and Anastasia Fyodorovna Trepova. His grandfather General Fyodor Trepov was then chief of police of the capital.[1][2] He finished a classical gymnasium in 1890 and the Page Corps in 1892, and was commissioned a cornet in the Life Guards Horse Regiment.[1]

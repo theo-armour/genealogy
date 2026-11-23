@@ -11,6 +11,8 @@
 | **Children** | Four, according to the profile page, among them Theo Armour |
 | **Parents** | [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md) (1895 or 1896–1990) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Jr-1920-1978)
+
 ## Family and early life
 
 Norman Armour Jr was born in Brussels on 10 February 1920.[1][6] His father, a secretary in the American diplomatic service, had been assigned to the Embassy in Brussels in December 1918 and had married in Stockholm on 2 February 1919.[7] His mother was the daughter of Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) and Countess [Vera Maximilianovna von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920/README-Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920.md); his grandmother Vera died in Paris on 26 January 1920, two weeks before he was born.[7][8] *Time* magazine called him his father's "only child".[4]

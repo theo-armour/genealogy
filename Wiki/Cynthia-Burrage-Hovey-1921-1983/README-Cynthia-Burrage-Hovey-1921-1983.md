@@ -14,6 +14,8 @@
 | **Spouses** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) (married 28 June 1941; divorced 1952)<br>Chandler Hovey Jr |
 | **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Cynthia-Burrage-Hovey-1921-1983)
+
 ## Family and early life
 
 Cynthia Sewall Burrage was born on 20 November 1921, in Boston according to most of the family trees that record her.[1][5][6][8] She was the daughter of Albert Cameron Burrage Jr and Anne Bell Shirk, and a granddaughter of the industrialist and attorney [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md).[1][10][11] Her mother was a founder of The Herb Society of America, which was established at the family's home in Ipswich in 1933.[10]

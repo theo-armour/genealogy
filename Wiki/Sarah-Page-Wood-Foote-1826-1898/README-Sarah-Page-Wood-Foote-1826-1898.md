@@ -12,6 +12,8 @@ No portrait of her is held in this folder.
 | **Children** | Including Erastus (born about 1850) and [Harriette Cobb](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924) |
 | **Parents** | Wilmot Wood and Emeline Page, according to the family trees |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sarah-Page-Wood-Foote-1826-1898)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/6000000220990842413>

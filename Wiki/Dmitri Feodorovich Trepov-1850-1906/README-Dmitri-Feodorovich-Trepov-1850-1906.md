@@ -18,6 +18,8 @@
 | **Spouse** | Sofia Sergeyevna Blokhina (1862–1915) |
 | **Children** | Sofia, Tatyana, Maria |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Dmitri%20Feodorovich%20Trepov-1850-1906)
+
 ## Early career
 
 Trepov was educated in the Page Corps and served in the Life Guards Horse Regiment. In the [Russo-Turkish War](https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878)) of 1877 he served under General Gurko and was wounded in the leg at the Battle of Telish.[1]

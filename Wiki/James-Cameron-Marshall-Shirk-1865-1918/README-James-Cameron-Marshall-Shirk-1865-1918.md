@@ -11,6 +11,8 @@
 | **Children** | [Anne Bell Shirk](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md), later Mrs Albert C. Burrage Jr |
 | **Parents** | [James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md) (1832–1873)<br>[Mary W. Marshall](https://theo-armour.github.io/genealogy/#Wiki/Mary-W-Marshall-Shirk-1833-1910/README-Mary-W-Marshall-Shirk-1833-1910.md) (1833–1910) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Cameron-Marshall-Shirk-1865-1918)
+
 ## Family and early life
 
 He was born in Philadelphia on 23 June 1865, "the son of Commander James W. Shirk, U. S. N.", as the obituary in the *Journal of the American Institute of Architects* put it.[1] His father had commanded Union gunboats on the western rivers in the Civil War and was at the Philadelphia Navy Yard after it.[13] His mother, Mary W. Marshall, was a daughter of James C. Marshall of Erie, Pennsylvania, a lawyer who was president of the Marine National Bank of Erie from 1867.[6]

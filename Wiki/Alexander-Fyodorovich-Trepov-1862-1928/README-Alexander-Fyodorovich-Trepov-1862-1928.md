@@ -20,6 +20,8 @@
 | **Spouse** | Sofia Dmitrievna Kazina |
 | **Children** | Sofia, Yelena |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Fyodorovich-Trepov-1862-1928)
+
 ## Early career
 
 Trepov was born in Kiev and educated in the Page Corps. He served in the Life Guards Jäger Regiment, went onto the reserve in 1889, and joined the Ministry of the Interior as an official for special assignments. He owned 2,922 *desyatinas* of land (about 3,200 hectares) in Pereyaslav Uyezd of Poltava Governorate, and was marshal of the nobility of that district from 1892 to 1896.[1]

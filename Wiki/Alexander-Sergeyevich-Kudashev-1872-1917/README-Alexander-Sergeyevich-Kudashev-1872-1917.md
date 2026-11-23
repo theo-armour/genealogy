@@ -20,6 +20,8 @@
 | **Father** | Prince Sergei Sergeyevich Kudashev (1834–1915) |
 | **House** | Kudashev |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Sergeyevich-Kudashev-1872-1917)
+
 ## Family background
 
 Alexander Sergeyevich Kudashev was born in St. Petersburg on 9 (21) February 1872.[1][2] He was the son of Prince Sergei Sergeyevich Kudashev (1834–1915), a retired colonel who managed the Moscow branch of the State Noble Land Bank and wrote a history of Alexander I.[2][3][4] His mother is not named in the sources consulted. Through his father he was a grandson of Prince Sergei Danilovich Kudashev, Vice-Governor of Kiev. He was a nephew of Prince Vladimir Sergeyevich Kudashev and a first cousin of the philosopher Nikolai Berdyaev, whose mother Alexandra was his father's sister.[3][4]

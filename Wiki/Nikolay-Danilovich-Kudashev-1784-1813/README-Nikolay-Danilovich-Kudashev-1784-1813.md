@@ -23,6 +23,8 @@
 | **Father** | Prince Daniil (Danila) Ivanovich Kudashev |
 | **Mother** | Yekaterina Sergeyevna, born Princess Baratova |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolay-Danilovich-Kudashev-1784-1813)
+
 ## Family background
 
 Nikolay Danilovich Kudashev was born in 1784 into the Kudashev princely family of Tatar origin. The family traced its descent from Murza Chepai Kudashev, who took part in the defence of Moscow in 1618.[1][2] His father was Colonel Prince Daniil (Danila) Ivanovich Kudashev, who received a large grant of land from Catherine II. Reznik's local history of Beletskovka, near Kremenchuk, calls Nikolay his eldest son.[2][4] His mother was Princess Yekaterina Sergeyevna, born Baratova (born 1764).[2][5] Sources disagree on his father's dates: 1737–c. 1840 (Kobyakov, VGD), 1737–1816 (Reznik) and 1760–1845 (Russian Wikipedia, Geni).[2][4][5]

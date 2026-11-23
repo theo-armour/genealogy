@@ -17,6 +17,8 @@
 | **Spouse** | Yevgenia Alexeyevna Siritsa (1858–1904) |
 | **Children** | Fyodor (1883–1915), Boris (1885–1964) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir%20Fyodorovich%20Trepov-1863-1918)
+
 ## Career
 
 Trepov graduated from the Imperial Alexander Lyceum in 1881 and entered the Ministry of the Interior.[1]

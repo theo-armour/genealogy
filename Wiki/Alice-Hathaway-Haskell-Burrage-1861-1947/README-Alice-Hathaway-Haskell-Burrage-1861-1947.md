@@ -10,6 +10,8 @@
 | **Children** | [Albert Cameron Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>Francis Hathaway (1888–1911)<br>Russell (1889–1957)<br>Elizabeth Alice, later Mrs Harold L. Chalifoux (1895–1987) |
 | **Parents** | [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md)<br>[Elizabeth (Russell) Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alice-Hathaway-Haskell-Burrage-1861-1947)
+
 ## Family and early life
 
 Alice Hathaway Haskell was the daughter of Francis Hathaway Haskell and Elizabeth (Russell) Haskell. Her husband named both parents in his Harvard class report and described the family as "of Roxbury, Mass." at the time of the marriage.[2] Her father was a son of [Elisha Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md) of New Bedford and his second wife, Alice Hathaway. The *Chronicles of the Haskell Family* (1943) lists their children as Thomas H., Frederick E., Alice H. (who married a Cunningham), Francis H. ("m Elizabeth Russell"), Charlotte G. and Caroline H., who married George Lee.[7] Caroline Watts Haskell and George Cabot Lee were the parents of Alice Hathaway Lee (1861–1884), the first wife of Theodore Roosevelt.[8] If these sources are right, Alice Haskell Burrage and Alice Lee Roosevelt were first cousins.

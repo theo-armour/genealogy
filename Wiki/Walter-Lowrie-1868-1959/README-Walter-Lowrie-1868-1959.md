@@ -15,6 +15,8 @@
 | **Children** | None |
 | **Parents** | Rev. Samuel Thompson Lowrie<br>Elizabeth Albertine Dickson |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Walter-Lowrie-1868-1959)
+
 ## Family and education
 
 Walter Lowrie was born in Philadelphia on 26 April 1868, the son of Samuel Thompson Lowrie, a clergyman, and Elizabeth Albertine Dickson.[1] Find a Grave links him to three sisters, Sarah Dickson Lowrie (1870–1957), Harriet Lowrie Derr and Marjorie Howard Lowrie Sage, and to a half-sister, Rachel Lowrie (1861–1957).[5]

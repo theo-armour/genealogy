@@ -15,6 +15,8 @@
 | **Relatives** | Princess Maria (Myra) Kudasheva Armour (sister)<br>Norman Armour (brother-in-law)<br>Count Fyodor Maximilianovich von Nieroth (maternal uncle) |
 | **House** | Kudashev |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Sergeyevich-Kudashev-1901-1991)
+
 ## Early life in Russia and Italy
 
 Sergei Sergeyevich Kudashev was born in Saint Petersburg on 15 October (or 20 October in some genealogical records) 1901.\[1\]\[2\] Through his father, Prince Sergei Vladimirovich Kudashev (1863–1933)—a *Kammerherr* (Chamberlain) at the court of Emperor Nicholas II and prominent corporate director—he belonged to the Kiev Governorate branch of the Kudashev princely dynasty.\[3\]\[5\] Through his mother, Countess Vera Maximilianovna von Nieroth (1874–1920), a former Maid of Honor (*freilina*) to Empress Alexandra Feodorovna, he was connected to the Baltic-German von Nieroth aristocracy and the Russian Trepov administrative family.\[1\]\[6\]

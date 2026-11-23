@@ -13,6 +13,8 @@ No portrait of him is held in this folder.
 | **Children** | By Sophia: Maria Louise, Elizabeth Wright (died young), Georgie Claiborne, [Ida](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md)<br>One tree also lists Georgie, Claibourne and Walter in a separate family |
 | **Parents** | Isaac Watkins and Maria Toncray, according to one tree |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Claiborne-Watkins-1815-1872)
+
 ## Genealogy
 
 * Geni: <https://www.geni.com/family-tree/index/6000000220990842611>

@@ -20,6 +20,8 @@ She belongs in this family history through her eldest daughter, [Olga Erikovna v
 | **Father** | Valerian Gavrilovich Karnovich (d. 1891) |
 | **Mother** | Olga Vasilyevna Meszaros (d. 1919) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Valerianovna-Paley-1865-1929)
+
 ## Family background
 
 Olga Valerianovna Karnovich was born in St. Petersburg.[2][3] Her father, Valerian Gavrilovich Karnovich, was a chamberlain of the Imperial court and an official of the Ministry of State Property; he died on 17 April 1891.[1][2][3] Her mother, Olga Vasilyevna Meszaros, was of Hungarian and German descent and died in August 1919.[1][2][6] The Karnovich family held the village of Pyatnitskaya Gora in Yaroslavl Governorate.[3]

@@ -15,6 +15,8 @@
 | **Children** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) (1920–1978) |
 | **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>[Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Sr-1887-1982)
+
 ## Family and early life
 
 Norman Armour was born at Brighton, England, on 14 October 1887, "of American parents" in the words of the State Department's *Register*.[2][4] His parents were George Allison Armour of Chicago and Harriette Cobb Foote.[1][9][10] His paternal grandfather was the Scottish-born Chicago grain merchant [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md).[13]

@@ -15,6 +15,8 @@
 | **Children** | John William (1851–1865)<br>[George Allison](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>William (1858–1888)<br>[Allison Vincent](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md) (1863–1941)<br>Mary Greenlee, Mrs Francis Meredyth Whitehouse (1868–1958) |
 | **Parents** | Archibald Armour (1782–1828) and Ann Greenlees (1785–1859), according to the family trees (see Open questions) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Armour-1812-1881)
+
 ## Family and early life
 
 George Armour was born at Campbeltown, Argyll, on 24 April 1812 and baptised there on 28 April, according to the family trees, two of which cite Scottish birth and baptism indexes.[11][12] The memorial tablet placed by his widow in the Second Presbyterian Church of Chicago says "Born in Campbeltown, Scotland".[3]

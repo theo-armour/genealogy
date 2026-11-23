@@ -15,6 +15,8 @@
 | **Children** | None recorded in the sources read |
 | **Parents** | Gardiner Martin Lane<br>Emma Louise Gildersleeve |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Katherine-Weems-1899-1989)
+
 ## Family and early life
 
 Katharine Ward Lane was born in Boston on 22 February 1899, the only child of Gardiner Martin Lane and Emma Louise Gildersleeve.[1][2][4] Her father was a financier and the president of the board of trustees of the Museum of Fine Arts, Boston.[1][5] Her mother's father was the classical scholar Basil Lanneau Gildersleeve.[1] She was named after her father's sister, Katharine Ward Lane, a watercolourist who died in 1893.[1]

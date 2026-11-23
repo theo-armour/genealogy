@@ -16,6 +16,8 @@
 | **Children** | None |
 | **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>[Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (1826–1898) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Allison-Vincent-Armour-1863-1941)
+
 ## Family and early life
 
 Allison Vincent Armour was born in Chicago on 18 March 1863.[3][4] His father, George Armour, was in the words of the Yale *Obituary Record* "a merchant in Chicago, president Chicago Art Institute and Board of Trade"; his mother was Barbara Allison, "daughter of William Allison of Millbank, Scotland, and Chicago".[3] He was the fourth of five children named in the family trees: John William (1851–1865), George Allison (1856–1936), William (1858–1888), himself, and Mary Greenlee (1868–1958), later Mrs [Francis Meredyth Whitehouse](https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md).[3][12]

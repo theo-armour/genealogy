@@ -15,6 +15,8 @@
 | **Children** | Elizabeth Rebecca (Mrs Moorhead Wright), [Sophia](https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md) (Mrs James M. Curran, later Mrs [George C. Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md)), Ida (Mrs William Hunter), and five others who died young (see Open questions) |
 | **Parents** | [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md) (1771–1843)<br>Elizabeth Savin |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=William-S-Fulton-1795-1844)
+
 ## Family and education
 
 William Savin Fulton was born in Cecil County, on the Eastern Shore of Maryland, on 2 June 1795.[2][3][4] His father, [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md), was born in Ireland and came to Maryland as a young man; his mother, Elizabeth Savin, was a native of Maryland.[2][3] A parish history of 1900 names two sons and a daughter of the marriage who were later "well-known citizens" of Little Rock: William, Dr John Fulton and Jane.[5]

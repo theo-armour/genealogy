@@ -18,6 +18,8 @@ No portrait of him is held in this folder.
 | **Children** | George (1884–1893)<br>Paul (1886–1887)<br>[Norman](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Barbara](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (1889–1981)<br>William (1892–1958)<br>Allison (born 1896)<br>Edmund (1899–1912) |
 | **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>[Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (1826–1898) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Allison-Armour-1856-1936)
+
 ## Family and early life
 
 George Allison Armour was born in Chicago on 27 March 1856. He gave that date and place himself, on oath, in a passport application of January 1920, and the family trees agree.[1][9][12][13] He was the second son of George Armour, a Scottish-born contractor and grain-elevator proprietor, and Barbara Allison.[1][9][12]

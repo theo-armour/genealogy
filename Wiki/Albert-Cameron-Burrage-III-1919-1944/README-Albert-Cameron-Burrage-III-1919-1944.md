@@ -17,6 +17,8 @@
 | **Awards** | Croix de Guerre (1939–1945); Purple Heart |
 | **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-III-1919-1944)
+
 ## Family and early life
 
 Albert Cameron Burrage III was born on 14 February 1919.[1][5][6] He was the son of Albert Cameron Burrage Jr and Anne Bell Shirk, and a grandson of the Boston attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md).[1] He had two sisters, Anne Bell and [Cynthia Sewall](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983).[1]

@@ -17,7 +17,7 @@ It's one undated file, updated in place; git keeps the earlier versions. Started
 2 TYPE Wiki
 ```
 
-When a biography is added, add the person to the tree with this line. When a Wiki folder is renamed, change the line to match. The GEDCOM Viewer uses it to link people to their biographies, even when the tree's years differ from the folder name. `REFN` is a standard GEDCOM tag, so other programs keep it, showing it at most as a reference number.
+When a biography is added, add the person to the tree with this line, and give the biography a `🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=<folder>)` line before its first section, as the others have. When a Wiki folder is renamed, change the line to match. The GEDCOM Viewer uses it to link people to their biographies, even when the tree's years differ from the folder name. `REFN` is a standard GEDCOM tag, so other programs keep it, showing it at most as a reference number.
 
 ## Start here
 

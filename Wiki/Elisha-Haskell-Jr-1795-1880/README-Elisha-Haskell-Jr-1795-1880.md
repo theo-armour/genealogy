@@ -11,6 +11,8 @@
 | **Children** | By Sally: George Lewis (about 1822–1860)<br>By Alice: Alice Hathaway, later Mrs Cunningham; [Francis Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md); Caroline Watts, later Mrs George Cabot Lee; Thomas Hathaway; Frederick E.; Charlotte, later Mrs Bullard |
 | **Parents** | Eli Haskell (born 1775)<br>Achsah Nye of Oakham |
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Elisha-Haskell-Jr-1795-1880)
+
 ## Family and early life
 
 Elisha Haskell was a son of Eli Haskell and Achsah Nye.[7][8] His father was born at Middleborough on 12 May 1775, the son of Lt. Elisha Haskell and his wife Anna.[9] The Middleborough records enter "Mr. Eli Haskell of Middleborough & Miss Achsa Nye, of Oakham" under 16 September 1797, and the Oakham records give the intention of "Eli of Midleborough and Achse Nye" on 8 October 1797.[9][10]

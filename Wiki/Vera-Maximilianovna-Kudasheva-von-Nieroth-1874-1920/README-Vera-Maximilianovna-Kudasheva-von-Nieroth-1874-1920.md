@@ -4,6 +4,8 @@
 
 ---
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vera-Maximilianovna-Kudasheva-von-Nieroth-1874-1920)
+
 ## Biographical Overview
 
 | | |
