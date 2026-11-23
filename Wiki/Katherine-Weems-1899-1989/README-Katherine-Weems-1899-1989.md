@@ -1,5 +1,7 @@
 # Katharine Lane Weems
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Katherine-Weems-1899-1989)
+
 ![Katharine Lane as a girl](images/Katharine-Lane-Weems.jpg)
 
 | `Katharine-Lane-Weems.jpg` | Sepia studio photograph of a girl or young woman facing the camera, in a tall feathered hat, a fur collar and a dark coat, with a white fur muff. A photographer's signature runs up the lower right edge; it is not clearly legible. Undated. | Source not recorded. Probably from the Katharine Lane Weems papers at the Archives of American Art; see Open questions.[1] |
@@ -14,8 +16,6 @@
 | **Spouse** | Fontaine Carrington Weems (married 1947) |
 | **Children** | None recorded in the sources read |
 | **Parents** | Gardiner Martin Lane<br>Emma Louise Gildersleeve |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Katherine-Weems-1899-1989)
 
 ## Family and early life
 

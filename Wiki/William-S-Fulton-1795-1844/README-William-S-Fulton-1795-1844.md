@@ -1,5 +1,7 @@
 # William Savin Fulton
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=William-S-Fulton-1795-1844)
+
 ![William S. Fulton](images/william-fulton.jpg)
 
 | `william-fulton.jpg` | William S. Fulton (1795–1844). Oval bust portrait in left profile, in a dark coat, high collar and bow cravat. Wikimedia Commons dates it to about 1836 and gives the artist as unknown.[11] | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WSFulton.jpg), which credits the Encyclopedia of Arkansas |
@@ -14,8 +16,6 @@
 | **Spouse** | Matilda Frances Nowland (married 9 February 1823 at Florence, Alabama) (see Open questions for the name) |
 | **Children** | Elizabeth Rebecca (Mrs Moorhead Wright), [Sophia](https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md) (Mrs James M. Curran, later Mrs [George C. Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md)), Ida (Mrs William Hunter), and five others who died young (see Open questions) |
 | **Parents** | [David Fulton](https://theo-armour.github.io/genealogy/#Wiki/David-Fulton-1771-1843/README-David-Fulton-1771-1843.md) (1771–1843)<br>Elizabeth Savin |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=William-S-Fulton-1795-1844)
 
 ## Family and education
 

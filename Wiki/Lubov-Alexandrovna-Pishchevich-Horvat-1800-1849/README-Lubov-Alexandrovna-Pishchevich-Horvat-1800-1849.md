@@ -1,5 +1,7 @@
 # Lubov Alexandrovna Horvat, born Pishchevich (1800–1849) ~ Любовь Александровна Хорват, урождённая Пищевич
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849)
+
 No portrait of her is held in this folder.
 
 **Lubov Alexandrovna Horvat**, born **Pishchevich** (Russian: Любовь Александровна Хорват, урождённая Пищевич; 1800 – 13 November 1849), is recorded on Geni as the wife of [Nikolai Antonovich Horvat](https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Antonovich-Horvat-1797-unknown/README-Nikolai-Antonovich-Horvat-1797-unknown.md) and the mother of [Princess Olga Nikolaevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md). That would make her my great-great-great-grandmother, and a great-great-grandmother of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1][2] Everything here comes from Geni. No record naming her as Olga's mother has been seen.
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouse** | [Nikolai Antonovich Horvat](https://theo-armour.github.io/genealogy/#Wiki/Nikolai-Antonovich-Horvat-1797-unknown/README-Nikolai-Antonovich-Horvat-1797-unknown.md) (born 1797; married 28 April 1821, Revovka, Yekaterinoslav Governorate)[2] |
 | **Children** | Including Nikolai (born 1826), Alexander (born 1828), Lev (1829), Mikhail (born 1833), Leonid (1834–1881), Fyodor (about 1835–1860), Viktor (born 1835) and [Olga](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md) (1840–1907)[2] |
 | **Parents** | Of the Pishchevich family; not set out here (see Open questions) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849)
 
 ## Genealogy
 

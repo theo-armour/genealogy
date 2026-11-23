@@ -1,5 +1,7 @@
 # Sarah Page Wood Foote (1826–1898)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sarah-Page-Wood-Foote-1826-1898)
+
 No portrait of her is held in this folder.
 
 **Sarah Page Wood Foote** (3 March 1826 – 22 October 1898) was born in Maine and married the Wiscasset lawyer [Erastus Foote Jr](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md). The family moved to Chicago in 1868, and she died there 30 years later. She was the mother of [Harriette Cobb Foote Armour](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) and Theo Armour's great-great-grandmother.[1][2][3]
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouse** | [Erastus Foote Jr](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md) (1821–1893) |
 | **Children** | Including Erastus (born about 1850) and [Harriette Cobb](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924) |
 | **Parents** | Wilmot Wood and Emeline Page, according to the family trees |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sarah-Page-Wood-Foote-1826-1898)
 
 ## Genealogy
 

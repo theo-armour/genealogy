@@ -1,5 +1,7 @@
 # Allison Vincent Armour
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Allison-Vincent-Armour-1863-1941)
+
 ![Allison Armour and Cornelius Vanderbilt, Bain News Service](images/allison-armour.jpg)
 
 | `allison-armour.jpg` | Bain News Service photograph, Library of Congress call number LC-B2-3975-9, dated by the Library "between ca. 1915 and ca. 1920". Three men in yachting caps and double-breasted coats stand in the foreground, with two older men behind them. The caption written on the negative reads "3975-9 Allison Armour x Cornelius Vanderbilt". It does not say which of the men is Armour, and the Library notes that the title comes from unverified data supplied by the Bain News Service.[2] | [Library of Congress via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Allison,_Armour,_Cornelius_Vanderbilt_LOC_14778876346.jpg) |
@@ -15,8 +17,6 @@
 | **Spouse** | Anne Louise Kelley (married 10 December 1885; died 3 April 1890) |
 | **Children** | None |
 | **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>[Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (1826–1898) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Allison-Vincent-Armour-1863-1941)
 
 ## Family and early life
 

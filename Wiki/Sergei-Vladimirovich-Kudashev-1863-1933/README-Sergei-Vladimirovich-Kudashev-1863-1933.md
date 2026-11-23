@@ -1,5 +1,7 @@
 # Prince Sergei Vladimirovich Kudashev
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Vladimirovich-Kudashev-1863-1933)
+
 ![Prince Sergei Vladimirovich Kudashev at the 1903 costume ball in the Winter Palace](images/1903-ball-sergei-kudashev.jpeg)
 
 | `1903-ball-sergei-kudashev.jpeg` | Prince Sergei Vladimirovich Kudashev at the costume ball in the Winter Palace, February 1903. Public domain.[10] | [Source](https://commons.wikimedia.org/wiki/File:1903_ball_-_Serg.Vl._Kudashev.jpeg) |
@@ -20,8 +22,6 @@
 | **Father** | Prince Vladimir Sergeyevich Kudashev (1833–1871) |
 | **Mother** | [Princess Olga Nikolaevna Horvath](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md) (1840–1907) |
 | **House** | Kudashev |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Vladimirovich-Kudashev-1863-1933)
 
 ## Family background and early life
 

@@ -1,5 +1,7 @@
 # Erich Gerhard von Pistohlkors (1853–1935) ~ Эрик Августович фон Пистолькорс
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erich-Gerhard-von-Pistohlkors-1853-1935)
+
 No portrait of him is held in this folder.
 
 **Erich Gerhard von Pistohlkors** (Russian: Эрик Августович фон Пистолькорс; 25 November 1853 – 8 November 1935) was a Russian officer from a Baltic-German noble family. He served as an aide-de-camp of Grand Duke Vladimir Alexandrovich and reached the rank of major general.[1][2][3] In 1884 he married Olga Valerianovna Karnovich, who left him for Grand Duke Paul Alexandrovich and became [Princess Paley](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md). Their daughter [Olga Erikovna](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) became the second wife of Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md), so he was a great-grandfather of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1][2]
@@ -12,8 +14,6 @@ No portrait of him is held in this folder.
 | **Children** | Alexander (1885–1944), Olga (1886–1887), [Olga](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) (1888–1963), Marianna (1890–1976)[1][2] |
 | **Parents** | [August Friedrich Woldemar von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/August-Friedrich-Woldemar-von-Pistohlkors-1822-1886/README-August-Friedrich-Woldemar-von-Pistohlkors-1822-1886.md) (1822–1886)<br>[Emilie Natalie von Harder](https://theo-armour.github.io/genealogy/#Wiki/Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894/README-Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894.md) (1829–1894) |
 | **Rank** | Major general[1][3] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erich-Gerhard-von-Pistohlkors-1853-1935)
 
 ## Genealogy
 

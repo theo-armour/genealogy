@@ -1,5 +1,7 @@
 # Elisha Haskell
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Elisha-Haskell-Jr-1795-1880)
+
 **Elisha Haskell** (about 1798 – 8 October 1880) was a Boston auctioneer with family roots in Middleborough and New Bedford, Massachusetts. For about twenty years he was a partner in the Boston auction house of Coolidge & Haskell. His second wife, Alice Russell Hathaway, was a daughter of the New Bedford merchant Humphrey Hathaway, and in later life the couple lived in her father's house at the Head of the River in Acushnet, where his funeral was held.[1][2][3][4] Through his daughter Caroline he was the grandfather of Alice Hathaway Lee, the first wife of Theodore Roosevelt.[4][5] His year of birth is uncertain (see Open questions). Through his son [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md) and his granddaughter [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) he was Theo Armour's maternal great-great-great-grandfather.[6][7]
 
 | **Elisha Haskell** | |
@@ -10,8 +12,6 @@
 | **Spouses** | Sally (Sarah) Tobey (married 17 October 1820; died 10 April 1823)<br>Alice Russell Hathaway (intention 1 July 1826; died 17 April 1880) |
 | **Children** | By Sally: George Lewis (about 1822–1860)<br>By Alice: Alice Hathaway, later Mrs Cunningham; [Francis Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md); Caroline Watts, later Mrs George Cabot Lee; Thomas Hathaway; Frederick E.; Charlotte, later Mrs Bullard |
 | **Parents** | Eli Haskell (born 1775)<br>Achsah Nye of Oakham |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Elisha-Haskell-Jr-1795-1880)
 
 ## Family and early life
 

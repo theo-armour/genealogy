@@ -1,5 +1,7 @@
 # Francis Meredyth Whitehouse
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Meredyth-Whitehouse-1848-1938)
+
 ![Francis Meredyth Whitehouse](images/Francis_M._Whitehouse_architect.jpg)
 
 | `Francis_M._Whitehouse_architect.jpg` | Francis M. Whitehouse. Head-and-shoulders photograph of a man in profile facing left, with grey hair and side-whiskers, in a dark jacket and a patterned waistcoat or shirt. The copy shows blotches of colour and appears to have been colourised from a black-and-white original. Undated. | Source not recorded. The file has the same name as the lead image of the Wikipedia article, which gives no photographer or source.[1] |
@@ -14,8 +16,6 @@
 | **Spouse** | Mary Greenlee Armour (died 1958; see Open questions for her year of birth) |
 | **Children** | Meredyth Whitehouse (see Open questions) |
 | **Parents** | Rt. Rev. Henry John Whitehouse (1803–1874)<br>Evelina Harriet Bruen (1806–1864) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Meredyth-Whitehouse-1848-1938)
 
 ## Family and early life
 

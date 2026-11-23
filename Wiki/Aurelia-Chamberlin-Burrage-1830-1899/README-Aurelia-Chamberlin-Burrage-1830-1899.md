@@ -1,5 +1,7 @@
 # Aurelia Chamberlin Burrage (1830–1899)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Aurelia-Chamberlin-Burrage-1830-1899)
+
 No portrait of her is held in this folder.
 
 **Aurelia Chamberlin Burrage** (1830? – 1899?) was the second wife of [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md). She was the mother of the Boston industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md). In 1903–1904 her daughter-in-law [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) built Trinity Episcopal Church in Redlands, California, as her memorial. She was Theo Armour's great-great-grandmother.[1][2][3] Her birth and death dates come from a single family tree and have not been confirmed.
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouse** | [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md) (married 1 January 1851; he died 1876) |
 | **Children** | Cora Chamberlin (born 1851)<br>William Henry (1854–1854)<br>Martha Bayley (1855–1855)<br>Charles Dana (born 1857)<br>[Albert Cameron](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931) |
 | **Parents** | William Chamberlin (Geni); William Chamberlain and Betsy Cameron (one tree) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Aurelia-Chamberlin-Burrage-1830-1899)
 
 ## Genealogy
 

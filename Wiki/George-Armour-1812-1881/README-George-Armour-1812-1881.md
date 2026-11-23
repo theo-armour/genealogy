@@ -1,5 +1,7 @@
 # George Armour
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Armour-1812-1881)
+
 ![George Armour](images/george-armour.png)
 
 | `george-armour.png` | George Armour (1812–1881). Half-length photographic portrait of an elderly bearded man in a dark coat, seen in left profile, reproduced as a halftone. Wikimedia Commons describes it as a reproduction from *The Second Presbyterian Church of Chicago: June 1st, 1842, to June 1st, 1892* (Chicago, 1892), and dates the photograph to about the 1870s; that book lists a portrait of George Armour among its plates.[2][3] | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:George-armour-photo-second-presbyterian-church-of-chicago.png) |
@@ -14,8 +16,6 @@
 | **Spouse** | [Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (married 28 or 29 August 1850; see Open questions) |
 | **Children** | John William (1851–1865)<br>[George Allison](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>William (1858–1888)<br>[Allison Vincent](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md) (1863–1941)<br>Mary Greenlee, Mrs Francis Meredyth Whitehouse (1868–1958) |
 | **Parents** | Archibald Armour (1782–1828) and Ann Greenlees (1785–1859), according to the family trees (see Open questions) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Armour-1812-1881)
 
 ## Family and early life
 

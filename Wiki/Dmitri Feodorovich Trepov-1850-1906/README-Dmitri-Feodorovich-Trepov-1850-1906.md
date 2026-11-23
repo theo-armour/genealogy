@@ -1,5 +1,7 @@
 # General Dmitri Fyodorovich Trepov
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Dmitri%20Feodorovich%20Trepov-1850-1906)
+
 ![Dmitri Fyodorovich Trepov, 1905](images/dmitri-trepov-1905.jpg)
 
 | `dmitri-trepov-1905.jpg` | Dmitri Fyodorovich Trepov, Governor-General of St. Petersburg, 1905. Unknown photographer. Public domain.[3] | [Source](https://commons.wikimedia.org/wiki/File:Dmitry_Fyodorovich_Trepov,_1905.jpg) |
@@ -17,8 +19,6 @@
 | **Offices** | Chief of police, Moscow (1896–1905)<br>Governor-General of St. Petersburg (January–October 1905)<br>Deputy Minister of the Interior (from May 1905)<br>Palace Commandant (from 26 October 1905) |
 | **Spouse** | Sofia Sergeyevna Blokhina (1862–1915) |
 | **Children** | Sofia, Tatyana, Maria |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Dmitri%20Feodorovich%20Trepov-1850-1906)
 
 ## Early career
 

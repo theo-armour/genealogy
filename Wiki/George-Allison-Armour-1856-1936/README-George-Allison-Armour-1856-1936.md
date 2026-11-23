@@ -1,5 +1,7 @@
 # George Allison Armour
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Allison-Armour-1856-1936)
+
 ![New York Times death notice, June 1936](images/george%20allison%20armour%20ny%20times%2006%2009%201936.png)
 
 | `george allison armour ny times 06 09 1936.png` | Clipping of a newspaper "Deaths" column: "ARMOUR—George Allison, on June 8, at his home in Princeton, New Jersey, in his eighty-first year. Funeral, Trinity Church, Princeton, Wednesday, June 10, 11:30 A. M. Please omit flowers." The file name attributes it to the *New York Times* of 9 June 1936; the clipping itself shows neither the newspaper's name nor the date.[2] | Family collection of newspaper clippings |
@@ -17,8 +19,6 @@ No portrait of him is held in this folder.
 | **Spouse** | [Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924; married 27 April 1882) |
 | **Children** | George (1884–1893)<br>Paul (1886–1887)<br>[Norman](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Barbara](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (1889–1981)<br>William (1892–1958)<br>Allison (born 1896)<br>Edmund (1899–1912) |
 | **Parents** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (1812–1881)<br>[Barbara Allison](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Allison-Armour-1826-1898/README-Barbara-Allison-Armour-1826-1898.md) (1826–1898) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Allison-Armour-1856-1936)
 
 ## Family and early life
 

@@ -1,5 +1,7 @@
 # Albert Cameron Burrage III
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-III-1919-1944)
+
 ![American Field Service ambulance drivers arriving at New York, 18 July 1940](images/ghows_image-WL-96611be9-20be-4494-a06a-7c499e2dab99.webp)
 
 | `ghows_image-WL-96611be9-20be-4494-a06a-7c499e2dab99.webp` | Ambulance drivers arriving at New York aboard the liner *Manhattan* from France, 18 July 1940. The caption names them, left to right, as Charles L. Safford, Peter Jackson, King Stone, Albert C. Burrage III and H. Smith, which makes Burrage the fourth from the left. Associated Press photograph.[2] | [MetroWest Daily News](https://www.metrowestdailynews.com/picture-gallery/entertainment/2020/07/16/photos-today-in-history-july/66197863007/) |
@@ -16,8 +18,6 @@
 | **Rank** | Captain (service number O-414488) |
 | **Awards** | Croix de Guerre (1939–1945); Purple Heart |
 | **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-III-1919-1944)
 
 ## Family and early life
 

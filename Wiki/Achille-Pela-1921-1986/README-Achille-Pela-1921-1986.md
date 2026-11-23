@@ -1,5 +1,7 @@
 # Achille Pelà (1921–1986)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Achille-Pela-1921-1986)
+
 No portrait of him is held in this folder.
 
 **Achille Pelà** (7 November 1921 – 1986) was an Italian translator, born in Milan. In 1955 he married Olga Sergeyevna Kudasheva, the only child of Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) and his second wife, [Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md). He was the father of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1][2][3] Almost nothing else about him is recorded here.
@@ -12,8 +14,6 @@ No portrait of him is held in this folder.
 | **Children** | Alexandra (born 1956), [Sergio](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md) (born 1957), Olga (born 1964)[1] |
 | **Parents** | Not recorded |
 | **Occupation** | Translator[2] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Achille-Pela-1921-1986)
 
 ## Genealogy
 

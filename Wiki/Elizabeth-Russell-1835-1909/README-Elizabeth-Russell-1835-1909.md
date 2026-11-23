@@ -1,5 +1,7 @@
 # Elizabeth Russell Haskell
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Elizabeth-Russell-1835-1909)
+
 **Elizabeth Russell** (December 1835 or 1837 – 1909), known after her marriage as Mrs Francis H. Haskell, was the wife of the Massachusetts shipmaster [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md). Most sources say she was born in England. She was married by 1857, lived for about ten years at Canton and Hong Kong, where her children were born, and spent her long widowhood in Roxbury and Boston, Massachusetts.[1][2][3][4] Her dates of birth and death are both in conflict (see Open questions). She was the mother of [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) and Theo Armour's maternal great-great-grandmother.[5]
 
 | **Elizabeth Russell Haskell** | |
@@ -9,8 +11,6 @@
 | **Spouse** | [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md) (married by 1857; died 1868 according to family trees) |
 | **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
 | **Parents** | Robert Russell (Geni)<br>Mother not established (see Open questions) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Elizabeth-Russell-1835-1909)
 
 ## Family and early life
 

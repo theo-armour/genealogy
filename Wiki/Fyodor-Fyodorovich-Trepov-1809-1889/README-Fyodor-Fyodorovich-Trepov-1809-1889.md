@@ -1,5 +1,7 @@
 # General Fyodor Fyodorovich Trepov (senior)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1809-1889)
+
 ![Fyodor Fyodorovich Trepov, 1869](images/fyodor-trepov.jpg)
 
 | `fyodor-trepov.jpg` | Fyodor Fyodorovich Trepov, 1869. Photograph by Charles Bergamasco. Public domain.[3] | [Source](https://commons.wikimedia.org/wiki/File:Trepov_F_F_old.jpg) |
@@ -17,8 +19,6 @@
 | **Offices** | Chief of police, Warsaw (1860–1861)<br>Police-master general, Kingdom of Poland (1863–1866)<br>Chief of police, St. Petersburg (1866–1873)<br>City governor of St. Petersburg (1873–1878) |
 | **Spouse** | Vera Vasilyevna Lukashevich (1817 or 1821 – 1866) |
 | **Children** | Anastasia, Yevgenia, Yulia, Sofia, Fyodor, Dmitri, Yelizaveta, Alexander, Vladimir |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1809-1889)
 
 ## Origins
 

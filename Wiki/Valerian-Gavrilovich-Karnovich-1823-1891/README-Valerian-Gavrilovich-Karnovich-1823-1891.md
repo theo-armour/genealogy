@@ -1,5 +1,7 @@
 # Valerian Gavrilovich Karnovich (1823–1891) ~ Валериан Гаврилович Карнович
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Valerian-Gavrilovich-Karnovich-1823-1891)
+
 No portrait of him is held in this folder.
 
 **Valerian Gavrilovich Karnovich** (Russian: Валериан Гаврилович Карнович; 1 April 1823 – 17 April 1891) was a Russian official and courtier. He rose from a cavalry cornet to the rank of Actual State Councillor in the Ministry of State Property, and held the court rank of chamberlain.[1][2] He was the father of [Princess Olga Paley](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md), and so a great-great-grandfather of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1][2]
@@ -12,8 +14,6 @@ No portrait of him is held in this folder.
 | **Children** | Vladimir (1845–1901), Gavriil (1846–1906), Denis (1849–1908), Lyubov (born 1851), Sergei (1853–1918), a child who died in 1856, and [Olga](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md) (1865–1929)[1] |
 | **Parents** | Gavriil Stepanovich Karnovich (1801–1862)<br>Lyubov Alekseyevna Goryainova (about 1801–1880)[1] |
 | **Rank** | Actual State Councillor; chamberlain[1][2] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Valerian-Gavrilovich-Karnovich-1823-1891)
 
 ## Genealogy
 

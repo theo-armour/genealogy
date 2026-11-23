@@ -1,5 +1,7 @@
 # Anne Bell Shirk Burrage
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Anne-Bell-Burrage-1890-1983)
+
 ![Anne Bell Burrage](images/anne-burrage.jpg)
 
 | `anne-burrage.jpg` | Anne Bell Burrage (born Shirk). The date and photographer are not recorded.[1] | Family / Herb Society of America collections |
@@ -16,8 +18,6 @@
 | **Spouse** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978), married April 1915 |
 | **Children** | [Albert Cameron Burrage III](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md) (1919–1944)<br>Anne Bell (see Open questions)<br>[Cynthia Sewall Burrage Hovey](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983) |
 | **Parents** | [James Carson Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918)<br>[Ida Watkins Shirk](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Anne-Bell-Burrage-1890-1983)
 
 ## Family and early life
 

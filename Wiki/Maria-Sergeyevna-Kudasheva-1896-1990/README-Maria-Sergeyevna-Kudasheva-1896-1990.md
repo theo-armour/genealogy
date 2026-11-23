@@ -1,5 +1,7 @@
 # Princess Maria (Myra) Sergeyevna Kudasheva Armour
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Maria-Sergeyevna-Kudasheva-1896-1990)
+
 **Princess Maria "Myra" Sergeyevna Kudasheva** (later **Myra Koudacheff Armour**; Russian: Княжна Мария Сергеевна Кудашева; 7 April 1895 or 1896 – 15 September 1990) was a Russian-born aristocrat and American diplomatic hostess. The daughter of Imperial Russian courtier Prince Sergei Vladimirovich Kudashev and Countess Vera Maximilianovna von Nieroth, she escaped Petrograd following the 1917 Russian Revolution with the assistance of American diplomat Norman Armour, whom she married in February 1919.[1][2][3] Over a diplomatic career spanning more than three decades, she accompanied her husband to major United States postings in Europe, North America, and South America—including Ottawa, Buenos Aires, Santiago, Madrid, and Caracas—and later donated his diplomatic papers to Princeton University.[3][4][5]
 
 | **Myra Koudacheff Armour** | |
@@ -13,8 +15,6 @@
 | **Father** | Prince Sergei Vladimirovich Kudashev (1863–1933) |
 | **Mother** | Countess Vera Maximilianovna von Nieroth (1874–1920) |
 | **House** | Kudashev |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Maria-Sergeyevna-Kudasheva-1896-1990)
 
 ## Early life in St. Petersburg
 

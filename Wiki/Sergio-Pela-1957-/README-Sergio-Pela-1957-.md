@@ -1,5 +1,7 @@
 # Sergio Pelà
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergio-Pela-1957-)
+
 **Sergio Pelà** (born 1957) is an Italian member of the Kudashev family. He is the son of Achille Pelà (1921–1986) and of Olga Sergeyevna Kudasheva (born 1926), the daughter of Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) and his second wife, [Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md).[1][2][3] His mother was the half-sister of Princess [Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md), my grandmother, so Sergio is my father's half-first cousin. He taught high school in Japan.[1] He keeps family papers and photographs, including views of his grandfather's house in Florence, Villa Granduchessa, which have helped the research into the Koudacheff painting collection.[4]
 
 | **Sergio Pelà** | |
@@ -11,8 +13,6 @@
 | **Mother** | [Olga Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Olga-Sergeyevna-Kudasheva-Pela-1926-unknown/README-Olga-Sergeyevna-Kudasheva-Pela-1926-unknown.md) (born 1926)[1][2] |
 | **Siblings** | Alexandra Pelà; Olga Pelà[1] |
 | **Grandparents** | Prince Sergei Vladimirovich Kudashev (1863–1933)<br>Olga Erikovna von Pistohlkors (1888–1963) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergio-Pela-1957-)
 
 ## Family
 

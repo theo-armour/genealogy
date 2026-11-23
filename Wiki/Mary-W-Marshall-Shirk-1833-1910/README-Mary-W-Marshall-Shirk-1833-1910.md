@@ -1,5 +1,7 @@
 # Mary W. Marshall Shirk (1833–1910)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Mary-W-Marshall-Shirk-1833-1910)
+
 No portrait of her is held in this folder.
 
 **Mary W. Marshall Shirk** (19 August 1833 – 8 August 1910) was the elder daughter of James C. Marshall, a lawyer and banker of Erie, Pennsylvania. She married [Commander James W. Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md), US Navy, and was widowed in 1873. She raised their three children in Philadelphia, among them the architect [J. C. Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md). She was Theo Armour's great-great-grandmother.[1]
@@ -12,8 +14,6 @@ No portrait of her is held in this folder.
 | **Spouse** | [James Whitehill Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Whitehill-Shirk-1832-1873/README-James-Whitehill-Shirk-1832-1873.md) (1832–1873) |
 | **Children** | David Marshall<br>[James C. Marshall](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918)<br>Fannie |
 | **Parents** | James C. Marshall (born 1799)<br>Eliza Weatherbee |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Mary-W-Marshall-Shirk-1833-1910)
 
 ## Genealogy
 

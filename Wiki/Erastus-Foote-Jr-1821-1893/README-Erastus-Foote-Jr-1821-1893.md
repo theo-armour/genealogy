@@ -1,5 +1,7 @@
 # Erastus Foote Jr (1821–1893)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-Jr-1821-1893)
+
 No portrait of him is held in this folder.
 
 **Erastus Foote Jr** (6 September 1821 – 20 February 1893) was a lawyer of Wiscasset, Maine, who moved his family to Chicago in 1868. He was the son of [Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md), Maine's first attorney general. His daughter [Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) married [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md).[1][2] He was Theo Armour's great-great-grandfather.
@@ -13,8 +15,6 @@ No portrait of him is held in this folder.
 | **Spouse** | [Sarah Page Wood](https://theo-armour.github.io/genealogy/#Wiki/Sarah-Page-Wood-Foote-1826-1898/README-Sarah-Page-Wood-Foote-1826-1898.md) (1826–1898) |
 | **Children** | Including Erastus (born about 1850) and [Harriette Cobb](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924), the youngest |
 | **Parents** | [Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md) (1777–1856)<br>Eliza Carlton (Carleton) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-Jr-1821-1893)
 
 ## Genealogy
 

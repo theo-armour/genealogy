@@ -1,5 +1,7 @@
 # Albert Cameron Burrage Sr
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Sr-1859-1931)
+
 ![Albert Cameron Burrage](images/albert-burrage.jpg)
 
 | `albert-burrage.jpg` | Albert Cameron Burrage (1859–1931).[1] | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albert_Cameron_Burrage_(1859%E2%80%931931).jpg) |
@@ -17,8 +19,6 @@
 | **Spouse** | [Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) (married 10 November 1885; died December 1947) |
 | **Children** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>Francis Hathaway (1888–1911)<br>Russell<br>Elizabeth Alice, Mrs Harold L. Chalifoux (1895–1987) |
 | **Parents** | [George Sanderson Burrage](https://theo-armour.github.io/genealogy/#Wiki/George-Sanderson-Burrage-1823-1876/README-George-Sanderson-Burrage-1823-1876.md) (1823–1876)<br>[Aurelia Chamberlin](https://theo-armour.github.io/genealogy/#Wiki/Aurelia-Chamberlin-Burrage-1830-1899/README-Aurelia-Chamberlin-Burrage-1830-1899.md) (also recorded as Amelia C. Chamberlain) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Sr-1859-1931)
 
 ## Family and early life
 

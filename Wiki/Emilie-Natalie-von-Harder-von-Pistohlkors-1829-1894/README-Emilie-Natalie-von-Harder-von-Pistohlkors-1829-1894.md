@@ -1,5 +1,7 @@
 # Emilie Natalie von Pistohlkors, born von Harder (1829–1894)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894)
+
 No portrait of her is held in this folder.
 
 **Emilie Natalie von Pistohlkors**, born **von Harder** (18 February 1829 – 12 April 1894), known as Emily, was born in St. Petersburg into a family of the Baltic-German and Petersburg nobility. She was the wife of [August Friedrich Woldemar von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/August-Friedrich-Woldemar-von-Pistohlkors-1822-1886/README-August-Friedrich-Woldemar-von-Pistohlkors-1822-1886.md) and the mother of Major General [Erich Gerhard von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md), and so a great-great-grandmother of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1] Everything here comes from a single family tree.
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouse** | [August Friedrich Woldemar von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/August-Friedrich-Woldemar-von-Pistohlkors-1822-1886/README-August-Friedrich-Woldemar-von-Pistohlkors-1822-1886.md) (married 25 April 1850, St. Petersburg)[1] |
 | **Children** | Alexander (born 1851), [Erich](https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md) (1853–1935), Ada (born 1855), Helene "Lulla" (born 1857), Emilie (born 1858), Benedikte "Benita" (born 1861)[1] |
 | **Parents** | David Johann von Harder (1797–1871)<br>Nathalie, Baroness von Stieglitz (1805–1882)[1] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894)
 
 ## Genealogy
 

@@ -2,15 +2,21 @@
 
 ## Website
 
-* Create GEDCOM viewer
-* Opening README <name>.mds
+* ~~Create GEDCOM viewer~~ ✅ 2026-11-22 ~ the viewer shows the master tree, and every biography links to it
+* ~~Opening README <name>.mds~~ ✅ 2026-11-22 ~ biographies are now `README-<folder>.md`, all but mine (`Norman-Theo-Armour-III-1947-.md`)
 * Add note about Wiki
 * Update case
 
 ## GEDCOM Viewer
 
+* The online-service exports in `GEDCOM-files/2025/` hold details of living people. The viewer no longer offers them, but they're still in the repo, and the home README links to them through Topola. Decide whether to keep, trim or remove them.
 
-## Opening Prompt README <name>.mds
+## Open Questions
+
+* 2026-11-22: Achille Pelà's parents ~ nothing here names them. Ask Sergio.
+* 2026-11-22: Ida Watkins Shirk ~ daughter or granddaughter of George C. Watkins? The 1900 parish history and a 1915 newspaper disagree.
+
+## Opening Prompt README <name>.mds ✅ done 2026-11-22
 
 The current content management system in index.html automatically opens the README file, followed by text, when a folder is opened. This behavior ensures that the most relevant information is immediately visible to the user.
 

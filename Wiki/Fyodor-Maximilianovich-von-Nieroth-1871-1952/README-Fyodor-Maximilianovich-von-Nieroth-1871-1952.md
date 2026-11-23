@@ -1,5 +1,7 @@
 # Count Fyodor Maximilianovich von Nieroth
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Maximilianovich-von-Nieroth-1871-1952)
+
 ![Count Fyodor Maximilianovich von Nieroth](images/nirod_fedor_maksimilianovic_001_2__large.jpg)
 
 | `nirod_fedor_maksimilianovic_001_2__large.jpg` | Count Fyodor (Theodor) Maximilianovich von Nieroth. The source of this image was not recorded when it was added to this folder. | Source not recorded |
@@ -22,8 +24,6 @@
 | **Children** | Mikhail (1899–1944), Darya (1900–1979) |
 | **Father** | [Count Maximilian von Nieroth](https://theo-armour.github.io/genealogy/#Wiki/Maximilian-Carl-Benedict-von-Nieroth-1846-1914/README-Maximilian-Carl-Benedict-von-Nieroth-1846-1914.md) (1846–1914) |
 | **Mother** | [Anastasia Fyodorovna Trepova](https://theo-armour.github.io/genealogy/#Wiki/Anastasia-Fyodorovna-Trepova-1849-1940/README-Anastasia-Fyodorovna-Trepova-1849-1940.md) (1849–1940) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Maximilianovich-von-Nieroth-1871-1952)
 
 ## Early life
 

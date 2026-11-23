@@ -1,5 +1,7 @@
 # Olga Sergeyevna Pelà, born Princess Kudasheva (1926–?)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Sergeyevna-Kudasheva-Pela-1926-unknown)
+
 No portrait of her is held in this folder.
 
 **Olga Sergeyevna Pelà**, born **Princess Olga Sergeyevna Kudasheva** (1926 – date not recorded), was the only child of Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) and his second wife, [Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md). Her parents were living in Florence when she was born. She married [Achille Pelà](https://theo-armour.github.io/genealogy/#Wiki/Achille-Pela-1921-1986/README-Achille-Pela-1921-1986.md) in 1955. She was the mother of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1][2][3] She was a half-sister of my grandmother, [Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md), and so my father's half-aunt. She has died. The date isn't recorded here.
@@ -12,8 +14,6 @@ No portrait of her is held in this folder.
 | **Children** | Alexandra (born 1956), [Sergio](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md) (born 1957), Olga (born 1964)[1] |
 | **Parents** | Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md) (1863–1933)<br>[Olga Erikovna von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Olga-Ericovna-von-Pistohlkors-1888-1963/README-Olga-Ericovna-von-Pistohlkors-1888-1963.md) (1888–1963) |
 | **Half-siblings** | [Maria (Myra) Sergeyevna](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md) (1896–1990) and [Sergei Sergeyevich](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Sergeyevich-Kudashev-1901-1991/README-Sergei-Sergeyevich-Kudashev-1901-1991.md) (1901–1991), her father's children; Count Alexander von Kreutz (1907–1980), her mother's son[2] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Sergeyevna-Kudasheva-Pela-1926-unknown)
 
 ## Genealogy
 

@@ -1,5 +1,7 @@
 # Harriette Cobb Foote Armour (1859–1924)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Harriette-Cobb-Foote-Armour-1859-1924)
+
 No portrait of her is held in this folder.
 
 **Harriette Cobb Foote Armour** (15 November 1859 – 11 October 1924) was the wife of [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) and the mother of the diplomat [Norman Armour Sr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md). She was born in Maine, a granddaughter of [Erastus Foote](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-1777-1856/README-Erastus-Foote-1777-1856.md), the state's first attorney general. Her family moved to Chicago in 1868. She married there in 1882 and lived at Princeton, New Jersey, from 1895 until her death.[1][2] She was Theo Armour's great-grandmother, his father's father's mother.
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouse** | George Allison Armour (married 27 April 1882) |
 | **Children** | George (1884–1893)<br>Paul (1886–1887)<br>[Norman](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Sr-1887-1982/README-Norman-Armour-Sr-1887-1982.md) (1887–1982)<br>[Barbara](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (1889–1981)<br>William (1892–1958)<br>Allison (born 1896)<br>Edmund (1899–1912) |
 | **Parents** | [Erastus Foote Jr](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md) (1821–1893)<br>[Sarah Page Wood](https://theo-armour.github.io/genealogy/#Wiki/Sarah-Page-Wood-Foote-1826-1898/README-Sarah-Page-Wood-Foote-1826-1898.md) (1826–1898) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Harriette-Cobb-Foote-Armour-1859-1924)
 
 ## Genealogy
 

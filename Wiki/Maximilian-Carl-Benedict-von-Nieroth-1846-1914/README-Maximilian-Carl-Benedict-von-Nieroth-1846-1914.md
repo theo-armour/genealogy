@@ -1,5 +1,7 @@
 # Count Maximilian von Nieroth
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Maximilian-Carl-Benedict-von-Nieroth-1846-1914)
+
 ![Count Maximilian von Nieroth](images/nieroth_maximilian_large.jpg)
 
 | `nieroth_maximilian_large.jpg` | Count Maximilian von Nieroth (1846–1914). The source of this image was not recorded when it was added to this folder. | Source not recorded |
@@ -20,8 +22,6 @@
 | **Father** | Count Evstafy Evstafyevich Nirod (Gustaf Reinhold Johan von Nieroth), general of cavalry |
 | **Mother** | Paulina Fyodorovna Shtenger (Pauline Dorothea Elisabeth von Stenger) |
 | **Religion** | Lutheran |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Maximilian-Carl-Benedict-von-Nieroth-1846-1914)
 
 ## Family background
 

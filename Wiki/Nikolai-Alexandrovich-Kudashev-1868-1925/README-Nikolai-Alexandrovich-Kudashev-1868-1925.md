@@ -1,5 +1,7 @@
 # Prince Nikolai Alexandrovich Kudashev
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Alexandrovich-Kudashev-1868-1925)
+
 ![Russian Peace Commission and staff at Portsmouth, New Hampshire, 1905](images/1905-russian-peace-commission-portsmouth.jpg)
 
 | `1905-russian-peace-commission-portsmouth.jpg` | "Russian Peace Commission and their staff", Portsmouth, New Hampshire, 1905. Baron Rosen and Count Sergei Witte are seated in front of the staff: "Secretary Korostovetz, Plancon, Shipov, and Prince Kudashev among others". The Library of Congress record does not say which figure is Kudashev. No known restrictions on publication.[5] | [Source](https://www.loc.gov/item/2005680336/) |
@@ -23,8 +25,6 @@
 | **Mother** | Sofia Ivanovna Orlova |
 | **Relatives** | Prince Ivan Alexandrovich Kudashev (brother, diplomat)<br>[Alexander Izvolsky](https://en.wikipedia.org/wiki/Alexander_Izvolsky) (brother-in-law) |
 | **House** | Kudashev |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Alexandrovich-Kudashev-1868-1925)
 
 ## Family background
 

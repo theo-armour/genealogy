@@ -1,5 +1,7 @@
 # Cynthia Sewall Burrage Hovey
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Cynthia-Burrage-Hovey-1921-1983)
+
 ![Boston Sunday Post, 29 June 1941](images/The_Boston_Post_29_Jun_1941.jpg)
 
 | `The_Boston_Post_29_Jun_1941.jpg` | "Cynthia Burrage and N. Armour, Jr., Wed". *Boston Sunday Post*, 29 June 1941. The photograph at top left shows the couple after the wedding at Ipswich.[2] | Family collection of newspaper clippings |
@@ -13,8 +15,6 @@
 | **Education** | Beaver Country Day School<br>Mme. Boissier's School, Paris |
 | **Spouses** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) (married 28 June 1941; divorced 1952)<br>Chandler Hovey Jr |
 | **Parents** | [Albert Cameron Burrage Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>[Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) (1890–1983) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Cynthia-Burrage-Hovey-1921-1983)
 
 ## Family and early life
 

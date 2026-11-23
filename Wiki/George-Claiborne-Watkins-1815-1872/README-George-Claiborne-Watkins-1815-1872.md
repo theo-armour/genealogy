@@ -1,5 +1,7 @@
 # George Claiborne Watkins (1815–1872)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Claiborne-Watkins-1815-1872)
+
 No portrait of him is held in this folder.
 
 **George Claiborne Watkins** (1815 – 1872) was a Kentucky-born lawyer of Little Rock and Chief Justice of Arkansas. His second wife was [Sophia Fulton](https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md), daughter of Governor [William S. Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md). According to the 1900 history of Christ Church parish, Little Rock, their daughter was [Ida Watkins Shirk](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md), Theo Armour's great-grandmother. That would make him Theo's great-great-grandfather. One later account makes Ida his granddaughter instead (see Open questions).[1][2]
@@ -12,8 +14,6 @@ No portrait of him is held in this folder.
 | **Spouse** | Sophia Fulton (1830–1865), widow of James M. Curran, his second wife |
 | **Children** | By Sophia: Maria Louise, Elizabeth Wright (died young), Georgie Claiborne, [Ida](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md)<br>One tree also lists Georgie, Claibourne and Walter in a separate family |
 | **Parents** | Isaac Watkins and Maria Toncray, according to one tree |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=George-Claiborne-Watkins-1815-1872)
 
 ## Genealogy
 

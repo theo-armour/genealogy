@@ -1,5 +1,7 @@
 # Ida Watkins Shirk (1864–1951)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Ida-Watkins-Shirk-1864-1951)
+
 No portrait of her is held in this folder.
 
 **Ida Watkins Shirk** (13 February 1864 – 21 November 1951) was born in Little Rock, Arkansas, a daughter of [Chief Justice George C. Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md) and [Sophia Fulton](https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md). She married the Philadelphia architect [J. C. Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) and was widowed in 1918. She died at Ipswich, Massachusetts. She was the mother of [Anne Bell Shirk Burrage](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md) and Theo Armour's great-grandmother, his mother's mother's mother.[1][2][3]
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouse** | [James C. Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (married 20 April 1892, according to one tree; he died 1918) |
 | **Children** | [Anne Bell Shirk](https://theo-armour.github.io/genealogy/#Wiki/Anne-Bell-Burrage-1890-1983/README-Anne-Bell-Burrage-1890-1983.md), later Mrs Albert C. Burrage Jr |
 | **Parents** | [George Claiborne Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md) (1815–1872)<br>[Sophia Fulton](https://theo-armour.github.io/genealogy/#Wiki/Sophia-Fulton-Watkins-1830-1865/README-Sophia-Fulton-Watkins-1830-1865.md) (1830–1865) (see Open questions) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Ida-Watkins-Shirk-1864-1951)
 
 ## Genealogy
 

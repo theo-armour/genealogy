@@ -1,5 +1,7 @@
 # Albert Cameron Burrage Jr
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Jr-1886-1978)
+
 **Albert Cameron Burrage Jr** (30 August 1886 – 8 February 1978) was a Boston engineer and copper-mining executive, and a vegetable gardener and writer on gardening, who lived in Boston and at Ipswich, Massachusetts. He was a son of the attorney and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md). The Massachusetts Horticultural Society gave him its Large Gold Medal in 1942 for research in vegetable selection, and he published *Burrage on Vegetables* in 1954.[1][2][3][4][5] He was the maternal grandfather of Theo Armour.[1][6]
 
 | **Albert Cameron Burrage Jr** | |
@@ -12,8 +14,6 @@
 | **Children** | [Albert Cameron Burrage III](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-III-1919-1944/README-Albert-Cameron-Burrage-III-1919-1944.md) (1919–1944)<br>Anne Bell<br>[Cynthia Sewall](https://theo-armour.github.io/genealogy/#Wiki/Cynthia-Burrage-Hovey-1921-1983/README-Cynthia-Burrage-Hovey-1921-1983.md) (1921–1983) |
 | **Parents** | [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931)<br>[Alice Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) |
 | **Awards** | Large Gold Medal, Massachusetts Horticultural Society (1942) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Albert-Cameron-Burrage-Jr-1886-1978)
 
 ## Family and early life
 

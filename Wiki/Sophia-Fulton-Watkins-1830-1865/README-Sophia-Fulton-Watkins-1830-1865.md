@@ -1,5 +1,7 @@
 # Sophia Fulton Watkins (1830–1865)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sophia-Fulton-Watkins-1830-1865)
+
 No portrait of her is held in this folder.
 
 **Sophia Fulton Watkins** (1830? – 1865?) was a daughter of [William Savin Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md), the last governor of Arkansas Territory and one of the state's first United States senators. She was one of only three of his eight children to live to adulthood. She married first James M. Curran, a lawyer, and second [George C. Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md), Chief Justice of Arkansas. According to the 1900 history of Christ Church parish, Little Rock, she was the mother of [Ida Watkins Shirk](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md) and so Theo Armour's great-great-grandmother.[1][2] Her dates come from a single family tree.
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouses** | James M. Curran (married 21 June 1849, Pulaski County, according to one tree)<br>[George C. Watkins](https://theo-armour.github.io/genealogy/#Wiki/George-Claiborne-Watkins-1815-1872/README-George-Claiborne-Watkins-1815-1872.md) |
 | **Children** | By George C. Watkins: Maria Louise, Elizabeth Wright (died young), Georgie Claiborne, [Ida](https://theo-armour.github.io/genealogy/#Wiki/Ida-Watkins-Shirk-1864-1951/README-Ida-Watkins-Shirk-1864-1951.md) (1864–1951) |
 | **Parents** | [William Savin Fulton](https://theo-armour.github.io/genealogy/#Wiki/William-S-Fulton-1795-1844/README-William-S-Fulton-1795-1844.md) (1795–1844)<br>Matilda Frances Nowland (Howland in one tree) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sophia-Fulton-Watkins-1830-1865)
 
 ## Genealogy
 

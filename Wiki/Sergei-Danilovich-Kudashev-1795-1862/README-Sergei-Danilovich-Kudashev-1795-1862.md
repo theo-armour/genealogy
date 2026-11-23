@@ -1,5 +1,7 @@
 # Prince Sergei Danilovich Kudashev
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Danilovich-Kudashev-1795-1862)
+
 ![Coat of arms of the Princes Kudashev](images/kudashev-coat-of-arms-1904.jpg)
 
 | `kudashev-coat-of-arms-1904.jpg` | Coat of arms of the Princes Kudashev, from the *Общий гербовник* (General Armorial), part 17, 1904. Public domain.[13] | [Source](https://commons.wikimedia.org/wiki/File:Kudashev_17-6.jpg) |
@@ -21,8 +23,6 @@
 | **Father** | Prince Daniil (Danila) Ivanovich Kudashev |
 | **Mother** | Yekaterina Sergeyevna, born Princess Baratova or Baranova (sources differ) |
 | **House** | [Kudashev](https://ru.wikipedia.org/wiki/Кудашевы) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Danilovich-Kudashev-1795-1862)
 
 ## Family background and early life
 

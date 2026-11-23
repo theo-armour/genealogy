@@ -1,5 +1,7 @@
 # Prince Sergei Sergeyevich Kudashev
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Sergeyevich-Kudashev-1901-1991)
+
 **Prince Sergei Sergeyevich Kudashev** (known within his family as **"Gigi"**; French: *Prince Serge Koudacheff*; Russian: Князь Сергей Сергеевич Кудашев; 15/20 October 1901 – 14 April 1991) was a Russian-born aristocrat and émigré of the Kudashev princely family.\[1\]\[2\]\[3\] The only son of Imperial Russian courtier and art collector Prince Sergei Vladimirovich Kudashev and Countess Vera Maximilianovna von Nieroth, he escaped Petrograd with his parents and sister following the 1917 Russian Revolution and spent the remainder of his life in Western Europe, primarily in France.\[1\]\[4\]
 
 | **Prince Sergei Sergeyevich Kudashev** |  |
@@ -14,8 +16,6 @@
 | **Mother** | Countess Vera Maximilianovna von Nieroth (1874–1920) |
 | **Relatives** | Princess Maria (Myra) Kudasheva Armour (sister)<br>Norman Armour (brother-in-law)<br>Count Fyodor Maximilianovich von Nieroth (maternal uncle) |
 | **House** | Kudashev |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Sergei-Sergeyevich-Kudashev-1901-1991)
 
 ## Early life in Russia and Italy
 

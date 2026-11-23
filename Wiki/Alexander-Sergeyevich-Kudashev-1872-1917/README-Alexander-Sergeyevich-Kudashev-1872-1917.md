@@ -1,5 +1,7 @@
 # Prince Alexander Sergeyevich Kudashev
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Sergeyevich-Kudashev-1872-1917)
+
 ![Prince Alexander Sergeyevich Kudashev in the uniform of a railway engineer, 1895/1896](images/alexander-kudashev-1895.jpg)
 
 | `alexander-kudashev-1895.jpg` | Prince Alexander Sergeyevich Kudashev in the uniform of a railway engineer, 1895/1896. Unknown photographer. Public domain.[5] | [Source](https://commons.wikimedia.org/wiki/File:%D0%90S_%D0%9Audashev.jpg) |
@@ -19,8 +21,6 @@
 | **Children** | Sergei Alexandrovich (1895 or 1896 – 1918 or 1920) |
 | **Father** | Prince Sergei Sergeyevich Kudashev (1834–1915) |
 | **House** | Kudashev |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Sergeyevich-Kudashev-1872-1917)
 
 ## Family background
 

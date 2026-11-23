@@ -1,5 +1,7 @@
 # Barbara Allison Armour (1826–1898)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Allison-Armour-1826-1898)
+
 No portrait of her is held in this folder.
 
 **Barbara Allison Armour** (May 1826 – February 1898) was born in Scotland and was the wife of the Chicago grain merchant [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md). After his death she completed the tower of the Second Presbyterian Church of Chicago in his memory. She was the mother of [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) and of the yachtsman [Allison Vincent Armour](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md), and Theo Armour's great-great-grandmother.[1][2][3]
@@ -11,8 +13,6 @@ No portrait of her is held in this folder.
 | **Spouse** | [George Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Armour-1812-1881/README-George-Armour-1812-1881.md) (married 28 or 29 August 1850) |
 | **Children** | John William (1851–1865)<br>[George Allison](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>William (1858–1888)<br>[Allison Vincent](https://theo-armour.github.io/genealogy/#Wiki/Allison-Vincent-Armour-1863-1941/README-Allison-Vincent-Armour-1863-1941.md) (1863–1941)<br>Mary Greenlee (1868–1958), Mrs [Francis Meredyth Whitehouse](https://theo-armour.github.io/genealogy/#Wiki/Francis-Meredyth-Whitehouse-1848-1938/README-Francis-Meredyth-Whitehouse-1848-1938.md) |
 | **Parents** | William Allison "of Millbank, Scotland, and Chicago"<br>Barbara Wark, according to Geni |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Barbara-Allison-Armour-1826-1898)
 
 ## Genealogy
 

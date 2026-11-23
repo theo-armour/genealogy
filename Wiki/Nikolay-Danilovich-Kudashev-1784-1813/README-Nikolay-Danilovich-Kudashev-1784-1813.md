@@ -1,5 +1,7 @@
 # Prince Nikolay Danilovich Kudashev
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolay-Danilovich-Kudashev-1784-1813)
+
 ![Prince Nikolay Danilovich Kudashev, Military Gallery of the Winter Palace](images/nikolay-kudashev.jpg)
 
 | `nikolay-kudashev.jpg` | Prince Nikolay Danilovich Kudashev (1784–1813). Workshop of [George Dawe](https://en.wikipedia.org/wiki/George_Dawe), c. 1825, [Military Gallery of the Winter Palace](https://en.wikipedia.org/wiki/Military_Gallery), State Hermitage. Public domain.[10] | [Source](https://commons.wikimedia.org/wiki/File:Kudashev_Nikolay_Danilovich.jpg) |
@@ -22,8 +24,6 @@
 | **Children** | Yekaterina Nikolayevna (1811–1872) |
 | **Father** | Prince Daniil (Danila) Ivanovich Kudashev |
 | **Mother** | Yekaterina Sergeyevna, born Princess Baratova |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolay-Danilovich-Kudashev-1784-1813)
 
 ## Family background
 

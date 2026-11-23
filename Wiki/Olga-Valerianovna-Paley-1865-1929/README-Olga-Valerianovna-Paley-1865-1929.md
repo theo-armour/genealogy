@@ -1,5 +1,7 @@
 # Princess Olga Valerianovna Paley
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Valerianovna-Paley-1865-1929)
+
 ![Princess Olga Valerianovna Paley](images/1890s-olga-paley-portrait.jpg)
 
 | `1890s-olga-paley-portrait.jpg` | Olga Valerianovna, full-length portrait. Wikimedia Commons dates the photograph to the 1890s; photographer unknown. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:Olga_Valerianovna_Palej.jpg) |
@@ -19,8 +21,6 @@ She belongs in this family history through her eldest daughter, [Olga Erikovna v
 | **Children** | Alexander Erikovich von Pistohlkors (1885–1944)<br>Olga Erikovna von Pistohlkors (1886–1887)<br>Olga Erikovna von Pistohlkors (1888–1963)<br>Marianna Erikovna von Pistohlkors (1890–1976)<br>Prince Vladimir Pavlovich Paley (1897–1918)<br>Princess Irina Pavlovna Paley (1903–1990)<br>Princess Natalia Pavlovna Paley (1905–1981) |
 | **Father** | [Valerian Gavrilovich Karnovich](https://theo-armour.github.io/genealogy/#Wiki/Valerian-Gavrilovich-Karnovich-1823-1891/README-Valerian-Gavrilovich-Karnovich-1823-1891.md) (d. 1891) |
 | **Mother** | [Olga Vasilyevna Meszaros](https://theo-armour.github.io/genealogy/#Wiki/Olga-Vasilyevna-Meszaros-Karnovich-1826-1919/README-Olga-Vasilyevna-Meszaros-Karnovich-1826-1919.md) (d. 1919) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Valerianovna-Paley-1865-1929)
 
 ## Family background
 

@@ -1,5 +1,7 @@
 # Alice Hathaway Haskell Burrage
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alice-Hathaway-Haskell-Burrage-1861-1947)
+
 **Alice Hathaway Haskell** (6 October 1857, 1861 or 1862 – December 1947), known after her marriage as Mrs Albert C. Burrage, was the wife of the Boston lawyer and copper industrialist [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md). Most sources say she was born in China. She lived in the Burrage houses at 314 Commonwealth Avenue, Boston, at Redlands, California, and at Manchester, Massachusetts, and she paid for Trinity Episcopal Church in Redlands.[1][2][3][4][5] Her birth year is uncertain (see Open questions). She was Theo Armour's maternal great-grandmother.[1][6]
 
 | **Alice Hathaway Haskell Burrage** | |
@@ -9,8 +11,6 @@
 | **Spouse** | [Albert Cameron Burrage Sr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Sr-1859-1931/README-Albert-Cameron-Burrage-Sr-1859-1931.md) (1859–1931), married 10 November 1885 |
 | **Children** | [Albert Cameron Jr](https://theo-armour.github.io/genealogy/#Wiki/Albert-Cameron-Burrage-Jr-1886-1978/README-Albert-Cameron-Burrage-Jr-1886-1978.md) (1886–1978)<br>Francis Hathaway (1888–1911)<br>Russell (1889–1957)<br>Elizabeth Alice, later Mrs Harold L. Chalifoux (1895–1987) |
 | **Parents** | [Francis Hathaway Haskell](https://theo-armour.github.io/genealogy/#Wiki/Francis-Hathaway-Haskell-1830-1868/README-Francis-Hathaway-Haskell-1830-1868.md)<br>[Elizabeth (Russell) Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alice-Hathaway-Haskell-Burrage-1861-1947)
 
 ## Family and early life
 

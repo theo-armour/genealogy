@@ -1,5 +1,7 @@
 # Walter Lowrie
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Walter-Lowrie-1868-1959)
+
 ![Walter Lowrie seated on a terrace with a table of books](images/Walter_Lowrie_AC058_Box_MP35.webp)
 
 | `Walter_Lowrie_AC058_Box_MP35.webp` | Walter Lowrie in old age, seated in clerical dress on a brick terrace, with two standing clergymen and a table of books. The date and the other two men are not identified. | Source not recorded. The file name suggests the Princeton University Archives (AC058, box MP35); this has not been checked. |
@@ -14,8 +16,6 @@
 | **Spouse** | [Barbara Armour](https://theo-armour.github.io/genealogy/#Wiki/Barbara-Armour-Lowrie-1889-1981/README-Barbara-Armour-Lowrie-1889-1981.md) (married 19 February 1918) |
 | **Children** | None |
 | **Parents** | Rev. Samuel Thompson Lowrie<br>Elizabeth Albertine Dickson |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Walter-Lowrie-1868-1959)
 
 ## Family and education
 

@@ -1,5 +1,7 @@
 # Olga Vasilyevna Karnovich, born Meszaros (1826–1919) ~ Ольга Васильевна Карнович, урождённая Месарош
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Vasilyevna-Meszaros-Karnovich-1826-1919)
+
 No portrait of her is held in this folder. A photograph of a portrait of her is in the State A. S. Pushkin Museum in Moscow (see Further research).
 
 **Olga Vasilyevna Karnovich**, born **Meszaros** (Russian: Ольга Васильевна Карнович, урождённая Месарош; 1826 or 1830 – August 1919), was the wife of the chamberlain [Valerian Gavrilovich Karnovich](https://theo-armour.github.io/genealogy/#Wiki/Valerian-Gavrilovich-Karnovich-1823-1891/README-Valerian-Gavrilovich-Karnovich-1823-1891.md) and the mother of [Princess Olga Paley](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md). Her daughter's page describes her as of Hungarian and German descent.[1][2] She was a great-great-grandmother of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).
@@ -11,8 +13,6 @@ No portrait of her is held in this folder. A photograph of a portrait of her is 
 | **Spouse** | [Valerian Gavrilovich Karnovich](https://theo-armour.github.io/genealogy/#Wiki/Valerian-Gavrilovich-Karnovich-1823-1891/README-Valerian-Gavrilovich-Karnovich-1823-1891.md) (1823–1891)[1] |
 | **Children** | Vladimir (1845–1901), Gavriil (1846–1906), Denis (1849–1908), Lyubov (born 1851), Sergei (1853–1918), a child who died in 1856, and [Olga](https://theo-armour.github.io/genealogy/#Wiki/Olga-Valerianovna-Paley-1865-1929/README-Olga-Valerianovna-Paley-1865-1929.md) (1865–1929)[1] |
 | **Parents** | Vasily Meszaros<br>Ulyana Yegorovna Paley-Gurkovskaya[1] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Vasilyevna-Meszaros-Karnovich-1826-1919)
 
 ## Genealogy
 

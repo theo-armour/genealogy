@@ -1,5 +1,7 @@
 # August Friedrich Woldemar von Pistohlkors (1822–1886) ~ Август фон Пистолькорс
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=August-Friedrich-Woldemar-von-Pistohlkors-1822-1886)
+
 No portrait of him is held in this folder.
 
 **August Friedrich Woldemar von Pistohlkors** (Russian: Август фон Пистолькорс; 4 August 1822 – 15 November 1886) was a Baltic-German nobleman of Livonia, born in Riga and recorded on Geni as a baron. He was the father of Major General [Erich Gerhard von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md), and so a great-great-grandfather of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1] Everything here comes from a single family tree.
@@ -11,8 +13,6 @@ No portrait of him is held in this folder.
 | **Spouse** | [Emilie Natalie von Harder](https://theo-armour.github.io/genealogy/#Wiki/Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894/README-Emilie-Natalie-von-Harder-von-Pistohlkors-1829-1894.md) (married 25 April 1850, St. Petersburg)[1] |
 | **Children** | Alexander (born 1851), [Erich](https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md) (1853–1935), Ada (born 1855), Helene "Lulla" (born 1857), Emilie (born 1858), Benedikte "Benita" (born 1861)[1] |
 | **Parents** | Alexis Jöran Erich von Pistohlkors (1792–1870)<br>Anna Auguste Henriette, Freiin von Mellin (1798–1863)[1] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=August-Friedrich-Woldemar-von-Pistohlkors-1822-1886)
 
 ## Genealogy
 

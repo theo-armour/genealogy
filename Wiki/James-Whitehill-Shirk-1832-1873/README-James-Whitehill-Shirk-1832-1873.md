@@ -1,5 +1,7 @@
 # James Whitehill Shirk
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Whitehill-Shirk-1832-1873)
+
 ![James W. Shirk](images/james-shirk.png)
 
 | `james-shirk.png` | James W. Shirk (1832–1873). Small engraved head-and-shoulders portrait of a bearded man wearing spectacles and a buttoned uniform coat, turned to the viewer's right. The engraver, date and original publication are not recorded.[9] | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:James_W._Shirk_(1832%E2%80%931873).png), according to the profile page |
@@ -15,8 +17,6 @@
 | **Spouse** | [Mary W. Marshall](https://theo-armour.github.io/genealogy/#Wiki/Mary-W-Marshall-Shirk-1833-1910/README-Mary-W-Marshall-Shirk-1833-1910.md) of Erie (1833–1910; see Open questions) |
 | **Children** | Three were living in 1884, among them [James C. Marshall Shirk](https://theo-armour.github.io/genealogy/#Wiki/James-Cameron-Marshall-Shirk-1865-1918/README-James-Cameron-Marshall-Shirk-1865-1918.md) (1865–1918) (see Open questions) |
 | **Parents** | David Shirk (1806–1873)<br>Mary Whitehill |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=James-Whitehill-Shirk-1832-1873)
 
 ## Family and early life
 

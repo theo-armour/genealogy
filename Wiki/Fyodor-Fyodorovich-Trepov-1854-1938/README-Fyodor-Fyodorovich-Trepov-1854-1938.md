@@ -1,5 +1,7 @@
 # General Fyodor Fyodorovich Trepov (junior)
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1854-1938)
+
 ![Fyodor Fyodorovich Trepov, 1915](images/fyodor-trepov-junior-1915.jpg)
 
 | `fyodor-trepov-junior-1915.jpg` | General Fyodor Fyodorovich Trepov (junior), 1915. Photograph by M. L. Levenson. Public domain.[3] | [Source](https://commons.wikimedia.org/wiki/File:Trepov_Fedor_Fedorovich.jpg) |
@@ -17,8 +19,6 @@
 | **Offices** | Governor of Vyatka (1894–1896)<br>Governor of Volhynia (1896–1898)<br>Governor of Kiev (1898–1903)<br>Senator (1903)<br>Member of the State Council (1905)<br>Governor-General of Kiev, Podolia and Volhynia (1908–1914)<br>Military Governor-General of Galicia and Bukovina (1916–1917) |
 | **Spouse** | Yelizaveta Sergeyevna von Kilchen (1856–1937) |
 | **Children** | Vera (1881–1958), Yelizaveta (1885–1978) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Fyodor-Fyodorovich-Trepov-1854-1938)
 
 ## Early career
 

@@ -1,5 +1,7 @@
 # Vladimir Fyodorovich Trepov
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir%20Fyodorovich%20Trepov-1863-1918)
+
 ![Vladimir Fyodorovich Trepov at the 1903 costume ball in the Winter Palace](images/1903-ball-vladimir-trepov.jpg)
 
 | `1903-ball-vladimir-trepov.jpg` | Vladimir Fyodorovich Trepov in seventeenth-century boyar dress at the costume ball in the Winter Palace, February 1903. Public domain.[3] | [Source](https://commons.wikimedia.org/wiki/File:1903_ball_-_Vl._F._Trepov.jpg) |
@@ -16,8 +18,6 @@
 | **Ranks** | Privy Councillor; *Stallmeister* (master of the horse) of the court |
 | **Spouse** | Yevgenia Alexeyevna Siritsa (1858–1904) |
 | **Children** | Fyodor (1883–1915), Boris (1885–1964) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir%20Fyodorovich%20Trepov-1863-1918)
 
 ## Career
 

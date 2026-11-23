@@ -1,5 +1,7 @@
 # Erastus Foote
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-1777-1856)
+
 ![Erastus Foote](images/erastus-foote.jpg)
 
 | `erastus-foote.jpg` | Erastus Foote (1777–1856). Photograph of a painted or drawn bust portrait: an older man with white hair, in a dark coat, white stock and ruffled shirt. There is a signature at the right edge that has not been read with confidence. The Maine State Archives describes it as a "Painted portrait of Erastus Foote. Maine Attorney General, 1820."[10] | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Erastus_Foote.jpg), which credits the Maine State Archives |
@@ -14,8 +16,6 @@
 | **Spouses** | Susan Carlton (married 1812; died 28 June 1817)<br>Eliza Carlton, her sister (married 9 July 1820) |
 | **Children** | By Susan: Mary Wood (1813–1814), Erastus Miles (1815–1816), Susan Eliza (b. 1817)<br>By Eliza: [Erastus](https://theo-armour.github.io/genealogy/#Wiki/Erastus-Foote-Jr-1821-1893/README-Erastus-Foote-Jr-1821-1893.md) (1821–1893), Mary Todd (b. 1823), Abigail (1825–1826), Ann Butler (b. 1827) |
 | **Parents** | Obed Foote (1741–1797)<br>Mary Todd (1742–1815) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Erastus-Foote-1777-1856)
 
 ## Family and early life
 

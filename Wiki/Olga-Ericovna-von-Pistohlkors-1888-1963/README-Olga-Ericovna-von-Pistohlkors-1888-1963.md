@@ -1,5 +1,7 @@
 # Olga Erikovna von Pistohlkors
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Ericovna-von-Pistohlkors-1888-1963)
+
 ![The family of Princess Paley, about 1911](images/1911~-family-of-princess-paley.jpg)
 
 | `1911~-family-of-princess-paley.jpg` | "The family of Princess Olga Paley", about 1911; photographer unknown. Geni uses this photograph for Olga's profile, but neither Geni nor Wikimedia Commons says which figure she is. Public domain. | [Source](https://commons.wikimedia.org/wiki/File:The_family_of_Princess_Oga_Paley.JPG) |
@@ -18,8 +20,6 @@ Very little is recorded about her own life. The fullest glimpses of her are in h
 | **Father** | [Erich Gerhard von Pistohlkors](https://theo-armour.github.io/genealogy/#Wiki/Erich-Gerhard-von-Pistohlkors-1853-1935/README-Erich-Gerhard-von-Pistohlkors-1853-1935.md) (1853–1935) |
 | **Mother** | Olga Valerianovna Karnovich, later Princess Paley (1864 or 1865–1929) |
 | **House** | Pistohlkors |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Olga-Ericovna-von-Pistohlkors-1888-1963)
 
 ## Family background
 

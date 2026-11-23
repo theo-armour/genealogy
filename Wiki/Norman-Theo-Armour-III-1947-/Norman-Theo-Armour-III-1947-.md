@@ -1,8 +1,8 @@
 # Norman "Theo" Armour III (1947–)
 
-* Known as: Theo
-
 🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Theo-Armour-III-1947-)
+
+* Known as: Theo
 
 ## Genealogy
 

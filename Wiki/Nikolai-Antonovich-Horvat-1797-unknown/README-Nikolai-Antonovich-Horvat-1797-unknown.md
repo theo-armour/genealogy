@@ -1,5 +1,7 @@
 # Nikolai Antonovich Horvat (1797–?) ~ Николай Антонович Хорват
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Antonovich-Horvat-1797-unknown)
+
 No portrait of him is held in this folder.
 
 **Nikolai Antonovich Horvat** (Russian: Николай Антонович Хорват; born 1797, death not recorded) is recorded in family trees as the father of [Princess Olga Nikolaevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md), born Horvat. That would make him my great-great-great-grandfather, and a great-great-grandfather of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md).[1][2] No record naming him as her father has been seen. Everything here comes from Geni and from a family-tree template without sources.
@@ -11,8 +13,6 @@ No portrait of him is held in this folder.
 | **Spouse** | [Lubov Alexandrovna Pishchevich](https://theo-armour.github.io/genealogy/#Wiki/Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849/README-Lubov-Alexandrovna-Pishchevich-Horvat-1800-1849.md) (1800–1849; married 28 April 1821, Revovka, Yekaterinoslav Governorate)[2] |
 | **Children** | Including Nikolai (born 1826), Alexander (born 1828), Lev (1829), Mikhail (born 1833), Leonid (1834–1881), Fyodor (about 1835–1860), Viktor (born 1835) and [Olga](https://theo-armour.github.io/genealogy/#Wiki/Olga-Nikolaevna-Kudasheva-1840-1907/README-Olga-Nikolaevna-Kudasheva-1840-1907.md) (1840–1907)[2] |
 | **Parents** | Anton Samuilovich Horvat (died about 1809)<br>Yekaterina Ivanovna (married 24 February 1796, Mironovka)[2] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Nikolai-Antonovich-Horvat-1797-unknown)
 
 ## Genealogy
 

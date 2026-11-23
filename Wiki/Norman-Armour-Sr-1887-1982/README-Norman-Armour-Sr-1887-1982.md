@@ -1,5 +1,7 @@
 # Norman Armour Sr
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Sr-1887-1982)
+
 ![Norman Armour](images/norman-armour.jpg)
 
 | `norman-armour.jpg` | Norman Armour (1887–1982). Head-and-shoulders studio photograph in a dark suit and patterned tie. The print is not dated. | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norman_Armour.jpg), as recorded on the profile page[1] |
@@ -14,8 +16,6 @@
 | **Spouse** | [Maria (Myra) Sergeyevna Kudasheva](https://theo-armour.github.io/genealogy/#Wiki/Maria-Sergeyevna-Kudasheva-1896-1990/README-Maria-Sergeyevna-Kudasheva-1896-1990.md) (married 2 February 1919) |
 | **Children** | [Norman Armour Jr](https://theo-armour.github.io/genealogy/#Wiki/Norman-Armour-Jr-1920-1978/README-Norman-Armour-Jr-1920-1978.md) (1920–1978) |
 | **Parents** | [George Allison Armour](https://theo-armour.github.io/genealogy/#Wiki/George-Allison-Armour-1856-1936/README-George-Allison-Armour-1856-1936.md) (1856–1936)<br>[Harriette Cobb Foote](https://theo-armour.github.io/genealogy/#Wiki/Harriette-Cobb-Foote-Armour-1859-1924/README-Harriette-Cobb-Foote-Armour-1859-1924.md) (1859–1924) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Norman-Armour-Sr-1887-1982)
 
 ## Family and early life
 

@@ -1,5 +1,7 @@
 # Prince Vladimir Sergeyevich Kudashev
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir-Sergeyevich-Kudashev-1833-1871)
+
 ![Coat of arms of the Princes Kudashev](images/kudashev-coat-of-arms-1904.jpg)
 
 | `kudashev-coat-of-arms-1904.jpg` | Coat of arms of the Princes Kudashev, from the *Общий гербовник* (General Armorial), part 17, 1904. Public domain.[12] | [Source](https://commons.wikimedia.org/wiki/File:Kudashev_17-6.jpg) |
@@ -19,8 +21,6 @@
 | **Father** | Prince [Sergei Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md) (1795–1862) |
 | **Mother** | Countess Mathilde de Choiseul-Gouffier |
 | **House** | Kudashev |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Vladimir-Sergeyevich-Kudashev-1833-1871)
 
 ## Early life and family
 

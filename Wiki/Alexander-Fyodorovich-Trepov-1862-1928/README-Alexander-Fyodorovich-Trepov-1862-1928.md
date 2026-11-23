@@ -1,5 +1,7 @@
 # Alexander Fyodorovich Trepov
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Fyodorovich-Trepov-1862-1928)
+
 ![Alexander Fyodorovich Trepov, 1897](images/alexander-trepov.jpg)
 
 | `alexander-trepov.jpg` | Alexander Fyodorovich Trepov, 21 December 1897. Photograph by A. A. Pasetti. Public domain.[4] | [Source](https://commons.wikimedia.org/wiki/File:Alexander_Trepov.jpg) |
@@ -19,8 +21,6 @@
 | **Successor** | Prince Nikolai Golitsyn |
 | **Spouse** | Sofia Dmitrievna Kazina |
 | **Children** | Sofia, Yelena |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Alexander-Fyodorovich-Trepov-1862-1928)
 
 ## Early career
 

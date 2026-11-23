@@ -2,12 +2,15 @@
 
 This is my genealogy repository. It holds information about my family lineage and related genealogical data. All this data and the tools are public and open source. I hope you will use these ideas and methods to help you better understand where you come from.
 
-The primary folder is [Wiki](Wiki/README.md). Following the principles of Wikipedia article organization, each person has their own folder. Inside it is a profile page named after the folder and, for many people, a fuller biography named `README-` plus the folder name. The conventions are in the [Genealogy Reference Manual](Wiki/0-genealgy-reference-manual.md).
+The primary folder is [Wiki](Wiki/README.md). Following the principles of Wikipedia article organization, each person has their own folder. Inside it is their biography, named `README-` plus the folder name. There are 66 so far, covering my ancestors back to my great-great-grandparents and Sergio Pelà's line back to his. Each biography opens with a 🌳 "See in the family tree" link to that person in the family tree. The conventions are in the [Genealogy Reference Manual](Wiki/0-genealgy-reference-manual.md).
+
+The family tree is a GEDCOM file I keep by hand, [armour-genealogy.ged](GEDCOM-files/armour-genealogy.ged), with one person for each Wiki biography plus the few needed to connect them. Open it in the [GEDCOM Viewer](https://theo-armour.github.io/gedcom-viewer/), where each person links back to their biography. More in the [GEDCOM Files read me](GEDCOM-files/README.md).
 
 There are also folders for four families. The folders are named after the birth surnames of my grandparents: [Armour](Armour/README-Armour.md), [Kudashev](Kudashev/README-Kudashev.md), [Burrage](Burrage/README-Burrage.md) and [Shirk](Shirk/README-Shirk.md).
 
-Two good places to start:
+Good places to start:
 
+* [The family tree](https://theo-armour.github.io/gedcom-viewer/) ~ everyone with a biography, connected, in the GEDCOM Viewer
 * [Peeps in My Family](Peeps-in-My-Family.md) ~ the notable people in the four families, with my recollections
 * [Granny's lineage chart](Kudashev/kudashev-lineage-chart.html) ~ my grandmother's ancestors and relatives, with portraits and dates
 

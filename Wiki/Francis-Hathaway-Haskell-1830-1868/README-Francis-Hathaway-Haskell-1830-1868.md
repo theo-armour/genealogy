@@ -1,5 +1,7 @@
 # Francis Hathaway Haskell
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Hathaway-Haskell-1830-1868)
+
 **Francis Hathaway Haskell** (about 1827 or 1830 – 1868), known as Frank, was a Massachusetts shipmaster who settled in south China. In 1856 he was the first master of the Boston ship *Norseman*, in which he sailed to San Francisco and China. By 1861 he was a partner in Thomas Hunt & Co., shipwrights at Whampoa, and from about 1864 he commanded the river steamer *Kinshan* between Hong Kong and Canton.[1][2][3][4] He married Elizabeth Russell, and their children were born in China. The family trees say he died on 25 June 1868; no contemporary record of his death has been found (see Open questions).[5][6] He was the father of [Alice Hathaway Haskell Burrage](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md) and Theo Armour's maternal great-great-grandfather.[7]
 
 | **Francis Hathaway Haskell** | |
@@ -10,8 +12,6 @@
 | **Spouse** | [Elizabeth Russell](https://theo-armour.github.io/genealogy/#Wiki/Elizabeth-Russell-1835-1909/README-Elizabeth-Russell-1835-1909.md) (married by 1857) |
 | **Children** | Elizabeth, called Bessie (about 1859–1865)<br>[Alice Hathaway](https://theo-armour.github.io/genealogy/#Wiki/Alice-Hathaway-Haskell-Burrage-1861-1947/README-Alice-Hathaway-Haskell-Burrage-1861-1947.md), later Mrs Albert C. Burrage (died 1947)<br>Francis Hathaway Jr (1863–1927)<br>Robert Hathaway<br>Sarah Anne |
 | **Parents** | [Elisha Haskell](https://theo-armour.github.io/genealogy/#Wiki/Elisha-Haskell-Jr-1795-1880/README-Elisha-Haskell-Jr-1795-1880.md) (died 1880)<br>Alice Russell Hathaway (1806–1880) |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Francis-Hathaway-Haskell-1830-1868)
 
 ## Family and early life
 

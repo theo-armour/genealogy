@@ -1,5 +1,7 @@
 # Princess Mathilde Kudasheva, born Countess de Choiseul-Gouffier (1806–1867) ~ Матильда Октавьевна Кудашева
 
+🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867)
+
 No portrait of her is held in this folder. A portrait of her grandfather is on her husband's page.
 
 **Princess Mathilde Kudasheva**, born **Countess Mathilde de Choiseul-Gouffier** (Russian: Матильда Октавьевна Кудашева, née графиня Шуазель-Гуфье; 1806 – 1867), was the wife of Prince [Sergei Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md), Vice-Governor of Kiev. They had ten children.[1][2] Her grandson was the art collector Prince [Sergei Vladimirovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Vladimirovich-Kudashev-1863-1933/README-Sergei-Vladimirovich-Kudashev-1863-1933.md), so she was my great-great-great-grandmother, and a great-great-grandmother of [Sergio Pelà](https://theo-armour.github.io/genealogy/#Wiki/Sergio-Pela-1957-/README-Sergio-Pela-1957-.md). Through her daughter Alexandra she was also a grandmother of the philosopher Nikolai Berdyaev.[1]
@@ -11,8 +13,6 @@ No portrait of her is held in this folder. A portrait of her grandfather is on h
 | **Spouse** | Prince [Sergei Danilovich Kudashev](https://theo-armour.github.io/genealogy/#Wiki/Sergei-Danilovich-Kudashev-1795-1862/README-Sergei-Danilovich-Kudashev-1795-1862.md) (1795–1862)[1] |
 | **Children** | Alexei, Viktor, Maria, Nikolai, Alexander (1830–1877), Yekaterina, [Vladimir](https://theo-armour.github.io/genealogy/#Wiki/Vladimir-Sergeyevich-Kudashev-1833-1871/README-Vladimir-Sergeyevich-Kudashev-1833-1871.md) (1833–1871), Sergei (1834–1915), Olga, Alexandra (1838–1912)[1] |
 | **Parents** | Count Antoine-Louis-Octave de Choiseul-Gouffier<br>Countess Wiktoria Potocka (see Open questions)[1][2] |
-
-🌳 [See in the family tree](https://theo-armour.github.io/gedcom-viewer/#wiki=Mathilde-de-Choiseul-Gouffier-Kudasheva-1806-1867)
 
 ## Genealogy
 
